@@ -1,1 +1,2 @@
-web crawler/.ipynb_checkpoints/nookplaza-checkpoint.ipynb
+*/.ipynb_checkpoints/*.ipynb
+*/~$*.xlsx
