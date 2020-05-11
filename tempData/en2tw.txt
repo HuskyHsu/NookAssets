@@ -1,0 +1,808 @@
+﻿Housewares	家具
+Miscellaneous	小物件
+Wall-mounted	壁掛物
+Birthday	活動-玩家生日
+Bug-Off	活動-抓蟲大會
+Bunny Day	活動-復活節
+C.J.	俞司廷
+Crafting	DIY
+Dodo Airlines	Dodo公司
+Fishing Tourney	活動-釣魚大賽
+Flick	龍克斯
+Gulliver	呂游
+HHA	快樂家協會
+International Museum Day	活動-國際博物館日
+Mom	媽媽寄送
+Nintendo、Nook Shopping	購物-特別購物
+Nook Miles Shop	購物-哩數兌換
+Nook Shopping Promotion	購物-手游連動
+Nook Shopping Seasonal	購物-季節
+Nook's Cranny	Nook商店
+Rover	活動-勞動節
+Snowman	活動-雪人
+Starting items	起始物品
+Wedding Season	活動-六月新娘
+Air Conditioning	空調
+Animal	動物
+Arch	拱門
+Audio	音響
+Bathroom Things	浴室用品
+Bathtub	浴缸
+Beauty	美妝
+Bed	床鋪
+Chair	椅子
+Chest	櫃子
+Clock	時鐘
+Compass	羅盤
+Desk	檯子/桌子
+Dining	餐飲
+Dresser	梳妝台
+Easter	復活節
+Facility Decor	設施裝飾
+Fan	風扇
+Fireplace	壁爐
+Fish	魚
+Folk Craft Decor	民俗藝品
+Game Console	遊戲機
+Garden	花園
+Heating	加熱器
+Home Appliances	家用電器
+Hospital	醫院
+House Door Decor	屋門裝飾
+Insect	昆蟲
+Japanese Style	日式
+Kitchen	廚房
+Kitchen Things	廚房用品
+Lamp	燈
+Museum	博物館
+Musical Instrument	樂器
+Office	辦公室
+Outdoors Decor	戶外裝飾
+Plants	植物
+Playground	操場
+Ranch	牧場
+School	學校
+Screen	螢幕
+Sculpture	雕塑
+Seaside	海濱
+Seasonal Decor	季節性裝飾
+Sewing Table	縫紉桌
+Shelf	架子
+Shop	商店
+Sofa	沙發
+Space	太空
+Special Fish	特殊魚
+Special Insect	特殊昆蟲
+Sports	運動
+Study	讀書
+Supplies	耗材
+Table	桌子
+Toilet	廁所
+Toy	玩具
+TV	電視
+Vehicle	車輛
+Work Bench	工作台
+bathroom	浴室
+child's room	兒童房
+concert	音樂會
+den	書桌
+expensive	昂貴
+facility	設施
+fancy	豪華時髦的
+fitness	健身
+folk art	民間藝術
+freezing cold	雪季
+garage	車庫
+horror	恐怖
+living room	客廳
+music	音樂
+ocean	海洋
+outdoors	戶外活動
+party	派對
+zen-style	禪宗風格
+Paint color	油漆顏色
+Variation	變異
+Cover design	封面設計
+Body color	機身顏色
+Body	身體
+Season	季節
+Stone	結石
+Bamboo	竹
+Design	設計
+Mushroom type	蘑菇型
+Color	顏色
+Lumber type	木材類型
+Brick color	磚色
+Tire color	輪胎顏色
+Fruit type	水果類型
+Fabric	布
+Coating	塗層
+Block color	色塊
+Genre	類型
+Bag color	包袋顏色
+Chair back and seat	椅背和座椅
+Tabletop	桌上
+Illumination	照明
+Navigation	導航
+Finish	完
+Hay condition	乾草狀況
+Sign	標誌
+Frame	幀
+Barrel color	桶色
+Shell color	外殼顏色
+Light color	淺色
+Plate color	盤子顏色
+Dish	碟
+Flavor	味道
+Knit-cap color	針織帽顏色
+Nut color	螺母顏色
+Can	能夠
+Art	藝術
+Cover pattern	封面圖案
+Decorations	裝飾物
+Name	名稱
+Cardboard	紙板
+Flower color	花色
+Roof color	屋頂顏色
+Creation	創建
+Food	餐飲
+Paint	塗料
+Easel	畫架
+Map center	地圖中心
+Paper	紙
+Sticker area	貼紙區域
+Flag	旗
+Magazine	雜誌
+Ribbon	帶
+Shirt	襯衫
+Cloth	布
+Writing	寫作
+Drying shirt	烘乾襯衫
+Tablecloth	桌布
+Favorite card	收藏卡
+Cover	覆蓋
+Advertisement panel	廣告面板
+Bass drum head	低音鼓頭
+Curtain	窗簾
+Handkerchief design	手帕設計
+Blanket	毯
+Covers	蓋子
+Signature	簽名
+Lampshade	燈罩
+Bedding	寢具
+Cushion	墊子
+Seat	座位
+Favorite umbrella	最喜歡的雨傘
+Mat	墊
+Towel	毛巾
+Shawl	披肩
+Feature	特徵
+Flier	傳單
+Drawing paper	繪圖紙
+Pillow	枕頭
+Placemats	餐墊
+Cushions	靠墊
+Placemat	餐墊
+Printout	打印
+Bed mat	床墊
+Manuscript paper	手稿紙
+Clock face	鐘面
+Puzzle image	拼圖圖片
+Tray	托盤
+Panel design	面板設計
+Upholstery	室內裝潢
+Ring curtain	環幕
+Ironing board	燙衣板
+Knitting	針織
+Kimono	和服
+Sticker	貼圖
+Board	板
+Pink	粉
+Concrete	具體
+Sunset	日落
+Search engine	搜索引擎
+Gold	金
+Fruits	水果
+Logo	商標
+Weekly news	每週新聞
+Well-used	善用的
+Lined panel	襯板
+Yellow stripes	黃色條紋
+Orange design	橙色設計
+Dark wood	深色木
+Comic plan	漫畫計劃
+Light blue	淺藍
+Waves	波浪
+White	白色
+Illustrations	插圖
+Ad	廣告
+Square logo	方形徽標
+Stripes	條紋
+Musician's signature	音樂家的簽名
+Dots	點
+Black stripes	黑色條紋
+Pet	寵物
+Yellow	黃色
+Pop logo	流行徽標
+Green flowers	綠花
+White with logo	白色帶徽標
+Kids	孩子們
+Plain	平原
+Beige	米色
+Lattice	格子
+Green design	綠色設計
+Winter	冬季
+Red plaid	紅色格子
+Red	紅色
+Train	培養
+Chat tool	聊天工具
+Programming	程式設計
+Written note	書面說明
+Green with animal	綠色帶動物
+Pink flowers	粉紅色的花朵
+Moss green	苔綠色
+Reese & Cyrus	里斯與賽勒斯
+Colorful lines	七彩線
+Blue-gray	藍灰色
+Giant stripes	巨型條紋
+Green plaid	綠色格子
+Indigo	靛青
+Cute logo	可愛的徽標
+Natural white	天然白色
+PE shirt	PE襯衫
+Smooth white	光滑的白色
+Yellow flowers	黃色花
+Resorts	渡假勝地
+Star	星
+Gag comic	堵嘴漫畫
+Desktop	桌面
+Pale grass green	淺草綠色
+Orange	橙子
+Text documents	文字文件
+Storyboards	故事板
+Green	綠色
+Gray	灰色
+Bird	鳥
+Apple	蘋果
+Blank	空白
+Bears	熊
+Sepia art	棕褐色藝術
+Graph	圖形
+Bug	蟲子
+Digital audio workstation	數字音頻工作站
+Web browsing	網頁瀏覽
+Smile	微笑
+Still life	靜物
+Snow	雪
+Strawberry	草莓
+Chic pleather	別緻的羽毛
+Black retro	黑色復古
+Flower	花
+Azuki red	赤紅
+Yellow design	黃色設計
+Geometric print	幾何印花
+Camouflage	偽裝
+Brown	棕色
+Mud wall	泥牆
+Bear	熊
+Green stripes	綠色條紋
+Pop	流行音樂
+Message	信息
+Black	黑色
+Peach	桃子
+Natural wood	天然木材
+Warning	警告
+Essays	隨筆
+Red flowers	紅色花朵
+Mountains	山脈
+Cool	涼
+Shells	砲彈
+Orange juice	橙汁
+Chain print	鍊式印花
+Castle	城堡
+Cyan zigzags	青色之字形
+Summer	夏天
+Emblem logo	會徽徽標
+Various	各種
+Goldfish	金魚
+Plans	計劃
+Pop stars	明星
+Navy	海軍
+Quilted	縫
+Notices	告示
+Exam papers	試卷
+Pegboard	釘板
+Red & white & blue	紅白藍
+Cute	可愛
+Sports drink	運動飲料
+Yellow oil	黃油
+Blue stripes	藍色條紋
+Heart	心
+Camellia	茶花
+Resource documents	資源文件
+Light green	淺綠色
+Round logo	圓形徽標
+Red stripes	紅色條紋
+Fall	秋季
+None	沒有
+Giant dots	巨點
+Colorful	七彩
+Sale	特賣
+Director black	導演黑
+Travel	旅行
+Deep blue	深藍
+Calculations	計算方式
+Vintage logo	復古徽標
+Alphabet	字母
+Blue	藍色
+Gardening	園藝
+Dark brown	深棕色
+Notes	筆記
+Black with logo	黑色帶徽標
+Wanted	通緝
+Flowers	花卉
+Cheese	起司
+Southwestern flair	西南風情
+Plain panel	普通面板
+Rock	岩石
+Carrot	胡蘿蔔
+Paisley	佩斯利
+Hibiscus flowers	芙蓉花
+Glossy black	烏亮
+Comedian's signature	喜劇演員的簽名
+Light Through the Trees	穿過樹林的光
+Comics	漫畫
+Red lines	紅線
+Tic-tac-toe pattern	井字遊戲模式
+Illustration	插圖
+Cars	汽車
+Light wood	輕木
+Rainbow colors	彩虹色
+Document	文獻
+Mustard yellow	芥末黃
+Crane	起重機
+Paw print	掌印
+Blue flowers	藍花
+Navy design	海軍設計
+Shell pink	貝殼粉
+Chic logo	別緻的徽標
+Deep green	深綠色
+Spring	春天
+Butterfly	蝴蝶
+Caf?	咖啡店
+Art program	藝術節目
+Fashion	時尚
+Handwritten logo	手寫徽標
+Triangles	三角形
+Leaves	樹葉
+Rock logo	搖滾標誌
+Calligraphy	書法
+Floral	花香
+Checkered	格仔
+Familiar logo	熟悉的徽標
+Online shopping	網上購物
+Horizontal planks	水平木板
+Wood	木
+Navy blue	海軍藍
+Polka dots	圓點
+Striped	條狀
+Blue bee	藍蜂
+Purple	紫色
+B & W numeral	黑白數字
+Vanilla flavored	香草味
+Girl	女孩
+Orange-yellow	橘黃色
+Home	家
+White & red	白紅
+Damaged	破損
+Dark blue	深藍
+Copper	銅
+Dark gray	深灰色
+Rose	玫瑰
+Hot dog	熱狗
+Green apple	青蘋果
+Aqua roof	水上屋頂
+Whipped-cream topping	奶油打頂
+Sweet Roses	甜玫瑰
+Pastel	粉彩
+Marine	海軍陸戰隊
+Win or lose	贏或輸
+Stacks of cash	成堆的現金
+Street with Trees	樹木街
+Hungry gnome	飢餓的侏儒
+Tailors	裁縫
+Simple house	簡單的房子
+Pink with green ribbon	粉紅與綠絲帶
+→	→
+Giant trevally	巨大的
+Reflective stripes	反光條紋
+Retro	復古風
+Simple pattern	簡單模式
+Silver & green	銀色和綠色
+Kyoto in summer	夏天在京都
+Plum	李子
+Volleyball	排球
+Black cherry	黑櫻桃
+Literature	文獻
+Two-toned numbers	兩色數字
+Wild	野生
+Labeled	貼有標籤
+Stainless	不銹
+No Parking	不能停車
+Chic flowers	別緻的花
+Tweed	粗花呢
+Letter	信
+La France	法國
+Chic	別緻
+With ads	帶有廣告
+Marufukumaru - Bounty	Marufukumaru-賞金
+Baseball	棒球
+Bananas	香蕉
+Berry	漿果
+Caution stripes	警示條紋
+Red roof	紅色屋頂
+Roasting marshmallows	烤棉花糖
+Fairy tale	童話
+Natural sand	天然沙
+Congee	粥
+Yellow amber	黃琥珀色
+White mushroom	白蘑菇
+Angel	天使
+Graffiti	塗鴉
+Mint	薄荷
+Blooming	盛開的
+White sand	白沙
+Turquoise	綠松石
+Red brick	紅磚
+Neon blue & neon red	霓虹藍和霓虹紅
+Unglazed	不上釉
+Pink-white	粉紅白
+Greater scaup	更大的範圍
+Boating stripes	划船條紋
+Blue with yellow ribbon	藍色與黃絲帶
+Gray wood & tile	灰木和瓷磚
+Denim	牛仔布
+Trees	樹木
+Surprised gnome	驚訝的侏儒
+Canned fish	魚罐頭
+Tree peonies	牡丹
+Reliable gnome	可靠的侏儒
+Resident Services	居民服務
+Green logo	綠色標誌
+Ivory	象牙
+Ocean creatures	海洋生物
+Passionate gnome	熱情的侏儒
+Canned olives	橄欖罐頭
+Hawk	鷹
+Dried bamboo	幹竹
+Hot-and-sour soup	酸辣湯
+Red & white	紅白
+Basketball	籃球
+Artistic	藝術的
+Constellations	星座
+Green & orange	綠色和橙色
+Duck	鴨
+Words of wisdom	至理名言
+← →	←→
+Stone house	石屋
+Elegant flowers	優雅的花朵
+Dinosaur	恐龍
+Cosmo black	宇宙黑
+White marble	白色大理石
+Nintenmaru - Big Catch	Nintenmaru-大漁獲
+Red with hearts	紅色與心
+Brown granite	棕色花崗岩
+Colorful dinosaur	七彩恐龍
+Ice blue	冰藍
+Ketchup and mustard	番茄醬和芥末醬
+Quilted pattern	pattern縫圖案
+Sponsor	贊助
+Common pochard	普通豆莢
+Empty	空的
+Math	數學
+Colorful cake	多彩蛋糕
+Aquamarine	藍晶
+Black & red	黑紅
+White granite	白色花崗岩
+Light gray	淺灰
+Cream	奶油
+Golden yellow	金黃色
+White wood	白木
+Beige & green	米色和綠色
+Black roof	黑色屋頂
+University	大學
+White & blue	白色和藍色
+Ice green	冰綠色
+Magenta	品紅
+Construction warning	施工警告
+Failed attempt	嘗試失敗
+Sprightly gnome	敏捷地精
+Green tea	綠茶
+Space silver	太空銀
+Squid	烏賊
+Cocoa flavored	可可味
+Natural & silver	天然銀
+Sheep	羊
+Gold bars	金條
+Ash	灰
+Pippa	皮帕
+Green curry	綠咖哩
+Ordinary mushroom	普通蘑菇
+Deep sea	深海
+Zelkova wood	澤爾科娃木
+Classic camo	經典迷彩
+Maple	楓
+Pearl	珍珠
+Brown & black	棕黑色
+Strange mushroom	奇怪的蘑菇
+Purple sweet potato	紫薯
+Berry red	漿果紅
+Cake	蛋糕
+Chocolate swirl	巧克力漩渦
+Green bamboo	綠竹
+Laid-back gnome	悠閒的侏儒
+Strawberries	草莓
+Hydrangea	繡球花
+Veggie saut?	素菜炒
+Sepia	棕褐色
+Cranes	吊車
+Blueberries	藍莓
+Curry	咖哩
+Birch	樺木
+Mountain	山
+Rattan	藤
+Ice pink	冰粉
+Wooden	木
+Strawberry buttercream	草莓奶油
+Wood grain	木紋
+Dog	狗
+Classic	經典
+Tropical	熱帶
+Off-white	米白色
+Plaid	格子佈
+No coating	無塗層
+Chocolate buttercream	巧克力奶油
+Spot-billed	點開帳單
+Strawberry flavored	草莓味
+White wood & tile	白木和瓷磚
+Brown wood	棕木
+Pacific Ocean	太平洋
+Green & white	綠色和白色
+Octopus	章魚
+Two-toned tile	兩色瓷磚
+Walnut	核桃
+Ratatouille	料理鼠王
+Ash brown	灰褐色
+Black marble	黑色大理石
+Giant snakehead	巨蛇頭
+Kids' game	兒童遊戲
+Souvenir	紀念品
+Orange wood	橘木
+Wood house	木屋
+Red mushroom	紅蘑菇
+Orange & black	橙色和黑色
+Beginning stages	開始階段
+Cream stew	奶油燉
+Shabby	破舊
+Sky blue	天藍色
+Playtime	遊戲時間
+Ash green	灰綠色
+Retro ride	復古騎
+Black wood & tile	黑木和瓷磚
+Ice purple	冰紫色
+Black & yellow	黑色和黃色
+Blood orange	血橙
+Blue roof	藍色屋頂
+Modern	現代
+Leisure boat	休閒船
+Splatter up	飛濺
+Silver & blue	銀色和藍色
+Ongoing work - Little bro	正在進行的工作-小兄弟
+Standard	標準
+Yellow mushroom	黃蘑菇
+Rusted iron	生鏽的鐵
+Black granite	黑色花崗岩
+Minestrone	意大利蔬菜湯
+Teak	柚木
+After school	放學後
+Light blue & pink	淺藍色和粉紅色
+Soccer ball	足球球
+Canned pet food	罐頭寵物食品
+Pears	梨
+Clay dinosaur	黏土恐龍
+Balls	球
+Forest	森林
+Zebra	斑馬
+Bronze	青銅
+Pale green	淡綠色
+Stop	停止
+Red & black	紅黑
+Simple path game	簡單路徑遊戲
+Pale sky	蒼白的天空
+Avocado	鱷梨
+Hot air balloons	熱氣球
+Bouquet	花束
+Blue & gray	藍色和灰色
+Yellow-green	黃綠色
+Caution	警告
+Ongoing work	正在進行的工作
+Cat	貓
+Deep ocean	深海
+Schedule	時間表
+No finish	沒有完成
+Mossy	生苔
+Fire red	火紅
+Polka-dot party	圓點派對
+Old	舊
+White birch	白樺
+Reddish brown	紅褐色
+Sunburst	朝陽
+Marine emerald	海洋翡翠
+Rebel gnome	反叛的侏儒
+Pink wood	粉紅木
+Fairy-tale house	童話般的房子
+Lumberjack	伐木工人
+Blue marlin	藍色馬林魚
+Mosaic tile	馬賽克
+Colorful quilt	彩色被子
+Smoke-cured bamboo	煙熏竹
+Boat	船
+Cubes	立方體
+Peaches	桃子
+Pop pattern	流行圖案
+Fact-finding meeting	實況調查會議
+Tiger	虎
+Azalea	映山紅
+Clay cake	黏土蛋糕
+Strawberry & flowers	草莓與鮮花
+Cherry wood	櫻桃木
+Dragon	龍
+Writer's block	作家街區
+Pirate ship	海盜船
+Brick house	磚房
+Bedford	貝德福德
+Cherry blossoms	櫻花
+Canned pasta sauce	意大利麵醬罐頭
+Dark red	深紅
+In progress	進行中
+Powder white	粉白色
+Strategy meeting	戰略會議
+Field of Flowers	花場
+Ice	冰
+Evergreen	常綠
+Blue & yellow	藍色和黃色
+Ice orange	冰橙
+Fanciful quilted pattern	幻想縫圖案
+Japanese literature	日本文學
+Canned fruit	水果罐頭
+Natural	自然
+Chocolate	巧克力
+Colorful numbers	彩色數字
+Beige & white	米色和白色
+Green smoothie	綠色冰沙
+Pizza	比薩
+Red apple	紅蘋果
+Red logo	紅色標誌
+Corn soup	玉米湯
+Citrus	柑橘類
+Chic white	別緻的白色
+No Entry	禁止入內
+Blue with flowers	藍色與花朵
+Pearl white	珍珠白
+Camel	駱駝
+Territory game	區域遊戲
+Uomasamaru III - Launch	Uomasamaru III-發射
+Royal	皇室
+Tsurukamemaru - Longevity	Tsurukamemaru-長壽
+Reference	參考
+Ongoing work - Big bro	正在進行的工作-大哥
+White peach	白桃
+Choco	巧克力
+Sleepy gnome	昏昏欲睡的侏儒
+Gray & blue	灰色和藍色
+Club activities	俱樂部活動
+Oak	橡木
+←	←
+Handprints	手印
+Stainless steel	不銹鋼
+Gorgeous	華麗
+Puppers	up
+Patterned	圖案化
+Gold & silver	黃金白銀
+Chocolate mint	巧克力薄荷
+Elegant	優雅
+Unlabeled can	未貼標籤的罐頭
+Cherry brown	櫻桃棕色
+Yellow with red ribbon	黃色帶紅絲帶
+Pine	松樹
+Blue cat	藍貓
+Textbook	教科書
+Airport	飛機場
+Sandalwood	檀香
+Strawberry swirl	草莓漩渦
+Unfinished wood	未完成的木頭
+Dodgeball	躲避球
+Coral pink	珊瑚粉
+Striped house	條紋的房子
+Le Lectier	Le Lectier
+Hibiscus	芙蓉花
+Vivid	生動
+White & silver	白色和銀色
+Camphor-tree wood	樟木
+Carp	鯉魚
+Snow camouflage	雪迷彩
+Dark	暗
+Andesite	安山岩
+Shocking pink	令人震驚的粉紅色
+Oribe-style	Oribe風格
+Royal coach	皇家教練
+Painter's palette	畫家的調色板
+Tomatoes	番茄
+Multiplication tables	乘法表
+Mixed wood	混合木
+Oranges	橘子
+Mossy stone	生苔的石頭
+Lime	酸橙
+Green roof	綠色屋頂
+Red wood	紅木
+Silver	銀
+Items	物品
+Wisteria	紫藤
+Language classroom	語言教室
+Denim with stripes	條紋牛仔
+Atlantic Ocean	大西洋
+Geometric pattern	幾何圖案
+Patched together	修補在一起
+Caramel mocha	焦糖摩卡
+Pasta	意大利面
+Marine blue	海軍藍
+Cherries	櫻桃
+Roary	羅里
+Black & orange	黑色和橙色
+Monotone	單調
+Steamer duck	蒸鴨
+Rose pink	玫瑰粉
+Black & white	黑，白
+Black bass	黑鱸
+Cherry	櫻桃
+Periodic table	元素週期表
+Trading ship	貿易船
+Quilted animals	animals縫動物
+Tea	茶
+Borscht	羅宋湯
+Vanilla	香草
+Cool blue	酷藍
+Soda	蘇打
+Mango	芒果
+Vanilla & chocolate	香草和巧克力
+Kiwifruit	奇異果
+Red exit	紅色出口
+Light brown	淺褐色
+Dot	點
+Apples	蘋果
+Carrots	蘿蔔
+Sales meeting	銷售會議
+Brown & white	棕色和白色
+Watermelon	西瓜
+Western literature	西方文學
+Fishing Spot	釣魚點
+White with blue ribbon	白色與藍絲帶
+Multicolor	彩色
+Rainbow	彩虹
+Gertie	格蒂
+Brainstorming meeting	頭腦風暴會議
+Construction ahead	未來的建設
+Foreign language	外語
+Natural & white	天然白色
+Red snapper	紅鯛魚
+Ice yellow	冰黃色
+Encyclopedia	百科全書
+Slippery	滑
+Yellow peach	黃桃
+No ads	無廣告
+Nostalgia	懷舊
+Simple	簡單
+Pop flowers	流行花
+Ocean blue	海洋藍
+Light brown & black	淺棕色和黑色
+Mallard	鳧
