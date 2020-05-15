@@ -1,4 +1,4 @@
-﻿Housewares	家具
+Housewares	家具
 Miscellaneous	小物件
 Wall-mounted	壁掛物
 Birthday	活動-玩家生日
@@ -9,7 +9,7 @@ Crafting	DIY
 Dodo Airlines	Dodo公司
 Fishing Tourney	活動-釣魚大賽
 Flick	龍克斯
-Gulliver	呂游
+Gulliver	呂遊
 HHA	快樂家協會
 International Museum Day	活動-國際博物館日
 Mom	媽媽寄送
@@ -106,7 +106,7 @@ Cover design	封面設計
 Body color	機身顏色
 Body	身體
 Season	季節
-Stone	結石
+Stone	石頭
 Bamboo	竹
 Design	設計
 Mushroom type	蘑菇型
@@ -324,7 +324,7 @@ Light green	淺綠色
 Round logo	圓形徽標
 Red stripes	紅色條紋
 Fall	秋季
-None	沒有
+None	無
 Giant dots	巨點
 Colorful	七彩
 Sale	特賣
@@ -382,7 +382,7 @@ Checkered	格仔
 Familiar logo	熟悉的徽標
 Online shopping	網上購物
 Horizontal planks	水平木板
-Wood	木
+Wood	木材
 Navy blue	海軍藍
 Polka dots	圓點
 Striped	條狀
