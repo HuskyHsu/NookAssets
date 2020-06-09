@@ -51,7 +51,7 @@ index	name_c	name_j	name_e	price	weather	place	N_month	S_month	time	remark
 50	蜣螂	フンコロガシ	Dung beetle	3000	無影響	雪球附近出現	12;1;2	6;7;8	全天	
 51	雪隱金龜	オオセンチコガネ	Earth-boring dung beetle	300	無影響	草地	7;8;9	1;2;3	全天	地面爬行
 52	寶石金龜	プラチナコガネ	Scarab beetle	10000	無影響	樹幹	7;8	1;2	23點-8點	
-53	日銅鑼花金龜	カナブン	Drone beetle	200	無影響	樹幹	7;8;9	1;2;3	全天	
+53	日銅鑼花金龜	カナブン	Drone beetle	200	無影響	樹幹	6;7;8;9	1;2;3	全天	
 54	哥利亞大角花金龜	ゴライアスオオツノハナムグリ	Goliath beetle	8000	無影響	樹幹	6;7;8;9	12;1;2;3	17點-8點	
 55	鋸鍬形蟲	ノコギリクワガタ	Saw stag	2000	無影響	樹幹	7;8	1;2	全天	
 56	深山鍬形蟲	ミヤマクワガタ	Miyama stag	1000	無影響	樹幹	7;8	1;2	全天	
