@@ -162,7 +162,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 219,shell wreath,かいがらのリース,貝殼花圈,壁掛物,FtrDoorOrnamentWreathShell,200,"[{'count': 1, 'itemName': '夏天貝殼'}, {'count': 1, 'itemName': '鐘螺殼'}, {'count': 1, 'itemName': '沙錢'}, {'count': 1, 'itemName': '珊瑚'}, {'count': 1, 'itemName': '扇貝殼'}, {'count': 1, 'itemName': '寶螺殼'}]",['氣球'],僅在夏季期間獲得
 220,mush low stool,キノコのスツール,蘑菇凳子,家具,FtrMushroomChairS_Remake_0_0,200,"[{'count': 2, 'itemName': '圓形蘑菇'}]",['氣球'],僅在蘑菇季節期間獲得
 221,mushroom wreath,キノコのリース,蘑菇花圈,壁掛物,FtrDoorOrnamentWreathMushroom,200,"[{'count': 10, 'itemName': '樹枝'}, {'count': 1, 'itemName': '圓形蘑菇'}, {'count': 1, 'itemName': '瘦小蘑菇'}, {'count': 1, 'itemName': '扁平蘑菇'}]",['氣球'],僅在蘑菇季節期間獲得
-222,snowflake wreath,ゆきのけっしょうのリース,雪花花圈,壁掛物,FtrDoorOrnamentWreathIce,200,"[{'count': 4, 'itemName': '雪花'}]","['氣球', '莉詠']",僅在冬季期間獲得
+222,snowflake wreath,ゆきのけっしょうのリース,雪花花圈,壁掛物,FtrDoorOrnamentWreathIce,200,"[{'count': 4, 'itemName': '雪花'}]","['氣球', '西施惠']",僅在冬季期間獲得
 223,fruit wreath,フルーツのリース,水果花圈,壁掛物,FtrDoorOrnamentWreathFruit,200,"[{'count': 2, 'itemName': '蘋果'}, {'count': 1, 'itemName': '梨子'}, {'count': 3, 'itemName': '櫻桃'}, {'count': 3, 'itemName': '橘子'}, {'count': 1, 'itemName': '桃子'}]",['暴躁型村民'],
 224,natural garden table,ナチュラルなガーデンテーブル,自然風花園桌,家具,FtrGardenTableNatural_Remake_0_0,200,"[{'count': 9, 'itemName': '硬木材'}, {'count': 3, 'itemName': '鐵礦石'}]","['狸克', '普通型村民']",50% chance of being obtained during the main storyline during the villager house development quest
 225,tree branch wreath,きのえだのリース,樹枝花圈,壁掛物,FtrDoorOrnamentWreathBranch,200,"[{'count': 10, 'itemName': '樹枝'}]",['大姐姐型村民'],
@@ -315,15 +315,15 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 413,magazine rack,マガジンラック,雜誌架,小物件,FtrMagazinerack_Remake_0_0,200,"[{'count': 2, 'itemName': '雜誌'}, {'count': 4, 'itemName': '木材'}]",['活力型村民'],
 414,tree's bounty mobile,きのみのモビール,樹果掛飾,壁掛物,FtrNutMobile_Remake_0_0,200,"[{'count': 2, 'itemName': '松果'}, {'count': 3, 'itemName': '橡栗'}, {'count': 3, 'itemName': '樹枝'}]",['氣球'],僅在秋季期間獲得
 415,tree's bounty lamp,きのみのランプ,樹果燈,小物件,FtrNutLamp_Remake_0_0,200,"[{'count': 6, 'itemName': '橡栗'}, {'count': 4, 'itemName': '黏土'}]",['氣球'],僅在秋季期間獲得
-416,tree's bounty little tree,ちいさなきのみのツリー,小樹果樹,小物件,FtrNutTreeS_Remake_0_0,200,"[{'count': 6, 'itemName': '松果'}, {'count': 4, 'itemName': '橡栗'}, {'count': 1, 'itemName': '硬木材'}]","['氣球', '莉詠']",僅在秋季期間獲得
+416,tree's bounty little tree,ちいさなきのみのツリー,小樹果樹,小物件,FtrNutTreeS_Remake_0_0,200,"[{'count': 6, 'itemName': '松果'}, {'count': 4, 'itemName': '橡栗'}, {'count': 1, 'itemName': '硬木材'}]","['氣球', '西施惠']",僅在秋季期間獲得
 417,tree's bounty big tree,おおきなきのみのツリー,大樹果樹,家具,FtrNutTreeL_Remake_0_0,200,"[{'count': 5, 'itemName': '松果'}, {'count': 4, 'itemName': '橡栗'}, {'count': 4, 'itemName': '楓葉'}, {'count': 8, 'itemName': '樹枝'}, {'count': 4, 'itemName': '黏土'}]",['氣球'],僅在楓葉季節期間獲得
 418,cherry-blossom-petal pile,さくらのはなびらのやま,櫻花花瓣堆,家具,FtrSakuraPetal,200,"[{'count': 5, 'itemName': '櫻花花瓣'}]",['氣球'],僅在櫻花季節期間獲得
 419,cherry-blossom branches,さくらのえだ,櫻花樹枝,家具,FtrSakuraBranch,200,"[{'count': 8, 'itemName': '櫻花花瓣'}, {'count': 4, 'itemName': '樹枝'}, {'count': 5, 'itemName': '黏土'}]",['氣球'],僅在櫻花季節期間獲得
 420,bamboo sphere,たけのまり,竹球,小物件,FtrBambooBall_Remake_0_0,200,"[{'count': 3, 'itemName': '竹子材料'}]",['普通型村民'],
 421,bamboo lunch box,たけのべんとうばこ,竹製便當盒,小物件,FtrBambooLunch_Remake_0_0,200,"[{'count': 4, 'itemName': '竹子材料'}]",['成熟型村民'],
-422,outdoor picnic set,おはなみセット,賞花組合,家具,FtrSakuraPicnicset,200,"[{'count': 10, 'itemName': '櫻花花瓣'}]","['氣球', '莉詠']",僅在櫻花季節期間獲得
+422,outdoor picnic set,おはなみセット,賞花組合,家具,FtrSakuraPicnicset,200,"[{'count': 10, 'itemName': '櫻花花瓣'}]","['氣球', '西施惠']",僅在櫻花季節期間獲得
 423,tree's bounty arch,きのみのアーチ,樹果拱門,家具,FtrNutArch_Remake_0_0,200,"[{'count': 4, 'itemName': '松果'}, {'count': 5, 'itemName': '橡栗'}, {'count': 5, 'itemName': '楓葉'}, {'count': 15, 'itemName': '樹枝'}]",['氣球'],僅在楓葉季節期間獲得
-424,bamboo noodle slide,ながしそうめん,流水素麵,家具,FtrBambooSomen,200,"[{'count': 7, 'itemName': '春筍'}, {'count': 3, 'itemName': '木材'}]","['氣球', '莉詠']",僅在春季期間獲得
+424,bamboo noodle slide,ながしそうめん,流水素麵,家具,FtrBambooSomen,200,"[{'count': 7, 'itemName': '春筍'}, {'count': 3, 'itemName': '木材'}]","['氣球', '西施惠']",僅在春季期間獲得
 426,cherry-blossom clock,さくらクロック,櫻花時鐘,壁掛物,FtrSakuraClockW_Remake_0_0,200,"[{'count': 5, 'itemName': '櫻花花瓣'}]",['氣球'],僅在櫻花季節期間獲得
 427,blossom-viewing lantern,おはなみのちょうちん,賞花提燈,家具,FtrSakuraLantern_Remake_0_0,200,"[{'count': 6, 'itemName': '櫻花花瓣'}, {'count': 4, 'itemName': '硬木材'}]",['氣球'],僅在櫻花季節期間獲得
 429,nova light,スターライト,星光,小物件,FtrStarLamp_Remake_0_0,200,"[{'count': 5, 'itemName': '星星碎片'}]",['傅珂'],
@@ -469,7 +469,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 586,pile of leaves,おちば,落葉,家具,FtrFallenleaves,200,"[{'count': 3, 'itemName': '松果'}, {'count': 5, 'itemName': '雜草'}]",['氣球'],僅在秋季期間獲得
 587,green-leaf pile,みどりのおちば,綠色落葉,家具,FtrFallenleavesGreen,200,"[{'count': 1, 'itemName': '春筍'}, {'count': 10, 'itemName': '雜草'}]",['氣球'],僅在春季期間獲得
 588,yellow-leaf pile,きいろのおちば,黃色落葉,家具,FtrFallenleavesYellow,200,"[{'count': 3, 'itemName': '橡栗'}, {'count': 5, 'itemName': '雜草'}]",['氣球'],僅在秋季期間獲得
-589,red-leaf pile,あかいおちば,紅色落葉,家具,FtrFallenleavesRed,200,"[{'count': 3, 'itemName': '楓葉'}, {'count': 4, 'itemName': '雜草'}]","['氣球', '莉詠']",僅在楓葉季節期間獲得
+589,red-leaf pile,あかいおちば,紅色落葉,家具,FtrFallenleavesRed,200,"[{'count': 3, 'itemName': '楓葉'}, {'count': 4, 'itemName': '雜草'}]","['氣球', '西施惠']",僅在楓葉季節期間獲得
 590,bamboo stool,たけのスツール,竹凳子,家具,FtrBambooStool_Remake_0_0,200,"[{'count': 5, 'itemName': '竹子材料'}]",['成熟型村民'],
 591,bamboo speaker,たけのスピーカー,竹廣播喇叭,家具,FtrBambooMusic_Remake_0_0,200,"[{'count': 3, 'itemName': '竹子材料'}, {'count': 1, 'itemName': '鐵礦石'}]",['成熟型村民'],
 592,pine bonsai tree,マツのぼんさい,松樹盆栽,小物件,FtrBonsaiPine,200,"[{'count': 8, 'itemName': '松果'}, {'count': 5, 'itemName': '黏土'}]",['氣球'],僅在秋季期間獲得
