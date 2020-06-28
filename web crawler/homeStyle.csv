@@ -1,0 +1,556 @@
+name_c,name_j,name_e,category,filename,obtainedFrom,sell,buy,tag,themes
+抽象藝術牆,アブストラクトなかべ,abstract wall,壁紙,RoomTexWallAbstract00,Nook商店,390,1560,布塊牆,"['商店', '設施']"
+埃及牆,エジプトなかべ,ancient wall,壁紙,RoomTexWallEgypt00,駱嵐,750,3000,亞洲,"['民間藝術', '恐怖']"
+蘋果壁紙,リンゴのかべがみ,apple wall,壁紙,RoomTexWallApple00,DIY,4000,,水果牆,"['豪華時髦的', '兒童房']"
+水藍色磚牆,みずいろタイルのかべ,aqua tile wall,壁紙,RoomTexWallTile01,Nook商店,355,1420,瓷磚牆,"['浴室', '設施']"
+美麗玻璃牆,きれいなガラスのかべ,arched-window wall,壁紙,RoomSpWallGlass00,Nook商店,537,2150,特殊牆,"['商店', '昂貴']"
+楓葉牆,こうようのかべ,autumn wall,壁紙,RoomSpWallAutumun00,DIY,4700,,特殊的自然牆,['花園']
+後院牆,うらにわのかべ,backyard-fence wall,壁紙,RoomSpWallBackyard00,駱嵐,750,3000,特酷自然牆,['花園']
+竹子牆,バンブーなかべ,bamboo wall,壁紙,RoomTexWallBamboo00,DIY,2400,,自然牆,['禪宗風格']
+竹林牆,ちくりんのかべ,bamboo-grove wall,壁紙,RoomTexWallChikurin00,DIY,4300,,自然牆,['禪宗風格']
+竹簾牆,すだれのかべ,bamboo-screen wall,壁紙,RoomTexWallRattan00,Nook商店,442,1770,木牆,['禪宗風格']
+銀行保險箱牆,かしきんこのかべ,bank-vault wall,壁紙,RoomTexWallSafeBox00,駱嵐,750,3000,鐵牆,"['設施', '昂貴']"
+簡約壁板牆,シンプルパネルのかべ,basic wall,壁紙,RoomSpWallSimplePanel00,Nook商店,150,600,特殊牆,"['辦公室', '設施']"
+珠簾牆,たまのれんのかべ,beaded-curtain wall,壁紙,RoomTexWallBeadsCurtain00,Nook商店,430,1720,布塊牆,"['商店', '廚房']"
+米色裝飾線板壁紙,ベージュのアールデコかべがみ,beige art-deco wall,壁紙,RoomTexWallArtDeco00,Nook商店,695,2780,裝飾藝術牆,"['兒童房', '客廳']"
+米色花草圖案牆,ベージュのくさばなもようのかべ,beige blossoming wall,壁紙,RoomTexWallCountry00,Nook商店,440,1760,鄉村,"['豪華時髦的', '客廳']"
+米色摩洛哥磚牆,ベージュのモロッカンタイルかべ,beige desert-tile wall,壁紙,RoomTexWallMorocco00,Nook商店,610,2440,摩洛哥,"['浴室', '設施']"
+黑色植物圖案磚牆,くろいボタニカルタイルのかべ,black botanical-tile wall,壁紙,RoomTexWallWoodTile03,Nook商店,310,1240,木瓷磚牆,"['設施', '昂貴']"
+黑色大廳牆,くろいホールのかべ,black hallway wall,壁紙,RoomTexWallHall03,Nook商店,500,2000,大廳牆,"['設施', '音樂']"
+黑色洞洞板牆,くろいパンチングボードのかべ,black perforated-board wall,壁紙,RoomTexWallPegboard02,Nook商店,295,1180,釘板牆,"['音樂', '設施']"
+灰階配色撞色磚牆,モノクロツートンタイルのかべ,black two-toned tile wall,壁紙,RoomTexWallTwoToneTile06,Nook商店,462,1850,兩色瓷磚牆,"['浴室', '設施']"
+黑色磚塊牆,くろレンガのかべ,black-brick wall,壁紙,RoomTexWallBrick02,Nook商店,250,1000,磚,"['設施', '商店']"
+黑色皇冠壁紙,ブラッククラウンのかべがみ,black-crown wall,壁紙,RoomTexWallCrown01,Nook商店,587,2350,皇冠牆,['昂貴']
+黑板牆,こくばんのかべ,blackboard wall,壁紙,RoomTexWallBlackBoard00,駱嵐,750,3000,neta牆,"['商店', '學校']"
+藍色花草圖案牆,あおいくさばなもようのかべ,blue blossoming wall,壁紙,RoomTexWallCountry02,Nook商店,440,1760,鄉村,"['豪華時髦的', '客廳']"
+藍色迷彩壁紙,ブルーめいさいのかべがみ,blue camo wall,壁紙,RoomTexWallCamouflage01,Nook商店,287,1150,迷彩,"['派對', '兒童房']"
+藍色碎花壁紙,あおいこばながらのかべがみ,blue delicate-blooms wall,壁紙,RoomTexWallManor03,Nook商店,475,1900,莊園牆,"['昂貴', '客廳']"
+藍色摩洛哥磚牆,ブルーのモロッカンタイルかべ,blue desert-tile wall,壁紙,RoomTexWallMorocco01,Nook商店,610,2440,摩洛哥,"['浴室', '設施']"
+藍色餐館牆,あおいダイナーのかべ,blue diner wall,壁紙,RoomTexWallDiner00,Nook商店,605,2420,餐館牆,"['豪華時髦的', '商店']"
+藍色花紋壁紙,ブルーのはながらかべがみ,blue flower-print wall,壁紙,RoomTexWallFlower03,Nook商店,445,1780,花牆,"['豪華時髦的', '客廳']"
+藍色愛心壁紙,ブルーハートのかべがみ,blue heart-pattern wall,壁紙,RoomTexWallHeart00,Nook商店,320,1280,心牆,"['豪華時髦的', '兒童房']"
+藍色六角磚牆,あおいハニカムタイルのかべ,blue honeycomb-tile wall,壁紙,RoomTexWallHoneycomb01,Nook商店,420,1680,蜂窩,"['浴室', '設施']"
+藍色布牆,あおいテキスタイルのかべ,blue intricate wall,壁紙,RoomTexWallFlowerPop00,Nook商店,392,1570,布牆,"['客廳', '商店']"
+藍色線板牆,あおいパネルモールドかべ,blue molded-panel wall,壁紙,RoomTexWallPanelMold01,Nook商店,495,1980,線板牆,"['昂貴', '商店']"
+藍色油漆木牆,あおいペイントウッドのかべ,blue painted-wood wall,壁紙,RoomTexWallPaintWood00,Nook商店,412,1650,彩繪木,"['豪華時髦的', '客廳']"
+藍色兒童房壁紙,あおいキッズルームのかべがみ,blue playroom wall,壁紙,RoomTexWallToy00,Nook商店,635,2540,玩具牆,"['兒童房', '豪華時髦的']"
+藍色拼布牆,ブルーキルトのかべ,blue quilt wall,壁紙,RoomTexWallDollhouse01,Nook商店,537,2150,拼布牆,"['豪華時髦的', '兒童房']"
+藍色鐵皮牆,ブルーのトタンかべ,blue shanty wall,壁紙,RoomTexWallTin02,Nook商店,155,620,鐵皮牆,['車庫']
+藍色簡約布面牆,あおいシンプルクロス,blue simple-cloth wall,壁紙,RoomTexWallSimple03,Nook商店,187,750,簡單的牆壁,"['兒童房', '客廳']"
+藍色地鐵磚牆,あおいメトロタイルのかべ,blue subway-tile wall,壁紙,RoomTexWallMetro00,Nook商店,335,1340,地鐵牆,"['設施', '商店']"
+藍色磚牆,あおいタイルのかべ,blue tile wall,壁紙,RoomTexWallTile03,Nook商店,355,1420,瓷磚牆,"['浴室', '設施']"
+藍色撞色磚牆,あおいツートンタイルのかべ,blue two-toned tile wall,壁紙,RoomTexWallTwoToneTile05,Nook商店,462,1850,兩色瓷磚牆,"['浴室', '設施']"
+藍色皇冠壁紙,ブルークラウンのかべがみ,blue-crown wall,壁紙,RoomTexWallCrown00,Nook商店,587,2350,皇冠牆,['昂貴']
+藍色油漆牆,あおいペイントウォール,blue-paint wall,壁紙,RoomTexWallStucco03,Nook商店,400,1600,灰泥牆,"['豪華時髦的', '客廳']"
+藍色玫瑰壁紙,あおいバラのかべがみ,blue-rose wall,壁紙,RoomTexWallRose03,Nook商店,430,1720,玫瑰牆,"['豪華時髦的', '客廳']"
+藍色條紋壁紙,ブルーストライプのかべがみ,blue-striped wall,壁紙,RoomTexWallStripe03,Nook商店,380,1520,條紋牆,"['豪華時髦的', '兒童房']"
+植物圖案磚牆,ボタニカルタイルのかべ,botanical-tile wall,壁紙,RoomTexWallWoodTile02,Nook商店,310,1240,木瓷磚牆,"['設施', '昂貴']"
+棕色植物圖案磚牆,ブラウンボタニカルタイルのかべ,brown botanical-tile wall,壁紙,RoomTexWallWoodTile01,Nook商店,310,1240,木瓷磚牆,"['設施', '昂貴']"
+茶色餐館牆,ちゃいろいダイナーのかべ,brown diner wall,壁紙,RoomTexWallDiner03,Nook商店,605,2420,餐館牆,"['豪華時髦的', '商店']"
+茶色大廳牆,ちゃいろいホールのかべ,brown hallway wall,壁紙,RoomTexWallHall00,Nook商店,500,2000,大廳牆,"['設施', '音樂']"
+茶色人字斜紋牆,ちゃいろいヘリンボーンのかべ,brown herringbone wall,壁紙,RoomTexWallHerringbone00,DIY,1800,,人字斜紋,"['客廳', '商店']"
+褐色鐵皮牆,ちゃいろのトタンかべ,brown shanty wall,壁紙,RoomTexWallTin03,Nook商店,155,620,鐵皮牆,['車庫']
+茶色磚塊牆,ちゃいろいレンガのかべ,brown-brick wall,壁紙,RoomTexWallBrick03,Nook商店,250,1000,磚,"['設施', '商店']"
+棕色皇冠壁紙,ブラウンクラウンのかべがみ,brown-crown wall,壁紙,RoomTexWallCrown03,Nook商店,587,2350,皇冠牆,['昂貴']
+復活節壁紙,イースターなかべがみ,Bunny Day wall,壁紙,RoomTexWallEaster00,DIY,4800,,布塊牆,"['豪華時髦的', '兒童房']"
+蝴蝶壁紙,バタフライなかべがみ,butterflies wall,壁紙,RoomTexWallInsect00,捕蟲大會,840,,自然牆,"['豪華時髦的', '設施']"
+木屋牆,ログハウスのかべ,cabin wall,壁紙,RoomTexWallLog00,DIY,1800,,木牆,"['客廳', '設施']"
+咖啡店窗簾牆,カフェカーテンのかべ,café-curtain wall,壁紙,RoomSpWallCafe00,駱嵐,750,3000,特殊牆,"['商店', '昂貴']"
+迷彩壁紙,めいさいのかべがみ,camo wall,壁紙,RoomTexWallCamouflage00,Nook商店,287,1150,迷彩,"['派對', '兒童房']"
+空地圍欄牆,あきちのかべ,chain-link fence,壁紙,RoomSpWallEmptyLot00,駱嵐,750,3000,特酷自然牆,"['花園', '車庫']"
+櫻桃壁紙,さくらんぼのかべがみ,cherry wall,壁紙,RoomTexWallCherry00,DIY,4000,,水果牆,"['兒童房', '豪華時髦的']"
+櫻花樹牆,さくらなみきのかべ,cherry-blossom-trees wall,壁紙,RoomSpWallSakura00,DIY,4600,,特殊的自然牆,['花園']
+典雅茶室牆,シックなちゃしつのかべ,chic tearoom wall,壁紙,RoomTexWallMud03,Nook商店,437,1750,茶室牆,"['禪宗風格', '商店']"
+古典壁紙,クラシックなかべがみ,chic wall,壁紙,RoomTexWallClassic00,Nook商店,490,1960,布塊牆,"['昂貴', '客廳']"
+深棕色大廳牆,こげちゃのホールのかべ,chocolate hallway wall,壁紙,RoomTexWallHall01,Nook商店,500,2000,大廳牆,"['設施', '音樂']"
+深棕色人字斜紋牆,こげちゃのヘリンボーンのかべ,chocolate herringbone wall,壁紙,RoomTexWallHerringbone01,DIY,1800,,人字斜紋,"['客廳', '商店']"
+主機板牆,きばんのかべ,circuit-board wall,壁紙,RoomTexWallGeek00,駱嵐,750,3000,neta牆,['設施']
+夜景牆,やけいのかべ,cityscape wall,壁紙,RoomSpWallNightView00,駱嵐,750,3000,特殊牆,"['商店', '昂貴']"
+圖書館牆,ライブラリーなかべ,classic-library wall,壁紙,RoomTexWallLibrary00,DIY,1450,,圖書館牆,['書桌']
+彩色巧拼壁紙,カラフルパズルかべがみ,colorful puzzle wall,壁紙,RoomTexWallPuzzle01,Nook商店,385,1540,拼圖牆,"['豪華時髦的', '兒童房']"
+彩色磚牆,カラフルタイルのかべ,colorful-tile wall,壁紙,RoomTexWallTile02,Nook商店,355,1420,瓷磚牆,"['浴室', '設施']"
+常見牆,よくあるかべ,common wall,壁紙,RoomTexWallCommon00,Nook商店,200,800,石牆,"['客廳', '學校']"
+混凝土牆,コンクリートのかべ,concrete wall,壁紙,RoomTexWallConcrete00,Nook商店,235,940,石牆,"['車庫', '設施']"
+施工現場牆,こうじげんばのかべ,construction-site wall,壁紙,RoomTexWallBlueSheet00,駱嵐,750,3000,neta牆,"['車庫', '設施']"
+縐紗紋壁紙,ちりめんもようのかべがみ,crepe-design wall,壁紙,RoomTexWallCrepe00,Nook商店,387,1550,日式,['禪宗風格']
+藍色可愛牆,ブルーなキュートのかべ,cute blue wall,壁紙,RoomTexWallCute02,Nook商店,470,1880,可愛牆,"['豪華時髦的', '兒童房']"
+紅色可愛牆,あかいキュートなかべ,cute red wall,壁紙,RoomTexWallCute01,Nook商店,470,1880,可愛牆,"['豪華時髦的', '兒童房']"
+白色可愛牆,しろいキュートなかべ,cute white wall,壁紙,RoomTexWallCute00,Nook商店,470,1880,可愛牆,"['豪華時髦的', '兒童房']"
+黃色可愛牆,きいろいキュートなかべ,cute yellow wall,壁紙,RoomTexWallCute03,Nook商店,470,1880,可愛牆,"['豪華時髦的', '兒童房']"
+深色嵌木牆,ダークなよせぎのかべ,dark wooden-mosaic wall,壁紙,RoomTexWallMixPlankWood01,DIY,1800,,木板牆,"['客廳', '商店']"
+黑巧克力牆,ビターチョコなかべ,dark-chocolate wall,壁紙,RoomTexWallChocolate00,駱嵐,750,3000,巧克力,['豪華時髦的']
+沙漠牆,さばくなかべ,desert vista,壁紙,RoomSpWallDesert00,駱嵐,750,3000,特酷自然牆,['民間藝術']
+地層壁紙,ちそうのかべがみ,dig-site wall,壁紙,RoomTexWallStratum00,駱嵐,750,3000,石牆,"['花園', '恐怖']"
+破爛泥土牆,ボロいつちかべ,dirt-clod wall,壁紙,RoomTexWallOldSoil00,Nook商店,50,200,石牆,['恐怖']
+練功房牆,けいこべやのかべ,dojo wall,壁紙,RoomTexWallBaseboards00,駱嵐,750,3000,木牆,"['健身', '禪宗風格']"
+地牢牆,ちかろうのかべ,dungeon wall,壁紙,RoomSpWallJail00,駱嵐,750,3000,特殊無機牆,['恐怖']
+中華風牆,チャイナなかべ,exquisite wall,壁紙,RoomTexWallChina00,駱嵐,750,3000,亞洲,"['禪宗風格', '商店']"
+蘑菇森林牆,キノコのもりのかべ,forest wall,壁紙,RoomTexWallMushForest00,DIY,44000,,自然牆,['花園']
+超科技牆,オーバーテクノロジーなかべ,future-tech wall,壁紙,RoomSpWallTechnology00,駱嵐,750,3000,特殊無機牆,"['恐怖', '民間藝術']"
+垃圾堆牆,ゴミのやまなかべ,garbage-heap wall,壁紙,RoomTexWallGarbage00,DIY,120,,neta牆,"['車庫', '恐怖']"
+金箔日式拉門,きんぱくのふすま,gold-screen wall,壁紙,RoomTexWallFusumaGorgeous00,DIY,20750,,日式,"['禪宗風格', '昂貴']"
+黃金牆,おうごんのかべ,golden wall,壁紙,RoomTexWallGold00,DIY,40000,,亞洲,"['昂貴', '恐怖']"
+白色餐館牆,しろいダイナーのかべ,gray diner wall,壁紙,RoomTexWallDiner02,Nook商店,605,2420,餐館牆,"['豪華時髦的', '商店']"
+灰色線板牆,グレーのパネルモールドかべ,gray molded-panel wall,壁紙,RoomTexWallPanelMold02,Nook商店,495,1980,線板牆,"['昂貴', '商店']"
+灰色鐵皮牆,グレーのトタンかべ,gray shanty wall,壁紙,RoomTexWallTin00,Nook商店,155,620,鐵皮牆,['車庫']
+灰階配色條紋壁紙,モノクロストライプのかべがみ,gray-striped wall,壁紙,RoomTexWallStripe02,Nook商店,380,1520,條紋牆,"['豪華時髦的', '兒童房']"
+綠色花草圖案牆,みどりのくさばなもようのかべ,green blossoming wall,壁紙,RoomTexWallCountry03,Nook商店,440,1760,鄉村,"['豪華時髦的', '客廳']"
+綠色碎花壁紙,グリーンのこばながらのかべがみ,green delicate-blooms wall,壁紙,RoomTexWallManor02,Nook商店,475,1900,莊園牆,"['昂貴', '客廳']"
+綠色花紋壁紙,グリーンのはながらかべがみ,green flower-print wall,壁紙,RoomTexWallFlower01,Nook商店,445,1780,花牆,"['豪華時髦的', '客廳']"
+綠色六角磚牆,みどりのハニカムタイルのかべ,green honeycomb-tile wall,壁紙,RoomTexWallHoneycomb02,Nook商店,420,1680,蜂窩,"['浴室', '設施']"
+綠色布牆,みどりのテキスタイルのかべ,green intricate wall,壁紙,RoomTexWallFlowerPop02,Nook商店,392,1570,布牆,"['客廳', '商店']"
+綠色線板牆,みどりのパネルモールドかべ,green molded-panel wall,壁紙,RoomTexWallPanelMold03,Nook商店,495,1980,線板牆,"['豪華時髦的', '兒童房']"
+綠色油漆木牆,みどりのペイントウッドのかべ,green painted-wood wall,壁紙,RoomTexWallPaintWood01,Nook商店,412,1650,彩繪木,"['豪華時髦的', '兒童房']"
+綠色兒童房壁紙,みどりのキッズルームのかべがみ,green playroom wall,壁紙,RoomTexWallToy02,Nook商店,635,2540,玩具牆,"['兒童房', '豪華時髦的']"
+綠色油漆牆,みどりのペイントウォール,green-paint wall,壁紙,RoomTexWallStucco04,Nook商店,400,1600,灰泥牆,"['豪華時髦的', '客廳']"
+迷幻壁紙,サイケなかべがみ,groovy wall,壁紙,RoomTexWallPsyche00,Nook商店,320,1280,布塊牆,['派對']
+東方風牆壁,オリエンタルなかべ,harmonious wall,壁紙,RoomTexWallOriental00,Nook商店,445,1780,亞洲,"['禪宗風格', '商店']"
+舞台布幕牆,どんちょうのかべ,heavy-curtain wall,壁紙,RoomTexWallThickCurtain00,駱嵐,750,3000,布塊牆,"['音樂', '派對']"
+蜂巢牆,ビーハイブなかべ,honeycomb wall,壁紙,RoomTexWallHoney00,DIY,3600,,瓷磚牆,"['豪華時髦的', '設施']"
+六角磚牆,ハニカムタイルのかべ,honeycomb-tile wall,壁紙,RoomTexWallHoneycomb00,Nook商店,420,1680,蜂窩,"['浴室', '設施']"
+冰雪壁紙,アイスなかべがみ,ice wall,壁紙,RoomSpWallIce00,DIY,8200,,特殊牆,"['雪季', '設施']"
+冰山牆,ひょうざんのかべ,iceberg wall,壁紙,RoomTexWallIceFloe00,DIY,4000,,neta牆,['雪季']
+宮牆,おうちょうのかべ,imperial wall,壁紙,RoomTexWallDynasty00,駱嵐,750,3000,亞洲,['昂貴']
+工廠牆,ファクトリーなかべ,industrial wall,壁紙,RoomTexWallFactory00,駱嵐,750,3000,鐵牆,['設施']
+常春藤牆,つたのかべ,ivy wall,壁紙,RoomTexWallIvy00,駱嵐,750,3000,自然牆,"['設施', '商店']"
+聖誕牆,クリスマスなかべ,Jingle wall,壁紙,RoomSpWallXmas00,DIY,2500,,特殊牆,"['豪華時髦的', '派對']"
+叢林壁紙,ジャングルのかべがみ,jungle wall,壁紙,RoomTexWallJungle00,DIY,1380,,自然牆,"['花園', '設施']"
+唇印壁紙,キッスのかべがみ,kisses wall,壁紙,RoomTexWallKiss00,駱嵐,750,3000,布塊牆,"['派對', '豪華時髦的']"
+實驗室牆,ラボのかべ,laboratory wall,壁紙,RoomSpWallLabo00,駱嵐,750,3000,特殊無機牆,['設施']
+東方風交叉格柵,オリエンタルなラティス,lattice wall,壁紙,RoomTexWallLattice00,Nook商店,445,1780,亞洲,"['禪宗風格', '商店']"
+火山洞窟牆,かざんどうくつのかべ,magma-cavern wall,壁紙,RoomSpWallVolcano00,駱嵐,750,3000,特殊的自然牆,['恐怖']
+漫畫圖書館牆,マンガライブラリーなかべ,manga-library wall,壁紙,RoomTexWallLibrary01,DIY,1050,,圖書館牆,"['設施', '書桌']"
+紅樹林牆,マングローブのかべ,mangrove wall,壁紙,RoomTexWallMangrove00,駱嵐,750,3000,自然牆,['花園']
+魚兒壁紙,おサカナのかべがみ,marine pop wall,壁紙,RoomTexWallFish00,活動：釣魚大賽,805,,布塊牆,"['海洋', '兒童房']"
+高原牆,こうげんなかべ,meadow vista,壁紙,RoomSpWallHighLands00,駱嵐,750,3000,特酷自然牆,['花園']
+毛毛細雨牆,こさめのふるかべ,misty-garden wall,壁紙,RoomSpWallRain00,駱嵐,585,3000,特酷自然牆,['花園']
+引人入勝牆,キャッチーなかべ,mod wall,壁紙,RoomTexWallMod00,Nook商店,305,1220,布塊牆,['派對']
+現代日式紙拉門,モダンなしょうじ,modern shoji-screen wall,壁紙,RoomSpWallShojiModem00,Nook商店,287,1150,日式,"['禪宗風格', '商店']"
+摩登茶室牆,モダンなちゃしつのかべ,modern tearoom wall,壁紙,RoomTexWallMud02,Nook商店,437,1750,茶室牆,"['禪宗風格', '商店']"
+拼木牆,ミックスウッドのかべ,modern wood wall,壁紙,RoomTexWallMixwood00,DIY,1800,,木牆,"['客廳', '兒童房']"
+灰階配色點點壁紙,モノクロドットのかべがみ,monochromatic dotted wall,壁紙,RoomTexWallDot00,Nook商店,275,1100,點,"['豪華時髦的', '兒童房']"
+灰階配色磚牆,モノクロタイルのかべ,monochromatic-tile wall,壁紙,RoomTexWallTile00,Nook商店,355,1420,瓷磚牆,"['浴室', '設施']"
+灰泥矮牆,しっくいのへい,mortar wall,壁紙,RoomTexWallPlaster00,駱嵐,750,3000,石牆,['禪宗風格']
+馬賽克磚牆,アートモザイクタイルのかべ,mosaic-tile wall,壁紙,RoomTexWallMosaicTile00,Nook商店,362,1450,瓷磚牆,"['浴室', '設施']"
+青苔庭園牆,こけにわのかべ,mossy-garden wall,壁紙,RoomTexWallMoss00,駱嵐,750,3000,自然牆,['禪宗風格']
+蘑菇壁紙,キノコのかべがみ,mush wall,壁紙,RoomTexWallMush00,DIY,21400,,布塊牆,['豪華時髦的']
+Nook Inc.壁紙,たぬきかいはつのかべがみ,Nook Inc. wall,壁紙,RoomTexWallFirst00,購物：哩數兌換,6000,,布塊牆,"['豪華時髦的', '商店']"
+水平線牆,すいへいせんのかべ,ocean-horizon wall,壁紙,RoomSpWallHorizon00,駱嵐,750,3000,特酷自然牆,['海洋']
+辦公室牆,オフィスのかべ,office wall,壁紙,RoomTexWallOffice00,駱嵐,750,3000,特殊牆,['辦公室']
+破爛壁紙,ボロいかべがみ,old wallpaper,壁紙,RoomTexWallOld00,Nook商店,50,200,布塊牆,['恐怖']
+黃綠色摩洛哥磚牆,きみどりモロッカンタイルかべ,olive desert-tile wall,壁紙,RoomTexWallMorocco03,Nook商店,610,2440,摩洛哥,"['浴室', '設施']"
+橘色迷彩壁紙,オレンジめいさいのかべがみ,orange camo wall,壁紙,RoomTexWallCamouflage03,Nook商店,287,1150,迷彩,"['派對', '兒童房']"
+橘色線板牆,オレンジのパネルモールドかべ,orange molded-panel wall,壁紙,RoomTexWallPanelMold00,Nook商店,495,1980,線板牆,"['豪華時髦的', '兒童房']"
+橘子壁紙,オレンジのかべがみ,orange wall,壁紙,RoomTexWallOrange00,DIY,4000,,水果牆,"['豪華時髦的', '兒童房']"
+橘色油漆牆,オレンジのペイントウォール,orange-paint wall,壁紙,RoomTexWallStucco01,Nook商店,400,1600,灰泥牆,"['豪華時髦的', '兒童房']"
+畫室牆,アトリエのかべ,paintball wall,壁紙,RoomTexWallAtelier00,駱嵐,750,3000,石牆,"['車庫', '設施']"
+宮殿牆,きゅうでんのかべ,palace wall,壁紙,RoomSpWallPalace00,駱嵐,750,3000,特殊無機牆,"['昂貴', '民間藝術']"
+派對壁紙,パーティーなかべがみ,party wall,壁紙,RoomTexWallParty00,活動：玩家生日,370,,布塊牆,"['派對', '豪華時髦的']"
+粉嫩圓點壁紙,パステルドットのかべがみ,pastel dotted wall,壁紙,RoomTexWallDot01,Nook商店,275,1100,點,"['豪華時髦的', '兒童房']"
+粉嫩巧拼壁紙,パステルパズルかべがみ,pastel puzzle wall,壁紙,RoomTexWallPuzzle00,Nook商店,385,1540,拼圖牆,"['豪華時髦的', '兒童房']"
+桃紅色撞色磚牆,ももいろツートンタイルのかべ,peach two-toned tile wall,壁紙,RoomTexWallTwoToneTile04,Nook商店,462,1850,兩色瓷磚牆,"['浴室', '設施']"
+桃子壁紙,モモのかべがみ,peach wall,壁紙,RoomTexWallPeach00,DIY,4000,,水果牆,"['豪華時髦的', '兒童房']"
+梨子壁紙,ナシのかべがみ,pear wall,壁紙,RoomTexWallPear00,DIY,4000,,水果牆,"['豪華時髦的', '兒童房']"
+洞洞板牆,パンチングボードのかべ,perforated-board wall,壁紙,RoomTexWallPegboard01,Nook商店,295,1180,釘板牆,"['音樂', '設施']"
+粉紅色花草圖案牆,ピンクのくさばなもようのかべ,pink blossoming wall,壁紙,RoomTexWallCountry01,Nook商店,440,1760,鄉村,"['豪華時髦的', '客廳']"
+桃紅色餐館牆,ももいろダイナーのかべ,pink diner wall,壁紙,RoomTexWallDiner01,Nook商店,605,2420,餐館牆,"['豪華時髦的', '商店']"
+粉紅色花紋壁紙,ピンクのはながらのかべがみ,pink flower-print wall,壁紙,RoomTexWallFlower00,Nook商店,445,1780,花牆,"['豪華時髦的', '客廳']"
+粉紅愛心壁紙,ピンクハートのかべがみ,pink heart-pattern wall,壁紙,RoomTexWallHeart01,Nook商店,320,1280,心牆,"['豪華時髦的', '兒童房']"
+粉紅油漆木牆,ピンクのペイントウッドのかべ,pink painted-wood wall,壁紙,RoomTexWallPaintWood02,Nook商店,412,1650,彩繪木,"['豪華時髦的', '兒童房']"
+粉紅色兒童房壁紙,ピンクのキッズルームのかべがみ,pink playroom wall,壁紙,RoomTexWallToy01,Nook商店,635,2540,玩具牆,"['兒童房', '豪華時髦的']"
+粉紅色拼布牆,ピンクキルトのかべ,pink quilt wall,壁紙,RoomTexWallDollhouse00,Nook商店,537,2150,拼布牆,"['豪華時髦的', '兒童房']"
+粉紅鐵皮牆,ピンクのトタンかべ,pink shanty wall,壁紙,RoomTexWallTin01,Nook商店,155,620,鐵皮牆,['車庫']
+粉紅簡約布面牆,ピンクのシンプルクロス,pink simple-cloth wall,壁紙,RoomTexWallSimple02,Nook商店,187,750,簡單的牆壁,"['兒童房', '客廳']"
+粉紅皇冠壁紙,ピンククラウンのかべがみ,pink-crown wall,壁紙,RoomTexWallCrown02,Nook商店,587,2350,皇冠牆,"['豪華時髦的', '昂貴']"
+粉紅條紋壁紙,ピンクストライプのかべがみ,pink-striped wall,壁紙,RoomTexWallStripe01,Nook商店,380,1520,條紋牆,"['豪華時髦的', '兒童房']"
+紫色迷彩壁紙,パープルめいさいのかべがみ,purple camo wall,壁紙,RoomTexWallCamouflage02,Nook商店,287,1150,迷彩,"['派對', '兒童房']"
+紫色摩洛哥磚牆,むらさきのモロッカンタイルかべ,purple desert-tile wall,壁紙,RoomTexWallMorocco02,Nook商店,610,2440,摩洛哥,"['浴室', '設施']"
+紫色圓點壁紙,パープルドットのかべがみ,purple dotted wall,壁紙,RoomTexWallDot04,Nook商店,275,1100,點,"['豪華時髦的', '兒童房']"
+紫色巧拼壁紙,パープルパズルかべがみ,purple puzzle wall,壁紙,RoomTexWallPuzzle03,Nook商店,385,1540,拼圖牆,[]
+紫色拼布牆,パープルキルトのかべ,purple quilt wall,壁紙,RoomTexWallDollhouse03,Nook商店,537,2150,拼布牆,"['豪華時髦的', '兒童房']"
+紫色玫瑰壁紙,むらさきのバラのかべがみ,purple-rose wall,壁紙,RoomTexWallRose01,Nook商店,430,1720,玫瑰牆,['豪華時髦的']
+夯土牆,はんちくのかべ,rammed-earth wall,壁紙,RoomTexWallHanchiku00,Nook商店,450,1800,石牆,['民間藝術']
+廢墟牆,はいきょのかべ,ramshackle wall,壁紙,RoomTexWallRuins00,駱嵐,750,3000,石牆,['恐怖']
+紅色裝飾線板壁紙,レッドのアールデコかべがみ,red art-deco wall,壁紙,RoomTexWallArtDeco01,Nook商店,695,2780,裝飾藝術牆,"['兒童房', '客廳']"
+紅色碎花壁紙,あかいこばながらのかべがみ,red delicate-blooms wall,壁紙,RoomTexWallManor01,Nook商店,475,1900,莊園牆,"['昂貴', '客廳']"
+紅色圓點壁紙,レッドドットのかべがみ,red dotted wall,壁紙,RoomTexWallDot02,Nook商店,275,1100,點,"['豪華時髦的', '兒童房']"
+紅色愛心壁紙,レッドハートのかべがみ,red heart-pattern wall,壁紙,RoomTexWallHeart03,Nook商店,320,1280,心牆,"['豪華時髦的', '兒童房']"
+紅色布牆,あかいテキスタイルのかべ,red intricate wall,壁紙,RoomTexWallFlowerPop03,Nook商店,392,1570,布牆,"['客廳', '商店']"
+紅色洞洞板牆,あかいパンチングボードのかべ,red perforated-board wall,壁紙,RoomTexWallPegboard03,Nook商店,295,1180,釘板牆,"['音樂', '設施']"
+紅色撞色磚牆,あかいツートンタイルのかべ,red two-toned tile wall,壁紙,RoomTexWallTwoToneTile03,Nook商店,462,1850,兩色瓷磚牆,"['浴室', '設施']"
+紅色磚塊牆,あかレンガのかべ,red-brick wall,壁紙,RoomTexWallBrick01,Nook商店,250,1000,磚,"['設施', '商店']"
+復古花紋壁紙,レトロなはながらのかべがみ,retro flower-print wall,壁紙,RoomTexWallKitsch00,Nook商店,415,1660,布塊牆,"['豪華時髦的', '客廳']"
+田園風景牆,でんえんふうけいのかべ,rice-paddy wall,壁紙,RoomSpWallFarm00,駱嵐,750,3000,特酷自然牆,['花園']
+職業摔角牆,プロレスのかべ,ringside seating,壁紙,RoomSpWallWrestling00,駱嵐,750,3000,特殊牆,['健身']
+抱石牆,ボルダリングのかべ,rock-climbing wall,壁紙,RoomTexWallBouldering00,駱嵐,750,3000,neta牆,['健身']
+玫瑰壁紙,バラのかべがみ,rose wall,壁紙,RoomTexWallRose00,Nook商店,430,1720,玫瑰牆,['豪華時髦的']
+遺跡牆,いせきのかべ,ruins wall,壁紙,RoomTexWallRemains00,駱嵐,750,3000,自然牆,"['恐怖', '民間藝術']"
+不規則石頭牆,ランダムストーンのかべ,rustic-stone wall,壁紙,RoomTexWallStone00,DIY,1750,,石牆,"['設施', '商店']"
+櫻花木牆,さくらのウッドウォール,sakura-wood wall,壁紙,RoomTexWallSolidWood00,DIY,3200,,木牆,"['兒童房', '豪華時髦的']"
+太空船牆,うちゅうせんのかべ,sci-fi wall,壁紙,RoomSpWallSF00,DIY,7500,,特殊無機牆,"['太空', '設施']"
+日式拉門,ふすま,screen wall,壁紙,RoomTexWallFusuma00,Nook商店,750,3000,日式,"['禪宗風格', '設施']"
+汪洋大海牆,おおうなばらのかべ,sea view,壁紙,RoomSpWallSeaView00,駱嵐,750,3000,特酷自然牆,['海洋']
+監控室牆,モニタールームのかべ,security-monitors wall,壁紙,RoomSpWallMonitor00,駱嵐,750,3000,特殊無機牆,['設施']
+深褐色巧拼壁紙,セピアパズルかべがみ,sepia puzzle wall,壁紙,RoomTexWallPuzzle02,Nook商店,385,1540,拼圖牆,"['豪華時髦的', '兒童房']"
+機房牆,サーバールームのかべ,server-room wall,壁紙,RoomSpWallServer00,駱嵐,750,3000,特殊無機牆,['設施']
+日式紙拉門,しょうじ,shoji screen,壁紙,RoomSpWallShoji00,Nook商店,470,1880,日式,['禪宗風格']
+鐵捲門牆,シャッターのかべ,shutter wall,壁紙,RoomTexWallShutter00,駱嵐,750,3000,鐵牆,"['設施', '商店']"
+滑雪場壁紙,ゲレンデなかべがみ,ski-slope wall,壁紙,RoomSpWallGelande00,DIY,3200,,特酷自然牆,['雪季']
+骷髏壁紙,スカルなかべがみ,skull wall,壁紙,RoomSpWallSkull00,Nook商店,750,3000,特殊無機牆,"['恐怖', '兒童房']"
+雲上風景牆,くものうえのかべ,sky wall,壁紙,RoomSpWallCloud00,駱嵐,750,3000,特酷自然牆,['豪華時髦的']
+摩天大樓牆,まてんろうのかべ,skyscraper wall,壁紙,RoomTexWallSkyscraper00,駱嵐,750,3000,neta牆,['昂貴']
+雪花壁紙,スノーフレークのかべがみ,snowflake wall,壁紙,RoomTexWallSnowCrystal00,DIY,4800,,布塊牆,['雪季']
+穩重茶室牆,おちついたちゃしつのかべ,soothing tearoom wall,壁紙,RoomTexWallMud01,Nook商店,437,1750,茶室牆,"['禪宗風格', '商店']"
+木質牆,ウッディなかべ,stacked-wood wall,壁紙,RoomTexWallFireWood00,DIY,1800,,木牆,"['車庫', '設施']"
+體育場牆,スタジアムのかべ,stadium wall,壁紙,RoomSpWallStadium00,駱嵐,750,3000,特酷自然牆,['健身']
+標準茶室牆,スタンダードなちゃしつのかべ,standard tearoom wall,壁紙,RoomTexWallMud00,Nook商店,437,1750,茶室牆,['禪宗風格']
+星星牆,スターなかべ,starry wall,壁紙,RoomSpWallStarPrint00,DIY,7500,,特酷自然牆,"['豪華時髦的', '兒童房']"
+星空牆,ほしぞらのかべ,starry-sky wall,壁紙,RoomSpWallStarSky00,DIY,7500,,特酷自然牆,['太空']
+文藝復興牆,ルネッサンスなかべ,stately wall,壁紙,RoomTexWallRenaissance00,Nook商店,612,2450,亞洲,['昂貴']
+鋼筋牆,てっこつのかべ,steel-frame wall,壁紙,RoomTexWallSteel00,DIY,6000,,鐵牆,"['車庫', '設施']"
+石板牆,いしのかべ,stone wall,壁紙,RoomTexWallBasement00,DIY,1500,,石牆,"['恐怖', '設施']"
+暴風雨夜晚牆,あらしのよるのかべ,stormy-night wall,壁紙,RoomSpWallThunder00,駱嵐,750,3000,特殊的自然牆,['恐怖']
+吸管牆,ストローなかべ,straw wall,壁紙,RoomTexWallStraw00,駱嵐,750,3000,木牆,['民間藝術']
+草莓巧克力牆,いちごチョコなかべ,strawberry-chocolate wall,壁紙,RoomTexWallChocolate02,駱嵐,750,3000,巧克力,['豪華時髦的']
+街頭藝術牆,ストリートアートのかべ,street-art wall,壁紙,RoomTexWallStreetArt00,駱嵐,750,3000,neta牆,['車庫']
+山頂牆,さんちょうのかべ,summit wall,壁紙,RoomSpWallMountainTop00,駱嵐,750,3000,特酷自然牆,['花園']
+行道樹牆,がいろじゅのかべ,tree-lined wall,壁紙,RoomTexWallRoadsideTree00,駱嵐,750,3000,自然牆,['花園']
+南方海洋牆,みなみのうみなかべ,tropical vista,壁紙,RoomSpWallTropical00,DIY,6000,,特酷自然牆,['海洋']
+水中壁紙,すいちゅうのかべがみ,underwater wall,壁紙,RoomSpWallFishTank00,DIY,8600,,特酷自然牆,['海洋']
+波浪磚牆,ウェーブタイルのかべ,wavy-tile wall,壁紙,RoomTexWallWaveTile00,Nook商店,435,1740,瓷磚牆,"['商店', '設施']"
+曠野牆,こうやのかべ,western vista,壁紙,RoomSpWallWilderness00,駱嵐,750,3000,特酷自然牆,"['民間藝術', '恐怖']"
+白色植物圖案磚牆,しろいボタニカルタイルのかべ,white botanical-tile wall,壁紙,RoomTexWallWoodTile00,Nook商店,310,1240,木瓷磚牆,"['設施', '昂貴']"
+白色碎花壁紙,しろいこばながらのかべがみ,white delicate-blooms wall,壁紙,RoomTexWallManor00,Nook商店,475,1900,莊園牆,"['昂貴', '客廳']"
+白色大廳牆,しろいホールのかべ,white hallway wall,壁紙,RoomTexWallHall02,Nook商店,500,2000,大廳牆,"['設施', '音樂']"
+白色六角磚牆,しろいハニカムタイルのかべ,white honeycomb-tile wall,壁紙,RoomTexWallHoneycomb03,Nook商店,420,1680,蜂窩,"['浴室', '設施']"
+白色油漆木牆,しろいペイントウッドのかべ,white painted-wood wall,壁紙,RoomTexWallPaintWood03,Nook商店,412,1650,彩繪木,"['客廳', '兒童房']"
+白色洞洞板牆,しろいパンチングボードのかべ,white perforated-board wall,壁紙,RoomTexWallPegboard00,Nook商店,295,1180,釘板牆,"['音樂', '設施']"
+白色簡約布面牆,しろいシンプルクロス,white simple-cloth wall,壁紙,RoomTexWallSimple00,Nook商店,187,750,簡單的牆壁,"['兒童房', '客廳']"
+白色地鐵磚牆,しろいメトロタイルのかべ,white subway-tile wall,壁紙,RoomTexWallMetro01,Nook商店,335,1340,地鐵牆,"['設施', '商店']"
+白色磚塊牆,しろレンガのかべ,white-brick wall,壁紙,RoomTexWallBrick00,Nook商店,250,1000,磚,"['設施', '商店']"
+白巧克力牆,ホワイトチョコなかべ,white-chocolate wall,壁紙,RoomTexWallChocolate01,駱嵐,750,3000,巧克力,['豪華時髦的']
+白色玫瑰壁紙,しろいバラのかべがみ,white-rose wall,壁紙,RoomTexWallRose02,Nook商店,430,1720,玫瑰牆,['豪華時髦的']
+原木牆,ワイルドウッドのかべ,wild-wood wall,壁紙,RoomTexWallWildWood00,DIY,1800,,木牆,"['客廳', '商店']"
+木節牆,ふしありウッドウォール,wooden-knot wall,壁紙,RoomTexWallCedar00,DIY,1800,,木牆,"['客廳', '兒童房']"
+嵌木牆,よせぎのかべ,wooden-mosaic wall,壁紙,RoomTexWallMixPlankWood00,DIY,1800,,木板牆,"['客廳', '商店']"
+樹海牆,じゅかいなかべ,woodland wall,壁紙,RoomTexWallJukai00,DIY,1380,,自然牆,"['恐怖', '設施']"
+黃色花紋壁紙,きいろいはながらかべがみ,yellow flower-print wall,壁紙,RoomTexWallFlower02,Nook商店,445,1780,花牆,"['豪華時髦的', '客廳']"
+黃色愛心壁紙,イエローハートのかべがみ,yellow heart-pattern wall,壁紙,RoomTexWallHeart02,Nook商店,320,1280,心牆,"['豪華時髦的', '兒童房']"
+黃色布牆,きいろいテキスタイルのかべ,yellow intricate wall,壁紙,RoomTexWallFlowerPop01,Nook商店,392,1570,布牆,"['客廳', '商店']"
+黃色兒童房壁紙,きいろいキッズルームのかべがみ,yellow playroom wall,壁紙,RoomTexWallToy03,Nook商店,635,2540,玩具牆,"['兒童房', '豪華時髦的']"
+黃色拼布牆,イエローキルトのかべ,yellow quilt wall,壁紙,RoomTexWallDollhouse02,Nook商店,537,2150,拼布牆,"['豪華時髦的', '兒童房']"
+米色簡約布面牆,ベージュのシンプルクロス,yellow simple-cloth wall,壁紙,RoomTexWallSimple01,Nook商店,187,750,簡單的牆壁,"['兒童房', '客廳']"
+黃色油漆牆,きいろいペイントウォール,yellow-paint wall,壁紙,RoomTexWallStucco00,Nook商店,400,1600,灰泥牆,"['豪華時髦的', '兒童房']"
+黃色條紋壁紙,イエローストライプのかべがみ,yellow-striped wall,壁紙,RoomTexWallStripe04,Nook商店,380,1520,條紋牆,"['豪華時髦的', '兒童房']"
+水藍色馬賽克磚地板,みずいろモザイクタイルのゆか,aqua tile flooring,地板,RoomTexFloorTile01,Nook商店,225,900,瓷磚地板,"['浴室', '設施']"
+阿拉伯式地板,アラベスクなゆか,arabesque flooring,地板,RoomTexFloorArabesque00,Nook商店,530,2120,布地板,"['昂貴', '客廳']"
+弧形磚塊地板,アーチレンガのゆか,arched-brick flooring,地板,RoomTexFloorArchBrick00,Nook商店,275,1100,拱形磚,"['設施', '商店']"
+菱格紋磚地板,アーガイルなタイルのゆか,argyle tile flooring,地板,RoomTexFloorTileWood00,Nook商店,437,1750,瓷磚地板,"['浴室', '設施']"
+藝術嵌木地板,アートなよせぎざいくのゆか,artsy parquet flooring,地板,RoomTexFloorParquetArt00,Nook商店,450,1800,簡單實木複合地板,"['設施', '商店']"
+草坪地板,しばふのゆか,backyard lawn,地板,RoomTexFloorLawn00,DIY,600,,草原,['花園']
+竹子地板,バンブーなゆか,bamboo flooring,地板,RoomTexFloorBamboo00,DIY,2400,,自然-綠色,['禪宗風格']
+地下室地板,ちかしつのゆか,basement flooring,地板,RoomTexFloorBasement00,DIY,1500,,石材地板,"['恐怖', '設施']"
+米色摩洛哥磚地板,ベージュのモロッカンタイルゆか,beige desert-tile flooring,地板,RoomTexFloorMorocco00,Nook商店,525,2100,摩洛哥,"['浴室', '設施']"
+草莓巧克力地板,いちごチョコアソートなゆか,berry-chocolates flooring,地板,RoomTexFloorChocolate02,駱嵐,750,3000,巧克力,['豪華時髦的']
+原木地板,しらきのフローリング,birch flooring,地板,RoomTexFloorBirch00,Nook商店,200,800,木地板,"['客廳', '兒童房']"
+黑色鑄鐵拼花地板,くろいアイアンパーケットのゆか,black iron-parquet flooring,地板,RoomTexFloorParquetIron02,Nook商店,587,2350,鐵木地板,"['昂貴', '客廳']"
+黑色磚塊地板,くろレンガのゆか,black-brick flooring,地板,RoomTexFloorBrick02,Nook商店,260,1040,磚,"['設施', '商店']"
+藍色迷彩地板,ブルーめいさいのゆか,blue camo flooring,地板,RoomTexFloorCamouflage01,Nook商店,330,1320,迷彩,"['派對', '兒童房']"
+藍色摩洛哥磚地板,ブルーのモロッカンタイルゆか,blue desert-tile flooring,地板,RoomTexFloorMorocco01,Nook商店,525,2100,摩洛哥,"['浴室', '設施']"
+藍色點點地毯,ブルードットカーペット,blue dot flooring,地板,RoomTexFloorDot04,Nook商店,200,800,點,"['豪華時髦的', '兒童房']"
+藍色花朵地板,あおいフラワーフローリング,blue floral flooring,地板,RoomTexFloorDecoWood01,Nook商店,380,1520,裝飾木,"['商店', '客廳']"
+藍色六角磚地板,ブルーハニカムタイルのゆか,blue honeycomb tile,地板,RoomTexFloorHoneycomb01,Nook商店,355,1420,蜂窩,"['浴室', '設施']"
+藍色馬賽克磚地板,ブルーモザイクタイルのゆか,blue mosaic-tile flooring,地板,RoomTexFloorTile03,Nook商店,225,900,瓷磚地板,"['浴室', '設施']"
+藍色塑膠地板,ブルーラバーのゆか,blue rubber flooring,地板,RoomTexFloorRubber01,Nook商店,212,850,橡膠,"['健身', '學校']"
+藍色油漆地板,あおいペイントフローリング,blue-paint flooring,地板,RoomTexFloorPaintWood00,Nook商店,260,1040,彩繪木,"['豪華時髦的', '兒童房']"
+職業摔角地板,プロレスのゆか,boxing-ring mat,地板,RoomTexFloorWrestling00,駱嵐,750,3000,運動地板,['健身']
+棕色菱格紋磚地板,ブラウンのアーガイルタイルゆか,brown argyle-tile flooring,地板,RoomTexFloorArgyleTile01,Nook商店,360,1440,菱形,"['昂貴', '設施']"
+茶色花朵地板,ちゃいろいフラワーフローリング,brown floral flooring,地板,RoomTexFloorDecoWood02,Nook商店,380,1520,裝飾木,"['商店', '客廳']"
+棕色六角磚地板,ブラウンハニカムタイルのゆか,brown honeycomb tile,地板,RoomTexFloorHoneycomb00,Nook商店,355,1420,蜂窩,"['浴室', '設施']"
+銀色鑄鐵拼花地板,ぎんのアイアンパーケットのゆか,brown iron-parquet flooring,地板,RoomTexFloorParquetIron01,Nook商店,587,2350,鐵木地板,"['昂貴', '客廳']"
+茶色磚塊地板,ちゃいろいレンガのゆか,brown-brick flooring,地板,RoomTexFloorBrick03,Nook商店,260,1040,磚,"['設施', '商店']"
+復活節地板,イースターなゆか,Bunny Day flooring,地板,RoomTexFloorEaster00,DIY,4800,,點,"['豪華時髦的', '兒童房']"
+迷彩地板,めいさいのゆか,camo flooring,地板,RoomTexFloorCamouflage00,Nook商店,330,1320,迷彩,"['派對', '兒童房']"
+櫻花地毯,さくらのじゅうたん,cherry-blossom flooring,地板,RoomTexFloorSakura00,DIY,4400,,自然-落葉,"['花園', '豪華時髦的']"
+主機板地板,きばんのゆか,circuit-board flooring,地板,RoomTexFloorGeek00,駱嵐,750,3000,機械地板,['設施']
+雲上風景,くものうえ,cloud flooring,地板,RoomSpFloorCloud00,駱嵐,750,3000,特殊自然地板,['豪華時髦的']
+楓葉地板,こうようのゆか,colored-leaves flooring,地板,RoomTexFloorAutumun00,DIY,4300,,自然-落葉,['花園']
+彩色馬賽克磚地板,カラフルモザイクタイルのゆか,colorful mosaic-tile flooring,地板,RoomTexFloorTile02,Nook商店,225,900,瓷磚地板,"['浴室', '設施']"
+彩色巧拼地板,カラフルパズルのゆか,colorful puzzle flooring,地板,RoomTexFloorPuzzleMat01,Nook商店,362,1450,拼圖墊,"['豪華時髦的', '兒童房']"
+彩色拼接地毯,カラフルパネルカーペット,colorful tile flooring,地板,RoomTexFloorPanel01,Nook商店,405,1620,面板,"['客廳', '兒童房']"
+常見地板,よくあるゆかいた,common flooring,地板,RoomTexFloorCommon00,Nook商店,180,720,木地板,"['客廳', '學校']"
+混凝土地板,コンクリートのゆか,concrete flooring,地板,RoomTexFloorConcrete00,Nook商店,205,820,石材地板,"['車庫', '設施']"
+施工現場地板,こうじげんばのゆか,construction-site flooring,地板,RoomTexFloorConstruction00,駱嵐,750,3000,人行道,"['車庫', '設施']"
+酷感塑膠磚地板,クールなピータイル,cool vinyl flooring,地板,RoomTexFloorTileChecker03,Nook商店,287,1150,瓷磚檢查器,['昂貴']
+酷感油漆地板,クールなペイントフローリング,cool-paint flooring,地板,RoomTexFloorColorfulWood01,Nook商店,550,2200,多彩木,"['豪華時髦的', '兒童房']"
+軟木地板,コルクフローリング,cork flooring,地板,RoomTexFloorCork00,Nook商店,375,1500,木地板,"['學校', '音樂']"
+麥田圈地板,ミステリーサークルなゆか,crop-circles flooring,地板,RoomTexFloorCropCircles00,駱嵐,750,3000,自然-綠色,['花園']
+斑馬線地板,おうだんほどうのゆか,crosswalk flooring,地板,RoomTexFloorSidewalk00,駱嵐,750,3000,人行道,['設施']
+立方嵌木地板,キュービックなよせぎのゆか,cubic parquet flooring,地板,RoomTexFloorHoneycombWood00,Nook商店,375,1500,簡單實木複合地板,"['客廳', '兒童房']"
+藍色可愛磁磚地板,ブルーのキュートなフロアタイル,cute blue-tile flooring,地板,RoomTexFloorCute02,Nook商店,195,780,瓷磚地板,"['豪華時髦的', '兒童房']"
+紅色可愛磁磚地板,あかいキュートなフロアタイル,cute red-tile flooring,地板,RoomTexFloorCute01,Nook商店,195,780,瓷磚地板,"['豪華時髦的', '兒童房']"
+白色可愛磁磚地板,しろいキュートなフロアタイル,cute white-tile flooring,地板,RoomTexFloorCute00,Nook商店,195,780,瓷磚地板,"['豪華時髦的', '兒童房']"
+黃色可愛磁磚地板,きいろいキュートなフロアタイル,cute yellow-tile flooring,地板,RoomTexFloorCute03,Nook商店,195,780,瓷磚地板,"['豪華時髦的', '兒童房']"
+可愛油漆地板,キュートなペイントフローリング,cute-paint flooring,地板,RoomTexFloorColorfulWood00,Nook商店,550,2200,多彩木,"['豪華時髦的', '兒童房']"
+草原地板,そうげんのゆか,daisy meadow,地板,RoomTexFloorGrassland00,駱嵐,750,3000,草原,['花園']
+深色人字斜紋地板,ダークなヘリンボーンのゆか,dark herringbone flooring,地板,RoomTexFloorHerringbone01,Nook商店,300,1200,人字斜紋,"['客廳', '商店']"
+深色拼花地板,ダークなパーケットフローリング,dark parquet flooring,地板,RoomTexFloorCountry01,Nook商店,390,1560,鄉村,['客廳']
+深色嵌木地板,ダークなよせぎざいくのゆか,dark wood-pattern flooring,地板,RoomTexFloorSimpleParquet01,Nook商店,375,1500,簡單實木複合地板,"['客廳', '商店']"
+深色地板磚塊,ダークなフローリングブロック,dark-block flooring,地板,RoomTexFloorParquet01,Nook商店,345,1380,木地板,['學校']
+黑巧克力地板,ビターチョコアソートなゆか,dark-chocolates flooring,地板,RoomTexFloorChocolate00,駱嵐,750,3000,巧克力,['豪華時髦的']
+地底地板,ちていのゆか,dig-site flooring,地板,RoomTexFloorStratum00,駱嵐,750,3000,自然-棕色,"['花園', '恐怖']"
+土壤地板,つちのゆか,dirt flooring,地板,RoomTexFloorCottonSoil00,駱嵐,750,3000,自然-棕色,"['花園', '戶外活動']"
+旱田地板,はたけのゆか,field flooring,地板,RoomTexFloorFarm00,駱嵐,750,3000,自然-棕色,['花園']
+石板地板,フラッグストーンなゆか,flagstone flooring,地板,RoomTexFloorFlagStone00,Nook商店,425,1700,石材地板,"['商店', '設施']"
+花式馬賽克磚,フローラルなモザイクタイル,floral mosaic-tile flooring,地板,RoomTexFloorMosaicTile00,Nook商店,270,1080,瓷磚地板,"['浴室', '設施']"
+花紋草蓆,はなござ,floral rush-mat flooring,地板,RoomTexFloorRush00,駱嵐,750,3000,日式,"['豪華時髦的', '禪宗風格']"
+河流地板,かわのながれるゆか,flowing-river flooring,地板,RoomSpFloorRiver00,駱嵐,750,3000,特殊自然地板,['花園']
+蘑菇森林地板,キノコのもりのゆか,forest flooring,地板,RoomTexFloorMushForest00,DIY,35000,,自然-落葉,"['花園', '恐怖']"
+超科技地板,オーバーテクノロジーなゆか,future-tech flooring,地板,RoomSpFloorTechnology00,駱嵐,750,3000,特殊無機地板,"['恐怖', '民間藝術']"
+銀河系地板,ぎんがけいのゆか,galaxy flooring,地板,RoomSpFloorGalaxy00,DIY,7500,,特殊自然地板,['太空']
+垃圾堆地板,おへやのゆか,garbage-heap flooring,地板,RoomTexFloorGarbage00,DIY,120,,衰落,"['恐怖', '車庫']"
+長頸鹿紋地板,ジラフなゆか,giraffe-print flooring,地板,RoomTexFloorAnimal01,Nook商店,325,1300,動物地板,"['派對', '豪華時髦的']"
+金色鑄鐵拼花地板,きんのアイアンパーケットのゆか,gold iron-parquet flooring,地板,RoomTexFloorParquetIron00,Nook商店,587,2350,鐵木地板,"['昂貴', '客廳']"
+黃金地板,おうごんのゆか,golden flooring,地板,RoomTexFloorGold00,DIY,40000,,豪華,"['昂貴', '恐怖']"
+碎石地板,たまじゃりのゆか,gravel flooring,地板,RoomTexFloorGravel00,駱嵐,750,3000,石材地板,"['花園', '設施']"
+灰色菱格紋磚地板,グレーのアーガイルタイルゆか,gray argyle-tile flooring,地板,RoomTexFloorArgyleTile00,Nook商店,360,1440,菱形,"['昂貴', '設施']"
+灰階配色塑膠磚地板,モノクロピータイル,gray vinyl flooring,地板,RoomTexFloorTileChecker00,Nook商店,287,1150,瓷磚檢查器,['昂貴']
+綠色花朵地板,グリーンのフラワーフローリング,green floral flooring,地板,RoomTexFloorDecoWood03,Nook商店,380,1520,裝飾木,"['商店', '客廳']"
+綠色六角磚地板,グリーンハニカムタイルのゆか,green honeycomb tile,地板,RoomTexFloorHoneycomb02,Nook商店,355,1420,蜂窩,"['浴室', '設施']"
+綠色復古地板,グリーンレトロなゆか,green retro flooring,地板,RoomTexFloorKitchen01,Nook商店,385,1540,廚房地板,"['廚房', '商店']"
+綠色塑膠地板,グリーンラバーのゆか,green rubber flooring,地板,RoomTexFloorRubber00,Nook商店,212,850,橡膠,"['健身', '學校']"
+綠色塑膠磚地板,みどりのピータイル,green vinyl flooring,地板,RoomTexFloorTileChecker02,Nook商店,287,1150,瓷磚檢查器,['昂貴']
+綠色油漆地板,みどりのペイントフローリング,green-paint flooring,地板,RoomTexFloorPaintWood01,Nook商店,260,1040,彩繪木,"['豪華時髦的', '兒童房']"
+麻葉紋磚地板,あさのはタイルのゆか,hexagonal floral flooring,地板,RoomTexFloorHempTile00,Nook商店,215,860,瓷磚地板,"['禪宗風格', '商店']"
+高速公路地板,ハイウェイのゆか,highway flooring,地板,RoomTexFloorHighway00,駱嵐,750,3000,人行道,['設施']
+蜂蜜地板,ハチミツなゆか,honeycomb flooring,地板,RoomTexFloorHoney00,DIY,3000,,內塔,"['豪華時髦的', '設施']"
+冰雪地板,アイスなゆか,ice flooring,地板,RoomSpFloorIce00,DIY,8200,,特殊自然地板,"['雪季', '設施']"
+流冰地板,りゅうひょうのゆか,iceberg flooring,地板,RoomSpFloorIceFloe00,DIY,4000,,特殊自然地板,['雪季']
+王朝地板,おうちょうなゆか,imperial tile,地板,RoomTexFloorDynasty00,駱嵐,750,3000,豪華,['昂貴']
+巧拼地墊地板,ジョイントマットのゆか,jointed-mat flooring,地板,RoomTexFloorJointMat00,Nook商店,262,1050,布地板,"['學校', '兒童房']"
+叢林地板,ジャングルのゆか,jungle flooring,地板,RoomTexFloorJungle00,DIY,2200,,自然-綠色,"['花園', '設施']"
+庸俗地板,キッチュなゆか,kitschy tile,地板,RoomTexFloorKitschTile00,Nook商店,320,1280,瓷磚地板,['派對']
+熔岩地板,ようがんのゆか,lava flooring,地板,RoomSpFloorVolcano00,駱嵐,750,3000,特殊無機地板,['恐怖']
+豹紋地板,レオパードなゆか,leopard-print flooring,地板,RoomTexFloorAnimal00,Nook商店,325,1300,動物地板,"['派對', '豪華時髦的']"
+淺色人字斜紋地板,ライトなヘリンボーンのゆか,light herringbone flooring,地板,RoomTexFloorHerringbone00,Nook商店,300,1200,人字斜紋,"['客廳', '商店']"
+淺色拼花地板,ライトなパーケットフローリング,light parquet flooring,地板,RoomTexFloorCountry00,Nook商店,390,1560,鄉村,"['客廳', '商店']"
+淺色嵌木地板,ライトなよせぎざいくのゆか,light wood-pattern flooring,地板,RoomTexFloorSimpleParquet00,Nook商店,375,1500,簡單實木複合地板,"['客廳', '商店']"
+大廳地板,ロビーのゆか,lobby flooring,地板,RoomTexFloorLobby00,駱嵐,750,3000,布地板,"['設施', '派對']"
+月球表面地板,げつめんのゆか,lunar surface,地板,RoomTexFloorLunar00,DIY,7500,,自然-白色,['太空']
+波浪圖案地板,なみもようのゆか,marine pop flooring,地板,RoomTexFloorFishPop00,Nook商店,505,2020,布地板,"['兒童房', '豪華時髦的']"
+薄荷綠點點地毯,ミントドットカーペット,mint dot flooring,地板,RoomTexFloorDot01,Nook商店,200,800,點,"['豪華時髦的', '兒童房']"
+拼木地板,ミックスウッドのフローリング,modern wood flooring,地板,RoomTexFloorMixwood00,Nook商店,320,1280,木地板,"['客廳', '兒童房']"
+金錢地板,マネーなゆか,money flooring,地板,RoomTexFloorBill00,DIY,25000,,衰落,['昂貴']
+灰階配色點點地毯,モノクロドットカーペット,monochromatic dot flooring,地板,RoomTexFloorDot00,Nook商店,200,800,點,"['豪華時髦的', '兒童房']"
+灰階配色拼接地毯,モノクロパネルカーペット,monochromatic tile flooring,地板,RoomTexFloorPanel00,Nook商店,405,1620,面板,"['書桌', '客廳']"
+青苔庭園地板,こけにわのゆか,mossy-garden flooring,地板,RoomTexFloorMoss00,駱嵐,750,3000,自然-綠色,"['禪宗風格', '花園']"
+自然風地板磚塊,ナチュラルフローリングブロック,natural-block flooring,地板,RoomTexFloorParquet00,Nook商店,345,1380,木地板,['學校']
+Nook Inc.地板,たぬきかいはつのフローリング,Nook Inc. flooring,地板,RoomTexFloorFirst00,購物：哩數兌換,6000,,木地板,"['學校', '商店']"
+綠洲地板,オアシスなゆか,oasis flooring,地板,RoomSpFloorOasis00,駱嵐,750,3000,特殊無機地板,"['花園', '民間藝術']"
+黃綠色摩洛哥磚地板,きみどりモロッカンタイルゆか,olive desert-tile flooring,地板,RoomTexFloorMorocco03,Nook商店,525,2100,摩洛哥,"['浴室', '設施']"
+橘色迷彩地板,オレンジめいさいのゆか,orange camo flooring,地板,RoomTexFloorCamouflage03,Nook商店,330,1320,迷彩,"['派對', '兒童房']"
+橘色復古地板,オレンジレトロなゆか,orange retro flooring,地板,RoomTexFloorKitchen00,Nook商店,385,1540,廚房地板,"['廚房', '商店']"
+畫室地板,アトリエのゆか,paintball flooring,地板,RoomTexFloorAtelier00,駱嵐,750,3000,石材地板,"['車庫', '設施']"
+宮殿地板,きゅうでんのゆか,palace tile,地板,RoomTexFloorPalace00,駱嵐,750,3000,豪華,"['昂貴', '民間藝術']"
+停車場地板,パーキングのゆか,parking flooring,地板,RoomTexFloorParking00,駱嵐,750,3000,人行道,['設施']
+派對地板,パーティーのゆか,party flooring,地板,RoomTexFloorParty00,活動：玩家生日,370,,衰落,"['派對', '豪華時髦的']"
+粉嫩巧拼地板,パステルパズルのゆか,pastel puzzle flooring,地板,RoomTexFloorPuzzleMat00,Nook商店,362,1450,拼圖墊,"['豪華時髦的', '兒童房']"
+拼花磚地板,パッチワークタイルのゆか,patchwork-tile flooring,地板,RoomTexFloorPatchworkTile00,Nook商店,525,2100,瓷磚地板,"['昂貴', '商店']"
+松木地板,パインざいフローリング,pine-board flooring,地板,RoomTexFloorSimple00,Nook商店,625,2500,木地板,"['客廳', '兒童房']"
+粉紅色油漆地板,ピンクのペイントフローリング,pink-paint flooring,地板,RoomTexFloorPaintWood02,Nook商店,260,1040,彩繪木,"['豪華時髦的', '兒童房']"
+紫色迷彩地板,パープルめいさいのゆか,purple camo flooring,地板,RoomTexFloorCamouflage02,Nook商店,330,1320,迷彩,"['派對', '兒童房']"
+紫色摩洛哥磚地板,むらさきのモロッカンタイルゆか,purple desert-tile flooring,地板,RoomTexFloorMorocco02,Nook商店,525,2100,摩洛哥,"['浴室', '設施']"
+紫色巧拼地板,パープルパズルのゆか,purple puzzle flooring,地板,RoomTexFloorPuzzleMat03,Nook商店,362,1450,拼圖墊,['豪華時髦的']
+金字塔地板,ピラミッドのゆか,pyramid tile,地板,RoomTexFloorEgypt00,駱嵐,750,3000,豪華,['民間藝術']
+賽車賽道地板,レーストラックのゆか,racetrack flooring,地板,RoomTexFloorAthletics00,駱嵐,750,3000,運動地板,"['健身', '學校']"
+廢墟地板,はいきょのゆか,ramshackle flooring,地板,RoomTexFloorRuins00,駱嵐,750,3000,衰落,['恐怖']
+不規則方形磚地板,ランダムスクエアタイルのゆか,random-square-tile flooring,地板,RoomTexFloorSquareTile00,Nook商店,340,1360,瓷磚地板,"['設施', '商店']"
+藤編地板,ラタンのゆか,rattan flooring,地板,RoomTexFloorRattan00,Nook商店,275,1100,木地板,"['設施', '商店']"
+紅色點點地毯,レッドドットカーペット,red dot flooring,地板,RoomTexFloorDot02,Nook商店,200,800,點,"['豪華時髦的', '兒童房']"
+紅黑色塑膠磚地板,あかくろピータイル,red-and-black vinyl flooring,地板,RoomTexFloorTileChecker01,Nook商店,287,1150,瓷磚檢查器,['昂貴']
+紅色磚塊地板,あかレンガのゆか,red-brick flooring,地板,RoomTexFloorBrick01,Nook商店,260,1040,磚,"['設施', '商店']"
+岩山地板,いわやまのゆか,rocky-mountain flooring,地板,RoomTexFloorRock00,駱嵐,750,3000,自然-棕色,['花園']
+玫瑰地毯,バラのじゅうたん,rose flooring,地板,RoomTexFloorRoseCarpet00,Nook商店,550,2200,布地板,"['豪華時髦的', '昂貴']"
+玫瑰木地板,ローズウッドのゆか,rosewood flooring,地板,RoomTexFloorRoseWood00,Nook商店,605,2420,木地板,"['昂貴', '客廳']"
+橡膠磚地板,ゴムタイルのゆか,rubber-tile flooring,地板,RoomTexFloorRubberTile00,Nook商店,175,700,瓷磚地板,"['設施', '商店']"
+燈心草榻榻米,いぐさのたたみ,rush tatami,地板,RoomTexFloorTatami01,Nook商店,550,2200,榻榻米,"['禪宗風格', '客廳']"
+燈心草無邊榻榻米,いぐさのふちなしたたみ,rush tatami flooring,地板,RoomTexFloorTatamiPanel01,Nook商店,550,2200,榻榻米麵板,"['禪宗風格', '客廳']"
+沙漠地板,さばくなゆか,Saharah's desert,地板,RoomTexFloorDesert00,駱嵐,750,3000,自然-白色,['民間藝術']
+粉紅色木地板,さくらのウッドフローリング,sakura-wood flooring,地板,RoomTexFloorSolidWood00,DIY,3200,,木地板,"['兒童房', '豪華時髦的']"
+空地地板,あきちのゆか,sandlot,地板,RoomTexFloorEmptyLot00,駱嵐,750,3000,自然-棕色,['花園']
+沙灘地板,すなはまのゆか,sandy-beach flooring,地板,RoomTexFloorSand00,DIY,4120,,自然-白色,['海洋']
+太空船地板,うちゅうせんのゆか,sci-fi flooring,地板,RoomSpFloorSF00,DIY,7500,,特殊無機地板,"['太空', '設施']"
+全向十字路口,スクランブルこうさてん,scramble crosswalk,地板,RoomTexFloorScramble00,駱嵐,750,3000,人行道,['設施']
+深褐色巧拼地板,セピアパズルのゆか,sepia puzzle flooring,地板,RoomTexFloorPuzzleMat02,Nook商店,362,1450,拼圖墊,"['豪華時髦的', '兒童房']"
+甲板地板,かんぱんのゆか,ship deck,地板,RoomTexFloorSeaView00,Nook商店,1000,4000,運動地板,['海洋']
+人行道地板,ほどうのゆか,sidewalk flooring,地板,RoomTexFloorSidewalk01,駱嵐,750,3000,人行道,"['商店', '設施']"
+藍色簡約地毯,あおいシンプルカーペット,simple blue flooring,地板,RoomTexFloorSimpleCarpet01,Nook商店,375,1500,簡單地毯,"['書桌', '客廳']"
+紫色簡約地毯,むらさきのシンプルカーペット,simple purple flooring,地板,RoomTexFloorSimpleCarpet03,Nook商店,375,1500,簡單地毯,"['書桌', '昂貴']"
+紅色簡約地毯,あかいシンプルカーペット,simple red flooring,地板,RoomTexFloorSimpleCarpet00,Nook商店,375,1500,簡單地毯,"['書桌', '昂貴']"
+白色簡約地毯,しろいシンプルカーペット,simple white flooring,地板,RoomTexFloorSimpleCarpet04,Nook商店,375,1500,簡單地毯,"['客廳', '商店']"
+滑雪場地板,ゲレンデのゆか,ski-slope flooring,地板,RoomTexFloorGelande00,DIY,3200,,自然-白色,['雪季']
+骷髏地板,スカルなゆか,skull-print flooring,地板,RoomTexFloorSkull00,Nook商店,750,3000,布地板,"['恐怖', '兒童房']"
+不規則石板地,ランダムなしきいし,slate flooring,地板,RoomTexFloorSlate00,Nook商店,345,1380,石材地板,"['設施', '商店']"
+星星沙灘地板,ほしのすなはまのゆか,starry-sands flooring,地板,RoomTexFloorSandStar00,DIY,7720,,自然-白色,"['海洋', '豪華時髦的']"
+鐵板地板,てっぱんのゆか,steel flooring,地板,RoomTexFloorSteel00,DIY,5250,,鐵,"['車庫', '設施']"
+大理石地板,だいりせきのゆか,stone tile,地板,RoomTexFloorMarble00,Nook商店,750,3000,石材地板,"['昂貴', '設施']"
+條紋地板,ストライプなゆか,stripe flooring,地板,RoomTexFloorStripe00,Nook商店,300,1200,布地板,"['客廳', '兒童房']"
+相撲擂台,どひょう,sumo ring,地板,RoomTexFloorArena00,駱嵐,750,3000,運動地板,"['健身', '禪宗風格']"
+泥沼地板,どろぬまなゆか,swamp flooring,地板,RoomTexFloorBog00,駱嵐,750,3000,自然-棕色,"['花園', '恐怖']"
+榻榻米,たたみ,tatami,地板,RoomTexFloorTatami00,Nook商店,550,2200,榻榻米,"['禪宗風格', '客廳']"
+無邊榻榻米,ふちなしたたみ,tatami flooring,地板,RoomTexFloorTatamiPanel00,Nook商店,550,2200,榻榻米麵板,"['禪宗風格', '客廳']"
+陶磚地板,テラコッタタイルのゆか,terra-cotta flooring,地板,RoomTexFloorTileTerracotta00,Nook商店,450,1800,瓷磚地板,"['設施', '商店']"
+虎紋地毯,タイガーなじゅうたん,tiger-print flooring,地板,RoomTexFloorAnimal03,Nook商店,325,1300,動物地板,"['派對', '豪華時髦的']"
+車站月台地板,えきのホームなゆか,train-station flooring,地板,RoomTexFloorPlatform00,駱嵐,750,3000,人行道,['設施']
+海底地板,うみのそこのゆか,underwater flooring,地板,RoomSpFloorFishTank00,DIY,6600,,特殊自然地板,['海洋']
+水面地板,みなものゆか,water flooring,地板,RoomSpFloorWater00,DIY,7200,,特殊自然地板,['海洋']
+曠野地板,こうやのゆか,western desert,地板,RoomTexFloorWilderness00,駱嵐,750,3000,自然-棕色,"['民間藝術', '恐怖']"
+白色六角磚地板,ホワイトハニカムタイルのゆか,white honeycomb tile,地板,RoomTexFloorHoneycomb03,Nook商店,355,1420,蜂窩,"['浴室', '設施']"
+白色鑄鐵拼花地板,しろいアイアンパーケットのゆか,white iron-parquet flooring,地板,RoomTexFloorParquetIron03,Nook商店,587,2350,鐵木地板,"['昂貴', '客廳']"
+白色馬賽克磚地板,しろいモザイクタイルのゆか,white mosaic-tile flooring,地板,RoomTexFloorTile00,Nook商店,225,900,瓷磚地板,"['浴室', '設施']"
+白色磚塊地板,しろレンガのゆか,white-brick flooring,地板,RoomTexFloorBrick00,Nook商店,260,1040,磚,"['設施', '商店']"
+白巧克力地板,ホワイトチョコアソートなゆか,white-chocolates flooring,地板,RoomTexFloorChocolate01,駱嵐,750,3000,巧克力,['豪華時髦的']
+白色油漆地板,しろいペイントフローリング,white-paint flooring,地板,RoomTexFloorPaintWood03,Nook商店,260,1040,彩繪木,"['客廳', '兒童房']"
+花草地板,くさばなのじゅうたん,wildflower meadow,地板,RoomTexFloorGrassland01,駱嵐,750,3000,草原,"['花園', '豪華時髦的']"
+木節地板,ふしありフローリング,wooden-knot flooring,地板,RoomTexFloorCedar00,Nook商店,195,780,木地板,"['客廳', '兒童房']"
+黃色花朵地板,きいろいフラワーフローリング,yellow floral flooring,地板,RoomTexFloorDecoWood00,Nook商店,380,1520,裝飾木,"['商店', '客廳']"
+斑馬紋地板,ゼブラなゆか,zebra-print flooring,地板,RoomTexFloorAnimal02,Nook商店,325,1300,動物地板,"['派對', '豪華時髦的']"
+鋁箔地墊,アルミマット,aluminum rug,地毯,RugRectAluminumM00,駱嵐,375,1500,修長的地毯,"['花園', '戶外活動']"
+蘋果地毯,リンゴのラグ,apple rug,地毯,RugOtherAppleM00,DIY,1200,,水果地毯,"['豪華時髦的', '兒童房']"
+灰階配色磚塊地毯,モノクロブロックのラグ,black blocks rug,地毯,RugSquareBlockM03,駱嵐,375,1500,圖案地毯,['客廳']
+黑色木甲板地毯,くろいウッドデッキのラグ,black wooden-deck rug,地毯,RugRectDeckM03,駱嵐,375,1500,木地毯,['戶外活動']
+黑色圖案廚房地墊,くろいパターンキッチンマット,black-design kitchen mat,地毯,RugRectNativeKitchenS03,駱嵐,250,1000,廚房地毯,['廚房']
+藍色菱格紋地毯,あおいアーガイルのラグ,blue argyle rug,地毯,RugRectArgyleL02,駱嵐,500,2000,修長的圖案地毯,"['客廳', '昂貴']"
+藍色磚塊地毯,あおブロックのラグ,blue blocks rug,地毯,RugSquareBlockM01,駱嵐,375,1500,圖案地毯,['客廳']
+藍色點點地墊,ブルードットのラグ,blue dotted rug,地毯,RugRectDotL03,駱嵐,500,2000,修長的圖案地毯,"['豪華時髦的', '兒童房']"
+藍色基里姆地毯,あおいキリムのカーペット,blue kilim-style carpet,地毯,RugSquareKirimL01,駱嵐,500,2000,圖案地毯,['客廳']
+藍色廚房地墊,あおいキッチンマット,blue kitchen mat,地毯,RugRectKitchenS02,駱嵐,250,1000,廚房地毯,['廚房']
+中型藍色圓地墊,あおいラウンドマット・M,blue medium round mat,地毯,RugRoundSimpleM02,駱嵐,375,1500,蓬鬆的圓形地毯,"['客廳', '兒童房']"
+藍色訊息地墊,あおいメッセージマット,blue message mat,地毯,RugOtherMessageS01,駱嵐,250,1000,留言墊,['兒童房']
+藍色波斯地毯,あおいペルシャじゅうたん,blue Persian rug,地毯,RugSquarePersianL01,駱嵐,500,2000,圖案地毯,"['昂貴', '客廳']"
+藍色長毛地毯,あおいシャギーなラグ,blue shaggy rug,地毯,RugSquareShaggyL02,駱嵐,500,2000,圖案地毯,['客廳']
+小型藍色圓地墊,あおいラウンドマット・S,blue small round mat,地毯,RugRoundSimpleS02,駱嵐,250,1000,蓬鬆的圓形地毯,"['客廳', '兒童房']"
+藍色粗橫紋地毯,あおボーダーのラグ,blue stripes rug,地毯,RugRectBorderL02,駱嵐,500,2000,修長的圖案地毯,"['豪華時髦的', '兒童房']"
+藍色塑膠墊,あおいビニールシート,blue vinyl sheet,地毯,RugRectVinylM01,駱嵐,375,1500,修長的圖案地毯,['花園']
+藍色波浪地毯,あおいウェーブのラグ,blue wavy rug,地毯,RugRectWaveL02,駱嵐,500,2000,修長的圖案地毯,"['客廳', '兒童房']"
+藍色圖案廚房地墊,あおいパターンキッチンマット,blue-design kitchen mat,地毯,RugRectNativeKitchenS01,駱嵐,250,1000,廚房地毯,['廚房']
+植物圖案地毯,ボタニカルなラグ,botanical rug,地毯,RugRectBotanicalL00,駱嵐,500,2000,修長的圖案地毯,['客廳']
+茶色菱格紋地毯,ちゃいろいアーガイルのラグ,brown argyle rug,地毯,RugRectArgyleL03,駱嵐,500,2000,修長的圖案地毯,"['客廳', '昂貴']"
+茶色廚房地墊,ちゃいろいキッチンマット,brown kitchen mat,地毯,RugRectKitchenS00,駱嵐,250,1000,廚房地毯,['廚房']
+茶色長毛地毯,ちゃいろいシャギーなラグ,brown shaggy rug,地毯,RugSquareShaggyL01,駱嵐,500,2000,圖案地毯,['客廳']
+茶色木甲板地毯,ちゃいろいウッドデッキのラグ,brown wooden-deck rug,地毯,RugRectDeckM00,駱嵐,375,1500,木地毯,['戶外活動']
+復活節地毯,イースターなラグ,Bunny Day rug,地毯,RugOtherEasterM00,DIY,2400,,圖標地毯,"['豪華時髦的', '兒童房']"
+櫻桃地毯,さくらんぼのラグ,cherry rug,地毯,RugOtherCherryM00,DIY,1200,,水果地毯,"['豪華時髦的', '兒童房']"
+彩色塑膠墊,カラフルなビニールシート,colorful vinyl sheet,地毯,RugRectVinylM00,駱嵐,375,1500,修長的圖案地毯,['花園']
+深色竹地毯,ダークなバンブーラグ,dark bamboo rug,地毯,RugRectBambooM01,DIY,960,,木地毯,['禪宗風格']
+地球地毯,ちきゅうのラグ,Earth rug,地毯,RugRoundEarthM00,駱嵐,375,1500,圖標地毯,"['太空', '兒童房']"
+魚兒地毯,おサカナのラグ,fish rug,地毯,RugOtherFishM00,活動：釣魚大賽,375,,圖標地毯,"['海洋', '兒童房']"
+雲朵地毯,もくもくのラグ,fluffy rug,地毯,RugOtherCloudM00,駱嵐,375,1500,圖標地毯,"['豪華時髦的', '兒童房']"
+化石地毯,かせきのラグ,fossil rug,地毯,RugOtherFossilM00,駱嵐,375,1500,公園地毯,"['豪華時髦的', '兒童房']"
+綠色格紋拼布地毯,みどりのチェックキルトのラグ,green checked rug,地毯,RugSquareCheckQuiltL03,駱嵐,500,2000,圖案地毯,"['客廳', '兒童房']"
+綠色基里姆地毯,みどりのキリムのカーペット,green kilim-style carpet,地毯,RugSquareKirimL02,駱嵐,500,2000,圖案地毯,['客廳']
+綠色廚房地墊,みどりのキッチンマット,green kitchen mat,地毯,RugRectKitchenS03,駱嵐,250,1000,廚房地毯,['廚房']
+綠色長毛地毯,みどりのシャギーなラグ,green shaggy rug,地毯,RugSquareShaggyL00,駱嵐,500,2000,圖案地毯,['客廳']
+綠色粗橫紋地毯,みどりボーダーのラグ,green stripes rug,地毯,RugRectBorderL03,駱嵐,500,2000,修長的圖案地毯,"['豪華時髦的', '兒童房']"
+鑄鐵玄關地墊,アイアンなげんかんマット,iron entrance mat,地毯,RugRectIronmatS00,駱嵐,250,1000,修長的地毯,"['商店', '昂貴']"
+中型象牙色圓地墊,アイボリーのラウンドマット・M,ivory medium round mat,地毯,RugRoundSimpleM00,駱嵐,375,1500,蓬鬆的圓形地毯,"['客廳', '兒童房']"
+象牙色簡約浴室地墊,アイボリーのシンプルバスマット,ivory simple bath mat,地毯,RugRectBathmatS00,駱嵐,250,1000,修長的地毯,['浴室']
+小型象牙色圓地墊,アイボリーのラウンドマット・S,ivory small round mat,地毯,RugRoundSimpleS00,駱嵐,250,1000,蓬鬆的圓形地毯,"['客廳', '兒童房']"
+蕾絲地毯,レースのラグ,lacy rug,地毯,RugRoundLaceM00,駱嵐,375,1500,蓬鬆的圓形地毯,"['豪華時髦的', '昂貴']"
+瓢蟲地毯,テントウムシのラグ,ladybug rug,地毯,RugRoundLadybirdM00,捕蟲大會,375,,圖標地毯,"['豪華時髦的', '兒童房']"
+淺色竹地毯,ライトなバンブーラグ,light bamboo rug,地毯,RugRectBambooM00,DIY,2400,,木地毯,['禪宗風格']
+魔法陣地毯,まほうじんのラグ,magic-circle rug,地毯,RugRoundMagicM00,駱嵐,375,1500,蓬鬆的圓形地毯,"['恐怖', '兒童房']"
+摩登波浪地毯,モダンなウェーブのラグ,modern wavy rug,地毯,RugRectWaveL00,駱嵐,500,2000,修長的圖案地毯,"['客廳', '兒童房']"
+酷感媽媽廚房地墊,クールなははのキッチンマット,Mom's cool kitchen mat,地毯,RugRectMomS00,媽媽寄送,88,,廚房地毯,"['豪華時髦的', '廚房']"
+活潑媽媽廚房地墊,げんきなははのキッチンマット,Mom's lively kitchen mat,地毯,RugRectMomS02,媽媽寄送,88,,廚房地毯,"['豪華時髦的', '廚房']"
+調皮媽媽廚房地墊,オチャメなははのキッチンマット,Mom's playful kitchen mat,地毯,RugRectMomS01,媽媽寄送,88,,廚房地毯,"['豪華時髦的', '廚房']"
+可靠媽媽廚房地墊,たよれるははのキッチンマット,Mom's reliable kitchen mat,地毯,RugRectMomS03,媽媽寄送,88,,廚房地毯,"['豪華時髦的', '廚房']"
+灰階配色點點地墊,モノクロドットのラグ,monochromatic dotted rug,地毯,RugRectDotL00,駱嵐,500,2000,修長的圖案地毯,"['豪華時髦的', '兒童房']"
+灰階配色波浪地毯,モノクロウェーブのラグ,monochromatic wavy rug,地毯,RugRectWaveL01,駱嵐,500,2000,修長的圖案地毯,"['客廳', '兒童房']"
+蘑菇地毯,キノコのラグ,mush rug,地毯,RugOtherMushM00,駱嵐,375,1500,圖標地毯,"['豪華時髦的', '兒童房']"
+自然色木甲板地毯,ナチュラルなウッドデッキのラグ,natural wooden-deck rug,地毯,RugRectDeckM01,駱嵐,375,1500,木地毯,['戶外活動']
+Nook Inc.植物圖案地毯,たぬきかいはつのボタニカルラグ,Nook Inc. botanical rug,地毯,RugOtherTanukiM00,購物：哩數兌換,5000,,公園地毯,"['豪華時髦的', '客廳']"
+Nook Inc.地毯,たぬきかいはつのラグ,Nook Inc. rug,地毯,RugOtherLeafM00,購物：哩數兌換,5000,,公園地毯,"['豪華時髦的', '兒童房']"
+Nook Inc.正方形地毯,たぬきかいはつのスクエアラグ,Nook Inc. silk rug,地毯,RugRectTanukiL00,購物：哩數兌換,3000,,公園地毯,"['設施', '商店']"
+橘子地毯,オレンジのラグ,orange rug,地毯,RugOtherOrangeM00,DIY,1200,,水果地毯,"['豪華時髦的', '兒童房']"
+橢圓形玄關地毯,オーバルなげんかんマット,oval entrance mat,地毯,RugOtherCountryS00,駱嵐,250,1000,修長的地毯,['客廳']
+桃紅色格紋拼布地毯,ももいろチェックキルトのラグ,peach checked rug,地毯,RugSquareCheckQuiltL02,駱嵐,500,2000,圖案地毯,"['客廳', '兒童房']"
+桃子地毯,モモのラグ,peach rug,地毯,RugOtherPeachM00,DIY,1200,,水果地毯,"['豪華時髦的', '兒童房']"
+桃紅色粗橫紋地毯,ももいろボーダーのラグ,peach stripes rug,地毯,RugRectBorderL01,駱嵐,500,2000,修長的圖案地毯,"['豪華時髦的', '兒童房']"
+梨子地毯,ナシのラグ,pear rug,地毯,RugOtherPearM00,DIY,1200,,水果地毯,"['豪華時髦的', '兒童房']"
+粉紅色愛心地毯,ピンクハートのラグ,pink heart rug,地毯,RugOtherHeartM00,駱嵐,375,1500,心地毯,"['豪華時髦的', '兒童房']"
+粉紅色玫瑰地毯,ピンクローズのラグ,pink rose rug,地毯,RugOtherRoseM00,駱嵐,375,1500,玫瑰地毯,"['豪華時髦的', '昂貴']"
+紫色愛心地毯,パープルハートのラグ,purple heart rug,地毯,RugOtherHeartM02,駱嵐,375,1500,心地毯,"['豪華時髦的', '兒童房']"
+紫色波斯地毯,むらさきのペルシャじゅうたん,purple Persian rug,地毯,RugSquarePersianL03,駱嵐,500,2000,圖案地毯,"['昂貴', '客廳']"
+紫色長毛地毯,むらさきのシャギーなラグ,purple shaggy rug,地毯,RugSquareShaggyL03,駱嵐,500,2000,圖案地毯,['客廳']
+紅色菱格紋地毯,あかいアーガイルのラグ,red argyle rug,地毯,RugRectArgyleL01,駱嵐,500,2000,修長的圖案地毯,"['客廳', '昂貴']"
+紅色磚塊地毯,あかブロックのラグ,red blocks rug,地毯,RugSquareBlockM00,駱嵐,375,1500,圖案地毯,['客廳']
+紅地毯,レッドカーペット,red carpet,地毯,RugRectElegantM00,駱嵐,375,1500,修長的地毯,['昂貴']
+紅色點點地墊,レッドドットのラグ,red dotted rug,地毯,RugRectDotL02,駱嵐,500,2000,修長的圖案地毯,"['豪華時髦的', '兒童房']"
+紅色基里姆地毯,あかいキリムのカーペット,red kilim-style carpet,地毯,RugSquareKirimL00,駱嵐,500,2000,圖案地毯,['客廳']
+中型紅色圓地墊,あかいラウンドマット・M,red medium round mat,地毯,RugRoundSimpleM01,駱嵐,375,1500,蓬鬆的圓形地毯,"['客廳', '兒童房']"
+紅色訊息地墊,あかいメッセージマット,red message mat,地毯,RugOtherMessageS03,駱嵐,250,1000,留言墊,['兒童房']
+紅色波斯地毯,あかいペルシャじゅうたん,red Persian rug,地毯,RugSquarePersianL00,駱嵐,500,2000,圖案地毯,"['昂貴', '客廳']"
+紅色玫瑰地毯,レッドローズのラグ,red rose rug,地毯,RugOtherRoseM01,駱嵐,375,1500,玫瑰地毯,"['豪華時髦的', '昂貴']"
+小型紅色圓地墊,あかいラウンドマット・S,red small round mat,地毯,RugRoundSimpleS01,駱嵐,250,1000,蓬鬆的圓形地毯,"['客廳', '兒童房']"
+紅色塑膠墊,あかいビニールシート,red vinyl sheet,地毯,RugRectVinylM02,駱嵐,375,1500,修長的圖案地毯,['花園']
+紅色波浪地毯,あかいウェーブのラグ,red wavy rug,地毯,RugRectWaveL03,駱嵐,500,2000,修長的圖案地毯,"['客廳', '兒童房']"
+紅藍格紋拼布地毯,あかあおチェックキルトのラグ,red-and-blue checked rug,地毯,RugSquareCheckQuiltL00,駱嵐,500,2000,圖案地毯,"['客廳', '兒童房']"
+紅色圖案廚房地墊,あかいパターンキッチンマット,red-design kitchen mat,地毯,RugRectNativeKitchenS00,駱嵐,250,1000,廚房地毯,['廚房']
+復古點點地毯,レトロドットのラグ,retro dotted rug,地毯,RugRectDotL01,駱嵐,500,2000,修長的圖案地毯,"['豪華時髦的', '兒童房']"
+硬地墊,ハードマット,rough rug,地毯,RugRectDoormatS00,駱嵐,250,1000,修長的地毯,"['學校', '設施']"
+塑膠刮泥墊,ゴムのどろふきマット,rubber mud mat,地毯,RugRectRubberScraperS00,駱嵐,250,1000,修長的地毯,['學校']
+舊草蓆,ふるいむしろのラグ,shanty mat,地毯,RugSquareOldStrawL00,駱嵐,500,2000,簡單地毯,['禪宗風格']
+貝殼地毯,かいがらのラグ,shell rug,地毯,RugOtherShellM00,DIY,5400,,公園地毯,"['海洋', '豪華時髦的']"
+綠色簡約浴室地墊,グリーンのシンプルバスマット,simple green bath mat,地毯,RugRectBathmatS03,駱嵐,250,1000,修長的地毯,['浴室']
+中型卡其色簡約地墊,カーキのシンプルマット・M,simple medium avocado mat,地毯,RugSquareSimpleM03,駱嵐,375,1500,簡單地毯,"['客廳', '設施']"
+中型黑色簡約地墊,くろいシンプルマット・M,simple medium black mat,地毯,RugSquareSimpleM07,駱嵐,375,1500,簡單地毯,"['客廳', '設施']"
+中型藍色簡約地墊,あおいシンプルマット・M,simple medium blue mat,地毯,RugSquareSimpleM02,駱嵐,375,1500,簡單地毯,"['客廳', '設施']"
+中型茶色簡約地墊,ちゃいろいシンプルマット・M,simple medium brown mat,地毯,RugSquareSimpleM01,駱嵐,375,1500,簡單地毯,"['客廳', '設施']"
+中型橘色簡約地墊,オレンジのシンプルマット・M,simple medium orange mat,地毯,RugSquareSimpleM05,駱嵐,375,1500,簡單地毯,"['客廳', '設施']"
+中型紫色簡約地墊,むらさきのシンプルマット・M,simple medium purple mat,地毯,RugSquareSimpleM06,駱嵐,375,1500,簡單地毯,"['客廳', '設施']"
+中型紅色簡約地墊,あかいシンプルマット・M,simple medium red mat,地毯,RugSquareSimpleM04,駱嵐,375,1500,簡單地毯,"['客廳', '設施']"
+海軍藍簡約浴室地墊,ネイビーのシンプルバスマット,simple navy bath mat,地毯,RugRectBathmatS01,駱嵐,250,1000,修長的地毯,['浴室']
+粉紅色簡約浴室地墊,ピンクのシンプルバスマット,simple pink bath mat,地毯,RugRectBathmatS02,駱嵐,250,1000,修長的地毯,['浴室']
+小型卡其色簡約地墊,カーキのシンプルマット・S,simple small avocado mat,地毯,RugSquareSimpleS03,駱嵐,250,1000,簡單地毯,"['客廳', '設施']"
+小型黑色簡約地墊,くろいシンプルマット・S,simple small black mat,地毯,RugSquareSimpleS07,駱嵐,250,1000,簡單地毯,"['客廳', '設施']"
+小型藍色簡約地墊,あおいシンプルマット・S,simple small blue mat,地毯,RugSquareSimpleS02,駱嵐,250,1000,簡單地毯,"['客廳', '設施']"
+小型茶色簡約地墊,ちゃいろいシンプルマット・S,simple small brown mat,地毯,RugSquareSimpleS01,駱嵐,250,1000,簡單地毯,"['客廳', '設施']"
+小型橘色簡約地墊,オレンジのシンプルマット・S,simple small orange mat,地毯,RugSquareSimpleS05,駱嵐,250,1000,簡單地毯,"['客廳', '設施']"
+小型紫色簡約地墊,むらさきのシンプルマット・S,simple small purple mat,地毯,RugSquareSimpleS06,駱嵐,250,1000,簡單地毯,"['客廳', '設施']"
+小型紅色簡約地墊,あかいシンプルマット・S,simple small red mat,地毯,RugSquareSimpleS04,駱嵐,250,1000,簡單地毯,"['客廳', '設施']"
+邋遢地毯,だらしないラグ,sloppy rug,地毯,RugOtherSloppyL00,駱嵐,500,2000,簡單地毯,"['客廳', '兒童房']"
+雪花地毯,スノーフレークなラグ,snowflake rug,地毯,RugRoundSnowM00,駱嵐,375,1500,蓬鬆的圓形地毯,"['雪季', '豪華時髦的']"
+一張榻榻米,いちじょうのたたみ,tatami mat,地毯,RugRectTatamiM00,駱嵐,375,1500,木地毯,['禪宗風格']
+南方小島地毯,みなみのしまのラグ,tropical rug,地毯,RugRoundIslandM00,駱嵐,375,1500,公園地毯,['海洋']
+藍色愛心地毯,ブルーハートのラグ,turquoise heart rug,地毯,RugOtherHeartM01,駱嵐,375,1500,心地毯,"['豪華時髦的', '兒童房']"
+白色愛心地毯,ホワイトハートのラグ,white heart rug,地毯,RugOtherHeartM03,駱嵐,375,1500,心地毯,"['豪華時髦的', '兒童房']"
+白色訊息地墊,しろいメッセージマット,white message mat,地毯,RugOtherMessageS00,駱嵐,250,1000,留言墊,['兒童房']
+白色玫瑰地毯,ホワイトローズのラグ,white rose rug,地毯,RugOtherRoseM03,駱嵐,375,1500,玫瑰地毯,"['豪華時髦的', '昂貴']"
+中型白色簡約地墊,しろいシンプルマット・M,white simple medium mat,地毯,RugSquareSimpleM00,駱嵐,375,1500,簡單地毯,"['客廳', '設施']"
+小型白色簡約地墊,しろいシンプルマット・S,white simple small mat,地毯,RugSquareSimpleS00,駱嵐,250,1000,簡單地毯,"['客廳', '設施']"
+白色木甲板地毯,しろいウッドデッキのラグ,white wooden-deck rug,地毯,RugRectDeckM02,駱嵐,375,1500,木地毯,['戶外活動']
+黃色菱格紋地毯,きいろいアーガイルのラグ,yellow argyle rug,地毯,RugRectArgyleL00,駱嵐,500,2000,修長的圖案地毯,"['客廳', '豪華時髦的']"
+黃色磚塊地毯,きいろブロックのラグ,yellow blocks rug,地毯,RugSquareBlockM02,駱嵐,375,1500,圖案地毯,['客廳']
+黃色格紋拼布地毯,きいろいチェックキルトのラグ,yellow checked rug,地毯,RugSquareCheckQuiltL01,駱嵐,500,2000,圖案地毯,"['客廳', '兒童房']"
+黃色基里姆地毯,きいろいキリムのカーペット,yellow kilim-style carpet,地毯,RugSquareKirimL03,駱嵐,500,2000,圖案地毯,['客廳']
+黃色廚房地墊,きいろいキッチンマット,yellow kitchen mat,地毯,RugRectKitchenS01,駱嵐,250,1000,廚房地毯,['廚房']
+中型黃色圓地墊,きいろいラウンドマット・M,yellow medium round mat,地毯,RugRoundSimpleM03,駱嵐,375,1500,蓬鬆的圓形地毯,"['客廳', '兒童房']"
+黃色訊息地墊,きいろいメッセージマット,yellow message mat,地毯,RugOtherMessageS02,駱嵐,250,1000,留言墊,['兒童房']
+黃色波斯地毯,きいろいペルシャじゅうたん,yellow Persian rug,地毯,RugSquarePersianL02,駱嵐,500,2000,圖案地毯,"['昂貴', '客廳']"
+黃色玫瑰地毯,イエローローズのラグ,yellow rose rug,地毯,RugOtherRoseM02,駱嵐,375,1500,玫瑰地毯,"['豪華時髦的', '昂貴']"
+小型黃色圓地墊,きいろいラウンドマット・S,yellow small round mat,地毯,RugRoundSimpleS03,駱嵐,250,1000,蓬鬆的圓形地毯,"['客廳', '兒童房']"
+黃色粗橫紋地毯,きいろボーダーのラグ,yellow stripes rug,地毯,RugRectBorderL00,駱嵐,500,2000,修長的圖案地毯,"['豪華時髦的', '兒童房']"
+黃色塑膠墊,きいろいビニールシート,yellow vinyl sheet,地毯,RugRectVinylM03,駱嵐,375,1500,修長的圖案地毯,['花園']
+黃色圖案廚房地墊,きいろパターンキッチンマット,yellow-design kitchen mat,地毯,RugRectNativeKitchenS02,駱嵐,250,1000,廚房地毯,['廚房']
+棕色婚禮牆,ウェディングなかべ・ブラウン,brown wedding wall,壁紙,RoomSpWallChurch01,健兆,750,3000,布塊牆,"['派對', '昂貴']"
+綠色婚禮牆,ウェディングなかべ・グリーン,green wedding wall,壁紙,RoomSpWallChurch02,健兆,750,3000,布塊牆,"['派對', '昂貴']"
+婚禮派對牆,ウェディングパーティーのかべ,wedding-party wall,壁紙,RoomTexWallJuneBride00,健兆,437,1750,布塊牆,"['派對', '昂貴']"
+白色婚禮牆,ウェディングなかべ・ホワイト,white wedding wall,壁紙,RoomSpWallChurch00,健兆,750,3000,布塊牆,"['派對', '昂貴']"
+婚禮棕色磚地板,ウェディングなブラウンタイル,brown wedding flooring,地板,RoomTexFloorMarbleTile01,健兆,750,3000,瓷磚地板,"['派對', '昂貴']"
+婚禮綠色磚地板,ウェディングなグリーンタイル,green wedding flooring,地板,RoomTexFloorMarbleTile02,健兆,750,3000,瓷磚地板,"['派對', '昂貴']"
+婚禮白色磚地板,ウェディングなホワイトタイル,white wedding flooring,地板,RoomTexFloorMarbleTile00,健兆,750,3000,瓷磚地板,"['派對', '昂貴']"
+鈴錢袋地毯,ベルぶくろのラグ,Bell-bag rug,地毯,RugOtherBellM00,購物：哩數兌換,6000,,公園地毯,['昂貴']
+藍色婚禮地毯,ウェディングなラグ・ブルー,blue wedding rug,地毯,RugRectJuneBrideM00,健兆,375,1500,修長的圖案地毯,"['派對', '昂貴']"
+紅色婚禮地毯,ウェディングなラグ・レッド,red wedding rug,地毯,RugRectJuneBrideM02,健兆,375,1500,修長的圖案地毯,"['派對', '昂貴']"
+白色婚禮地毯,ウェディングなラグ・ホワイト,white wedding rug,地毯,RugRectJuneBrideM03,健兆,375,1500,修長的圖案地毯,"['派對', '昂貴']"

@@ -1,0 +1,90 @@
+name_c,name_j,name_e,category,filename,obtainedFrom,sell,buy
+竹棒,たけのステッキ,bamboo wand,工具,ToolStickBamboo,['DIY'],3900,
+蟲子棒,ムシのステッキ,bug wand,工具,ToolStcikInsect,['捕蟲大會'],1500,
+復活節棒,イースターなステッキ,Bunny Day wand,工具,ToolStickEgg,['DIY'],11100,
+櫻花棒,さくらのステッキ,cherry-blossom wand,工具,ToolStickCherryblossom,['DIY'],2700,
+波斯菊棒,コスモスのステッキ,cosmos wand,工具,ToolStickCosmos,['DIY'],1580,
+魚兒棒,おサカナのステッキ,fish wand,工具,ToolStickFish,['活動：釣魚大賽'],1500,
+黃金棒,おうごんのステッキ,golden wand,工具,ToolStickGolden,['DIY'],20750,
+風信子棒,ヒヤシンスのステッキ,hyacinth wand,工具,ToolStickHyacinth,['DIY'],1660,
+冰之棒,こおりのステッキ,ice wand,工具,ToolStickSnow,['DIY'],6500,
+鐵棒,てつのステッキ,iron wand,工具,ToolStickIron,['DIY'],3750,
+螢光棒,スティックライト,light stick,工具,ToolSticklight,['西施惠'],375,1500
+百合棒,ユリのステッキ,lily wand,工具,ToolStickYuri,['DIY'],1580,
+菊花棒,キクのステッキ,mums wand,工具,ToolStickChrysanthemum,['DIY'],1580,
+蘑菇棒,キノコのステッキ,mushroom wand,工具,ToolStickMushroom_Remake_0_0,['DIY'],3300,
+三色堇棒,パンジーのステッキ,pansy wand,工具,ToolStickPansy,['DIY'],1580,
+玫瑰棒,バラのステッキ,rose wand,工具,ToolStickRose,['DIY'],1580,
+貝殼棒,かいがらのステッキ,shell wand,工具,ToolStickShell,['DIY'],5100,
+星星棒,スターなステッキ,star wand,工具,ToolChangeStick,['DIY'],6500,
+樹枝棒,きのえだのステッキ,tree-branch wand,工具,ToolStickTree,['DIY'],1550,
+鬱金香棒,チューリップのステッキ,tulip wand,工具,ToolStickTulip,['DIY'],1580,
+銀蓮花棒,アネモネのステッキ,windflower wand,工具,ToolStickAnemones,['DIY'],1580,
+蘋果雨傘,リンゴのかさ,apple umbrella,雨傘,UmbrellaApple0,['DIY'],1400,
+蝙蝠雨傘,こうもりがさ,bat umbrella,雨傘,UmbrellaBat0,['Nook商店'],210,840
+沙灘傘,ビーチなかさ,beach umbrella,雨傘,UmbrellaBeach0,['Nook商店'],192,770
+熊熊雨傘,クマのかさ,bear umbrella,雨傘,UmbrellaBear0,['Nook商店'],392,1570
+黑色典雅雨傘,くろいシックなかさ,black chic umbrella,雨傘,UmbrellaPacodarace5,['Nook商店'],405,1620
+黑色蕾絲雨傘,くろいレースのかさ,black lace umbrella,雨傘,UmbrellaRace0,['Nook商店'],187,750
+藍色圓點雨傘,あおいみずたまのかさ,blue dot parasol,雨傘,UmbrellaPolkadot2,['Nook商店'],187,750
+藍色蘿莉塔雨傘,ブルーのロリータがさ,blue shiny-bows parasol,雨傘,UmbrellaPacodarace2,['Nook商店'],405,1620
+藍色無圖案雨傘,あおいむじのかさ,blue umbrella,雨傘,UmbrellaStandard2,['Nook商店'],192,770
+壞掉的雨傘,こわれたかさ,busted umbrella,雨傘,UmbrellaBroken0,['Nook商店'],392,1570
+迷彩雨傘,めいさいのかさ,camo umbrella,雨傘,UmbrellaOutdoor0,['Nook商店'],162,650
+草莓嘉頓格雨傘,いちごギンガムのかさ,candy umbrella,雨傘,UmbrellaGingham0,['Nook商店'],192,770
+櫻桃雨傘,さくらんぼのかさ,cherry umbrella,雨傘,UmbrellaCherry0,['DIY'],1400,
+櫻花雨傘,さくらのかさ,cherry-blossom umbrella,雨傘,UmbrellaCherryblossom0,['DIY'],2800,
+DAL雨傘,ＤＡＬのかさ,DAL umbrella,雨傘,UmbrellaDoc0,['Dodo公司'],1010,
+黃色圓點雨傘,きいろみずたまのかさ,eggy parasol,雨傘,UmbrellaPolkadot1,['Nook商店'],187,750
+東方風雨傘,オリエンタルなかさ,exquisite parasol,雨傘,UmbrellaChina0,['Nook商店'],417,1670
+童話風雨傘,メルヘンなかさ,fairy-tale umbrella,雨傘,UmbrellaFairytale0,['Nook商店'],205,820
+魚兒雨傘,サカナのかさ,fish umbrella,雨傘,UmbrellaFish0,['活動：釣魚大賽'],80,
+青蛙雨傘,カエルのかさ,frog umbrella,雨傘,UmbrellaFrog0,['Nook商店'],392,1570
+三色雨傘,トリコロールなかさ,gelato umbrella,雨傘,UmbrellaTricolor0,['Nook商店'],187,750
+晴天娃娃雨傘,てるてるぼうずのかさ,ghost umbrella,雨傘,UmbrellaTeruteru0,['Nook商店'],417,1670
+葡萄雨傘,ぶどうのかさ,grape umbrella,雨傘,UmbrellaGrape0,['Nook商店'],387,1550
+綠色典雅雨傘,みどりのシックなかさ,green chic umbrella,雨傘,UmbrellaPacodarace4,['Nook商店'],405,1620
+綠色無圖案雨傘,みどりのむじのかさ,green umbrella,雨傘,UmbrellaStandard3,['Nook商店'],192,770
+繡球花雨傘,アジサイのかさ,hydrangea umbrella,雨傘,UmbrellaHydrangea0,['Nook商店'],187,750
+歌舞伎雨傘,かぶきなかさ,kabuki umbrella,雨傘,UmbrellaKabuki0,['Nook商店'],417,1670
+奇異果雨傘,キウイのかさ,kiwi umbrella,雨傘,UmbrellaKiwi0,['Nook商店'],387,1550
+蕾絲雨傘,レースのかさ,lacy parasol,雨傘,UmbrellaLace0,['Nook商店'],387,1550
+瓢蟲雨傘,テントウムシのかさ,ladybug umbrella,雨傘,UmbrellaLadybug0,['捕蟲大會'],80,
+葉子雨傘,はっぱのかさ,leaf umbrella,雨傘,UmbrellaLeaf0,['DIY'],300,
+檸檬嘉頓格紋雨傘,レモンギンガムのかさ,lemon umbrella,雨傘,UmbrellaGingham4,['Nook商店'],192,770
+Logo雨傘,ロゴいりのかさ,logo umbrella,雨傘,UmbrellaLogo0,['Nook商店'],162,650
+楓葉雨傘,もみじのかさ,maple-leaf umbrella,雨傘,UmbrellaAutumn0,['DIY'],2800,
+綠葉嘉頓格紋雨傘,わかばギンガムのかさ,melon umbrella,雨傘,UmbrellaGingham1,['Nook商店'],192,770
+碎花雨傘,こばながらのかさ,mini-flower-print umbrella,雨傘,UmbrellaFlorets0,['Nook商店'],187,750
+薄荷綠嘉頓格紋雨傘,ミントギンガムのかさ,mint umbrella,雨傘,UmbrellaGingham2,['Nook商店'],192,770
+蘑菇雨傘,キノコのかさ,mush umbrella,雨傘,UmbrellaMushroom0,['DIY'],1200,
+Nook Inc.雨傘,たぬきかいはつのかさ,Nook Inc. umbrella,雨傘,UmbrellaRco0,['購物：哩數兌換'],3500,
+橘子雨傘,オレンジのかさ,orange umbrella,雨傘,UmbrellaOrange0,['DIY'],1400,
+熊貓雨傘,パンダのかさ,panda umbrella,雨傘,UmbrellaPanda0,['Nook商店'],392,1570
+油紙傘,ばんがさ,paper parasol,雨傘,UmbrellaBangasa0,['Nook商店'],217,870
+花紋透明雨傘,ガラいりビニールがさ,patterned vinyl umbrella,雨傘,UmbrellaBoundary0,['Nook商店'],187,750
+桃子雨傘,モモのかさ,peach umbrella,雨傘,UmbrellaPeach0,['DIY'],1400,
+梨子雨傘,ナシのかさ,pear umbrella,雨傘,UmbrellaPear0,['DIY'],1400,
+小雛菊雨傘,マーガレットのかさ,petal parasol,雨傘,UmbrellaMargaret0,['Nook商店'],397,1590
+莓果嘉頓格紋雨傘,ベリーギンガムのかさ,picnic umbrella,雨傘,UmbrellaGingham3,['Nook商店'],192,770
+鳳梨雨傘,パイナップルのかさ,pineapple umbrella,雨傘,UmbrellaPineapple0,['Nook商店'],387,1550
+粉紅色蘿莉塔雨傘,ピンクのロリータがさ,pink shiny-bows parasol,雨傘,UmbrellaPacodarace0,['Nook商店'],405,1620
+粉紅色無圖案雨傘,ピンクのむじのかさ,pink umbrella,雨傘,UmbrellaSchool0,['Nook商店'],192,770
+紫色典雅雨傘,むらさきのシックなかさ,purple chic umbrella,雨傘,UmbrellaPacoda0,['Nook商店'],405,1620
+紫色蘿莉塔雨傘,パープルのロリータがさ,purple shiny-bows parasol,雨傘,UmbrellaPacodarace1,['Nook商店'],405,1620
+彩虹雨傘,レインボーなかさ,rainbow umbrella,雨傘,UmbrellaRainbow0,['Nook商店'],210,840
+雨點雨傘,レイニーなかさ,raindrop umbrella,雨傘,UmbrellaRain0,['Nook商店'],187,750
+紅色典雅雨傘,あかいシックなかさ,red chic umbrella,雨傘,UmbrellaPacodarace6,['Nook商店'],405,1620
+紅色無圖案雨傘,あかいむじのかさ,red umbrella,雨傘,UmbrellaStandard1,['Nook商店'],192,770
+雪花雨傘,スノーフレークのかさ,snowflake umbrella,雨傘,UmbrellaCrystal0,['Nook商店'],387,1550
+蜘蛛網雨傘,スパイダーなかさ,spider umbrella,雨傘,UmbrellaSpider0,['Nook商店'],210,840
+草莓雨傘,いちごのかさ,strawberry umbrella,雨傘,UmbrellaStrawberry0,['Nook商店'],387,1550
+條紋雨傘,ストライプのかさ,striped umbrella,雨傘,UmbrellaStripe0,['Nook商店'],187,750
+向日葵雨傘,ひまわりのかさ,sunny parasol,雨傘,UmbrellaSunflower0,['Nook商店'],187,750
+蘇格蘭格紋雨傘,タータンチェックのかさ,tartan-check umbrella,雨傘,UmbrellaPlaid0,['Nook商店'],187,750
+紅色圓點雨傘,あかいみずたまのかさ,Toad parasol,雨傘,UmbrellaPolkadotRed,['Nook商店'],187,750
+撞色雨傘,ツートンなかさ,two-tone umbrella,雨傘,UmbrellaTwocolor0,['Nook商店'],192,770
+透明雨傘,ビニールがさ,vinyl umbrella,雨傘,UmbrellaVinyl0,['Nook商店'],192,770
+西瓜雨傘,スイカのかさ,watermelon umbrella,雨傘,UmbrellaWater0,['Nook商店'],387,1550
+白色蘿莉塔雨傘,ホワイトのロリータがさ,white shiny-bows parasol,雨傘,UmbrellaPacodarace3,['Nook商店'],405,1620
+婚禮棒,ウェディングなステッキ,wedding wand,工具,ToolStickJune,['健兆'],3500,
