@@ -51,12 +51,12 @@ DAL雨傘,ＤＡＬのかさ,DAL umbrella,雨傘,UmbrellaDoc0,['Dodo公司'],101
 蕾絲雨傘,レースのかさ,lacy parasol,雨傘,UmbrellaLace0,['Nook商店'],387,1550
 瓢蟲雨傘,テントウムシのかさ,ladybug umbrella,雨傘,UmbrellaLadybug0,['捕蟲大會'],80,
 葉子雨傘,はっぱのかさ,leaf umbrella,雨傘,UmbrellaLeaf0,['DIY'],300,
-檸檬嘉頓格紋雨傘,レモンギンガムのかさ,lemon umbrella,雨傘,UmbrellaGingham4,['Nook商店'],192,770
+檸檬嘉頓格雨傘,レモンギンガムのかさ,lemon umbrella,雨傘,UmbrellaGingham4,['Nook商店'],192,770
 Logo雨傘,ロゴいりのかさ,logo umbrella,雨傘,UmbrellaLogo0,['Nook商店'],162,650
 楓葉雨傘,もみじのかさ,maple-leaf umbrella,雨傘,UmbrellaAutumn0,['DIY'],2800,
-綠葉嘉頓格紋雨傘,わかばギンガムのかさ,melon umbrella,雨傘,UmbrellaGingham1,['Nook商店'],192,770
+嫩綠嘉頓格雨傘,わかばギンガムのかさ,melon umbrella,雨傘,UmbrellaGingham1,['Nook商店'],192,770
 碎花雨傘,こばながらのかさ,mini-flower-print umbrella,雨傘,UmbrellaFlorets0,['Nook商店'],187,750
-薄荷綠嘉頓格紋雨傘,ミントギンガムのかさ,mint umbrella,雨傘,UmbrellaGingham2,['Nook商店'],192,770
+薄荷綠嘉頓格雨傘,ミントギンガムのかさ,mint umbrella,雨傘,UmbrellaGingham2,['Nook商店'],192,770
 蘑菇雨傘,キノコのかさ,mush umbrella,雨傘,UmbrellaMushroom0,['DIY'],1200,
 Nook Inc.雨傘,たぬきかいはつのかさ,Nook Inc. umbrella,雨傘,UmbrellaRco0,['購物：哩數兌換'],3500,
 橘子雨傘,オレンジのかさ,orange umbrella,雨傘,UmbrellaOrange0,['DIY'],1400,
@@ -66,7 +66,7 @@ Nook Inc.雨傘,たぬきかいはつのかさ,Nook Inc. umbrella,雨傘,Umbrell
 桃子雨傘,モモのかさ,peach umbrella,雨傘,UmbrellaPeach0,['DIY'],1400,
 梨子雨傘,ナシのかさ,pear umbrella,雨傘,UmbrellaPear0,['DIY'],1400,
 小雛菊雨傘,マーガレットのかさ,petal parasol,雨傘,UmbrellaMargaret0,['Nook商店'],397,1590
-莓果嘉頓格紋雨傘,ベリーギンガムのかさ,picnic umbrella,雨傘,UmbrellaGingham3,['Nook商店'],192,770
+莓果嘉頓格雨傘,ベリーギンガムのかさ,picnic umbrella,雨傘,UmbrellaGingham3,['Nook商店'],192,770
 鳳梨雨傘,パイナップルのかさ,pineapple umbrella,雨傘,UmbrellaPineapple0,['Nook商店'],387,1550
 粉紅色蘿莉塔雨傘,ピンクのロリータがさ,pink shiny-bows parasol,雨傘,UmbrellaPacodarace0,['Nook商店'],405,1620
 粉紅色無圖案雨傘,ピンクのむじのかさ,pink umbrella,雨傘,UmbrellaSchool0,['Nook商店'],192,770
@@ -87,4 +87,4 @@ Nook Inc.雨傘,たぬきかいはつのかさ,Nook Inc. umbrella,雨傘,Umbrell
 透明雨傘,ビニールがさ,vinyl umbrella,雨傘,UmbrellaVinyl0,['Nook商店'],192,770
 西瓜雨傘,スイカのかさ,watermelon umbrella,雨傘,UmbrellaWater0,['Nook商店'],387,1550
 白色蘿莉塔雨傘,ホワイトのロリータがさ,white shiny-bows parasol,雨傘,UmbrellaPacodarace3,['Nook商店'],405,1620
-婚禮棒,ウェディングなステッキ,wedding wand,工具,ToolStickJune,['健兆'],3500,
+婚禮棒,ウェディングなステッキ,wedding wand,工具,ToolStickJune,['DIY'],3500,

@@ -125,7 +125,7 @@ name_c,name_j,name_e,category,filename,obtainedFrom,sell,buy,tag,themes
 高原牆,こうげんなかべ,meadow vista,壁紙,RoomSpWallHighLands00,駱嵐,750,3000,特酷自然牆,['花園']
 毛毛細雨牆,こさめのふるかべ,misty-garden wall,壁紙,RoomSpWallRain00,駱嵐,585,3000,特酷自然牆,['花園']
 引人入勝牆,キャッチーなかべ,mod wall,壁紙,RoomTexWallMod00,Nook商店,305,1220,布塊牆,['派對']
-現代日式紙拉門,モダンなしょうじ,modern shoji-screen wall,壁紙,RoomSpWallShojiModem00,Nook商店,287,1150,日式,"['禪宗風格', '商店']"
+摩登日式紙拉門,モダンなしょうじ,modern shoji-screen wall,壁紙,RoomSpWallShojiModem00,Nook商店,287,1150,日式,"['禪宗風格', '商店']"
 摩登茶室牆,モダンなちゃしつのかべ,modern tearoom wall,壁紙,RoomTexWallMud02,Nook商店,437,1750,茶室牆,"['禪宗風格', '商店']"
 拼木牆,ミックスウッドのかべ,modern wood wall,壁紙,RoomTexWallMixwood00,DIY,1800,,木牆,"['客廳', '兒童房']"
 灰階配色點點壁紙,モノクロドットのかべがみ,monochromatic dotted wall,壁紙,RoomTexWallDot00,Nook商店,275,1100,點,"['豪華時髦的', '兒童房']"
@@ -376,7 +376,7 @@ Nook Inc.地板,たぬきかいはつのフローリング,Nook Inc. flooring,�
 燈心草榻榻米,いぐさのたたみ,rush tatami,地板,RoomTexFloorTatami01,Nook商店,550,2200,榻榻米,"['禪宗風格', '客廳']"
 燈心草無邊榻榻米,いぐさのふちなしたたみ,rush tatami flooring,地板,RoomTexFloorTatamiPanel01,Nook商店,550,2200,榻榻米麵板,"['禪宗風格', '客廳']"
 沙漠地板,さばくなゆか,Saharah's desert,地板,RoomTexFloorDesert00,駱嵐,750,3000,自然-白色,['民間藝術']
-粉紅色木地板,さくらのウッドフローリング,sakura-wood flooring,地板,RoomTexFloorSolidWood00,DIY,3200,,木地板,"['兒童房', '豪華時髦的']"
+櫻花木地板,さくらのウッドフローリング,sakura-wood flooring,地板,RoomTexFloorSolidWood00,DIY,3200,,木地板,"['兒童房', '豪華時髦的']"
 空地地板,あきちのゆか,sandlot,地板,RoomTexFloorEmptyLot00,駱嵐,750,3000,自然-棕色,['花園']
 沙灘地板,すなはまのゆか,sandy-beach flooring,地板,RoomTexFloorSand00,DIY,4120,,自然-白色,['海洋']
 太空船地板,うちゅうせんのゆか,sci-fi flooring,地板,RoomSpFloorSF00,DIY,7500,,特殊無機地板,"['太空', '設施']"
@@ -392,7 +392,7 @@ Nook Inc.地板,たぬきかいはつのフローリング,Nook Inc. flooring,�
 骷髏地板,スカルなゆか,skull-print flooring,地板,RoomTexFloorSkull00,Nook商店,750,3000,布地板,"['恐怖', '兒童房']"
 不規則石板地,ランダムなしきいし,slate flooring,地板,RoomTexFloorSlate00,Nook商店,345,1380,石材地板,"['設施', '商店']"
 星星沙灘地板,ほしのすなはまのゆか,starry-sands flooring,地板,RoomTexFloorSandStar00,DIY,7720,,自然-白色,"['海洋', '豪華時髦的']"
-鐵板地板,てっぱんのゆか,steel flooring,地板,RoomTexFloorSteel00,DIY,5250,,鐵,"['車庫', '設施']"
+鐵板地板,てっぱんのゆか,steel flooring,地板,RoomTexFloorSteel00,DIY,5250,,鑄鐵,"['車庫', '設施']"
 大理石地板,だいりせきのゆか,stone tile,地板,RoomTexFloorMarble00,Nook商店,750,3000,石材地板,"['昂貴', '設施']"
 條紋地板,ストライプなゆか,stripe flooring,地板,RoomTexFloorStripe00,Nook商店,300,1200,布地板,"['客廳', '兒童房']"
 相撲擂台,どひょう,sumo ring,地板,RoomTexFloorArena00,駱嵐,750,3000,運動地板,"['健身', '禪宗風格']"
@@ -543,14 +543,20 @@ Nook Inc.正方形地毯,たぬきかいはつのスクエアラグ,Nook Inc. si
 黃色粗橫紋地毯,きいろボーダーのラグ,yellow stripes rug,地毯,RugRectBorderL00,駱嵐,500,2000,修長的圖案地毯,"['豪華時髦的', '兒童房']"
 黃色塑膠墊,きいろいビニールシート,yellow vinyl sheet,地毯,RugRectVinylM03,駱嵐,375,1500,修長的圖案地毯,['花園']
 黃色圖案廚房地墊,きいろパターンキッチンマット,yellow-design kitchen mat,地毯,RugRectNativeKitchenS02,駱嵐,250,1000,廚房地毯,['廚房']
-棕色婚禮牆,ウェディングなかべ・ブラウン,brown wedding wall,壁紙,RoomSpWallChurch01,健兆,750,3000,布塊牆,"['派對', '昂貴']"
-綠色婚禮牆,ウェディングなかべ・グリーン,green wedding wall,壁紙,RoomSpWallChurch02,健兆,750,3000,布塊牆,"['派對', '昂貴']"
-婚禮派對牆,ウェディングパーティーのかべ,wedding-party wall,壁紙,RoomTexWallJuneBride00,健兆,437,1750,布塊牆,"['派對', '昂貴']"
-白色婚禮牆,ウェディングなかべ・ホワイト,white wedding wall,壁紙,RoomSpWallChurch00,健兆,750,3000,布塊牆,"['派對', '昂貴']"
-婚禮棕色磚地板,ウェディングなブラウンタイル,brown wedding flooring,地板,RoomTexFloorMarbleTile01,健兆,750,3000,瓷磚地板,"['派對', '昂貴']"
-婚禮綠色磚地板,ウェディングなグリーンタイル,green wedding flooring,地板,RoomTexFloorMarbleTile02,健兆,750,3000,瓷磚地板,"['派對', '昂貴']"
-婚禮白色磚地板,ウェディングなホワイトタイル,white wedding flooring,地板,RoomTexFloorMarbleTile00,健兆,750,3000,瓷磚地板,"['派對', '昂貴']"
-鈴錢袋地毯,ベルぶくろのラグ,Bell-bag rug,地毯,RugOtherBellM00,購物：哩數兌換,6000,,公園地毯,['昂貴']
-藍色婚禮地毯,ウェディングなラグ・ブルー,blue wedding rug,地毯,RugRectJuneBrideM00,健兆,375,1500,修長的圖案地毯,"['派對', '昂貴']"
-紅色婚禮地毯,ウェディングなラグ・レッド,red wedding rug,地毯,RugRectJuneBrideM02,健兆,375,1500,修長的圖案地毯,"['派對', '昂貴']"
-白色婚禮地毯,ウェディングなラグ・ホワイト,white wedding rug,地毯,RugRectJuneBrideM03,健兆,375,1500,修長的圖案地毯,"['派對', '昂貴']"
+棕色婚禮牆,ウェディングなかべ・ブラウン,brown wedding wall,壁紙,RoomSpWallChurch01,健兆,750,,布塊牆,"['派對', '昂貴']"
+綠色婚禮牆,ウェディングなかべ・グリーン,green wedding wall,壁紙,RoomSpWallChurch02,健兆,750,,布塊牆,"['派對', '昂貴']"
+婚禮派對牆,ウェディングパーティーのかべ,wedding-party wall,壁紙,RoomTexWallJuneBride00,健兆,437,,布塊牆,"['派對', '昂貴']"
+白色婚禮牆,ウェディングなかべ・ホワイト,white wedding wall,壁紙,RoomSpWallChurch00,健兆,750,,布塊牆,"['派對', '昂貴']"
+婚禮棕色磚地板,ウェディングなブラウンタイル,brown wedding flooring,地板,RoomTexFloorMarbleTile01,健兆,750,,瓷磚地板,"['派對', '昂貴']"
+婚禮綠色磚地板,ウェディングなグリーンタイル,green wedding flooring,地板,RoomTexFloorMarbleTile02,健兆,750,,瓷磚地板,"['派對', '昂貴']"
+婚禮白色磚地板,ウェディングなホワイトタイル,white wedding flooring,地板,RoomTexFloorMarbleTile00,健兆,750,,瓷磚地板,"['派對', '昂貴']"
+鈴錢袋地毯,ベルぶくろのラグ,Bell-bag rug,地毯,RugOtherBellM00,任天堂、購物：哩數兌換,6000,,公園地毯,['昂貴']
+藍色婚禮地毯,ウェディングなラグ・ブルー,blue wedding rug,地毯,RugRectJuneBrideM00,健兆,375,,修長的圖案地毯,"['派對', '昂貴']"
+紅色婚禮地毯,ウェディングなラグ・レッド,red wedding rug,地毯,RugRectJuneBrideM02,健兆,375,,修長的圖案地毯,"['派對', '昂貴']"
+白色婚禮地毯,ウェディングなラグ・ホワイト,white wedding rug,地毯,RugRectJuneBrideM03,健兆,375,,修長的圖案地毯,"['派對', '昂貴']"
+人魚壁紙,マーメイドなかべがみ,mermaid wall,壁紙,RoomSpWallMermaid00,DIY,23520,,特殊的自然牆,"['海洋', '豪華時髦的']"
+海盜壁紙,かいぞくのかべがみ,pirate wall,壁紙,RoomSpWallPirates00,海盜,750,,特殊牆,['海洋']
+人魚地板,マーメイドなゆか,mermaid flooring,地板,RoomSpFloorMermaid00,DIY,20975,,自然-白色,"['海洋', '豪華時髦的']"
+海盜地板,かいぞくのゆか,pirate flooring,地板,RoomTexFloorPirates00,海盜,750,,豪華,"['海洋', '昂貴']"
+人魚地毯,マーメイドなラグ,mermaid rug,地毯,RugOtherMermaidM00,DIY,10360,,圖標地毯,"['海洋', '豪華時髦的']"
+海盜地毯,かいぞくのラグ,pirate rug,地毯,RugRectPiratesM00,海盜,375,,修長的圖案地毯,['海洋']

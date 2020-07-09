@@ -38,15 +38,15 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 57,rocking chair,ロッキングチェア,搖椅,家具,FtrRockingchair_Remake_0_0,960,"[{'count': 3, 'itemName': '木材'}, {'count': 5, 'itemName': '軟木材'}]",['挑戰！DIY方程式'],Purchase Test Your DIY Skills from Nook's Cranny
 58,brick oven,いしがま,窯烤爐,家具,FtrStoneoven_Remake_0_0,3820,"[{'count': 8, 'itemName': '黏土'}, {'count': 2, 'itemName': '鐵礦石'}, {'count': 6, 'itemName': '木材'}]",['這種東西也能自己做?!DIY'],"從Nook商店購買""這種東西也能自己做?!DIY"""
 59,swinging bench,ベンチブランコ,鞦韆椅,家具,FtrSwingWood_Remake_0_0,1440,"[{'count': 5, 'itemName': '木材'}, {'count': 7, 'itemName': '軟木材'}]","['挑戰！DIY方程式', '狸克']",Purchase Test Your DIY Skills from Nook's Cranny; 50% chance of being obtained during the main storyline during the villager house development quest
-60,tire stack,つまれたタイヤ,輪胎堆,家具,FtrTyres_Remake_0_0,60,"[{'count': 3, 'itemName': '輪胎'}]",['釣到三個舊輪胎'],
+60,tire stack,つまれたタイヤ,輪胎堆,家具,FtrTyres_Remake_0_0,60,"[{'count': 3, 'itemName': '輪胎'}]",['釣魚'],Fish up 3 old tires
 61,wooden-block bed,つみきベッド,積木床鋪,家具,FtrBlockBedS_Remake_0_0,2400,"[{'count': 1, 'itemName': '積木玩具'}, {'count': 17, 'itemName': '軟木材'}]",['普通型村民'],
 62,wooden-block bookshelf,つみきブックシェルフ,積木書櫃,家具,FtrBlockShelf_Remake_0_0,720,"[{'count': 1, 'itemName': '積木玩具'}, {'count': 3, 'itemName': '軟木材'}]",['挑戰！DIY方程式'],Purchase Test Your DIY Skills from Nook's Cranny
 63,iron garden bench,アイアンガーデンベンチ,鑄鐵花園長椅,家具,FtrIrongardenBench_Remake_0_0,6000,"[{'count': 8, 'itemName': '鐵礦石'}]",['大姐姐型村民'],
 64,iron garden chair,アイアンガーデンチェア,鑄鐵花園椅,家具,FtrIrongardenChair_Remake_0_0,2250,"[{'count': 3, 'itemName': '鐵礦石'}]","['狸克', '大姐姐型村民']",50% chance of being obtained during the main storyline during the villager house development quest
 65,iron garden table,アイアンガーデンテーブル,鑄鐵花園桌,家具,FtrIrongardenTable_Remake_0_0,3750,"[{'count': 5, 'itemName': '鐵礦石'}]","['狸克', '大姐姐型村民']",50% chance of being obtained during the main storyline during the villager house development quest
-66,trash bags,ゴミぶくろ,垃圾袋,小物件,FtrGarbagebag_Remake_0_0,60,"[{'count': 1, 'itemName': '空罐'}, {'count': 1, 'itemName': '長靴'}, {'count': 1, 'itemName': '輪胎'}]",['釣到三個垃圾'],
+66,trash bags,ゴミぶくろ,垃圾袋,小物件,FtrGarbagebag_Remake_0_0,60,"[{'count': 1, 'itemName': '空罐'}, {'count': 1, 'itemName': '長靴'}, {'count': 1, 'itemName': '輪胎'}]",['釣魚'],Fish up 15 trash
 77,drinking fountain,みずのみば,飲水處,家具,FtrDrinkingfountain_Remake_0_0,2700,"[{'count': 8, 'itemName': '石頭'}, {'count': 2, 'itemName': '鐵礦石'}]",['哩數兌換'],
-78,tire toy,タイヤのゆうぐ,輪胎玩具,家具,FtrPlayingtire_Remake_0_0,20,"[{'count': 1, 'itemName': '輪胎'}]",['釣到一個舊輪胎'],
+78,tire toy,タイヤのゆうぐ,輪胎玩具,家具,FtrPlayingtire_Remake_0_0,20,"[{'count': 1, 'itemName': '輪胎'}]",['釣魚'],Fish up 1 old tire
 79,iron frame,てっこつ,鋼筋,家具,FtrIronframe_Remake_0_0,15000,"[{'count': 20, 'itemName': '鐵礦石'}]",['運動型村民'],
 80,natural garden chair,ナチュラルなガーデンチェア,自然風花園椅,家具,FtrGardenChairNatural_Remake_0_0,2220,"[{'count': 6, 'itemName': '硬木材'}, {'count': 2, 'itemName': '鐵礦石'}]","['狸克', '活力型村民']",50% chance of being obtained during the main storyline during the villager house development quest
 81,gold bars,きんののべぼう,金條,小物件,FtrGoldbar,30000,"[{'count': 3, 'itemName': '金礦石'}]",['成熟型村民'],
@@ -75,7 +75,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 113,log garden lounge,まるたのガーデンベッド,圓木花園躺椅,家具,FtrLogBedS_Remake_0_0,1440,"[{'count': 12, 'itemName': '硬木材'}]","['狸克', '活力型村民']",50% chance of being obtained during the main storyline during the villager house development quest
 114,log decorative shelves,まるたのかざりだな,圓木裝飾架,家具,FtrLogShelf_Remake_0_0,1560,"[{'count': 2, 'itemName': '圓木長椅'}, {'count': 3, 'itemName': '硬木材'}]",['普通型村民'],
 115,log wall-mounted clock,まるたのかべかけどけい,圓木壁掛鐘,壁掛物,FtrLogClockWall_Remake_0_0,990,"[{'count': 2, 'itemName': '硬木材'}, {'count': 1, 'itemName': '鐵礦石'}]",['悠閒型村民'],
-116,log stool,まるたのスツール,圓木凳子,家具,FtrLogStoolS_Remake_0_0,480,"[{'count': 4, 'itemName': '木材'}]","['狸克', '活力型村民']",50% chance of being obtained during the main storyline during the villager house development quest
+116,log stool,まるたのスツール,圓木凳子,家具,FtrLogStoolS_Remake_0_0,480,"[{'count': 4, 'itemName': '硬木材'}]","['狸克', '活力型村民']",50% chance of being obtained during the main storyline during the villager house development quest
 117,log chair,まるたのソファ,圓木沙發,家具,FtrLogSofaS_Remake_0_0,960,"[{'count': 8, 'itemName': '硬木材'}]",['普通型村民'],
 118,log dining table,まるたのダイニングテーブル,圓木餐桌,家具,FtrLogTableL_Remake_0_0,1800,"[{'count': 15, 'itemName': '硬木材'}]","['狸克', '暴躁型村民']",50% chance of being obtained during the main storyline during the villager house development quest
 119,log bed,まるたのベッド,圓木床鋪,家具,FtrLogBedW_Remake_0_0,3600,"[{'count': 30, 'itemName': '硬木材'}]",['活力型村民'],
@@ -101,7 +101,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 145,frozen tree,こおりのツリー,冰樹木,家具,FtrIceTree_Remake_0_0,8200,"[{'count': 1, 'itemName': '大雪花'}, {'count': 8, 'itemName': '雪花'}]",['雪人'],製作完美的雪人；僅在冬季期間獲得
 146,frozen table,こおりのテーブル,冰桌,家具,FtrIceTableL_Remake_0_0,8200,"[{'count': 1, 'itemName': '大雪花'}, {'count': 8, 'itemName': '雪花'}]",['雪人'],製作完美的雪人；僅在冬季期間獲得
 147,frozen partition,こおりのパーテーション,冰隔板,家具,FtrIceScreen_Remake_0_0,7400,"[{'count': 1, 'itemName': '大雪花'}, {'count': 6, 'itemName': '雪花'}]",['雪人'],製作完美的雪人；僅在冬季期間獲得
-148,frozen pillar,こおりのはしら,冰柱子,家具,FtrIcePillar_Remake_0_0,6200,"[{'count': 1, 'itemName': '大雪花'}, {'count': 4, 'itemName': '雪花'}]",['雪人'],製作完美的雪人；僅在冬季期間獲得
+148,frozen pillar,こおりのはしら,冰柱子,家具,FtrIcePillar_Remake_0_0,6200,"[{'count': 1, 'itemName': '大雪花'}, {'count': 3, 'itemName': '雪花'}]",['雪人'],製作完美的雪人；僅在冬季期間獲得
 149,frozen bed,こおりのベッド,冰床鋪,家具,FtrIceBedW_Remake_0_0,9000,"[{'count': 1, 'itemName': '大雪花'}, {'count': 10, 'itemName': '雪花'}]",['雪人'],製作完美的雪人；僅在冬季期間獲得
 151,bamboo wall decoration,たけのいちりんざし,竹花瓶,壁掛物,FtrBambooFlowerwall_Remake_0_0,160,"[{'count': 1, 'itemName': '竹子材料'}]",['運動型村民'],
 152,bamboo basket,たけのかご,竹籃,家具,FtrBambooBasket_Remake_0_0,1120,"[{'count': 7, 'itemName': '竹子材料'}]",['成熟型村民'],
@@ -140,7 +140,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 187,peach chair,モモのチェア,桃子椅,家具,FtrFruitsChairPeach_Remake_0_0,2600,"[{'count': 10, 'itemName': '桃子'}, {'count': 5, 'itemName': '木材'}]","['普通型村民', '狸克']",Obtained during the main storyline during the villager house development quest if the native fruit is peaches
 188,peach surprise box,モモのビックリばこ,桃子驚嚇箱,小物件,FtrFruitsBox_Remake_0_0,2480,"[{'count': 10, 'itemName': '桃子'}, {'count': 4, 'itemName': '軟木材'}]","['普通型村民', '狸克']",Obtained during the main storyline during the villager house development quest if the native fruit is peaches
 189,apple chair,リンゴのチェア,蘋果椅,家具,FtrFruitsChairApple_Remake_0_0,2480,"[{'count': 10, 'itemName': '蘋果'}, {'count': 4, 'itemName': '木材'}]","['大姐姐型村民', '狸克']",Obtained during the main storyline during the villager house development quest if the native fruit is apples
-190,succulent plant,たにくしょくぶつ,多肉植物,小物件,FtrPlantSucculents,220,"[{'count': 10, 'itemName': '雜草'}, {'count': 1, 'itemName': '空罐'}]",['釣到一個空罐頭'],
+190,succulent plant,たにくしょくぶつ,多肉植物,小物件,FtrPlantSucculents,220,"[{'count': 10, 'itemName': '雜草'}, {'count': 1, 'itemName': '空罐'}]",['釣魚'],Fish up 1 empty can
 191,fish bait,サカナのまきエサ,魚飼料,其他,FishBait,200,"[{'count': 1, 'itemName': '蛤蜊'}]",['挖蛤蠣'],
 192,classic pitcher,とうきのジャグ,陶製牛奶壺,小物件,FtrPotteryjug_Remake_0_0,800,"[{'count': 4, 'itemName': '黏土'}]","['狸克', '成熟型村民']",在村民房屋開發任務的主要故事情節中獲得
 193,wooden fish,もくぎょ,木魚,小物件,FtrMokugyo_Remake_0_0,360,"[{'count': 3, 'itemName': '木材'}]",['這種東西也能自己做?!DIY'],"從Nook商店購買""這種東西也能自己做?!DIY"""
@@ -151,7 +151,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 199,frying pan,フライパン,平底鍋,小物件,FtrPan_Remake_0_0,1500,"[{'count': 2, 'itemName': '鐵礦石'}]",['DIY初學者'],"從Nook商店購買""第一次的DIY方程式"""
 200,shell speaker,かいがらのスピーカー,貝殼廣播喇叭,小物件,FtrShellMusic_Remake_0_0,5700,"[{'count': 3, 'itemName': '海螺殼'}, {'count': 2, 'itemName': '鐵礦石'}]",['大姐姐型村民'],
 201,wooden table,もくせいテーブル,木製桌,家具,FtrWoodenTableL_Remake_0_0,1800,"[{'count': 15, 'itemName': '木材'}]",['大姐姐型村民'],
-203,illuminated tree,ツリーのイルミネーション,樹型燈飾,家具,FtrIllumiTree_Remake_0_0,6700,"[{'count': 3, 'itemName': '紅色裝飾品'}, {'count': 4, 'itemName': '金色裝飾品'}, {'count': 3, 'itemName': '鐵礦石'}]",['氣球'],僅在聖誕季節期間獲得
+203,illuminated tree,ツリーのイルミネーション,樹型燈飾,家具,FtrIllumiTree_Remake_0_0,6700,"[{'count': 6, 'itemName': '金色裝飾品'}, {'count': 6, 'itemName': '鐵礦石'}, {'count': 8, 'itemName': '紅色裝飾品'}, {'count': 8, 'itemName': '藍色裝飾品'}]",['氣球'],僅在聖誕季節期間獲得
 204,beekeeper's hive,ようほうばこ,養蜂箱,家具,FtrBeekeepingbox_Remake_0_0,2400,"[{'count': 3, 'itemName': '蜂巢'}, {'count': 5, 'itemName': '木材'}]",['運動型村民'],
 213,signpost,みちしるべ,路標,家具,FtrSignpost_Remake_0_0,600,"[{'count': 2, 'itemName': '硬木材'}, {'count': 3, 'itemName': '軟木材'}]",['悠閒型村民'],
 214,potted ivy,かべかけのはっぱ,壁掛式盆栽,壁掛物,FtrLeafWall_Remake_0_0,1100,"[{'count': 5, 'itemName': '雜草'}, {'count': 5, 'itemName': '黏土'}]",['挑戰！DIY方程式'],Purchase Test Your DIY Skills from Nook's Cranny
@@ -159,7 +159,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 216,birdcage,とりかご,鳥籠,家具,FtrBirdcage_Remake_0_0,960,"[{'count': 8, 'itemName': '木材'}]",['大姐姐型村民'],
 217,hearth,いろり,地爐,家具,FtrIrori,5470,"[{'count': 2, 'itemName': '竹子材料'}, {'count': 5, 'itemName': '鐵礦石'}, {'count': 4, 'itemName': '黏土'}, {'count': 5, 'itemName': '硬木材'}]",['這種東西也能自己做?!DIY'],"從Nook商店購買""這種東西也能自己做?!DIY"""
 218,ocarina,オカリナ,陶笛,工具,ToolOcarina,1000,"[{'count': 5, 'itemName': '黏土'}]",['DIY初學者'],"從Nook商店購買""第一次的DIY方程式"""
-219,shell wreath,かいがらのリース,貝殼花圈,壁掛物,FtrDoorOrnamentWreathShell,4720,"[{'count': 1, 'itemName': '夏天貝殼'}, {'count': 1, 'itemName': '鐘螺殼'}, {'count': 1, 'itemName': '沙錢'}, {'count': 1, 'itemName': '珊瑚'}, {'count': 1, 'itemName': '扇貝殼'}, {'count': 1, 'itemName': '寶螺殼'}]",['氣球'],僅在夏季期間獲得
+219,shell wreath,かいがらのリース,貝殼花圈,壁掛物,FtrDoorOrnamentWreathShell,4720,"[{'count': 1, 'itemName': '夏天貝殼'}, {'count': 1, 'itemName': '鐘螺殼'}, {'count': 1, 'itemName': '沙錢'}, {'count': 1, 'itemName': '珊瑚'}, {'count': 1, 'itemName': '扇貝殼'}, {'count': 1, 'itemName': '寶螺殼'}]","['氣球', '西施惠']",僅在夏季期間獲得
 220,mush low stool,キノコのスツール,蘑菇凳子,家具,FtrMushroomChairS_Remake_0_0,800,"[{'count': 2, 'itemName': '圓形蘑菇'}]",['氣球'],僅在蘑菇季節期間獲得
 221,mushroom wreath,キノコのリース,蘑菇花圈,壁掛物,FtrDoorOrnamentWreathMushroom,1500,"[{'count': 10, 'itemName': '樹枝'}, {'count': 1, 'itemName': '圓形蘑菇'}, {'count': 1, 'itemName': '瘦小蘑菇'}, {'count': 1, 'itemName': '扁平蘑菇'}]",['氣球'],僅在蘑菇季節期間獲得
 222,snowflake wreath,ゆきのけっしょうのリース,雪花花圈,壁掛物,FtrDoorOrnamentWreathIce,1600,"[{'count': 4, 'itemName': '雪花'}]","['氣球', '西施惠']",僅在冬季期間獲得
@@ -190,7 +190,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 247,cool pansy crown,パンジーのかんむり・クール,清新三色堇花冠,頭戴物,CapOrnamentPansy2,960,"[{'count': 3, 'itemName': '紅黃三色堇'}, {'count': 3, 'itemName': '藍色三色堇'}]",['所有村民'],
 248,purple pansy crown,パンジーのかんむり・パープル,紫色三色堇花冠,頭戴物,CapOrnamentPansy3,2880,"[{'count': 6, 'itemName': '紫色三色堇'}]",['所有村民'],
 249,cosmos crown,コスモスのかんむり,波斯菊花冠,頭戴物,CapOrnamentCosmos1,480,"[{'count': 2, 'itemName': '紅色波斯菊'}, {'count': 2, 'itemName': '黃色波斯菊'}, {'count': 3, 'itemName': '白色波斯菊'}]",['所有村民'],
-250,lovely cosmos crown,コスモスのかんむり・ラブリー,甜美波斯菊花冠,頭戴物,CapOrnamentCosmos2,1120,"[{'count': 3, 'itemName': '粉紅波斯菊'}, {'count': 3, 'itemName': '橘色波斯菊'}]",['所有村民'],
+250,lovely cosmos crown,コスモスのかんむり・ラブリー,甜美波斯菊花冠,頭戴物,CapOrnamentCosmos2,1120,"[{'count': 4, 'itemName': '粉紅波斯菊'}, {'count': 3, 'itemName': '橘色波斯菊'}]",['所有村民'],
 251,dark cosmos crown,コスモスのかんむり・ダーク,深色波斯菊花冠,頭戴物,CapOrnamentCosmos3,3360,"[{'count': 7, 'itemName': '黑色波斯菊'}]",['所有村民'],
 252,rose crown,バラのかんむり,玫瑰花冠,頭戴物,CapOrnamentRose1,480,"[{'count': 2, 'itemName': '紅色玫瑰'}, {'count': 2, 'itemName': '黃色玫瑰'}, {'count': 2, 'itemName': '白色玫瑰'}]",['所有村民'],
 253,cute rose crown,バラのかんむり・キュート,可愛玫瑰花冠,頭戴物,CapOrnamentRose2,960,"[{'count': 3, 'itemName': '粉紅玫瑰'}, {'count': 3, 'itemName': '橘色玫瑰'}]",['所有村民'],
@@ -234,8 +234,8 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 298,gold-screen wall,きんぱくのふすま,金箔日式拉門,壁紙,RoomTexWallFusumaGorgeous00,20750,"[{'count': 2, 'itemName': '金礦石'}, {'count': 1, 'itemName': '日式拉門'}]",['自戀型村民'],
 299,golden wall,おうごんのかべ,黃金牆,壁紙,RoomTexWallGold00,40000,"[{'count': 4, 'itemName': '金礦石'}]",['自戀型村民'],
 300,bamboo-grove wall,ちくりんのかべ,竹林牆,壁紙,RoomTexWallChikurin00,4300,"[{'count': 7, 'itemName': '春筍'}, {'count': 3, 'itemName': '竹筍'}]",['氣球'],僅在春季期間獲得
-301,garbage-heap wall,ゴミのやまなかべ,垃圾堆牆,壁紙,RoomTexWallGarbage00,120,"[{'count': 2, 'itemName': '空罐'}, {'count': 2, 'itemName': '長靴'}, {'count': 2, 'itemName': '輪胎'}]",['釣到一個垃圾'],
-302,iceberg wall,ひょうざんのかべ,冰山牆,壁紙,RoomTexWallIceFloe00,4000,"[{'count': 1, 'itemName': '大雪花'}, {'count': 8, 'itemName': '雪花'}]",['氣球'],僅在冬季期間獲得
+301,garbage-heap wall,ゴミのやまなかべ,垃圾堆牆,壁紙,RoomTexWallGarbage00,120,"[{'count': 2, 'itemName': '空罐'}, {'count': 2, 'itemName': '長靴'}, {'count': 2, 'itemName': '輪胎'}]",['釣魚'],Fish up 15 trash
+302,iceberg wall,ひょうざんのかべ,冰山牆,壁紙,RoomTexWallIceFloe00,4000,"[{'count': 10, 'itemName': '雪花'}]",['氣球'],僅在冬季期間獲得
 303,orange wall,オレンジのかべがみ,橘子壁紙,壁紙,RoomTexWallOrange00,4000,"[{'count': 20, 'itemName': '橘子'}]",['悠閒型村民'],
 304,apple wall,リンゴのかべがみ,蘋果壁紙,壁紙,RoomTexWallApple00,4000,"[{'count': 20, 'itemName': '蘋果'}]",['大姐姐型村民'],
 305,pear wall,ナシのかべがみ,梨子壁紙,壁紙,RoomTexWallPear00,4000,"[{'count': 20, 'itemName': '梨子'}]",['運動型村民'],
@@ -304,7 +304,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 402,firewood,まき,柴火,小物件,FtrFirewood,960,"[{'count': 8, 'itemName': '木材'}]",['運動型村民'],
 403,matryoshka,マトリョーシカ,俄羅斯套娃,小物件,FtrMatryoshka_Remake_0_0,600,"[{'count': 5, 'itemName': '軟木材'}]",['悠閒型村民'],
 404,wooden bookshelf,もくせいのほんだな,木製書架,家具,FtrBookshelf_Remake_0_0,1925,"[{'count': 5, 'itemName': '書'}, {'count': 10, 'itemName': '木材'}]",['悠閒型村民'],
-405,coconut wall planter,ヤシのウォールプランター,椰子壁掛盤栽,壁掛物,FtrPlanterPalm,600,"[{'count': 1, 'itemName': '椰子'}, {'count': 5, 'itemName': '雜草'}]",['成熟型村民'],
+405,coconut wall planter,ヤシのウォールプランター,椰子壁掛盆栽,壁掛物,FtrPlanterPalm,600,"[{'count': 1, 'itemName': '椰子'}, {'count': 5, 'itemName': '雜草'}]",['成熟型村民'],
 406,illuminated snowflakes,ゆきのイルミネーション,雪花燈飾,家具,FtrIllumiSnow_Remake_0_0,3150,"[{'count': 9, 'itemName': '藍色裝飾品'}, {'count': 3, 'itemName': '金礦石'}]",['氣球'],僅在聖誕季節期間獲得
 407,Leo sculpture,レオのちょうこく,獅子座雕塑,壁掛物,FtrZodiacLeo,21975,"[{'count': 3, 'itemName': '星星碎片'}, {'count': 2, 'itemName': '獅子座碎片'}, {'count': 2, 'itemName': '金礦石'}, {'count': 3, 'itemName': '石頭'}]",['傅珂'],
 408,brick well,レンガのいど,磚塊水井,家具,FtrWellBrick_Remake_0_0,2800,"[{'count': 8, 'itemName': '黏土'}, {'count': 5, 'itemName': '木材'}, {'count': 1, 'itemName': '簡陋鏟子'}]",['哩數兌換'],
@@ -324,7 +324,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 422,outdoor picnic set,おはなみセット,賞花組合,家具,FtrSakuraPicnicset,4000,"[{'count': 10, 'itemName': '櫻花花瓣'}]","['氣球', '西施惠']",僅在櫻花季節期間獲得
 423,tree's bounty arch,きのみのアーチ,樹果拱門,家具,FtrNutArch_Remake_0_0,5750,"[{'count': 4, 'itemName': '松果'}, {'count': 5, 'itemName': '橡栗'}, {'count': 5, 'itemName': '楓葉'}, {'count': 15, 'itemName': '樹枝'}]",['氣球'],僅在楓葉季節期間獲得
 424,bamboo noodle slide,ながしそうめん,流水素麵,家具,FtrBambooSomen,3160,"[{'count': 7, 'itemName': '春筍'}, {'count': 3, 'itemName': '木材'}]","['氣球', '西施惠']",僅在春季期間獲得
-426,cherry-blossom clock,さくらクロック,櫻花時鐘,壁掛物,FtrSakuraClockW_Remake_0_0,2750,"[{'count': 5, 'itemName': '櫻花花瓣'}]",['氣球'],僅在櫻花季節期間獲得
+426,cherry-blossom clock,さくらクロック,櫻花時鐘,壁掛物,FtrSakuraClockW_Remake_0_0,2750,"[{'count': 5, 'itemName': '櫻花花瓣'}, {'count': 1, 'itemName': '鐵礦石'}]",['氣球'],僅在櫻花季節期間獲得
 427,blossom-viewing lantern,おはなみのちょうちん,賞花提燈,家具,FtrSakuraLantern_Remake_0_0,2880,"[{'count': 6, 'itemName': '櫻花花瓣'}, {'count': 4, 'itemName': '硬木材'}]",['氣球'],僅在櫻花季節期間獲得
 429,nova light,スターライト,星光,小物件,FtrStarLamp_Remake_0_0,2500,"[{'count': 5, 'itemName': '星星碎片'}]",['傅珂'],
 430,starry garland,スターなガーランド,星星掛旗,壁掛物,FtrStarDecorationWall_Remake_0_0,5000,"[{'count': 10, 'itemName': '星星碎片'}]",['傅珂'],
@@ -378,7 +378,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 483,ski-slope flooring,ゲレンデのゆか,滑雪場地板,地板,RoomTexFloorGelande00,3200,"[{'count': 8, 'itemName': '雪花'}]",['氣球'],僅在冬季期間獲得
 484,forest wall,キノコのもりのかべ,蘑菇森林牆,壁紙,RoomTexWallMushForest00,44000,"[{'count': 2, 'itemName': '出色蘑菇'}, {'count': 2, 'itemName': '圓形蘑菇'}, {'count': 2, 'itemName': '瘦小蘑菇'}, {'count': 2, 'itemName': '扁平蘑菇'}, {'count': 10, 'itemName': '木材'}]",['氣球'],僅在蘑菇季節期間獲得
 485,bamboo flooring,バンブーなゆか,竹子地板,地板,RoomTexFloorBamboo00,2400,"[{'count': 15, 'itemName': '竹子材料'}]",['暴躁型村民'],
-486,garbage-heap flooring,おへやのゆか,垃圾堆地板,地板,RoomTexFloorGarbage00,120,"[{'count': 2, 'itemName': '空罐'}, {'count': 2, 'itemName': '長靴'}, {'count': 2, 'itemName': '輪胎'}]",['釣到一個垃圾'],
+486,garbage-heap flooring,おへやのゆか,垃圾堆地板,地板,RoomTexFloorGarbage00,120,"[{'count': 2, 'itemName': '空罐'}, {'count': 2, 'itemName': '長靴'}, {'count': 2, 'itemName': '輪胎'}]",['釣魚'],Fish up 15 trash
 487,backyard lawn,しばふのゆか,草坪地板,地板,RoomTexFloorLawn00,600,"[{'count': 30, 'itemName': '雜草'}]",['活力型村民'],
 488,forest flooring,キノコのもりのゆか,蘑菇森林地板,地板,RoomTexFloorMushForest00,35000,"[{'count': 1, 'itemName': '珍貴蘑菇'}, {'count': 2, 'itemName': '圓形蘑菇'}, {'count': 2, 'itemName': '瘦小蘑菇'}, {'count': 2, 'itemName': '扁平蘑菇'}, {'count': 10, 'itemName': '雜草'}]",['氣球'],僅在蘑菇季節期間獲得
 489,steel flooring,てっぱんのゆか,鐵板地板,地板,RoomTexFloorSteel00,5250,"[{'count': 7, 'itemName': '鐵礦石'}]",['自戀型村民'],
@@ -395,7 +395,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 501,cosmos shower,コスモスのシャワー,波斯菊花灑,家具,FtrFlowerShower_Remake_0_0,3050,"[{'count': 5, 'itemName': '粉紅波斯菊'}, {'count': 3, 'itemName': '鐵礦石'}]",['成熟型村民'],
 502,wooden full-length mirror,もくせいのすがたみ,木製穿衣鏡,家具,FtrWoodenMirror_Remake_0_0,1350,"[{'count': 5, 'itemName': '木材'}, {'count': 1, 'itemName': '鐵礦石'}]",['活力型村民'],
 503,windflower fan,アネモネのせんぷうき,銀蓮花風扇,小物件,FtrFlowerFan_Remake_0_0,1740,"[{'count': 3, 'itemName': '紅色銀蓮花'}, {'count': 2, 'itemName': '鐵礦石'}]",['悠閒型村民'],
-504,recycled-can thumb piano,あきかんカリンバ,空罐卡林巴琴,小物件,FtrKalimbaCan_Remake_0_0,890,"[{'count': 1, 'itemName': '空罐'}, {'count': 1, 'itemName': '木材'}, {'count': 1, 'itemName': '鐵礦石'}]",['釣到一個空罐頭'],
+504,recycled-can thumb piano,あきかんカリンバ,空罐卡林巴琴,小物件,FtrKalimbaCan_Remake_0_0,890,"[{'count': 1, 'itemName': '空罐'}, {'count': 1, 'itemName': '木材'}, {'count': 1, 'itemName': '鐵礦石'}]",['釣魚'],Fish up 3 empty cans
 505,mum cushion,キクのクッション,菊花抱枕,家具,FtrFlowerStoolS_Remake_0_0,440,"[{'count': 3, 'itemName': '黃色菊花'}, {'count': 10, 'itemName': '雜草'}]",['活力型村民'],
 506,hyacinth lamp,ヒヤシンスのランプ,風信子燈,小物件,FtrFlowerLamp_Remake_0_0,3000,"[{'count': 5, 'itemName': '紫色風信子'}, {'count': 3, 'itemName': '黏土'}]",['大姐姐型村民'],
 507,rose bed,バラのベッド,玫瑰床鋪,家具,FtrFlowerBedW_Remake_0_0,1400,"[{'count': 10, 'itemName': '紅色玫瑰'}, {'count': 5, 'itemName': '木材'}]",['自戀型村民'],
@@ -525,7 +525,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 646,flat garden rock,ひくいにわいし,低矮庭園石,家具,FtrGardenrockLow,3000,"[{'count': 20, 'itemName': '石頭'}]",['成熟型村民'],
 647,mossy garden rock,こけむしたにわいし,青苔庭園石,家具,FtrGardenrockMoss,2550,"[{'count': 15, 'itemName': '石頭'}, {'count': 15, 'itemName': '雜草'}]",['悠閒型村民'],
 648,mush umbrella,キノコのかさ,蘑菇雨傘,雨傘,UmbrellaMushroom0Cropped,1200,"[{'count': 3, 'itemName': '扁平蘑菇'}]",['氣球'],僅在蘑菇季節期間獲得
-649,sakura-wood flooring,さくらのウッドフローリング,粉紅色木地板,地板,RoomTexFloorSolidWood00,3200,"[{'count': 5, 'itemName': '櫻花花瓣'}, {'count': 10, 'itemName': '木材'}]",['氣球'],僅在櫻花季節期間獲得
+649,sakura-wood flooring,さくらのウッドフローリング,櫻花木地板,地板,RoomTexFloorSolidWood00,3200,"[{'count': 5, 'itemName': '櫻花花瓣'}, {'count': 10, 'itemName': '木材'}]",['氣球'],僅在櫻花季節期間獲得
 650,festive top set,おまつりのコマ,節日陀螺,小物件,FtrFestivaltop,320,"[{'count': 2, 'itemName': '金色裝飾品'}, {'count': 1, 'itemName': '硬木材'}]",['氣球'],僅在聖誕季節期間獲得
 651,stone tablet,せきひ,石碑,家具,FtrRockMonument_Remake_0_0,1800,"[{'count': 12, 'itemName': '石頭'}]",['哩數兌換'],
 652,stone arch,ストーンアーチ,石拱門,家具,FtrRockArch_Remake_0_0,13500,"[{'count': 90, 'itemName': '石頭'}]",['哩數兌換'],
@@ -540,7 +540,7 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 661,golden slingshot,きんのパチンコ,金色彈弓,工具,ToolSlingshotGold,10300,"[{'count': 1, 'itemName': '彈弓'}, {'count': 1, 'itemName': '金礦石'}]",['打到300個氣球'],
 662,golden rod,きんのつりざお,金色釣竿,工具,ToolFishingrodGold,10400,"[{'count': 1, 'itemName': '釣竿'}, {'count': 1, 'itemName': '金礦石'}]",['完成魚類圖鑑'],
 663,golden axe,きんのオノ,金色斧頭,工具,ToolAxeGold,10655,"[{'count': 1, 'itemName': '斧頭'}, {'count': 1, 'itemName': '金礦石'}]",['用壞100隻斧頭'],
-664,recycled boots,リサイクルながぐつ,舊長靴,鞋子,ShoesKneeRecyclingboots0,40,"[{'count': 2, 'itemName': '長靴'}]",['釣到一隻靴子'],
+664,recycled boots,リサイクルながぐつ,舊長靴,鞋子,ShoesKneeRecyclingboots0,40,"[{'count': 2, 'itemName': '長靴'}]",['釣魚'],Fish up 1 boot
 665,underwater wall,すいちゅうのかべがみ,水中壁紙,壁紙,RoomSpWallFishTank00,8600,"[{'count': 3, 'itemName': '夏天貝殼'}, {'count': 5, 'itemName': '珊瑚'}]",['氣球'],僅在夏季期間獲得
 666,tropical vista,みなみのうみなかべ,南方海洋牆,壁紙,RoomSpWallTropical00,6000,"[{'count': 5, 'itemName': '夏天貝殼'}]",['氣球'],僅在夏季期間獲得
 667,starry-sands flooring,ほしのすなはまのゆか,星星沙灘地板,地板,RoomTexFloorSandStar00,7720,"[{'count': 3, 'itemName': '夏天貝殼'}, {'count': 1, 'itemName': '沙灘地板'}]",['氣球'],僅在夏季期間獲得
@@ -592,3 +592,17 @@ id,name_e,name_j,name_c,category,filename,sell,materials,obtainedFrom,sourceNote
 713,hedge,いけがき,樹叢,柵欄,ItemFenceIkegaki,55,"[{'count': 10, 'itemName': '雜草'}, {'count': 5, 'itemName': '樹枝'}, {'count': 2, 'itemName': '石頭'}]",['狸克'],完成一項Nature Day Nook Miles +任務後從Tom Nook獲得
 714,wedding fence,ウェディングなさく,婚禮柵欄,柵欄,ItemFenceJuneBride,411,"[{'count': 5, 'itemName': '鐵礦石'}, {'count': 3, 'itemName': '軟木材'}]",['巴獵'],僅在婚禮季節期間獲得
 715,wedding wand,ウェディングなステッキ,婚禮棒,工具,ToolStickJune,3500,"[{'count': 1, 'itemName': '婚禮花柱'}, {'count': 3, 'itemName': '星星碎片'}]",['健兆'],僅在婚禮季節期間獲得
+717,mermaid table,マーメイドなテーブル,人魚桌,家具,FtrMermaidTableM,10480,"[{'count': 1, 'itemName': '珍珠'}, {'count': 4, 'itemName': '沙錢'}]",['阿獺'],
+718,mermaid shelf,マーメイドなシェルフ,人魚架子,家具,FtrMermaidShelf,12900,"[{'count': 1, 'itemName': '珍珠'}, {'count': 1, 'itemName': '扇貝殼'}, {'count': 4, 'itemName': '珊瑚'}]",['阿獺'],
+719,mermaid vanity,マーメイドなドレッサー,人魚梳妝台,家具,FtrMermaidDresser,12650,"[{'count': 1, 'itemName': '珍珠'}, {'count': 1, 'itemName': '扇貝殼'}, {'count': 2, 'itemName': '珊瑚'}, {'count': 2, 'itemName': '鐵礦石'}]",['阿獺'],
+720,mermaid screen,マーメイドなスクリーン,人魚屏風,家具,FtrMermaidScreen,23300,"[{'count': 2, 'itemName': '珍珠'}, {'count': 3, 'itemName': '扇貝殼'}, {'count': 5, 'itemName': '沙錢'}]",['阿獺'],
+721,mermaid lamp,マーメイドなランプ,人魚燈,家具,FtrMermaidLamp,13850,"[{'count': 1, 'itemName': '珍珠'}, {'count': 3, 'itemName': '海螺殼'}, {'count': 2, 'itemName': '珊瑚'}, {'count': 2, 'itemName': '鐵礦石'}]",['阿獺'],
+722,mermaid wall clock,マーメイドなウォールクロック,人魚壁鐘,壁掛物,FtrMermaidclockWall,12290,"[{'count': 1, 'itemName': '珍珠'}, {'count': 3, 'itemName': '鐘螺殼'}, {'count': 2, 'itemName': '珊瑚'}, {'count': 2, 'itemName': '鐵礦石'}]",['阿獺'],
+723,mermaid bed,マーメイドなベッド,人魚床鋪,家具,FtrMermaidBedS,22400,"[{'count': 2, 'itemName': '珍珠'}, {'count': 2, 'itemName': '扇貝殼'}, {'count': 5, 'itemName': '沙錢'}]",['阿獺'],
+724,mermaid closet,マーメイドなクロゼット,人魚衣櫃,家具,FtrMermaidClosetLR,22500,"[{'count': 2, 'itemName': '珍珠'}, {'count': 1, 'itemName': '扇貝殼'}, {'count': 2, 'itemName': '珊瑚'}, {'count': 5, 'itemName': '沙錢'}]",['阿獺'],
+725,mermaid sofa,マーメイドなソファ,人魚沙發,家具,FtrMermaidChairL,11200,"[{'count': 1, 'itemName': '珍珠'}, {'count': 10, 'itemName': '沙錢'}]",['阿獺'],
+726,mermaid dresser,マーメイドなチェスト,人魚矮櫃,家具,FtrMermaidChest,22400,"[{'count': 2, 'itemName': '珍珠'}, {'count': 1, 'itemName': '扇貝殼'}, {'count': 3, 'itemName': '珊瑚'}]",['阿獺'],
+727,mermaid chair,マーメイドなチェア,人魚椅,家具,FtrMermaidChairS,11140,"[{'count': 1, 'itemName': '珍珠'}, {'count': 1, 'itemName': '扇貝殼'}, {'count': 2, 'itemName': '沙錢'}]",['阿獺'],
+728,mermaid rug,マーメイドなラグ,人魚地毯,地毯,RugOtherMermaidM00,10360,"[{'count': 1, 'itemName': '珍珠'}, {'count': 3, 'itemName': '沙錢'}]",['阿獺'],
+729,mermaid wall,マーメイドなかべがみ,人魚壁紙,壁紙,RoomSpWallMermaid00,23520,"[{'count': 2, 'itemName': '珍珠'}, {'count': 2, 'itemName': '鐘螺殼'}, {'count': 2, 'itemName': '沙錢'}, {'count': 2, 'itemName': '珊瑚'}, {'count': 2, 'itemName': '扇貝殼'}, {'count': 2, 'itemName': '寶螺殼'}]",['阿獺'],
+730,mermaid flooring,マーメイドなゆか,人魚地板,地板,RoomSpFloorMermaid00,20975,"[{'count': 2, 'itemName': '珍珠'}, {'count': 5, 'itemName': '沙錢'}, {'count': 5, 'itemName': '石頭'}]",['阿獺'],
