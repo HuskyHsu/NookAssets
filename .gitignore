@@ -1,4 +1,4 @@
 */.ipynb_checkpoints/*.ipynb
-*/~$*.xlsx
+~$*.xlsx
 __pycache__/
 *.py[cod]
