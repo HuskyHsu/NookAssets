@@ -10,15 +10,6 @@ if __name__ == '__main__':
     furnitureName_TWzh = parse.getLanguageMap('String_TWzh/Item/STR_ItemName_00_Ftr')
     furnitureName_JPja = parse.getLanguageMap('String_JPja/Item/STR_ItemName_00_Ftr')
 
-    insectToyName_TWzh = parse.getLanguageMap('String_TWzh/Item/STR_ItemName_36_InsectToy')
-    insectToyName_JPja = parse.getLanguageMap('String_JPja/Item/STR_ItemName_36_InsectToy')
-
-    fishToyName_TWzh = parse.getLanguageMap('String_TWzh/Item/STR_ItemName_37_FishToy')
-    fishToyName_JPja = parse.getLanguageMap('String_JPja/Item/STR_ItemName_37_FishToy')
-
-    houseDoorDecoName_TWzh = parse.getLanguageMap('String_TWzh/Item/STR_ItemName_61_HouseDoorDeco')
-    houseDoorDecoName_JPja = parse.getLanguageMap('String_JPja/Item/STR_ItemName_61_HouseDoorDeco')
-
     nameMapCustom = parse.getCustomLanguageMap()    
 
     def getName(idName):
@@ -26,21 +17,6 @@ if __name__ == '__main__':
             return {
                 'zh-tw': furnitureName_TWzh[idName],
                 'ja-jp': furnitureName_JPja[idName]
-            }
-        elif idName in insectToyName_TWzh:
-            return {
-                'zh-tw': insectToyName_TWzh[idName],
-                'ja-jp': insectToyName_JPja[idName]
-            }
-        elif idName in fishToyName_TWzh:
-            return {
-                'zh-tw': fishToyName_TWzh[idName],
-                'ja-jp': fishToyName_JPja[idName]
-            }
-        elif idName in houseDoorDecoName_TWzh:
-            return {
-                'zh-tw': houseDoorDecoName_TWzh[idName],
-                'ja-jp': houseDoorDecoName_JPja[idName]
             }
         else:
             print(idName)
@@ -79,7 +55,7 @@ if __name__ == '__main__':
                 )
 
         # print(recipe['Source Notes'])
-        pickData['diyInfoObtainedFrom'] = [nameMapCustom[s]['zh-tw'] for s in recipe['Source'].split('; ')]
+        pickData['diyInfoObtainedFrom'] = '; '.join([nameMapCustom[s]['zh-tw'] for s in recipe['Source'].split('; ')])
         try:
             pickData['diyInfoSourceNotes'] = nameMapCustom[recipe['Source Notes']]['zh-tw'] if str(recipe['Source Notes']) != 'nan' else None
         except:

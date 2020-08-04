@@ -12,7 +12,7 @@ def readExcel(filePath, index = None):
     return df
 
 def getCustomLanguageMap():
-    df = readExcel('../tempData/Furniture.xlsx', 0)
+    df = readExcel('./rawData/Translations - custom.xlsx', 0)
 
     # EnTwTable = ['類別', '取得方式', '標籤', '主題', '款式', '樣式', '款式說明', '樣式說明', 'DIY相關', '藝術品', '作者/年代/材質', '藝術品真實圖', '村民']
     EnTwTable = ['取得方式', '標籤', '主題', 'DIY相關']
@@ -59,9 +59,7 @@ def getLanguageMap(path):
     return m
 
 def saveFile(category, output):
-
     dictName = output[0].keys()
-
     with open('../../nook_link/src/data/{}.json'.format(category), 'wt') as fout:
         fout.write(json.dumps(output))
 
@@ -74,4 +72,8 @@ def saveFile(category, output):
             output_csv.append(row_)
         csvout.writerows(output_csv)
     
+    df1 = pd.read_json(json.dumps(output))
+    with pd.ExcelWriter('./cleanData/output.xlsx') as writer:  
+        df1.to_excel(writer, sheet_name='category', columns=dictName, index=False)
+
     print('save {} over'.format(category))
