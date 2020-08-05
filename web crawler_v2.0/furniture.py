@@ -4,7 +4,6 @@ import parse
 
 if __name__ == '__main__':
 
-    feild = 'Furniture'
     outputName = 'furnitures'
 
     furnitureName_TWzh = parse.getLanguageMap('String_TWzh/Item/STR_ItemName_00_Ftr')
@@ -51,7 +50,7 @@ if __name__ == '__main__':
     FabricColor = parse.getLanguageMap('String_TWzh/Remake/STR_Remake_FabricColor')
     FabricColorCommon = parse.getLanguageMap('String_TWzh/Remake/STR_Remake_FabricColorCommon')
 
-    rawData = parse.readExcel("./rawData/Data Spreadsheet for Animal Crossing New Horizons.xlsx")
+    rawData = parse.getRawData()
 
     translations = parse.readExcel('./rawData/Translations - 1.4.0.xlsx')
     materialName = parse.getLanguage(translations['Craft'], 'English')

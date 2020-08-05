@@ -11,6 +11,9 @@ def readExcel(filePath, index = None):
     print('read {} over'.format(filePath.split('/')[-1]))
     return df
 
+def getRawData():
+    return readExcel("./rawData/Data Spreadsheet for Animal Crossing New Horizons.xlsx")
+
 def getCustomLanguageMap():
     df = readExcel('./rawData/Translations - custom.xlsx', 0)
 
@@ -48,13 +51,17 @@ def getLanguage(sheet, idField = 'id'):
     
     return idMap
 
-def getLanguageMap(path):
+def getLanguageMap(path, onlyId = False):
     m = {}
     with open('../../acnh-message/{}.csv'.format(path), newline='', encoding='utf-8') as csvfile:
         rows = csv.reader(csvfile)
         headers = next(rows)
-        for row in rows:
-            m[row[0]] = row[1]
+        if onlyId:
+            for row in rows:
+                m['_'.join(row[0].split('_')[1:])] = row[1]
+        else:
+            for row in rows:
+                m[row[0]] = row[1]
 
     return m
 
@@ -73,7 +80,13 @@ def saveFile(category, output):
         csvout.writerows(output_csv)
     
     df1 = pd.read_json(json.dumps(output))
-    with pd.ExcelWriter('./cleanData/output.xlsx') as writer:  
-        df1.to_excel(writer, sheet_name='category', columns=dictName, index=False)
+    with pd.ExcelWriter('./cleanData/output.xlsx', mode='a', engine="openpyxl") as writer:
+        workBook = writer.book
+        try:
+            workBook.remove(workBook[category])
+        except:
+            print(f"worksheet[{category}] doesn't exist")
+        finally:
+            df1.to_excel(writer, sheet_name=category, columns=dictName, index=False)
 
     print('save {} over'.format(category))
