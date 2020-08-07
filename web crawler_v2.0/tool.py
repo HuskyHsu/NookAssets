@@ -11,7 +11,6 @@ if __name__ == '__main__':
     etcName_TWzh = parse.getLanguageMap('String_TWzh/Item/STR_ItemName_80_Etc', True)
     etcName_JPja = parse.getLanguageMap('String_JPja/Item/STR_ItemName_80_Etc', True)
     
-
     nameMapCustom = parse.getCustomLanguageMap()    
 
     def getName(idName):
@@ -58,39 +57,16 @@ if __name__ == '__main__':
             pickData['name_c'] = name['zh-tw']
             pickData['name_j'] = name['ja-jp']
             pickData['name_e'] = row['Name']
+
+            pickData['uses'] = None if str(row['Uses']) == 'Unlimited' else row['Uses']
             
-        #     pickData['buy'] = None if type(row['Buy']) == str else row['Buy']
-        #     pickData['sell'] = row['Sell']
-        #     pickData['category'] = categoryName[1]
-        #     pickData['tag'] = nameMapCustom[row['Tag']]['zh-tw']
-
-        #     pickData['themes'] = []
-        #     if row['HHA Concept 1'] != 'None':
-        #         pickData['themes'].append(nameMapCustom[row['HHA Concept 1']]['zh-tw'])
-        #     if row['HHA Concept 2'] != 'None':
-        #         pickData['themes'].append(nameMapCustom[row['HHA Concept 2']]['zh-tw'])
-
-        #     pickData['interact'] = True if row['Interact'] == 'Yes' else False
-        #     pickData['size'] = row['Size']
-        #     pickData['obtainedFrom'] = nameMapCustom[row['Source']]['zh-tw']
-
-        #     pickData['DIY'] = True if row['DIY'] == 'Yes' else False
-        #     if row['DIY'] == 'Yes': 
-        #         pickData['diyInfoMaterials'] = recipeMap[row['Internal ID']]['diyInfoMaterials']
-        #         pickData['diyInfoObtainedFrom'] = recipeMap[row['Internal ID']]['diyInfoObtainedFrom']
-        #         pickData['diyInfoSourceNotes'] = recipeMap[row['Internal ID']]['diyInfoSourceNotes']
-        #     else:
-        #         pickData['diyInfoMaterials'] = None
-        #         pickData['diyInfoObtainedFrom'] = None
-        #         pickData['diyInfoSourceNotes'] = None
-
-        #     pickData['bodyTitle'] = BodyParts[idName] if str(row['Body Title']) != 'nan' else '無'
-        #     pickData['patternTitle'] = FabricParts[idName] if str(row['Pattern Title']) != 'nan' else '無'
-        #     pickData['bodyCustomize'] = True if row['Body Customize'] == 'Yes' else False
-        #     pickData['patternCustomize'] = True if row['Pattern Customize'] == 'Yes' else False
-
-        #     pickData['filename'] = row['Filename']
-        #     pickData['version'] = row['Version Added']
+            pickData['buy'] = None if type(row['Buy']) == str else row['Buy']
+            pickData['sell'] = row['Sell']
+            pickData['obtainedFrom'] = [nameMapCustom[s]['zh-tw'] for s in row['Source'].split('; ')]
+            pickData['sourceNotes'] = nameMapCustom[row['Source Notes']]['zh-tw'] if str(row['Source Notes']) != 'nan' else None
+            
+            pickData['filename'] = row['Filename']
+            pickData['version'] = row['Version Added']
 
             pickData['variations'] = {'bodys': {}, 'pattrens': {}}
 
