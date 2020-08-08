@@ -41,12 +41,14 @@ def getCustomLanguageMap():
     
     return nameMapCustom
 
-def getLanguage(sheet, idField = 'id'):
+def getLanguage(sheet, idField = 'id', lower = ''):
     language = [idField, 'Chinese (Traditional)', 'English', 'Japanese']
 
     data = list(map(lambda field: sheet[field].tolist(), language))
     idMap = {}
     for index, row in enumerate(data[0]):
+        if lower != '':
+            row = row.lower()
         idMap[row] = {'zh-tw': data[1][index], 'en-us': data[2][index], 'ja-jp': data[3][index]}
     
     return idMap
@@ -64,6 +66,58 @@ def getLanguageMap(path, onlyId = False):
                 m[row[0]] = row[1]
 
     return m
+
+def getRecipe(version = '1.4.0'):
+    translations = readExcel(f'./rawData/Translations - {version}.xlsx')
+
+    nameSource = ['Craft', 'Plants', 'Tools', 'ETC', 'Event Items', 'Furniture', 'Shells', 'Floors', 'Walls', 'Dresses']
+    materialNames = [getLanguage(translations[t], 'English', 'lower') for t in nameSource]
+
+    nameMapCustom = getCustomLanguageMap()
+
+    rawData = getRawData()
+    recipeMap = {}
+    for index, recipe in rawData['Recipes'].iterrows():
+        pickData = {}
+        pickData['diyInfoMaterials'] = []
+
+        for i in range(1, 6):
+            material = recipe['Material {}'.format(i)]
+            if str(material) == 'nan':
+                continue
+
+            material = material.lower()
+            name = None
+            if material == 'fossil':
+                name = {'zh-tw': '化石'}
+            if material == 'bells':
+                name = {'zh-tw': '鈴錢'}
+
+            for materialName in materialNames:
+                if material in materialName and name is None:
+                    name = materialName[material]
+
+            if name is None:
+                print(material)
+
+            pickData['diyInfoMaterials'].append(
+                {
+                    'count': int(recipe['#{}'.format(i)]), 
+                    'itemName': name['zh-tw']
+                }
+            )
+
+        # print(recipe['Source Notes'])
+        pickData['diyInfoObtainedFrom'] = [nameMapCustom[s]['zh-tw'] for s in recipe['Source'].split('; ')]
+        try:
+            pickData['diyInfoSourceNotes'] = nameMapCustom[recipe['Source Notes']]['zh-tw'] if str(recipe['Source Notes']) != 'nan' else None
+        except:
+            print(recipe['Source Notes'])
+            pickData['diyInfoSourceNotes'] = recipe['Source Notes']
+        
+        recipeMap[recipe['Crafted Item Internal ID']] = pickData
+
+    return recipeMap
 
 def saveFile(category, output):
     dictName = output[0].keys()

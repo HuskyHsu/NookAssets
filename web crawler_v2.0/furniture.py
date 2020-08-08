@@ -51,44 +51,8 @@ if __name__ == '__main__':
     FabricColorCommon = parse.getLanguageMap('String_TWzh/Remake/STR_Remake_FabricColorCommon')
 
     rawData = parse.getRawData()
-
-    translations = parse.readExcel('./rawData/Translations - 1.4.0.xlsx')
-    materialName = parse.getLanguage(translations['Craft'], 'English')
-    materialName_2 = parse.getLanguage(translations['Plants'], 'English')
-    NPCsName = parse.getLanguage(translations['Special NPCs'], 'English')
+    recipeMap = parse.getRecipe()
     
-    recipeMap = {}
-    for  index, recipe  in rawData['Recipes'].iterrows():
-        pickData = {}
-        pickData['diyInfoMaterials'] = []
-
-        for i in range(1, 6):
-            if str(recipe['Material {}'.format(i)]) != 'nan':
-
-                if recipe['Material {}'.format(i)] in materialName:
-                    name = materialName[recipe['Material {}'.format(i)]]
-                elif recipe['Material {}'.format(i)] in materialName_2:
-                    name = materialName_2[recipe['Material {}'.format(i)]]
-
-                pickData['diyInfoMaterials'].append(
-                    {
-                        'count': recipe['#{}'.format(i)], 
-                        'itemName': name['zh-tw']
-                    }
-                )
-
-        # print(recipe['Source Notes'])
-        pickData['diyInfoObtainedFrom'] = [nameMapCustom[s]['zh-tw'] for s in recipe['Source'].split('; ')]
-        try:
-            pickData['diyInfoSourceNotes'] = nameMapCustom[recipe['Source Notes']]['zh-tw'] if str(recipe['Source Notes']) != 'nan' else None
-        except:
-            print(recipe['Source Notes'])
-            pickData['diyInfoSourceNotes'] = recipe['Source Notes']
-        
-
-        recipeMap[recipe['Crafted Item Internal ID']] = pickData
-
-
     # "Image", "Variation", "Body Title", "Pattern", "Pattern Title", "DIY", "Body Customize", "Pattern Customize", "Kit Cost", "Buy", "Sell", "Color 1", "Color 2", "Size", "Surface", "Miles Price", "Source", "Source Notes", "HHA Base Points", "HHA Concept 1", "HHA Concept 2", "HHA Series", "HHA Set", "HHA Category", "Interact", "Tag", "Outdoor", "Speaker Type", "Lighting Type", "Catalog", "Version Added", "Version Unlocked", "Filename", "Variant ID", "Internal ID"
 
     categoryNames = [
@@ -150,7 +114,7 @@ if __name__ == '__main__':
                 pickData['obtainedFrom'] = nameMapCustom[row['Source']]['zh-tw']
 
                 pickData['DIY'] = True if row['DIY'] == 'Yes' else False
-                if row['DIY'] == 'Yes': 
+                if row['DIY'] == 'Yes':
                     pickData['diyInfoMaterials'] = recipeMap[row['Internal ID']]['diyInfoMaterials']
                     pickData['diyInfoObtainedFrom'] = recipeMap[row['Internal ID']]['diyInfoObtainedFrom']
                     pickData['diyInfoSourceNotes'] = recipeMap[row['Internal ID']]['diyInfoSourceNotes']

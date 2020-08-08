@@ -28,13 +28,10 @@ if __name__ == '__main__':
             print(idName)
 
     rawData = parse.getRawData()
+    recipeMap = parse.getRecipe()
 
     BodyParts = parse.getLanguageMap('String_TWzh/Remake/STR_Remake_BodyParts', True)
     BodyColor = parse.getLanguageMap('String_TWzh/Remake/STR_Remake_BodyColor', True)
-    # translations = parse.readExcel('./rawData/Translations - 1.4.0.xlsx')
-    # materialName = parse.getLanguage(translations['Craft'], 'English')
-    # materialName_2 = parse.getLanguage(translations['Plants'], 'English')
-    # NPCsName = parse.getLanguage(translations['Special NPCs'], 'English')
 
     output = {}
     for index, row in rawData['Tools'].iterrows():
@@ -64,7 +61,17 @@ if __name__ == '__main__':
             pickData['sell'] = row['Sell']
             pickData['obtainedFrom'] = [nameMapCustom[s]['zh-tw'] for s in row['Source'].split('; ')]
             pickData['sourceNotes'] = nameMapCustom[row['Source Notes']]['zh-tw'] if str(row['Source Notes']) != 'nan' else None
-            
+
+            pickData['DIY'] = True if row['DIY'] == 'Yes' else False
+            if row['DIY'] == 'Yes':
+                pickData['diyInfoMaterials'] = recipeMap[row['Internal ID']]['diyInfoMaterials']
+                pickData['diyInfoObtainedFrom'] = recipeMap[row['Internal ID']]['diyInfoObtainedFrom']
+                pickData['diyInfoSourceNotes'] = recipeMap[row['Internal ID']]['diyInfoSourceNotes']
+            else:
+                pickData['diyInfoMaterials'] = None
+                pickData['diyInfoObtainedFrom'] = None
+                pickData['diyInfoSourceNotes'] = None
+
             pickData['filename'] = row['Filename']
             pickData['version'] = row['Version Added']
 
