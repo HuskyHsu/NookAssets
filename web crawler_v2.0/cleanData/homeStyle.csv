@@ -1,0 +1,564 @@
+id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,themes,series,DIY,diyInfoMaterials,diyInfoObtainedFrom,diyInfoSourceNotes,filename,version
+4795,homeStyle,壁紙,常見牆,よくあるかべ,common wall,Nook商店,800,200,"['客廳', '學校']",無,False,,,,RoomTexWallCommon00,1.0.0
+4797,homeStyle,地板,地下室地板,ちかしつのゆか,basement flooring,DIY,,1500,"['恐怖', '設施']",無,True,"[{'count': 10, 'itemName': '石頭'}]",['自戀型村民'],,RoomTexFloorBasement00,1.0.0
+4801,homeStyle,壁紙,鋼筋牆,てっこつのかべ,steel-frame wall,DIY,,6000,"['車庫', '設施']",無,True,"[{'count': 8, 'itemName': '鐵礦石'}]",['自戀型村民'],,RoomTexWallSteel00,1.0.0
+4802,homeStyle,壁紙,粉紅油漆木牆,ピンクのペイントウッドのかべ,pink painted-wood wall,Nook商店,1650,412,"['奇幻', '兒童房']",無,False,,,,RoomTexWallPaintWood02,1.0.0
+4803,homeStyle,壁紙,白色油漆木牆,しろいペイントウッドのかべ,white painted-wood wall,Nook商店,1650,412,"['客廳', '兒童房']",無,False,,,,RoomTexWallPaintWood03,1.0.0
+4804,homeStyle,壁紙,茶色人字斜紋牆,ちゃいろいヘリンボーンのかべ,brown herringbone wall,DIY,,1800,"['客廳', '商店']",無,True,"[{'count': 15, 'itemName': '軟木材'}]",['大姐姐型村民'],,RoomTexWallHerringbone00,1.0.0
+4805,homeStyle,壁紙,深棕色人字斜紋牆,こげちゃのヘリンボーンのかべ,chocolate herringbone wall,DIY,,1800,"['客廳', '商店']",無,True,"[{'count': 15, 'itemName': '軟木材'}]",['自戀型村民'],,RoomTexWallHerringbone01,1.0.0
+4806,homeStyle,壁紙,茶色大廳牆,ちゃいろいホールのかべ,brown hallway wall,Nook商店,2000,500,"['設施', '音樂']",無,False,,,,RoomTexWallHall00,1.0.0
+4807,homeStyle,壁紙,深棕色大廳牆,こげちゃのホールのかべ,chocolate hallway wall,Nook商店,2000,500,"['設施', '音樂']",無,False,,,,RoomTexWallHall01,1.0.0
+4808,homeStyle,壁紙,黃色油漆牆,きいろいペイントウォール,yellow-paint wall,Nook商店,1600,400,"['奇幻', '兒童房']",無,False,,,,RoomTexWallStucco00,1.0.0
+4809,homeStyle,壁紙,橘色油漆牆,オレンジのペイントウォール,orange-paint wall,Nook商店,1600,400,"['奇幻', '兒童房']",無,False,,,,RoomTexWallStucco01,1.0.0
+4811,homeStyle,壁紙,藍色油漆牆,あおいペイントウォール,blue-paint wall,Nook商店,1600,400,"['奇幻', '客廳']",無,False,,,,RoomTexWallStucco03,1.0.0
+4812,homeStyle,壁紙,綠色油漆牆,みどりのペイントウォール,green-paint wall,Nook商店,1600,400,"['奇幻', '客廳']",無,False,,,,RoomTexWallStucco04,1.0.0
+4813,homeStyle,壁紙,不規則石頭牆,ランダムストーンのかべ,rustic-stone wall,DIY,,1750,"['設施', '商店']",無,True,"[{'count': 5, 'itemName': '石頭'}, {'count': 5, 'itemName': '黏土'}]",['成熟型村民'],,RoomTexWallStone00,1.0.0
+4814,homeStyle,壁紙,藍色皇冠壁紙,ブルークラウンのかべがみ,blue-crown wall,Nook商店,2350,587,['富裕'],無,False,,,,RoomTexWallCrown00,1.0.0
+4815,homeStyle,壁紙,黑色皇冠壁紙,ブラッククラウンのかべがみ,black-crown wall,Nook商店,2350,587,['富裕'],無,False,,,,RoomTexWallCrown01,1.0.0
+4816,homeStyle,壁紙,粉紅皇冠壁紙,ピンククラウンのかべがみ,pink-crown wall,Nook商店,2350,587,"['奇幻', '富裕']",無,False,,,,RoomTexWallCrown02,1.0.0
+4817,homeStyle,壁紙,米色裝飾線板壁紙,ベージュのアールデコかべがみ,beige art-deco wall,Nook商店,2780,695,"['兒童房', '客廳']",無,False,,,,RoomTexWallArtDeco00,1.0.0
+4818,homeStyle,壁紙,紅色裝飾線板壁紙,レッドのアールデコかべがみ,red art-deco wall,Nook商店,2780,695,"['兒童房', '客廳']",無,False,,,,RoomTexWallArtDeco01,1.0.0
+4819,homeStyle,壁紙,日式拉門,ふすま,screen wall,Nook商店,3000,750,"['東洋風', '設施']",無,False,,,,RoomTexWallFusuma00,1.0.0
+4820,homeStyle,壁紙,金箔日式拉門,きんぱくのふすま,gold-screen wall,DIY,,20750,"['東洋風', '富裕']",無,True,"[{'count': 2, 'itemName': '金礦石'}, {'count': 1, 'itemName': '日式拉門'}]",['自戀型村民'],,RoomTexWallFusumaGorgeous00,1.0.0
+4821,homeStyle,壁紙,主機板牆,きばんのかべ,circuit-board wall,駱嵐,3000,750,['設施'],無,False,,,,RoomTexWallGeek00,1.0.0
+4825,homeStyle,壁紙,鐵捲門牆,シャッターのかべ,shutter wall,駱嵐,3000,750,"['設施', '商店']",無,False,,,,RoomTexWallShutter00,1.0.0
+4826,homeStyle,壁紙,白色植物圖案磚牆,しろいボタニカルタイルのかべ,white botanical-tile wall,Nook商店,1240,310,"['設施', '富裕']",無,False,,,,RoomTexWallWoodTile00,1.0.0
+4827,homeStyle,壁紙,棕色植物圖案磚牆,ブラウンボタニカルタイルのかべ,brown botanical-tile wall,Nook商店,1240,310,"['設施', '富裕']",無,False,,,,RoomTexWallWoodTile01,1.0.0
+4828,homeStyle,壁紙,古典壁紙,クラシックなかべがみ,chic wall,Nook商店,1960,490,"['富裕', '客廳']",無,False,,,,RoomTexWallClassic00,1.0.0
+4830,homeStyle,壁紙,東方風交叉格柵,オリエンタルなラティス,lattice wall,Nook商店,1780,445,"['東洋風', '商店']",無,False,,,,RoomTexWallLattice00,1.0.0
+4831,homeStyle,壁紙,米色花草圖案牆,ベージュのくさばなもようのかべ,beige blossoming wall,Nook商店,1760,440,"['奇幻', '客廳']",無,False,,,,RoomTexWallCountry00,1.0.0
+4832,homeStyle,壁紙,波浪磚牆,ウェーブタイルのかべ,wavy-tile wall,Nook商店,1740,435,"['商店', '設施']",無,False,,,,RoomTexWallWaveTile00,1.0.0
+4833,homeStyle,壁紙,竹子牆,バンブーなかべ,bamboo wall,DIY,,2400,['東洋風'],竹子,True,"[{'count': 15, 'itemName': '竹子材料'}]",['暴躁型村民'],,RoomTexWallBamboo00,1.0.0
+4834,homeStyle,壁紙,米色摩洛哥磚牆,ベージュのモロッカンタイルかべ,beige desert-tile wall,Nook商店,2440,610,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallMorocco00,1.0.0
+4835,homeStyle,壁紙,藍色摩洛哥磚牆,ブルーのモロッカンタイルかべ,blue desert-tile wall,Nook商店,2440,610,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallMorocco01,1.0.0
+4836,homeStyle,壁紙,竹簾牆,すだれのかべ,bamboo-screen wall,Nook商店,1770,442,['東洋風'],無,False,,,,RoomTexWallRattan00,1.0.0
+4837,homeStyle,壁紙,圖書館牆,ライブラリーなかべ,classic-library wall,DIY,,1450,['書房'],無,True,"[{'count': 10, 'itemName': '書'}]",['普通型村民'],,RoomTexWallLibrary00,1.0.0
+4838,homeStyle,壁紙,漫畫圖書館牆,マンガライブラリーなかべ,manga-library wall,DIY,,1050,"['設施', '書房']",無,True,"[{'count': 10, 'itemName': '雜誌'}]",['活力型村民'],,RoomTexWallLibrary01,1.0.0
+4839,homeStyle,壁紙,銀行保險箱牆,かしきんこのかべ,bank-vault wall,駱嵐,3000,750,"['設施', '富裕']",無,False,,,,RoomTexWallSafeBox00,1.0.0
+4840,homeStyle,壁紙,木屋牆,ログハウスのかべ,cabin wall,DIY,,1800,"['客廳', '設施']",無,True,"[{'count': 15, 'itemName': '硬木材'}]",['活力型村民'],,RoomTexWallLog00,1.0.0
+4841,homeStyle,壁紙,縐紗紋壁紙,ちりめんもようのかべがみ,crepe-design wall,Nook商店,1550,387,['東洋風'],無,False,,,,RoomTexWallCrepe00,1.0.0
+4843,homeStyle,壁紙,施工現場牆,こうじげんばのかべ,construction-site wall,駱嵐,3000,750,"['車庫', '設施']",無,False,,,,RoomTexWallBlueSheet00,1.0.0
+4844,homeStyle,壁紙,木質牆,ウッディなかべ,stacked-wood wall,DIY,,1800,"['車庫', '設施']",無,True,"[{'count': 15, 'itemName': '硬木材'}]",['運動型村民'],,RoomTexWallFireWood00,1.0.0
+4845,homeStyle,壁紙,夯土牆,はんちくのかべ,rammed-earth wall,Nook商店,1800,450,['民藝'],無,False,,,,RoomTexWallHanchiku00,1.0.0
+4846,homeStyle,壁紙,迷幻壁紙,サイケなかべがみ,groovy wall,Nook商店,1280,320,['派對'],無,False,,,,RoomTexWallPsyche00,1.0.0
+4847,homeStyle,壁紙,復古花紋壁紙,レトロなはながらのかべがみ,retro flower-print wall,Nook商店,1660,415,"['奇幻', '客廳']",無,False,,,,RoomTexWallKitsch00,1.0.0
+4848,homeStyle,壁紙,藍色布牆,あおいテキスタイルのかべ,blue intricate wall,Nook商店,1570,392,"['客廳', '商店']",無,False,,,,RoomTexWallFlowerPop00,1.0.0
+4849,homeStyle,壁紙,黃色布牆,きいろいテキスタイルのかべ,yellow intricate wall,Nook商店,1570,392,"['客廳', '商店']",無,False,,,,RoomTexWallFlowerPop01,1.0.0
+4850,homeStyle,壁紙,常春藤牆,つたのかべ,ivy wall,駱嵐,3000,750,"['設施', '商店']",無,False,,,,RoomTexWallIvy00,1.0.0
+4851,homeStyle,壁紙,抱石牆,ボルダリングのかべ,rock-climbing wall,駱嵐,3000,750,['健身'],無,False,,,,RoomTexWallBouldering00,1.0.0
+4852,homeStyle,壁紙,摩天大樓牆,まてんろうのかべ,skyscraper wall,駱嵐,3000,750,['富裕'],無,False,,,,RoomTexWallSkyscraper00,1.0.0
+4853,homeStyle,壁紙,竹林牆,ちくりんのかべ,bamboo-grove wall,DIY,,4300,['東洋風'],竹子,True,"[{'count': 7, 'itemName': '春筍'}, {'count': 3, 'itemName': '竹筍'}]",['氣球'],僅在春季期間獲得,RoomTexWallChikurin00,1.0.0
+4854,homeStyle,壁紙,畫室牆,アトリエのかべ,paintball wall,駱嵐,3000,750,"['車庫', '設施']",無,False,,,,RoomTexWallAtelier00,1.0.0
+4855,homeStyle,壁紙,雪花壁紙,スノーフレークのかべがみ,snowflake wall,DIY,,4800,['嚴寒'],無,True,"[{'count': 12, 'itemName': '雪花'}]",['氣球'],僅在冬季期間獲得,RoomTexWallSnowCrystal00,1.0.0
+4856,homeStyle,壁紙,破爛泥土牆,ボロいつちかべ,dirt-clod wall,Nook商店,200,50,['恐怖'],無,False,,,,RoomTexWallOldSoil00,1.0.0
+4857,homeStyle,壁紙,破爛壁紙,ボロいかべがみ,old wallpaper,Nook商店,200,50,['恐怖'],無,False,,,,RoomTexWallOld00,1.0.0
+4858,homeStyle,壁紙,原木牆,ワイルドウッドのかべ,wild-wood wall,DIY,,1800,"['客廳', '商店']",無,True,"[{'count': 15, 'itemName': '木材'}]",['暴躁型村民'],,RoomTexWallWildWood00,1.0.0
+4859,homeStyle,壁紙,嵌木牆,よせぎのかべ,wooden-mosaic wall,DIY,,1800,"['客廳', '商店']",無,True,"[{'count': 15, 'itemName': '木材'}]",['普通型村民'],,RoomTexWallMixPlankWood00,1.0.0
+4860,homeStyle,壁紙,深色嵌木牆,ダークなよせぎのかべ,dark wooden-mosaic wall,DIY,,1800,"['客廳', '商店']",無,True,"[{'count': 15, 'itemName': '木材'}]",['大姐姐型村民'],,RoomTexWallMixPlankWood01,1.0.0
+4861,homeStyle,壁紙,文藝復興牆,ルネッサンスなかべ,stately wall,Nook商店,2450,612,['富裕'],無,False,,,,RoomTexWallRenaissance00,1.0.0
+4862,homeStyle,壁紙,馬賽克磚牆,アートモザイクタイルのかべ,mosaic-tile wall,Nook商店,1450,362,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallMosaicTile00,1.0.0
+4863,homeStyle,壁紙,日式紙拉門,しょうじ,shoji screen,Nook商店,1880,470,['東洋風'],無,False,,,,RoomSpWallShoji00,1.0.0
+4864,homeStyle,壁紙,摩登日式紙拉門,モダンなしょうじ,modern shoji-screen wall,Nook商店,1150,287,"['東洋風', '商店']",無,False,,,,RoomSpWallShojiModem00,1.0.0
+4865,homeStyle,壁紙,蜂巢牆,ビーハイブなかべ,honeycomb wall,DIY,,3600,"['奇幻', '設施']",無,True,"[{'count': 6, 'itemName': '蜂巢'}]",['運動型村民'],,RoomTexWallHoney00,1.0.0
+4866,homeStyle,壁紙,中華風牆,チャイナなかべ,exquisite wall,駱嵐,3000,750,"['東洋風', '商店']",無,False,,,,RoomTexWallChina00,1.0.0
+4867,homeStyle,壁紙,米色簡約布面牆,ベージュのシンプルクロス,yellow simple-cloth wall,Nook商店,750,187,"['兒童房', '客廳']",無,False,,,,RoomTexWallSimple01,1.0.0
+4868,homeStyle,壁紙,粉紅簡約布面牆,ピンクのシンプルクロス,pink simple-cloth wall,Nook商店,750,187,"['兒童房', '客廳']",無,False,,,,RoomTexWallSimple02,1.0.0
+4869,homeStyle,壁紙,藍色簡約布面牆,あおいシンプルクロス,blue simple-cloth wall,Nook商店,750,187,"['兒童房', '客廳']",無,False,,,,RoomTexWallSimple03,1.0.0
+4870,homeStyle,壁紙,橘色線板牆,オレンジのパネルモールドかべ,orange molded-panel wall,Nook商店,1980,495,"['奇幻', '兒童房']",無,False,,,,RoomTexWallPanelMold00,1.0.0
+4871,homeStyle,壁紙,藍色線板牆,あおいパネルモールドかべ,blue molded-panel wall,Nook商店,1980,495,"['富裕', '商店']",無,False,,,,RoomTexWallPanelMold01,1.0.0
+4872,homeStyle,壁紙,灰色線板牆,グレーのパネルモールドかべ,gray molded-panel wall,Nook商店,1980,495,"['富裕', '商店']",無,False,,,,RoomTexWallPanelMold02,1.0.0
+4873,homeStyle,壁紙,抽象藝術牆,アブストラクトなかべ,abstract wall,Nook商店,1560,390,"['商店', '設施']",無,False,,,,RoomTexWallAbstract00,1.0.0
+4874,homeStyle,壁紙,藍色愛心壁紙,ブルーハートのかべがみ,blue heart-pattern wall,Nook商店,1280,320,"['奇幻', '兒童房']",無,False,,,,RoomTexWallHeart00,1.0.0
+4875,homeStyle,壁紙,粉紅愛心壁紙,ピンクハートのかべがみ,pink heart-pattern wall,Nook商店,1280,320,"['奇幻', '兒童房']",無,False,,,,RoomTexWallHeart01,1.0.0
+4876,homeStyle,壁紙,工廠牆,ファクトリーなかべ,industrial wall,駱嵐,3000,750,['設施'],無,False,,,,RoomTexWallFactory00,1.0.0
+4877,homeStyle,壁紙,珠簾牆,たまのれんのかべ,beaded-curtain wall,Nook商店,1720,430,"['商店', '廚房']",無,False,,,,RoomTexWallBeadsCurtain00,1.0.0
+4878,homeStyle,壁紙,舞台布幕牆,どんちょうのかべ,heavy-curtain wall,駱嵐,3000,750,"['音樂', '派對']",無,False,,,,RoomTexWallThickCurtain00,1.0.0
+4879,homeStyle,壁紙,魚兒壁紙,おサカナのかべがみ,marine pop wall,活動：釣魚大賽,,805,"['大海', '兒童房']",無,False,,,,RoomTexWallFish00,1.0.0
+4880,homeStyle,壁紙,蝴蝶壁紙,バタフライなかべがみ,butterflies wall,活動：抓蟲大會,,840,"['奇幻', '設施']",無,False,,,,RoomTexWallInsect00,1.0.0
+4881,homeStyle,壁紙,唇印壁紙,キッスのかべがみ,kisses wall,駱嵐,3000,750,"['派對', '奇幻']",無,False,,,,RoomTexWallKiss00,1.0.0
+4882,homeStyle,壁紙,黑板牆,こくばんのかべ,blackboard wall,駱嵐,3000,750,"['商店', '學校']",無,False,,,,RoomTexWallBlackBoard00,1.0.0
+4883,homeStyle,壁紙,迷彩壁紙,めいさいのかべがみ,camo wall,Nook商店,1150,287,"['派對', '兒童房']",無,False,,,,RoomTexWallCamouflage00,1.0.0
+4884,homeStyle,壁紙,藍色迷彩壁紙,ブルーめいさいのかべがみ,blue camo wall,Nook商店,1150,287,"['派對', '兒童房']",無,False,,,,RoomTexWallCamouflage01,1.0.0
+4885,homeStyle,壁紙,紫色迷彩壁紙,パープルめいさいのかべがみ,purple camo wall,Nook商店,1150,287,"['派對', '兒童房']",無,False,,,,RoomTexWallCamouflage02,1.0.0
+4886,homeStyle,壁紙,粉嫩巧拼壁紙,パステルパズルかべがみ,pastel puzzle wall,Nook商店,1540,385,"['奇幻', '兒童房']",無,False,,,,RoomTexWallPuzzle00,1.0.0
+4887,homeStyle,壁紙,彩色巧拼壁紙,カラフルパズルかべがみ,colorful puzzle wall,Nook商店,1540,385,"['奇幻', '兒童房']",無,False,,,,RoomTexWallPuzzle01,1.0.0
+4888,homeStyle,壁紙,藍色兒童房壁紙,あおいキッズルームのかべがみ,blue playroom wall,Nook商店,2540,635,"['兒童房', '奇幻']",無,False,,,,RoomTexWallToy00,1.0.0
+4889,homeStyle,壁紙,粉紅色兒童房壁紙,ピンクのキッズルームのかべがみ,pink playroom wall,Nook商店,2540,635,"['兒童房', '奇幻']",無,False,,,,RoomTexWallToy01,1.0.0
+4890,homeStyle,壁紙,混凝土牆,コンクリートのかべ,concrete wall,Nook商店,940,235,"['車庫', '設施']",無,False,,,,RoomTexWallConcrete00,1.0.0
+4891,homeStyle,壁紙,白色碎花壁紙,しろいこばながらのかべがみ,white delicate-blooms wall,Nook商店,1900,475,"['富裕', '客廳']",無,False,,,,RoomTexWallManor00,1.0.0
+4892,homeStyle,壁紙,灰階配色點點壁紙,モノクロドットのかべがみ,monochromatic dotted wall,Nook商店,1100,275,"['奇幻', '兒童房']",無,False,,,,RoomTexWallDot00,1.0.0
+4893,homeStyle,壁紙,粉紅色花紋壁紙,ピンクのはながらのかべがみ,pink flower-print wall,Nook商店,1780,445,"['奇幻', '客廳']",無,False,,,,RoomTexWallFlower00,1.0.0
+4894,homeStyle,壁紙,黃金牆,おうごんのかべ,golden wall,DIY,,40000,"['富裕', '恐怖']",黃金,True,"[{'count': 4, 'itemName': '金礦石'}]",['自戀型村民'],,RoomTexWallGold00,1.0.0
+4895,homeStyle,壁紙,粉紅色花草圖案牆,ピンクのくさばなもようのかべ,pink blossoming wall,Nook商店,1760,440,"['奇幻', '客廳']",無,False,,,,RoomTexWallCountry01,1.0.0
+4896,homeStyle,壁紙,藍色花草圖案牆,あおいくさばなもようのかべ,blue blossoming wall,Nook商店,1760,440,"['奇幻', '客廳']",無,False,,,,RoomTexWallCountry02,1.0.0
+4897,homeStyle,壁紙,紅色碎花壁紙,あかいこばながらのかべがみ,red delicate-blooms wall,Nook商店,1900,475,"['富裕', '客廳']",無,False,,,,RoomTexWallManor01,1.0.0
+4898,homeStyle,壁紙,綠色碎花壁紙,グリーンのこばながらのかべがみ,green delicate-blooms wall,Nook商店,1900,475,"['富裕', '客廳']",無,False,,,,RoomTexWallManor02,1.0.0
+4899,homeStyle,壁紙,粉嫩圓點壁紙,パステルドットのかべがみ,pastel dotted wall,Nook商店,1100,275,"['奇幻', '兒童房']",無,False,,,,RoomTexWallDot01,1.0.0
+4900,homeStyle,壁紙,紅色圓點壁紙,レッドドットのかべがみ,red dotted wall,Nook商店,1100,275,"['奇幻', '兒童房']",無,False,,,,RoomTexWallDot02,1.0.0
+4902,homeStyle,壁紙,紫色圓點壁紙,パープルドットのかべがみ,purple dotted wall,Nook商店,1100,275,"['奇幻', '兒童房']",無,False,,,,RoomTexWallDot04,1.0.0
+4903,homeStyle,壁紙,綠色花草圖案牆,みどりのくさばなもようのかべ,green blossoming wall,Nook商店,1760,440,"['奇幻', '客廳']",無,False,,,,RoomTexWallCountry03,1.0.0
+4904,homeStyle,壁紙,拼木牆,ミックスウッドのかべ,modern wood wall,DIY,,1800,"['客廳', '兒童房']",無,True,"[{'count': 5, 'itemName': '木材'}, {'count': 5, 'itemName': '軟木材'}, {'count': 5, 'itemName': '硬木材'}]",['成熟型村民'],,RoomTexWallMixwood00,1.0.0
+4905,homeStyle,壁紙,楓葉牆,こうようのかべ,autumn wall,DIY,,4700,['庭園'],樹果‧落葉,True,"[{'count': 10, 'itemName': '楓葉'}, {'count': 5, 'itemName': '木材'}, {'count': 5, 'itemName': '雜草'}]",['氣球'],僅在楓葉季節期間獲得,RoomSpWallAutumun00,1.0.0
+4906,homeStyle,壁紙,玫瑰壁紙,バラのかべがみ,rose wall,Nook商店,1720,430,['奇幻'],無,False,,,,RoomTexWallRose00,1.0.0
+4907,homeStyle,壁紙,紫色玫瑰壁紙,むらさきのバラのかべがみ,purple-rose wall,Nook商店,1720,430,['奇幻'],無,False,,,,RoomTexWallRose01,1.0.0
+4908,homeStyle,壁紙,引人入勝牆,キャッチーなかべ,mod wall,Nook商店,1220,305,['派對'],無,False,,,,RoomTexWallMod00,1.0.0
+4909,homeStyle,壁紙,六角磚牆,ハニカムタイルのかべ,honeycomb-tile wall,Nook商店,1680,420,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallHoneycomb00,1.0.0
+4910,homeStyle,壁紙,灰階配色磚牆,モノクロタイルのかべ,monochromatic-tile wall,Nook商店,1420,355,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallTile00,1.0.0
+4911,homeStyle,壁紙,木節牆,ふしありウッドウォール,wooden-knot wall,DIY,,1800,"['客廳', '兒童房']",無,True,"[{'count': 15, 'itemName': '硬木材'}]",['自戀型村民'],,RoomTexWallCedar00,1.0.0
+4912,homeStyle,壁紙,藍色六角磚牆,あおいハニカムタイルのかべ,blue honeycomb-tile wall,Nook商店,1680,420,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallHoneycomb01,1.0.0
+4913,homeStyle,壁紙,綠色六角磚牆,みどりのハニカムタイルのかべ,green honeycomb-tile wall,Nook商店,1680,420,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallHoneycomb02,1.0.0
+4914,homeStyle,壁紙,白色六角磚牆,しろいハニカムタイルのかべ,white honeycomb-tile wall,Nook商店,1680,420,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallHoneycomb03,1.0.0
+4915,homeStyle,壁紙,橘子壁紙,オレンジのかべがみ,orange wall,DIY,,4000,"['奇幻', '兒童房']",水果,True,"[{'count': 20, 'itemName': '橘子'}]",['悠閒型村民'],,RoomTexWallOrange00,1.0.0
+4916,homeStyle,壁紙,蘋果壁紙,リンゴのかべがみ,apple wall,DIY,,4000,"['奇幻', '兒童房']",水果,True,"[{'count': 20, 'itemName': '蘋果'}]",['大姐姐型村民'],,RoomTexWallApple00,1.0.0
+4917,homeStyle,壁紙,梨子壁紙,ナシのかべがみ,pear wall,DIY,,4000,"['奇幻', '兒童房']",水果,True,"[{'count': 20, 'itemName': '梨子'}]",['運動型村民'],,RoomTexWallPear00,1.0.0
+4918,homeStyle,壁紙,桃子壁紙,モモのかべがみ,peach wall,DIY,,4000,"['奇幻', '兒童房']",水果,True,"[{'count': 20, 'itemName': '桃子'}]",['普通型村民'],,RoomTexWallPeach00,1.0.0
+4919,homeStyle,壁紙,櫻桃壁紙,さくらんぼのかべがみ,cherry wall,DIY,,4000,"['兒童房', '奇幻']",水果,True,"[{'count': 20, 'itemName': '櫻桃'}]",['活力型村民'],,RoomTexWallCherry00,1.0.0
+4920,homeStyle,壁紙,白色洞洞板牆,しろいパンチングボードのかべ,white perforated-board wall,Nook商店,1180,295,"['音樂', '設施']",無,False,,,,RoomTexWallPegboard00,1.0.0
+4921,homeStyle,壁紙,洞洞板牆,パンチングボードのかべ,perforated-board wall,Nook商店,1180,295,"['音樂', '設施']",無,False,,,,RoomTexWallPegboard01,1.0.0
+4922,homeStyle,壁紙,黑色洞洞板牆,くろいパンチングボードのかべ,black perforated-board wall,Nook商店,1180,295,"['音樂', '設施']",無,False,,,,RoomTexWallPegboard02,1.0.0
+4923,homeStyle,壁紙,灰色鐵皮牆,グレーのトタンかべ,gray shanty wall,Nook商店,620,155,['車庫'],無,False,,,,RoomTexWallTin00,1.0.0
+4924,homeStyle,壁紙,粉紅鐵皮牆,ピンクのトタンかべ,pink shanty wall,Nook商店,620,155,['車庫'],無,False,,,,RoomTexWallTin01,1.0.0
+4925,homeStyle,壁紙,藍色鐵皮牆,ブルーのトタンかべ,blue shanty wall,Nook商店,620,155,['車庫'],無,False,,,,RoomTexWallTin02,1.0.0
+4926,homeStyle,壁紙,褐色鐵皮牆,ちゃいろのトタンかべ,brown shanty wall,Nook商店,620,155,['車庫'],無,False,,,,RoomTexWallTin03,1.0.0
+4927,homeStyle,壁紙,白色磚塊牆,しろレンガのかべ,white-brick wall,Nook商店,1000,250,"['設施', '商店']",無,False,,,,RoomTexWallBrick00,1.0.0
+4928,homeStyle,壁紙,紅色磚塊牆,あかレンガのかべ,red-brick wall,Nook商店,1000,250,"['設施', '商店']",無,False,,,,RoomTexWallBrick01,1.0.0
+4929,homeStyle,壁紙,黑色磚塊牆,くろレンガのかべ,black-brick wall,Nook商店,1000,250,"['設施', '商店']",無,False,,,,RoomTexWallBrick02,1.0.0
+4930,homeStyle,壁紙,水藍色磚牆,みずいろタイルのかべ,aqua tile wall,Nook商店,1420,355,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallTile01,1.0.0
+4931,homeStyle,壁紙,彩色磚牆,カラフルタイルのかべ,colorful-tile wall,Nook商店,1420,355,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallTile02,1.0.0
+4932,homeStyle,壁紙,黑巧克力牆,ビターチョコなかべ,dark-chocolate wall,駱嵐,3000,750,['奇幻'],無,False,,,,RoomTexWallChocolate00,1.0.0
+4933,homeStyle,壁紙,白巧克力牆,ホワイトチョコなかべ,white-chocolate wall,駱嵐,3000,750,['奇幻'],無,False,,,,RoomTexWallChocolate01,1.0.0
+4934,homeStyle,壁紙,草莓巧克力牆,いちごチョコなかべ,strawberry-chocolate wall,駱嵐,3000,750,['奇幻'],無,False,,,,RoomTexWallChocolate02,1.0.0
+4935,homeStyle,壁紙,綠色花紋壁紙,グリーンのはながらかべがみ,green flower-print wall,Nook商店,1780,445,"['奇幻', '客廳']",無,False,,,,RoomTexWallFlower01,1.0.0
+4936,homeStyle,壁紙,埃及牆,エジプトなかべ,ancient wall,駱嵐,3000,750,"['民藝', '恐怖']",無,False,,,,RoomTexWallEgypt00,1.0.0
+4939,homeStyle,壁紙,白色簡約布面牆,しろいシンプルクロス,white simple-cloth wall,Nook商店,750,187,"['兒童房', '客廳']",無,False,,,,RoomTexWallSimple00,1.0.0
+4940,homeStyle,壁紙,藍色地鐵磚牆,あおいメトロタイルのかべ,blue subway-tile wall,Nook商店,1340,335,"['設施', '商店']",無,False,,,,RoomTexWallMetro00,1.0.0
+4941,homeStyle,壁紙,白色地鐵磚牆,しろいメトロタイルのかべ,white subway-tile wall,Nook商店,1340,335,"['設施', '商店']",無,False,,,,RoomTexWallMetro01,1.0.0
+4943,homeStyle,壁紙,粉紅條紋壁紙,ピンクストライプのかべがみ,pink-striped wall,Nook商店,1520,380,"['奇幻', '兒童房']",無,False,,,,RoomTexWallStripe01,1.0.0
+4944,homeStyle,壁紙,灰階配色條紋壁紙,モノクロストライプのかべがみ,gray-striped wall,Nook商店,1520,380,"['奇幻', '兒童房']",無,False,,,,RoomTexWallStripe02,1.0.0
+4945,homeStyle,壁紙,藍色條紋壁紙,ブルーストライプのかべがみ,blue-striped wall,Nook商店,1520,380,"['奇幻', '兒童房']",無,False,,,,RoomTexWallStripe03,1.0.0
+4946,homeStyle,壁紙,黃色條紋壁紙,イエローストライプのかべがみ,yellow-striped wall,Nook商店,1520,380,"['奇幻', '兒童房']",無,False,,,,RoomTexWallStripe04,1.0.0
+4947,homeStyle,壁紙,櫻花木牆,さくらのウッドウォール,sakura-wood wall,DIY,,3200,"['兒童房', '奇幻']",櫻花,True,"[{'count': 5, 'itemName': '櫻花花瓣'}, {'count': 10, 'itemName': '木材'}]",['氣球'],僅在櫻花季節期間獲得,RoomTexWallSolidWood00,1.0.0
+4948,homeStyle,壁紙,藍色油漆木牆,あおいペイントウッドのかべ,blue painted-wood wall,Nook商店,1650,412,"['奇幻', '客廳']",無,False,,,,RoomTexWallPaintWood00,1.0.0
+4949,homeStyle,壁紙,綠色油漆木牆,みどりのペイントウッドのかべ,green painted-wood wall,Nook商店,1650,412,"['奇幻', '兒童房']",無,False,,,,RoomTexWallPaintWood01,1.0.0
+4950,homeStyle,地板,甲板地板,かんぱんのゆか,ship deck,Nook商店,4000,1000,['大海'],無,False,,,,RoomTexFloorSeaView00,1.0.0
+4951,homeStyle,地板,混凝土地板,コンクリートのゆか,concrete flooring,Nook商店,820,205,"['車庫', '設施']",無,False,,,,RoomTexFloorConcrete00,1.0.0
+4952,homeStyle,地板,綠色塑膠地板,グリーンラバーのゆか,green rubber flooring,Nook商店,850,212,"['健身', '學校']",無,False,,,,RoomTexFloorRubber00,1.0.0
+4953,homeStyle,地板,阿拉伯式地板,アラベスクなゆか,arabesque flooring,Nook商店,2120,530,"['富裕', '客廳']",無,False,,,,RoomTexFloorArabesque00,1.0.0
+4954,homeStyle,地板,藍色塑膠地板,ブルーラバーのゆか,blue rubber flooring,Nook商店,850,212,"['健身', '學校']",無,False,,,,RoomTexFloorRubber01,1.0.0
+4955,homeStyle,地板,巧拼地墊地板,ジョイントマットのゆか,jointed-mat flooring,Nook商店,1050,262,"['學校', '兒童房']",無,False,,,,RoomTexFloorJointMat00,1.0.0
+4956,homeStyle,地板,粉嫩巧拼地板,パステルパズルのゆか,pastel puzzle flooring,Nook商店,1450,362,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorPuzzleMat00,1.0.0
+4957,homeStyle,地板,彩色巧拼地板,カラフルパズルのゆか,colorful puzzle flooring,Nook商店,1450,362,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorPuzzleMat01,1.0.0
+4958,homeStyle,地板,玫瑰地板,バラのじゅうたん,rose flooring,Nook商店,2200,550,"['奇幻', '富裕']",無,False,,,,RoomTexFloorRoseCarpet00,1.0.0
+4959,homeStyle,地板,豹紋地板,レオパードなゆか,leopard-print flooring,Nook商店,1300,325,"['派對', '奇幻']",無,False,,,,RoomTexFloorAnimal00,1.0.0
+4960,homeStyle,地板,鐵板地板,てっぱんのゆか,steel flooring,DIY,,5250,"['車庫', '設施']",無,True,"[{'count': 7, 'itemName': '鐵礦石'}]",['自戀型村民'],,RoomTexFloorSteel00,1.0.0
+4961,homeStyle,地板,長頸鹿紋地板,ジラフなゆか,giraffe-print flooring,Nook商店,1300,325,"['派對', '奇幻']",無,False,,,,RoomTexFloorAnimal01,1.0.0
+4962,homeStyle,地板,斑馬紋地板,ゼブラなゆか,zebra-print flooring,Nook商店,1300,325,"['派對', '奇幻']",無,False,,,,RoomTexFloorAnimal02,1.0.0
+4963,homeStyle,地板,條紋地板,ストライプなゆか,stripe flooring,Nook商店,1200,300,"['客廳', '兒童房']",無,False,,,,RoomTexFloorStripe00,1.0.0
+4964,homeStyle,地板,竹子地板,バンブーなゆか,bamboo flooring,DIY,,2400,['東洋風'],竹子,True,"[{'count': 15, 'itemName': '竹子材料'}]",['暴躁型村民'],,RoomTexFloorBamboo00,1.0.0
+4965,homeStyle,地板,米色摩洛哥磚地板,ベージュのモロッカンタイルゆか,beige desert-tile flooring,Nook商店,2100,525,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorMorocco00,1.0.0
+4966,homeStyle,地板,藍色摩洛哥磚地板,ブルーのモロッカンタイルゆか,blue desert-tile flooring,Nook商店,2100,525,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorMorocco01,1.0.0
+4967,homeStyle,地板,藤編地板,ラタンのゆか,rattan flooring,Nook商店,1100,275,"['設施', '商店']",藤編,False,,,,RoomTexFloorRattan00,1.0.0
+4968,homeStyle,地板,月球表面地板,げつめんのゆか,lunar surface,DIY,,7500,['宇宙'],星星,True,"[{'count': 5, 'itemName': '星星碎片'}, {'count': 1, 'itemName': '大星星碎片'}]",['傅珂'],,RoomTexFloorLunar00,1.0.0
+4969,homeStyle,地板,軟木地板,コルクフローリング,cork flooring,Nook商店,1500,375,"['學校', '音樂']",無,False,,,,RoomTexFloorCork00,1.0.0
+4970,homeStyle,地板,沙灘地板,すなはまのゆか,sandy-beach flooring,DIY,,4120,['大海'],無,True,"[{'count': 1, 'itemName': '鐘螺殼'}, {'count': 1, 'itemName': '骨螺殼'}, {'count': 1, 'itemName': '沙錢'}, {'count': 1, 'itemName': '珊瑚'}, {'count': 1, 'itemName': '扇貝殼'}]",['運動型村民'],,RoomTexFloorSand00,1.0.0
+4971,homeStyle,地板,陶磚地板,テラコッタタイルのゆか,terra-cotta flooring,Nook商店,1800,450,"['設施', '商店']",無,False,,,,RoomTexFloorTileTerracotta00,1.0.0
+4972,homeStyle,地板,麻葉紋磚地板,あさのはタイルのゆか,hexagonal floral flooring,Nook商店,860,215,"['東洋風', '商店']",無,False,,,,RoomTexFloorHempTile00,1.0.0
+4973,homeStyle,地板,不規則方形磚地板,ランダムスクエアタイルのゆか,random-square-tile flooring,Nook商店,1360,340,"['設施', '商店']",無,False,,,,RoomTexFloorSquareTile00,1.0.0
+4974,homeStyle,地板,白色磚塊地板,しろレンガのゆか,white-brick flooring,Nook商店,1040,260,"['設施', '商店']",無,False,,,,RoomTexFloorBrick00,1.0.0
+4975,homeStyle,地板,紅色磚塊地板,あかレンガのゆか,red-brick flooring,Nook商店,1040,260,"['設施', '商店']",無,False,,,,RoomTexFloorBrick01,1.0.0
+4976,homeStyle,地板,黑色磚塊地板,くろレンガのゆか,black-brick flooring,Nook商店,1040,260,"['設施', '商店']",無,False,,,,RoomTexFloorBrick02,1.0.0
+4977,homeStyle,地板,花紋草蓆,はなござ,floral rush-mat flooring,駱嵐,3000,750,"['奇幻', '東洋風']",無,False,,,,RoomTexFloorRush00,1.0.0
+4978,homeStyle,地板,碎石地板,たまじゃりのゆか,gravel flooring,駱嵐,3000,750,"['庭園', '設施']",無,False,,,,RoomTexFloorGravel00,1.0.0
+4979,homeStyle,地板,草坪地板,しばふのゆか,backyard lawn,DIY,,600,['庭園'],無,True,"[{'count': 30, 'itemName': '雜草'}]",['活力型村民'],,RoomTexFloorLawn00,1.0.0
+4980,homeStyle,地板,旱田地板,はたけのゆか,field flooring,駱嵐,3000,750,['庭園'],無,False,,,,RoomTexFloorFarm00,1.0.0
+4981,homeStyle,地板,土壤地板,つちのゆか,dirt flooring,駱嵐,3000,750,"['庭園', '戶外']",無,False,,,,RoomTexFloorCottonSoil00,1.0.0
+4982,homeStyle,地板,職業摔角地板,プロレスのゆか,boxing-ring mat,駱嵐,3000,750,['健身'],無,False,,,,RoomTexFloorWrestling00,1.0.0
+4983,homeStyle,地板,沙漠地板,さばくなゆか,Saharah's desert,駱嵐,3000,750,['民藝'],無,False,,,,RoomTexFloorDesert00,1.0.0
+4984,homeStyle,地板,曠野地板,こうやのゆか,western desert,駱嵐,3000,750,"['民藝', '恐怖']",無,False,,,,RoomTexFloorWilderness00,1.0.0
+4985,homeStyle,地板,空地地板,あきちのゆか,sandlot,駱嵐,3000,750,['庭園'],無,False,,,,RoomTexFloorEmptyLot00,1.0.0
+4986,homeStyle,地板,金錢地板,マネーなゆか,money flooring,DIY,,25000,['富裕'],無,True,"[{'count': 50000, 'itemName': '鈴錢'}]",['成熟型村民'],,RoomTexFloorBill00,1.0.0
+4987,homeStyle,地板,立方嵌木地板,キュービックなよせぎのゆか,cubic parquet flooring,Nook商店,1500,375,"['客廳', '兒童房']",無,False,,,,RoomTexFloorHoneycombWood00,1.0.0
+4988,homeStyle,地板,畫室地板,アトリエのゆか,paintball flooring,駱嵐,3000,750,"['車庫', '設施']",無,False,,,,RoomTexFloorAtelier00,1.0.0
+4989,homeStyle,地板,滑雪場地板,ゲレンデのゆか,ski-slope flooring,DIY,,3200,['嚴寒'],無,True,"[{'count': 8, 'itemName': '雪花'}]",['氣球'],僅在冬季期間獲得,RoomTexFloorGelande00,1.0.0
+4990,homeStyle,地板,楓葉地板,こうようのゆか,colored-leaves flooring,DIY,,4300,['庭園'],樹果‧落葉,True,"[{'count': 10, 'itemName': '楓葉'}, {'count': 15, 'itemName': '雜草'}]",['氣球'],僅在楓葉季節期間獲得,RoomTexFloorAutumun00,1.0.0
+4991,homeStyle,地板,淺色嵌木地板,ライトなよせぎざいくのゆか,light wood-pattern flooring,Nook商店,1500,375,"['客廳', '商店']",無,False,,,,RoomTexFloorSimpleParquet00,1.0.0
+4992,homeStyle,地板,深色嵌木地板,ダークなよせぎざいくのゆか,dark wood-pattern flooring,Nook商店,1500,375,"['客廳', '商店']",無,False,,,,RoomTexFloorSimpleParquet01,1.0.0
+4993,homeStyle,地板,花式馬賽克磚,フローラルなモザイクタイル,floral mosaic-tile flooring,Nook商店,1080,270,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorMosaicTile00,1.0.0
+4994,homeStyle,地板,菱格紋磚地板,アーガイルなタイルのゆか,argyle tile flooring,Nook商店,1750,437,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorTileWood00,1.0.0
+4995,homeStyle,地板,拼花磚地板,パッチワークタイルのゆか,patchwork-tile flooring,Nook商店,2100,525,"['富裕', '商店']",無,False,,,,RoomTexFloorPatchworkTile00,1.0.0
+4996,homeStyle,地板,賽車賽道地板,レーストラックのゆか,racetrack flooring,駱嵐,3000,750,"['健身', '學校']",無,False,,,,RoomTexFloorAthletics00,1.0.0
+4997,homeStyle,地板,停車場地板,パーキングのゆか,parking flooring,駱嵐,3000,750,['設施'],無,False,,,,RoomTexFloorParking00,1.0.0
+4998,homeStyle,地板,弧形磚塊地板,アーチレンガのゆか,arched-brick flooring,Nook商店,1100,275,"['設施', '商店']",無,False,,,,RoomTexFloorArchBrick00,1.0.0
+4999,homeStyle,地板,蜂蜜地板,ハチミツなゆか,honeycomb flooring,DIY,,3000,"['奇幻', '設施']",無,True,"[{'count': 5, 'itemName': '蜂巢'}]",['運動型村民'],,RoomTexFloorHoney00,1.0.0
+5000,homeStyle,地板,紅色簡約地板,あかいシンプルカーペット,simple red flooring,Nook商店,1500,375,"['書房', '富裕']",無,False,,,,RoomTexFloorSimpleCarpet00,1.0.0
+5001,homeStyle,地板,藍色簡約地板,あおいシンプルカーペット,simple blue flooring,Nook商店,1500,375,"['書房', '客廳']",無,False,,,,RoomTexFloorSimpleCarpet01,1.0.0
+5003,homeStyle,地板,紫色簡約地板,むらさきのシンプルカーペット,simple purple flooring,Nook商店,1500,375,"['書房', '富裕']",無,False,,,,RoomTexFloorSimpleCarpet03,1.0.0
+5004,homeStyle,地板,白色簡約地板,しろいシンプルカーペット,simple white flooring,Nook商店,1500,375,"['客廳', '商店']",無,False,,,,RoomTexFloorSimpleCarpet04,1.0.0
+5005,homeStyle,地板,草原地板,そうげんのゆか,daisy meadow,駱嵐,3000,750,['庭園'],無,False,,,,RoomTexFloorGrassland00,1.0.0
+5006,homeStyle,地板,花草地板,くさばなのじゅうたん,wildflower meadow,駱嵐,3000,750,"['庭園', '奇幻']",無,False,,,,RoomTexFloorGrassland01,1.0.0
+5007,homeStyle,地板,斑馬線地板,おうだんほどうのゆか,crosswalk flooring,駱嵐,3000,750,['設施'],無,False,,,,RoomTexFloorSidewalk00,1.0.0
+5008,homeStyle,地板,人行道地板,ほどうのゆか,sidewalk flooring,駱嵐,3000,750,"['商店', '設施']",無,False,,,,RoomTexFloorSidewalk01,1.0.0
+5009,homeStyle,地板,車站月台地板,えきのホームなゆか,train-station flooring,駱嵐,3000,750,['設施'],無,False,,,,RoomTexFloorPlatform00,1.0.0
+5010,homeStyle,地板,全向十字路口,スクランブルこうさてん,scramble crosswalk,駱嵐,3000,750,['設施'],無,False,,,,RoomTexFloorScramble00,1.0.0
+5011,homeStyle,地板,地底地板,ちていのゆか,dig-site flooring,駱嵐,3000,750,"['庭園', '恐怖']",無,False,,,,RoomTexFloorStratum00,1.0.0
+5012,homeStyle,地板,王朝地板,おうちょうなゆか,imperial tile,駱嵐,3000,750,['富裕'],無,False,,,,RoomTexFloorDynasty00,1.0.0
+5013,homeStyle,地板,相撲擂台,どひょう,sumo ring,駱嵐,3000,750,"['健身', '東洋風']",無,False,,,,RoomTexFloorArena00,1.0.0
+5015,homeStyle,地板,迷彩地板,めいさいのゆか,camo flooring,Nook商店,1320,330,"['派對', '兒童房']",無,False,,,,RoomTexFloorCamouflage00,1.0.0
+5016,homeStyle,地板,藍色迷彩地板,ブルーめいさいのゆか,blue camo flooring,Nook商店,1320,330,"['派對', '兒童房']",無,False,,,,RoomTexFloorCamouflage01,1.0.0
+5017,homeStyle,地板,紫色迷彩地板,パープルめいさいのゆか,purple camo flooring,Nook商店,1320,330,"['派對', '兒童房']",無,False,,,,RoomTexFloorCamouflage02,1.0.0
+5018,homeStyle,地板,常見地板,よくあるゆかいた,common flooring,Nook商店,720,180,"['客廳', '學校']",無,False,,,,RoomTexFloorCommon00,1.0.0
+5019,homeStyle,地板,松木地板,パインざいフローリング,pine-board flooring,Nook商店,2500,625,"['客廳', '兒童房']",無,False,,,,RoomTexFloorSimple00,1.0.0
+5020,homeStyle,地板,白色馬賽克磚地板,しろいモザイクタイルのゆか,white mosaic-tile flooring,Nook商店,900,225,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorTile00,1.0.0
+5021,homeStyle,地板,黃金地板,おうごんのゆか,golden flooring,DIY,,40000,"['富裕', '恐怖']",黃金,True,"[{'count': 4, 'itemName': '金礦石'}]",['自戀型村民'],,RoomTexFloorGold00,1.0.0
+5022,homeStyle,地板,淺色拼花地板,ライトなパーケットフローリング,light parquet flooring,Nook商店,1560,390,"['客廳', '商店']",無,False,,,,RoomTexFloorCountry00,1.0.0
+5023,homeStyle,地板,灰階配色點點地板,モノクロドットカーペット,monochromatic dot flooring,Nook商店,800,200,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorDot00,1.0.0
+5024,homeStyle,地板,波浪圖案地板,なみもようのゆか,marine pop flooring,Nook商店,2020,505,"['兒童房', '奇幻']",無,False,,,,RoomTexFloorFishPop00,1.0.0
+5025,homeStyle,地板,深色拼花地板,ダークなパーケットフローリング,dark parquet flooring,Nook商店,1560,390,['客廳'],無,False,,,,RoomTexFloorCountry01,1.0.0
+5026,homeStyle,地板,薄荷綠點點地板,ミントドットカーペット,mint dot flooring,Nook商店,800,200,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorDot01,1.0.0
+5027,homeStyle,地板,紅色點點地板,レッドドットカーペット,red dot flooring,Nook商店,800,200,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorDot02,1.0.0
+5028,homeStyle,地板,藍色點點地板,ブルードットカーペット,blue dot flooring,Nook商店,800,200,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorDot04,1.0.0
+5030,homeStyle,地板,水面地板,みなものゆか,water flooring,DIY,,7200,['大海'],無,True,"[{'count': 6, 'itemName': '夏天貝殼'}]",['氣球'],僅在夏季期間獲得,RoomSpFloorWater00,1.0.0
+5031,homeStyle,地板,石板地板,フラッグストーンなゆか,flagstone flooring,Nook商店,1700,425,"['商店', '設施']",無,False,,,,RoomTexFloorFlagStone00,1.0.0
+5032,homeStyle,地板,原木地板,しらきのフローリング,birch flooring,Nook商店,800,200,"['客廳', '兒童房']",無,False,,,,RoomTexFloorBirch00,1.0.0
+5033,homeStyle,地板,自然風地板磚塊,ナチュラルフローリングブロック,natural-block flooring,Nook商店,1380,345,['學校'],無,False,,,,RoomTexFloorParquet00,1.0.0
+5034,homeStyle,地板,大廳地板,ロビーのゆか,lobby flooring,駱嵐,3000,750,"['設施', '派對']",無,False,,,,RoomTexFloorLobby00,1.0.0
+5035,homeStyle,地板,深色地板磚塊,ダークなフローリングブロック,dark-block flooring,Nook商店,1380,345,['學校'],無,False,,,,RoomTexFloorParquet01,1.0.0
+5036,homeStyle,地板,水藍色馬賽克磚地板,みずいろモザイクタイルのゆか,aqua tile flooring,Nook商店,900,225,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorTile01,1.0.0
+5037,homeStyle,地板,彩色馬賽克磚地板,カラフルモザイクタイルのゆか,colorful mosaic-tile flooring,Nook商店,900,225,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorTile02,1.0.0
+5038,homeStyle,地板,棕色六角磚地板,ブラウンハニカムタイルのゆか,brown honeycomb tile,Nook商店,1420,355,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorHoneycomb00,1.0.0
+5039,homeStyle,地板,榻榻米,たたみ,tatami,Nook商店,2200,550,"['東洋風', '客廳']",無,False,,,,RoomTexFloorTatami00,1.0.0
+5040,homeStyle,地板,藍色六角磚地板,ブルーハニカムタイルのゆか,blue honeycomb tile,Nook商店,1420,355,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorHoneycomb01,1.0.0
+5041,homeStyle,地板,綠色六角磚地板,グリーンハニカムタイルのゆか,green honeycomb tile,Nook商店,1420,355,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorHoneycomb02,1.0.0
+5042,homeStyle,地板,白色六角磚地板,ホワイトハニカムタイルのゆか,white honeycomb tile,Nook商店,1420,355,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorHoneycomb03,1.0.0
+5043,homeStyle,地板,橘色復古地板,オレンジレトロなゆか,orange retro flooring,Nook商店,1540,385,"['廚房', '商店']",無,False,,,,RoomTexFloorKitchen00,1.0.0
+5044,homeStyle,地板,拼木地板,ミックスウッドのフローリング,modern wood flooring,Nook商店,1280,320,"['客廳', '兒童房']",無,False,,,,RoomTexFloorMixwood00,1.0.0
+5045,homeStyle,地板,綠色復古地板,グリーンレトロなゆか,green retro flooring,Nook商店,1540,385,"['廚房', '商店']",無,False,,,,RoomTexFloorKitchen01,1.0.0
+5046,homeStyle,地板,灰階配色塑膠磚地板,モノクロピータイル,gray vinyl flooring,Nook商店,1150,287,['富裕'],無,False,,,,RoomTexFloorTileChecker00,1.0.0
+5047,homeStyle,地板,紅黑色塑膠磚地板,あかくろピータイル,red-and-black vinyl flooring,Nook商店,1150,287,['富裕'],無,False,,,,RoomTexFloorTileChecker01,1.0.0
+5048,homeStyle,地板,綠色塑膠磚地板,みどりのピータイル,green vinyl flooring,Nook商店,1150,287,['富裕'],無,False,,,,RoomTexFloorTileChecker02,1.0.0
+5049,homeStyle,地板,木節地板,ふしありフローリング,wooden-knot flooring,Nook商店,780,195,"['客廳', '兒童房']",無,False,,,,RoomTexFloorCedar00,1.0.0
+5050,homeStyle,地板,黑巧克力地板,ビターチョコアソートなゆか,dark-chocolates flooring,駱嵐,3000,750,['奇幻'],無,False,,,,RoomTexFloorChocolate00,1.0.0
+5051,homeStyle,地板,宮殿地板,きゅうでんのゆか,palace tile,駱嵐,3000,750,"['富裕', '民藝']",無,False,,,,RoomTexFloorPalace00,1.0.0
+5052,homeStyle,地板,白巧克力地板,ホワイトチョコアソートなゆか,white-chocolates flooring,駱嵐,3000,750,['奇幻'],無,False,,,,RoomTexFloorChocolate01,1.0.0
+5053,homeStyle,地板,草莓巧克力地板,いちごチョコアソートなゆか,berry-chocolates flooring,駱嵐,3000,750,['奇幻'],無,False,,,,RoomTexFloorChocolate02,1.0.0
+5054,homeStyle,地板,金字塔地板,ピラミッドのゆか,pyramid tile,駱嵐,3000,750,['民藝'],無,False,,,,RoomTexFloorEgypt00,1.0.0
+5056,homeStyle,地板,櫻花木地板,さくらのウッドフローリング,sakura-wood flooring,DIY,,3200,"['兒童房', '奇幻']",無,True,"[{'count': 5, 'itemName': '櫻花花瓣'}, {'count': 10, 'itemName': '木材'}]",['氣球'],僅在櫻花季節期間獲得,RoomTexFloorSolidWood00,1.0.0
+5057,homeStyle,地板,藍色油漆地板,あおいペイントフローリング,blue-paint flooring,Nook商店,1040,260,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorPaintWood00,1.0.0
+5058,homeStyle,地板,綠色油漆地板,みどりのペイントフローリング,green-paint flooring,Nook商店,1040,260,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorPaintWood01,1.0.0
+5059,homeStyle,地板,粉紅色油漆地板,ピンクのペイントフローリング,pink-paint flooring,Nook商店,1040,260,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorPaintWood02,1.0.0
+5060,homeStyle,地板,白色油漆地板,しろいペイントフローリング,white-paint flooring,Nook商店,1040,260,"['客廳', '兒童房']",無,False,,,,RoomTexFloorPaintWood03,1.0.0
+5061,homeStyle,地板,淺色人字斜紋地板,ライトなヘリンボーンのゆか,light herringbone flooring,Nook商店,1200,300,"['客廳', '商店']",無,False,,,,RoomTexFloorHerringbone00,1.0.0
+5062,homeStyle,地板,深色人字斜紋地板,ダークなヘリンボーンのゆか,dark herringbone flooring,Nook商店,1200,300,"['客廳', '商店']",無,False,,,,RoomTexFloorHerringbone01,1.0.0
+5063,homeStyle,地板,玫瑰木地板,ローズウッドのゆか,rosewood flooring,Nook商店,2420,605,"['富裕', '客廳']",無,False,,,,RoomTexFloorRoseWood00,1.0.0
+5064,homeStyle,地板,金色鑄鐵拼花地板,きんのアイアンパーケットのゆか,gold iron-parquet flooring,Nook商店,2350,587,"['富裕', '客廳']",無,False,,,,RoomTexFloorParquetIron00,1.0.0
+5065,homeStyle,地板,銀色鑄鐵拼花地板,ぎんのアイアンパーケットのゆか,brown iron-parquet flooring,Nook商店,2350,587,"['富裕', '客廳']",無,False,,,,RoomTexFloorParquetIron01,1.0.0
+5066,homeStyle,地板,黑色鑄鐵拼花地板,くろいアイアンパーケットのゆか,black iron-parquet flooring,Nook商店,2350,587,"['富裕', '客廳']",無,False,,,,RoomTexFloorParquetIron02,1.0.0
+5067,homeStyle,地板,灰階配色拼接地板,モノクロパネルカーペット,monochromatic tile flooring,Nook商店,1620,405,"['書房', '客廳']",無,False,,,,RoomTexFloorPanel00,1.0.0
+5068,homeStyle,地板,彩色拼接地板,カラフルパネルカーペット,colorful tile flooring,Nook商店,1620,405,"['客廳', '兒童房']",無,False,,,,RoomTexFloorPanel01,1.0.0
+5069,homeStyle,地板,大理石地板,だいりせきのゆか,stone tile,Nook商店,3000,750,"['富裕', '設施']",無,False,,,,RoomTexFloorMarble00,1.0.0
+5070,homeStyle,地板,可愛油漆地板,キュートなペイントフローリング,cute-paint flooring,Nook商店,2200,550,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorColorfulWood00,1.0.0
+5071,homeStyle,地板,酷感油漆地板,クールなペイントフローリング,cool-paint flooring,Nook商店,2200,550,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorColorfulWood01,1.0.0
+5073,homeStyle,地板,黃色花朵地板,きいろいフラワーフローリング,yellow floral flooring,Nook商店,1520,380,"['商店', '客廳']",無,False,,,,RoomTexFloorDecoWood00,1.0.0
+5074,homeStyle,地板,藍色花朵地板,あおいフラワーフローリング,blue floral flooring,Nook商店,1520,380,"['商店', '客廳']",無,False,,,,RoomTexFloorDecoWood01,1.0.0
+5075,homeStyle,地板,茶色花朵地板,ちゃいろいフラワーフローリング,brown floral flooring,Nook商店,1520,380,"['商店', '客廳']",無,False,,,,RoomTexFloorDecoWood02,1.0.0
+5076,homeStyle,地板,庸俗地板,キッチュなゆか,kitschy tile,Nook商店,1280,320,['派對'],無,False,,,,RoomTexFloorKitschTile00,1.0.0
+5077,homeStyle,地板,無邊榻榻米,ふちなしたたみ,tatami flooring,Nook商店,2200,550,"['東洋風', '客廳']",無,False,,,,RoomTexFloorTatamiPanel00,1.0.0
+5078,homeStyle,地板,燈心草無邊榻榻米,いぐさのふちなしたたみ,rush tatami flooring,Nook商店,2200,550,"['東洋風', '客廳']",無,False,,,,RoomTexFloorTatamiPanel01,1.0.0
+5079,homeStyle,地板,燈心草榻榻米,いぐさのたたみ,rush tatami,Nook商店,2200,550,"['東洋風', '客廳']",無,False,,,,RoomTexFloorTatami01,1.0.0
+5080,homeStyle,地板,灰色菱格紋磚地板,グレーのアーガイルタイルゆか,gray argyle-tile flooring,Nook商店,1440,360,"['富裕', '設施']",無,False,,,,RoomTexFloorArgyleTile00,1.0.0
+5081,homeStyle,地板,棕色菱格紋磚地板,ブラウンのアーガイルタイルゆか,brown argyle-tile flooring,Nook商店,1440,360,"['富裕', '設施']",無,False,,,,RoomTexFloorArgyleTile01,1.0.0
+5082,homeStyle,地板,主機板地板,きばんのゆか,circuit-board flooring,駱嵐,3000,750,['設施'],無,False,,,,RoomTexFloorGeek00,1.0.0
+5163,homeStyle,地板,橡膠磚地板,ゴムタイルのゆか,rubber-tile flooring,Nook商店,700,175,"['設施', '商店']",無,False,,,,RoomTexFloorRubberTile00,1.0.0
+5164,homeStyle,壁紙,蘑菇壁紙,キノコのかべがみ,mush wall,DIY,,21400,['奇幻'],蘑菇,True,"[{'count': 1, 'itemName': '出色蘑菇'}, {'count': 1, 'itemName': '圓形蘑菇'}, {'count': 1, 'itemName': '瘦小蘑菇'}, {'count': 1, 'itemName': '扁平蘑菇'}]",['氣球'],僅在蘑菇季節期間獲得,RoomTexWallMush00,1.0.0
+5215,homeStyle,壁紙,灰泥矮牆,しっくいのへい,mortar wall,駱嵐,3000,750,['東洋風'],無,False,,,,RoomTexWallPlaster00,1.0.0
+5216,homeStyle,壁紙,石板牆,いしのかべ,stone wall,DIY,,1500,"['恐怖', '設施']",無,True,"[{'count': 10, 'itemName': '石頭'}]",['自戀型村民'],,RoomTexWallBasement00,1.0.0
+5217,homeStyle,壁紙,麥稈牆,ストローなかべ,straw wall,駱嵐,3000,750,['民藝'],無,False,,,,RoomTexWallStraw00,1.0.0
+5218,homeStyle,壁紙,辦公室牆,オフィスのかべ,office wall,駱嵐,3000,750,['辦公室'],無,False,,,,RoomTexWallOffice00,1.0.0
+5221,homeStyle,壁紙,街頭藝術牆,ストリートアートのかべ,street-art wall,駱嵐,3000,750,['車庫'],無,False,,,,RoomTexWallStreetArt00,1.0.0
+5222,homeStyle,壁紙,地層壁紙,ちそうのかべがみ,dig-site wall,駱嵐,3000,750,"['庭園', '恐怖']",無,False,,,,RoomTexWallStratum00,1.0.0
+5223,homeStyle,壁紙,樹海牆,じゅかいなかべ,woodland wall,DIY,,1380,"['恐怖', '設施']",無,True,"[{'count': 15, 'itemName': '雜草'}, {'count': 9, 'itemName': '軟木材'}]",['普通型村民'],,RoomTexWallJukai00,1.0.0
+5224,homeStyle,壁紙,宮牆,おうちょうのかべ,imperial wall,駱嵐,3000,750,['富裕'],無,False,,,,RoomTexWallDynasty00,1.0.0
+5225,homeStyle,壁紙,廢墟牆,はいきょのかべ,ramshackle wall,駱嵐,3000,750,['恐怖'],無,False,,,,RoomTexWallRuins00,1.0.0
+5226,homeStyle,壁紙,派對壁紙,パーティーなかべがみ,party wall,活動：玩家生日,,370,"['派對', '奇幻']",無,False,,,,RoomTexWallParty00,1.0.0
+5227,homeStyle,壁紙,練功房牆,けいこべやのかべ,dojo wall,駱嵐,3000,750,"['健身', '東洋風']",無,False,,,,RoomTexWallBaseboards00,1.0.0
+5228,homeStyle,壁紙,遺跡牆,いせきのかべ,ruins wall,駱嵐,3000,750,"['恐怖', '民藝']",無,False,,,,RoomTexWallRemains00,1.0.0
+5229,homeStyle,壁紙,垃圾堆牆,ゴミのやまなかべ,garbage-heap wall,DIY,,120,"['車庫', '恐怖']",無,True,"[{'count': 2, 'itemName': '空罐'}, {'count': 2, 'itemName': '長靴'}, {'count': 2, 'itemName': '輪胎'}]",['釣魚'],釣到十五個垃圾,RoomTexWallGarbage00,1.0.0
+5230,homeStyle,壁紙,聖誕牆,クリスマスなかべ,Jingle wall,DIY,,2500,"['奇幻', '派對']",聖誕節,True,"[{'count': 5, 'itemName': '紅色裝飾品'}, {'count': 5, 'itemName': '藍色裝飾品'}, {'count': 5, 'itemName': '金色裝飾品'}, {'count': 5, 'itemName': '黏土'}]",['氣球'],僅在聖誕季節期間獲得,RoomSpWallXmas00,1.0.0
+5231,homeStyle,壁紙,復活節壁紙,イースターなかべがみ,Bunny Day wall,DIY,,4800,"['奇幻', '兒童房']",復活節,True,"[{'count': 2, 'itemName': '地面蛋'}, {'count': 2, 'itemName': '岩石蛋'}, {'count': 2, 'itemName': '葉子蛋'}, {'count': 2, 'itemName': '森林蛋'}, {'count': 2, 'itemName': '飛天蛋'}]","['蛋瓶中信', '復活蛋氣球']",僅在復活節季節期間獲得,RoomTexWallEaster00,1.1.0
+5232,homeStyle,地板,藝術嵌木地板,アートなよせぎざいくのゆか,artsy parquet flooring,Nook商店,1800,450,"['設施', '商店']",無,False,,,,RoomTexFloorParquetArt00,1.0.0
+5233,homeStyle,地板,不規則石板地,ランダムなしきいし,slate flooring,Nook商店,1380,345,"['設施', '商店']",無,False,,,,RoomTexFloorSlate00,1.0.0
+5234,homeStyle,地板,青苔庭園地板,こけにわのゆか,mossy-garden flooring,駱嵐,3000,750,"['東洋風', '庭園']",無,False,,,,RoomTexFloorMoss00,1.0.0
+5235,homeStyle,地板,施工現場地板,こうじげんばのゆか,construction-site flooring,駱嵐,3000,750,"['車庫', '設施']",無,False,,,,RoomTexFloorConstruction00,1.0.0
+5236,homeStyle,地板,垃圾堆地板,おへやのゆか,garbage-heap flooring,DIY,,120,"['恐怖', '車庫']",無,True,"[{'count': 2, 'itemName': '空罐'}, {'count': 2, 'itemName': '長靴'}, {'count': 2, 'itemName': '輪胎'}]",['釣魚'],釣到十五個垃圾,RoomTexFloorGarbage00,1.0.0
+5237,homeStyle,地板,高速公路地板,ハイウェイのゆか,highway flooring,駱嵐,3000,750,['設施'],無,False,,,,RoomTexFloorHighway00,1.0.0
+5238,homeStyle,地板,泥沼地板,どろぬまなゆか,swamp flooring,駱嵐,3000,750,"['庭園', '恐怖']",無,False,,,,RoomTexFloorBog00,1.0.0
+5239,homeStyle,地板,岩山地板,いわやまのゆか,rocky-mountain flooring,駱嵐,3000,750,['庭園'],無,False,,,,RoomTexFloorRock00,1.0.0
+5240,homeStyle,地板,廢墟地板,はいきょのゆか,ramshackle flooring,駱嵐,3000,750,['恐怖'],無,False,,,,RoomTexFloorRuins00,1.0.0
+5241,homeStyle,地板,派對地板,パーティーのゆか,party flooring,活動：玩家生日,,370,"['派對', '奇幻']",無,False,,,,RoomTexFloorParty00,1.0.0
+5243,homeStyle,地板,麥田圈地板,ミステリーサークルなゆか,crop-circles flooring,駱嵐,3000,750,['庭園'],無,False,,,,RoomTexFloorCropCircles00,1.0.0
+5248,homeStyle,地板,骷髏地板,スカルなゆか,skull-print flooring,Nook商店,3000,750,"['恐怖', '兒童房']",無,False,,,,RoomTexFloorSkull00,1.0.0
+5250,homeStyle,地板,超科技地板,オーバーテクノロジーなゆか,future-tech flooring,駱嵐,3000,750,"['恐怖', '民藝']",無,False,,,,RoomSpFloorTechnology00,1.0.0
+5253,homeStyle,地板,流冰地板,りゅうひょうのゆか,iceberg flooring,DIY,,4000,['嚴寒'],無,True,"[{'count': 10, 'itemName': '雪花'}]",['氣球'],僅在冬季期間獲得,RoomSpFloorIceFloe00,1.0.0
+5255,homeStyle,地板,綠洲地板,オアシスなゆか,oasis flooring,駱嵐,3000,750,"['庭園', '民藝']",無,False,,,,RoomSpFloorOasis00,1.0.0
+5267,homeStyle,地板,雲上風景,くものうえ,cloud flooring,駱嵐,3000,750,['奇幻'],無,False,,,,RoomSpFloorCloud00,1.0.0
+5268,homeStyle,地板,海底地板,うみのそこのゆか,underwater flooring,DIY,,6600,['大海'],無,True,"[{'count': 3, 'itemName': '夏天貝殼'}, {'count': 3, 'itemName': '珊瑚'}]",['氣球'],僅在夏季期間獲得,RoomSpFloorFishTank00,1.0.0
+5269,homeStyle,地板,銀河系地板,ぎんがけいのゆか,galaxy flooring,DIY,,7500,['宇宙'],無,True,"[{'count': 5, 'itemName': '星星碎片'}, {'count': 1, 'itemName': '大星星碎片'}]",['傅珂'],,RoomSpFloorGalaxy00,1.0.0
+5270,homeStyle,地板,太空船地板,うちゅうせんのゆか,sci-fi flooring,DIY,,7500,"['宇宙', '設施']",無,True,"[{'count': 5, 'itemName': '星星碎片'}, {'count': 1, 'itemName': '大星星碎片'}]",['傅珂'],,RoomSpFloorSF00,1.0.0
+5273,homeStyle,地板,河流地板,かわのながれるゆか,flowing-river flooring,駱嵐,3000,750,['庭園'],無,False,,,,RoomSpFloorRiver00,1.0.0
+5274,homeStyle,地板,熔岩地板,ようがんのゆか,lava flooring,駱嵐,3000,750,['恐怖'],無,False,,,,RoomSpFloorVolcano00,1.0.0
+5400,homeStyle,壁紙,夜景牆,やけいのかべ,cityscape wall,駱嵐,3000,750,"['商店', '富裕']",無,False,,,,RoomSpWallNightView00,1.0.0
+5456,homeStyle,壁紙,行道樹牆,がいろじゅのかべ,tree-lined wall,駱嵐,3000,750,['庭園'],無,False,,,,RoomTexWallRoadsideTree00,1.0.0
+5457,homeStyle,壁紙,叢林壁紙,ジャングルのかべがみ,jungle wall,DIY,,1380,"['庭園', '設施']",無,True,"[{'count': 15, 'itemName': '雜草'}, {'count': 3, 'itemName': '木材'}, {'count': 3, 'itemName': '硬木材'}, {'count': 3, 'itemName': '軟木材'}]",['運動型村民'],,RoomTexWallJungle00,1.0.0
+5458,homeStyle,壁紙,青苔庭園牆,こけにわのかべ,mossy-garden wall,駱嵐,3000,750,['東洋風'],無,False,,,,RoomTexWallMoss00,1.0.0
+5481,homeStyle,壁紙,後院牆,うらにわのかべ,backyard-fence wall,駱嵐,3000,750,['庭園'],無,False,,,,RoomSpWallBackyard00,1.0.0
+5482,homeStyle,壁紙,美麗玻璃牆,きれいなガラスのかべ,arched-window wall,Nook商店,2150,537,"['商店', '富裕']",無,False,,,,RoomSpWallGlass00,1.0.0
+5483,homeStyle,壁紙,咖啡店窗簾牆,カフェカーテンのかべ,café-curtain wall,駱嵐,3000,750,"['商店', '富裕']",無,False,,,,RoomSpWallCafe00,1.0.0
+5484,homeStyle,壁紙,高原牆,こうげんなかべ,meadow vista,駱嵐,3000,750,['庭園'],無,False,,,,RoomSpWallHighLands00,1.0.0
+5485,homeStyle,壁紙,空地圍欄牆,あきちのかべ,chain-link fence,駱嵐,3000,750,"['庭園', '車庫']",無,False,,,,RoomSpWallEmptyLot00,1.0.0
+5486,homeStyle,壁紙,水平線牆,すいへいせんのかべ,ocean-horizon wall,駱嵐,3000,750,['大海'],無,False,,,,RoomSpWallHorizon00,1.0.0
+5487,homeStyle,壁紙,田園風景牆,でんえんふうけいのかべ,rice-paddy wall,駱嵐,3000,750,['庭園'],無,False,,,,RoomSpWallFarm00,1.0.0
+5488,homeStyle,壁紙,沙漠牆,さばくなかべ,desert vista,駱嵐,3000,750,['民藝'],無,False,,,,RoomSpWallDesert00,1.0.0
+5489,homeStyle,壁紙,曠野牆,こうやのかべ,western vista,駱嵐,3000,750,"['民藝', '恐怖']",無,False,,,,RoomSpWallWilderness00,1.0.0
+5490,homeStyle,壁紙,機房牆,サーバールームのかべ,server-room wall,駱嵐,3000,750,['設施'],無,False,,,,RoomSpWallServer00,1.0.0
+5491,homeStyle,壁紙,監控室牆,モニタールームのかべ,security-monitors wall,駱嵐,3000,750,['設施'],無,False,,,,RoomSpWallMonitor00,1.0.0
+5494,homeStyle,壁紙,超科技牆,オーバーテクノロジーなかべ,future-tech wall,駱嵐,3000,750,"['恐怖', '民藝']",無,False,,,,RoomSpWallTechnology00,1.0.0
+5495,homeStyle,壁紙,實驗室牆,ラボのかべ,laboratory wall,駱嵐,3000,750,['設施'],無,False,,,,RoomSpWallLabo00,1.0.0
+5498,homeStyle,壁紙,滑雪場壁紙,ゲレンデなかべがみ,ski-slope wall,DIY,,3200,['嚴寒'],無,True,"[{'count': 8, 'itemName': '雪花'}]",['氣球'],僅在冬季期間獲得,RoomSpWallGelande00,1.0.0
+5499,homeStyle,壁紙,暴風雨夜晚牆,あらしのよるのかべ,stormy-night wall,駱嵐,3000,750,['恐怖'],無,False,,,,RoomSpWallThunder00,1.0.0
+5500,homeStyle,壁紙,星空牆,ほしぞらのかべ,starry-sky wall,DIY,,7500,['宇宙'],星星,True,"[{'count': 5, 'itemName': '星星碎片'}, {'count': 1, 'itemName': '大星星碎片'}]",['傅珂'],,RoomSpWallStarSky00,1.0.0
+5501,homeStyle,壁紙,汪洋大海牆,おおうなばらのかべ,sea view,駱嵐,3000,750,['大海'],無,False,,,,RoomSpWallSeaView00,1.0.0
+5502,homeStyle,壁紙,宮殿牆,きゅうでんのかべ,palace wall,駱嵐,3000,750,"['富裕', '民藝']",無,False,,,,RoomSpWallPalace00,1.0.0
+5503,homeStyle,壁紙,體育場牆,スタジアムのかべ,stadium wall,駱嵐,3000,750,['健身'],無,False,,,,RoomSpWallStadium00,1.0.0
+5504,homeStyle,壁紙,雲上風景牆,くものうえのかべ,sky wall,駱嵐,3000,750,['奇幻'],無,False,,,,RoomSpWallCloud00,1.0.0
+5505,homeStyle,壁紙,冰雪壁紙,アイスなかべがみ,ice wall,DIY,,8200,"['嚴寒', '設施']",冰塊,True,"[{'count': 1, 'itemName': '大雪花'}, {'count': 8, 'itemName': '雪花'}]",['雪人'],製作完美的雪人；僅在冬季期間獲得,RoomSpWallIce00,1.0.0
+5506,homeStyle,壁紙,火山洞窟牆,かざんどうくつのかべ,magma-cavern wall,駱嵐,3000,750,['恐怖'],無,False,,,,RoomSpWallVolcano00,1.0.0
+5508,homeStyle,壁紙,水中壁紙,すいちゅうのかべがみ,underwater wall,DIY,,8600,['大海'],無,True,"[{'count': 3, 'itemName': '夏天貝殼'}, {'count': 5, 'itemName': '珊瑚'}]",['氣球'],僅在夏季期間獲得,RoomSpWallFishTank00,1.0.0
+5509,homeStyle,壁紙,地牢牆,ちかろうのかべ,dungeon wall,駱嵐,3000,750,['恐怖'],無,False,,,,RoomSpWallJail00,1.0.0
+5510,homeStyle,壁紙,太空船牆,うちゅうせんのかべ,sci-fi wall,DIY,,7500,"['宇宙', '設施']",無,True,"[{'count': 5, 'itemName': '星星碎片'}, {'count': 1, 'itemName': '大星星碎片'}]",['傅珂'],,RoomSpWallSF00,1.0.0
+5512,homeStyle,壁紙,職業摔角牆,プロレスのかべ,ringside seating,駱嵐,3000,750,['健身'],無,False,,,,RoomSpWallWrestling00,1.0.0
+5513,homeStyle,壁紙,山頂牆,さんちょうのかべ,summit wall,駱嵐,3000,750,['庭園'],無,False,,,,RoomSpWallMountainTop00,1.0.0
+5514,homeStyle,壁紙,紅樹林牆,マングローブのかべ,mangrove wall,駱嵐,3000,750,['庭園'],無,False,,,,RoomTexWallMangrove00,1.0.0
+5515,homeStyle,地板,叢林地板,ジャングルのゆか,jungle flooring,DIY,,2200,"['庭園', '設施']",無,True,"[{'count': 10, 'itemName': '雜草'}, {'count': 10, 'itemName': '黏土'}]",['運動型村民'],,RoomTexFloorJungle00,1.0.0
+5516,homeStyle,地板,冰雪地板,アイスなゆか,ice flooring,DIY,,8200,"['嚴寒', '設施']",冰塊,True,"[{'count': 1, 'itemName': '大雪花'}, {'count': 8, 'itemName': '雪花'}]",['雪人'],製作完美的雪人；僅在冬季期間獲得,RoomSpFloorIce00,1.0.0
+5520,homeStyle,壁紙,骷髏壁紙,スカルなかべがみ,skull wall,Nook商店,3000,750,"['恐怖', '兒童房']",無,False,,,,RoomSpWallSkull00,1.0.0
+5521,homeStyle,壁紙,標準茶室牆,スタンダードなちゃしつのかべ,standard tearoom wall,Nook商店,1750,437,['東洋風'],無,False,,,,RoomTexWallMud00,1.0.0
+5528,homeStyle,壁紙,星星牆,スターなかべ,starry wall,DIY,,7500,"['奇幻', '兒童房']",無,True,"[{'count': 5, 'itemName': '星星碎片'}, {'count': 1, 'itemName': '大星星碎片'}]",['傅珂'],,RoomSpWallStarPrint00,1.0.0
+5559,homeStyle,壁紙,簡約壁板牆,シンプルパネルのかべ,basic wall,Nook商店,600,150,"['辦公室', '設施']",無,False,,,,RoomSpWallSimplePanel00,1.0.0
+5661,homeStyle,壁紙,南方海洋牆,みなみのうみなかべ,tropical vista,DIY,,6000,['大海'],無,True,"[{'count': 5, 'itemName': '夏天貝殼'}]",['氣球'],僅在夏季期間獲得,RoomSpWallTropical00,1.0.0
+5662,homeStyle,壁紙,冰山牆,ひょうざんのかべ,iceberg wall,DIY,,4000,['嚴寒'],無,True,"[{'count': 10, 'itemName': '雪花'}]",['氣球'],僅在冬季期間獲得,RoomTexWallIceFloe00,1.0.0
+6004,homeStyle,壁紙,Nook Inc.壁紙,たぬきかいはつのかべがみ,Nook Inc. wall,購物：哩數兌換,,6000,"['奇幻', '商店']",無,False,,,,RoomTexWallFirst00,1.0.0
+6005,homeStyle,地板,Nook Inc.地板,たぬきかいはつのフローリング,Nook Inc. flooring,購物：哩數兌換,,6000,"['學校', '商店']",無,False,,,,RoomTexFloorFirst00,1.0.0
+6843,homeStyle,地板,白色鑄鐵拼花地板,しろいアイアンパーケットのゆか,white iron-parquet flooring,Nook商店,2350,587,"['富裕', '客廳']",無,False,,,,RoomTexFloorParquetIron03,1.0.0
+6844,homeStyle,地板,酷感塑膠磚地板,クールなピータイル,cool vinyl flooring,Nook商店,1150,287,['富裕'],無,False,,,,RoomTexFloorTileChecker03,1.0.0
+6845,homeStyle,地板,橘色迷彩地板,オレンジめいさいのゆか,orange camo flooring,Nook商店,1320,330,"['派對', '兒童房']",無,False,,,,RoomTexFloorCamouflage03,1.0.0
+6846,homeStyle,地板,藍色馬賽克磚地板,ブルーモザイクタイルのゆか,blue mosaic-tile flooring,Nook商店,900,225,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorTile03,1.0.0
+6847,homeStyle,地板,綠色花朵地板,グリーンのフラワーフローリング,green floral flooring,Nook商店,1520,380,"['商店', '客廳']",無,False,,,,RoomTexFloorDecoWood03,1.0.0
+6848,homeStyle,地板,虎紋地板,タイガーなじゅうたん,tiger-print flooring,Nook商店,1300,325,"['派對', '奇幻']",無,False,,,,RoomTexFloorAnimal03,1.0.0
+6849,homeStyle,地板,茶色磚塊地板,ちゃいろいレンガのゆか,brown-brick flooring,Nook商店,1040,260,"['設施', '商店']",無,False,,,,RoomTexFloorBrick03,1.0.0
+6850,homeStyle,壁紙,茶色磚塊牆,ちゃいろいレンガのかべ,brown-brick wall,Nook商店,1000,250,"['設施', '商店']",無,False,,,,RoomTexWallBrick03,1.0.0
+6851,homeStyle,壁紙,棕色皇冠壁紙,ブラウンクラウンのかべがみ,brown-crown wall,Nook商店,2350,587,['富裕'],無,False,,,,RoomTexWallCrown03,1.0.0
+6852,homeStyle,壁紙,藍色碎花壁紙,あおいこばながらのかべがみ,blue delicate-blooms wall,Nook商店,1900,475,"['富裕', '客廳']",無,False,,,,RoomTexWallManor03,1.0.0
+6853,homeStyle,壁紙,紅色洞洞板牆,あかいパンチングボードのかべ,red perforated-board wall,Nook商店,1180,295,"['音樂', '設施']",無,False,,,,RoomTexWallPegboard03,1.0.0
+6854,homeStyle,壁紙,綠色線板牆,みどりのパネルモールドかべ,green molded-panel wall,Nook商店,1980,495,"['奇幻', '兒童房']",無,False,,,,RoomTexWallPanelMold03,1.0.0
+6855,homeStyle,壁紙,橘色迷彩壁紙,オレンジめいさいのかべがみ,orange camo wall,Nook商店,1150,287,"['派對', '兒童房']",無,False,,,,RoomTexWallCamouflage03,1.0.0
+6856,homeStyle,壁紙,紅色撞色磚牆,あかいツートンタイルのかべ,red two-toned tile wall,Nook商店,1850,462,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallTwoToneTile03,1.0.0
+6857,homeStyle,壁紙,桃紅色撞色磚牆,ももいろツートンタイルのかべ,peach two-toned tile wall,Nook商店,1850,462,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallTwoToneTile04,1.0.0
+6858,homeStyle,壁紙,藍色撞色磚牆,あおいツートンタイルのかべ,blue two-toned tile wall,Nook商店,1850,462,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallTwoToneTile05,1.0.0
+6859,homeStyle,壁紙,灰階配色撞色磚牆,モノクロツートンタイルのかべ,black two-toned tile wall,Nook商店,1850,462,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallTwoToneTile06,1.0.0
+6861,homeStyle,壁紙,白色大廳牆,しろいホールのかべ,white hallway wall,Nook商店,2000,500,"['設施', '音樂']",無,False,,,,RoomTexWallHall02,1.0.0
+6862,homeStyle,壁紙,黑色大廳牆,くろいホールのかべ,black hallway wall,Nook商店,2000,500,"['設施', '音樂']",無,False,,,,RoomTexWallHall03,1.0.0
+6863,homeStyle,壁紙,黃綠色摩洛哥磚牆,きみどりモロッカンタイルかべ,olive desert-tile wall,Nook商店,2440,610,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallMorocco03,1.0.0
+6864,homeStyle,壁紙,紫色摩洛哥磚牆,むらさきのモロッカンタイルかべ,purple desert-tile wall,Nook商店,2440,610,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallMorocco02,1.0.0
+6865,homeStyle,壁紙,黃色兒童房壁紙,きいろいキッズルームのかべがみ,yellow playroom wall,Nook商店,2540,635,"['兒童房', '奇幻']",無,False,,,,RoomTexWallToy03,1.0.0
+6866,homeStyle,壁紙,綠色兒童房壁紙,みどりのキッズルームのかべがみ,green playroom wall,Nook商店,2540,635,"['兒童房', '奇幻']",無,False,,,,RoomTexWallToy02,1.0.0
+6868,homeStyle,壁紙,白色玫瑰壁紙,しろいバラのかべがみ,white-rose wall,Nook商店,1720,430,['奇幻'],無,False,,,,RoomTexWallRose02,1.0.0
+6869,homeStyle,壁紙,藍色玫瑰壁紙,あおいバラのかべがみ,blue-rose wall,Nook商店,1720,430,"['奇幻', '客廳']",無,False,,,,RoomTexWallRose03,1.0.0
+6870,homeStyle,壁紙,紅色愛心壁紙,レッドハートのかべがみ,red heart-pattern wall,Nook商店,1280,320,"['奇幻', '兒童房']",無,False,,,,RoomTexWallHeart03,1.0.0
+6871,homeStyle,壁紙,黃色愛心壁紙,イエローハートのかべがみ,yellow heart-pattern wall,Nook商店,1280,320,"['奇幻', '兒童房']",無,False,,,,RoomTexWallHeart02,1.0.0
+6872,homeStyle,壁紙,黃色花紋壁紙,きいろいはながらかべがみ,yellow flower-print wall,Nook商店,1780,445,"['奇幻', '客廳']",無,False,,,,RoomTexWallFlower02,1.0.0
+6873,homeStyle,壁紙,藍色花紋壁紙,ブルーのはながらかべがみ,blue flower-print wall,Nook商店,1780,445,"['奇幻', '客廳']",無,False,,,,RoomTexWallFlower03,1.0.0
+6874,homeStyle,壁紙,深褐色巧拼壁紙,セピアパズルかべがみ,sepia puzzle wall,Nook商店,1540,385,"['奇幻', '兒童房']",無,False,,,,RoomTexWallPuzzle02,1.0.0
+6875,homeStyle,壁紙,紫色巧拼壁紙,パープルパズルかべがみ,purple puzzle wall,Nook商店,1540,385,[],無,False,,,,RoomTexWallPuzzle03,1.0.0
+6876,homeStyle,壁紙,植物圖案磚牆,ボタニカルタイルのかべ,botanical-tile wall,Nook商店,1240,310,"['設施', '富裕']",無,False,,,,RoomTexWallWoodTile02,1.0.0
+6877,homeStyle,壁紙,黑色植物圖案磚牆,くろいボタニカルタイルのかべ,black botanical-tile wall,Nook商店,1240,310,"['設施', '富裕']",無,False,,,,RoomTexWallWoodTile03,1.0.0
+6878,homeStyle,壁紙,綠色布牆,みどりのテキスタイルのかべ,green intricate wall,Nook商店,1570,392,"['客廳', '商店']",無,False,,,,RoomTexWallFlowerPop02,1.0.0
+6879,homeStyle,壁紙,紅色布牆,あかいテキスタイルのかべ,red intricate wall,Nook商店,1570,392,"['客廳', '商店']",無,False,,,,RoomTexWallFlowerPop03,1.0.0
+6927,homeStyle,地板,紫色摩洛哥磚地板,むらさきのモロッカンタイルゆか,purple desert-tile flooring,Nook商店,2100,525,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorMorocco02,1.0.0
+6928,homeStyle,地板,黃綠色摩洛哥磚地板,きみどりモロッカンタイルゆか,olive desert-tile flooring,Nook商店,2100,525,"['浴室‧廁所', '設施']",無,False,,,,RoomTexFloorMorocco03,1.0.0
+7127,homeStyle,壁紙,藍色磚牆,あおいタイルのかべ,blue tile wall,Nook商店,1420,355,"['浴室‧廁所', '設施']",無,False,,,,RoomTexWallTile03,1.0.0
+7184,homeStyle,地板,深褐色巧拼地板,セピアパズルのゆか,sepia puzzle flooring,Nook商店,1450,362,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorPuzzleMat02,1.0.0
+7185,homeStyle,地板,紫色巧拼地板,パープルパズルのゆか,purple puzzle flooring,Nook商店,1450,362,['奇幻'],無,False,,,,RoomTexFloorPuzzleMat03,1.0.0
+7186,homeStyle,地板,蘑菇森林地板,キノコのもりのゆか,forest flooring,DIY,,35000,"['庭園', '恐怖']",蘑菇,True,"[{'count': 1, 'itemName': '珍貴蘑菇'}, {'count': 2, 'itemName': '圓形蘑菇'}, {'count': 2, 'itemName': '瘦小蘑菇'}, {'count': 2, 'itemName': '扁平蘑菇'}, {'count': 10, 'itemName': '雜草'}]",['氣球'],僅在蘑菇季節期間獲得,RoomTexFloorMushForest00,1.0.0
+7187,homeStyle,壁紙,蘑菇森林牆,キノコのもりのかべ,forest wall,DIY,,44000,['庭園'],蘑菇,True,"[{'count': 2, 'itemName': '出色蘑菇'}, {'count': 2, 'itemName': '圓形蘑菇'}, {'count': 2, 'itemName': '瘦小蘑菇'}, {'count': 2, 'itemName': '扁平蘑菇'}, {'count': 10, 'itemName': '木材'}]",['氣球'],僅在蘑菇季節期間獲得,RoomTexWallMushForest00,1.0.0
+7204,homeStyle,地板,櫻花地板,さくらのじゅうたん,cherry-blossom flooring,DIY,,4400,"['庭園', '奇幻']",櫻花,True,"[{'count': 10, 'itemName': '櫻花花瓣'}, {'count': 20, 'itemName': '雜草'}]",['氣球'],僅在櫻花季節期間獲得,RoomTexFloorSakura00,1.0.0
+7205,homeStyle,壁紙,櫻花樹牆,さくらなみきのかべ,cherry-blossom-trees wall,DIY,,4600,['庭園'],櫻花,True,"[{'count': 10, 'itemName': '櫻花花瓣'}, {'count': 5, 'itemName': '硬木材'}]",['氣球'],僅在櫻花季節期間獲得,RoomSpWallSakura00,1.0.0
+7215,homeStyle,壁紙,白色可愛牆,しろいキュートなかべ,cute white wall,Nook商店,1880,470,"['奇幻', '兒童房']",無,False,,,,RoomTexWallCute00,1.0.0
+7216,homeStyle,壁紙,紅色可愛牆,あかいキュートなかべ,cute red wall,Nook商店,1880,470,"['奇幻', '兒童房']",無,False,,,,RoomTexWallCute01,1.0.0
+7217,homeStyle,壁紙,藍色可愛牆,ブルーなキュートのかべ,cute blue wall,Nook商店,1880,470,"['奇幻', '兒童房']",無,False,,,,RoomTexWallCute02,1.0.0
+7218,homeStyle,壁紙,黃色可愛牆,きいろいキュートなかべ,cute yellow wall,Nook商店,1880,470,"['奇幻', '兒童房']",無,False,,,,RoomTexWallCute03,1.0.0
+7219,homeStyle,地板,白色可愛磁磚地板,しろいキュートなフロアタイル,cute white-tile flooring,Nook商店,780,195,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorCute00,1.0.0
+7220,homeStyle,地板,紅色可愛磁磚地板,あかいキュートなフロアタイル,cute red-tile flooring,Nook商店,780,195,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorCute01,1.0.0
+7221,homeStyle,地板,藍色可愛磁磚地板,ブルーのキュートなフロアタイル,cute blue-tile flooring,Nook商店,780,195,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorCute02,1.0.0
+7222,homeStyle,地板,黃色可愛磁磚地板,きいろいキュートなフロアタイル,cute yellow-tile flooring,Nook商店,780,195,"['奇幻', '兒童房']",無,False,,,,RoomTexFloorCute03,1.0.0
+7239,homeStyle,地板,星星沙灘地板,ほしのすなはまのゆか,starry-sands flooring,DIY,,7720,"['大海', '奇幻']",無,True,"[{'count': 3, 'itemName': '夏天貝殼'}, {'count': 1, 'itemName': '沙灘地板'}]",['氣球'],僅在夏季期間獲得,RoomTexFloorSandStar00,1.0.0
+7241,homeStyle,壁紙,藍色餐館牆,あおいダイナーのかべ,blue diner wall,Nook商店,2420,605,"['奇幻', '商店']",無,False,,,,RoomTexWallDiner00,1.0.0
+7242,homeStyle,壁紙,桃紅色餐館牆,ももいろダイナーのかべ,pink diner wall,Nook商店,2420,605,"['奇幻', '商店']",無,False,,,,RoomTexWallDiner01,1.0.0
+7243,homeStyle,壁紙,白色餐館牆,しろいダイナーのかべ,gray diner wall,Nook商店,2420,605,"['奇幻', '商店']",無,False,,,,RoomTexWallDiner02,1.0.0
+7244,homeStyle,壁紙,茶色餐館牆,ちゃいろいダイナーのかべ,brown diner wall,Nook商店,2420,605,"['奇幻', '商店']",無,False,,,,RoomTexWallDiner03,1.0.0
+7274,homeStyle,壁紙,粉紅色拼布牆,ピンクキルトのかべ,pink quilt wall,Nook商店,2150,537,"['奇幻', '兒童房']",無,False,,,,RoomTexWallDollhouse00,1.0.0
+7275,homeStyle,壁紙,紫色拼布牆,パープルキルトのかべ,purple quilt wall,Nook商店,2150,537,"['奇幻', '兒童房']",無,False,,,,RoomTexWallDollhouse03,1.0.0
+7276,homeStyle,壁紙,黃色拼布牆,イエローキルトのかべ,yellow quilt wall,Nook商店,2150,537,"['奇幻', '兒童房']",無,False,,,,RoomTexWallDollhouse02,1.0.0
+7277,homeStyle,壁紙,藍色拼布牆,ブルーキルトのかべ,blue quilt wall,Nook商店,2150,537,"['奇幻', '兒童房']",無,False,,,,RoomTexWallDollhouse01,1.0.0
+7322,homeStyle,地毯,粉紅色愛心地毯,ピンクハートのラグ,pink heart rug,駱嵐,1500,375,"['奇幻', '兒童房']",無,False,,,,RugOtherHeartM00,1.0.0
+7323,homeStyle,地毯,茶色木甲板地毯,ちゃいろいウッドデッキのラグ,brown wooden-deck rug,駱嵐,1500,375,['戶外'],無,False,,,,RugRectDeckM00,1.0.0
+7324,homeStyle,地毯,硬地墊,ハードマット,rough rug,駱嵐,1000,250,"['學校', '設施']",無,False,,,,RugRectDoormatS00,1.0.0
+7325,homeStyle,地毯,中型象牙色圓地墊,アイボリーのラウンドマット・M,ivory medium round mat,駱嵐,1500,375,"['客廳', '兒童房']",無,False,,,,RugRoundSimpleM00,1.0.0
+7327,homeStyle,地毯,蘋果地毯,リンゴのラグ,apple rug,DIY,,1200,"['奇幻', '兒童房']",水果,True,"[{'count': 6, 'itemName': '蘋果'}]",['大姐姐型村民'],,RugOtherAppleM00,1.0.0
+7328,homeStyle,地毯,櫻桃地毯,さくらんぼのラグ,cherry rug,DIY,,1200,"['奇幻', '兒童房']",水果,True,"[{'count': 6, 'itemName': '櫻桃'}]",['活力型村民'],,RugOtherCherryM00,1.0.0
+7329,homeStyle,地毯,雲朵地毯,もくもくのラグ,fluffy rug,駱嵐,1500,375,"['奇幻', '兒童房']",無,False,,,,RugOtherCloudM00,1.0.0
+7330,homeStyle,地毯,橘子地毯,オレンジのラグ,orange rug,DIY,,1200,"['奇幻', '兒童房']",水果,True,"[{'count': 6, 'itemName': '橘子'}]",['悠閒型村民'],,RugOtherOrangeM00,1.0.0
+7331,homeStyle,地毯,桃子地毯,モモのラグ,peach rug,DIY,,1200,"['奇幻', '兒童房']",水果,True,"[{'count': 6, 'itemName': '桃子'}]",['普通型村民'],,RugOtherPeachM00,1.0.0
+7332,homeStyle,地毯,梨子地毯,ナシのラグ,pear rug,DIY,,1200,"['奇幻', '兒童房']",水果,True,"[{'count': 6, 'itemName': '梨子'}]",['運動型村民'],,RugOtherPearM00,1.0.0
+7333,homeStyle,地毯,象牙色簡約浴室地墊,アイボリーのシンプルバスマット,ivory simple bath mat,駱嵐,1000,250,['浴室‧廁所'],無,False,,,,RugRectBathmatS00,1.0.0
+7334,homeStyle,地毯,小型象牙色圓地墊,アイボリーのラウンドマット・S,ivory small round mat,駱嵐,1000,250,"['客廳', '兒童房']",無,False,,,,RugRoundSimpleS00,1.0.0
+7335,homeStyle,地毯,中型白色簡約地墊,しろいシンプルマット・M,white simple medium mat,駱嵐,1500,375,"['客廳', '設施']",無,False,,,,RugSquareSimpleM00,1.0.0
+7336,homeStyle,地毯,小型白色簡約地墊,しろいシンプルマット・S,white simple small mat,駱嵐,1000,250,"['客廳', '設施']",無,False,,,,RugSquareSimpleS00,1.0.0
+7337,homeStyle,地毯,鑄鐵玄關地墊,アイアンなげんかんマット,iron entrance mat,駱嵐,1000,250,"['商店', '富裕']",鑄鐵,False,,,,RugRectIronmatS00,1.0.0
+7338,homeStyle,地毯,白色訊息地墊,しろいメッセージマット,white message mat,駱嵐,1000,250,['兒童房'],無,False,,,,RugOtherMessageS00,1.0.0
+7339,homeStyle,地毯,塑膠刮泥墊,ゴムのどろふきマット,rubber mud mat,駱嵐,1000,250,['學校'],無,False,,,,RugRectRubberScraperS00,1.0.0
+7340,homeStyle,地毯,紅色圖案廚房地墊,あかいパターンキッチンマット,red-design kitchen mat,駱嵐,1000,250,['廚房'],無,False,,,,RugRectNativeKitchenS00,1.0.0
+7341,homeStyle,地毯,茶色廚房地墊,ちゃいろいキッチンマット,brown kitchen mat,駱嵐,1000,250,['廚房'],無,False,,,,RugRectKitchenS00,1.0.0
+7343,homeStyle,地毯,紅藍格紋拼布地毯,あかあおチェックキルトのラグ,red-and-blue checked rug,駱嵐,2000,500,"['客廳', '兒童房']",無,False,,,,RugSquareCheckQuiltL00,1.0.0
+7345,homeStyle,地毯,舊草蓆,ふるいむしろのラグ,shanty mat,駱嵐,2000,500,['東洋風'],無,False,,,,RugSquareOldStrawL00,1.0.0
+7346,homeStyle,地毯,雪花地毯,スノーフレークなラグ,snowflake rug,駱嵐,1500,375,"['嚴寒', '奇幻']",無,False,,,,RugRoundSnowM00,1.0.0
+7347,homeStyle,地毯,紅色波斯地毯,あかいペルシャじゅうたん,red Persian rug,駱嵐,2000,500,"['富裕', '客廳']",無,False,,,,RugSquarePersianL00,1.0.0
+7348,homeStyle,地毯,紅地毯,レッドカーペット,red carpet,駱嵐,1500,375,['富裕'],無,False,,,,RugRectElegantM00,1.0.0
+7349,homeStyle,地毯,灰階配色點點地墊,モノクロドットのラグ,monochromatic dotted rug,駱嵐,2000,500,"['奇幻', '兒童房']",無,False,,,,RugRectDotL00,1.0.0
+7350,homeStyle,地毯,摩登波浪地毯,モダンなウェーブのラグ,modern wavy rug,駱嵐,2000,500,"['客廳', '兒童房']",無,False,,,,RugRectWaveL00,1.0.0
+7351,homeStyle,地毯,黃色粗橫紋地毯,きいろボーダーのラグ,yellow stripes rug,駱嵐,2000,500,"['奇幻', '兒童房']",無,False,,,,RugRectBorderL00,1.0.0
+7352,homeStyle,地毯,黃色菱格紋地毯,きいろいアーガイルのラグ,yellow argyle rug,駱嵐,2000,500,"['客廳', '奇幻']",無,False,,,,RugRectArgyleL00,1.0.0
+7353,homeStyle,地毯,植物圖案地毯,ボタニカルなラグ,botanical rug,駱嵐,2000,500,['客廳'],無,False,,,,RugRectBotanicalL00,1.0.0
+7354,homeStyle,地毯,綠色長毛地毯,みどりのシャギーなラグ,green shaggy rug,駱嵐,2000,500,['客廳'],無,False,,,,RugSquareShaggyL00,1.0.0
+7356,homeStyle,地毯,鋁箔地墊,アルミマット,aluminum rug,駱嵐,1500,375,"['庭園', '戶外']",無,False,,,,RugRectAluminumM00,1.0.0
+7357,homeStyle,地毯,地球地毯,ちきゅうのラグ,Earth rug,駱嵐,1500,375,"['宇宙', '兒童房']",無,False,,,,RugRoundEarthM00,1.0.0
+7358,homeStyle,地毯,南方小島地毯,みなみのしまのラグ,tropical rug,駱嵐,1500,375,['大海'],無,False,,,,RugRoundIslandM00,1.0.0
+7359,homeStyle,地毯,彩色塑膠墊,カラフルなビニールシート,colorful vinyl sheet,駱嵐,1500,375,['庭園'],無,False,,,,RugRectVinylM00,1.0.0
+7360,homeStyle,地毯,瓢蟲地毯,テントウムシのラグ,ladybug rug,活動：抓蟲大會,,375,"['奇幻', '兒童房']",無,False,,,,RugRoundLadybirdM00,1.0.0
+7361,homeStyle,地毯,魚兒地毯,おサカナのラグ,fish rug,活動：釣魚大賽,,375,"['大海', '兒童房']",無,False,,,,RugOtherFishM00,1.0.0
+7362,homeStyle,地毯,貝殼地毯,かいがらのラグ,shell rug,DIY,,5400,"['大海', '奇幻']",貝殼,True,"[{'count': 3, 'itemName': '扇貝殼'}]",['活力型村民'],,RugOtherShellM00,1.0.0
+7363,homeStyle,地毯,蘑菇地毯,キノコのラグ,mush rug,駱嵐,1500,375,"['奇幻', '兒童房']",蘑菇,False,,,,RugOtherMushM00,1.0.0
+7364,homeStyle,地毯,Nook Inc.地毯,たぬきかいはつのラグ,Nook Inc. rug,購物：哩數兌換,,5000,"['奇幻', '兒童房']",無,False,,,,RugOtherLeafM00,1.0.0
+7365,homeStyle,地毯,粉紅色玫瑰地毯,ピンクローズのラグ,pink rose rug,駱嵐,1500,375,"['奇幻', '富裕']",無,False,,,,RugOtherRoseM00,1.0.0
+7366,homeStyle,地毯,化石地毯,かせきのラグ,fossil rug,駱嵐,1500,375,"['奇幻', '兒童房']",無,False,,,,RugOtherFossilM00,1.0.0
+7367,homeStyle,地毯,魔法陣地毯,まほうじんのラグ,magic-circle rug,駱嵐,1500,375,"['恐怖', '兒童房']",無,False,,,,RugRoundMagicM00,1.0.0
+7368,homeStyle,地毯,蕾絲地毯,レースのラグ,lacy rug,駱嵐,1500,375,"['奇幻', '富裕']",無,False,,,,RugRoundLaceM00,1.0.0
+7369,homeStyle,地毯,一張榻榻米,いちじょうのたたみ,tatami mat,駱嵐,1500,375,['東洋風'],無,False,,,,RugRectTatamiM00,1.0.0
+7370,homeStyle,地毯,橢圓形玄關地毯,オーバルなげんかんマット,oval entrance mat,駱嵐,1000,250,['客廳'],無,False,,,,RugOtherCountryS00,1.0.0
+7371,homeStyle,地毯,邋遢地毯,だらしないラグ,sloppy rug,駱嵐,2000,500,"['客廳', '兒童房']",無,False,,,,RugOtherSloppyL00,1.0.0
+7380,homeStyle,地毯,自然色木甲板地毯,ナチュラルなウッドデッキのラグ,natural wooden-deck rug,駱嵐,1500,375,['戶外'],無,False,,,,RugRectDeckM01,1.0.0
+7381,homeStyle,地毯,白色木甲板地毯,しろいウッドデッキのラグ,white wooden-deck rug,駱嵐,1500,375,['戶外'],無,False,,,,RugRectDeckM02,1.0.0
+7382,homeStyle,地毯,黑色木甲板地毯,くろいウッドデッキのラグ,black wooden-deck rug,駱嵐,1500,375,['戶外'],無,False,,,,RugRectDeckM03,1.0.0
+7402,homeStyle,地毯,酷感媽媽廚房地墊,クールなははのキッチンマット,Mom's cool kitchen mat,媽媽寄送,,88,"['奇幻', '廚房']",媽媽,False,,,,RugRectMomS00,1.0.0
+7403,homeStyle,地毯,黃色塑膠墊,きいろいビニールシート,yellow vinyl sheet,駱嵐,1500,375,['庭園'],無,False,,,,RugRectVinylM03,1.0.0
+7404,homeStyle,地毯,藍色塑膠墊,あおいビニールシート,blue vinyl sheet,駱嵐,1500,375,['庭園'],無,False,,,,RugRectVinylM01,1.0.0
+7405,homeStyle,地毯,紅色塑膠墊,あかいビニールシート,red vinyl sheet,駱嵐,1500,375,['庭園'],無,False,,,,RugRectVinylM02,1.0.0
+7456,homeStyle,地毯,灰階配色波浪地毯,モノクロウェーブのラグ,monochromatic wavy rug,駱嵐,2000,500,"['客廳', '兒童房']",無,False,,,,RugRectWaveL01,1.0.0
+7457,homeStyle,地毯,紅色波浪地毯,あかいウェーブのラグ,red wavy rug,駱嵐,2000,500,"['客廳', '兒童房']",無,False,,,,RugRectWaveL03,1.0.0
+7458,homeStyle,地毯,藍色波浪地毯,あおいウェーブのラグ,blue wavy rug,駱嵐,2000,500,"['客廳', '兒童房']",無,False,,,,RugRectWaveL02,1.0.0
+7462,homeStyle,地毯,黃色格紋拼布地毯,きいろいチェックキルトのラグ,yellow checked rug,駱嵐,2000,500,"['客廳', '兒童房']",無,False,,,,RugSquareCheckQuiltL01,1.0.0
+7463,homeStyle,地毯,桃紅色格紋拼布地毯,ももいろチェックキルトのラグ,peach checked rug,駱嵐,2000,500,"['客廳', '兒童房']",無,False,,,,RugSquareCheckQuiltL02,1.0.0
+7464,homeStyle,地毯,綠色格紋拼布地毯,みどりのチェックキルトのラグ,green checked rug,駱嵐,2000,500,"['客廳', '兒童房']",無,False,,,,RugSquareCheckQuiltL03,1.0.0
+7465,homeStyle,地毯,紅色點點地墊,レッドドットのラグ,red dotted rug,駱嵐,2000,500,"['奇幻', '兒童房']",無,False,,,,RugRectDotL02,1.0.0
+7466,homeStyle,地毯,復古點點地毯,レトロドットのラグ,retro dotted rug,駱嵐,2000,500,"['奇幻', '兒童房']",無,False,,,,RugRectDotL01,1.0.0
+7467,homeStyle,地毯,藍色點點地墊,ブルードットのラグ,blue dotted rug,駱嵐,2000,500,"['奇幻', '兒童房']",無,False,,,,RugRectDotL03,1.0.0
+7516,homeStyle,地毯,綠色簡約浴室地墊,グリーンのシンプルバスマット,simple green bath mat,駱嵐,1000,250,['浴室‧廁所'],無,False,,,,RugRectBathmatS03,1.0.0
+7517,homeStyle,地毯,粉紅色簡約浴室地墊,ピンクのシンプルバスマット,simple pink bath mat,駱嵐,1000,250,['浴室‧廁所'],無,False,,,,RugRectBathmatS02,1.0.0
+7518,homeStyle,地毯,海軍藍簡約浴室地墊,ネイビーのシンプルバスマット,simple navy bath mat,駱嵐,1000,250,['浴室‧廁所'],無,False,,,,RugRectBathmatS01,1.0.0
+7519,homeStyle,地毯,中型茶色簡約地墊,ちゃいろいシンプルマット・M,simple medium brown mat,駱嵐,1500,375,"['客廳', '設施']",無,False,,,,RugSquareSimpleM01,1.0.0
+7520,homeStyle,地毯,小型卡其色簡約地墊,カーキのシンプルマット・S,simple small avocado mat,駱嵐,1000,250,"['客廳', '設施']",無,False,,,,RugSquareSimpleS03,1.0.0
+7521,homeStyle,地毯,小型藍色簡約地墊,あおいシンプルマット・S,simple small blue mat,駱嵐,1000,250,"['客廳', '設施']",無,False,,,,RugSquareSimpleS02,1.0.0
+7522,homeStyle,地毯,小型茶色簡約地墊,ちゃいろいシンプルマット・S,simple small brown mat,駱嵐,1000,250,"['客廳', '設施']",無,False,,,,RugSquareSimpleS01,1.0.0
+7523,homeStyle,地毯,中型藍色簡約地墊,あおいシンプルマット・M,simple medium blue mat,駱嵐,1500,375,"['客廳', '設施']",無,False,,,,RugSquareSimpleM02,1.0.0
+7524,homeStyle,地毯,中型卡其色簡約地墊,カーキのシンプルマット・M,simple medium avocado mat,駱嵐,1500,375,"['客廳', '設施']",無,False,,,,RugSquareSimpleM03,1.0.0
+7532,homeStyle,地毯,桃紅色粗橫紋地毯,ももいろボーダーのラグ,peach stripes rug,駱嵐,2000,500,"['奇幻', '兒童房']",無,False,,,,RugRectBorderL01,1.0.0
+7533,homeStyle,地毯,藍色粗橫紋地毯,あおボーダーのラグ,blue stripes rug,駱嵐,2000,500,"['奇幻', '兒童房']",無,False,,,,RugRectBorderL02,1.0.0
+7534,homeStyle,地毯,綠色粗橫紋地毯,みどりボーダーのラグ,green stripes rug,駱嵐,2000,500,"['奇幻', '兒童房']",無,False,,,,RugRectBorderL03,1.0.0
+7536,homeStyle,地毯,中型橘色簡約地墊,オレンジのシンプルマット・M,simple medium orange mat,駱嵐,1500,375,"['客廳', '設施']",無,False,,,,RugSquareSimpleM05,1.0.0
+7537,homeStyle,地毯,小型紅色簡約地墊,あかいシンプルマット・S,simple small red mat,駱嵐,1000,250,"['客廳', '設施']",無,False,,,,RugSquareSimpleS04,1.0.0
+7538,homeStyle,地毯,中型紫色簡約地墊,むらさきのシンプルマット・M,simple medium purple mat,駱嵐,1500,375,"['客廳', '設施']",無,False,,,,RugSquareSimpleM06,1.0.0
+7539,homeStyle,地毯,中型黑色簡約地墊,くろいシンプルマット・M,simple medium black mat,駱嵐,1500,375,"['客廳', '設施']",無,False,,,,RugSquareSimpleM07,1.0.0
+7540,homeStyle,地毯,中型紅色簡約地墊,あかいシンプルマット・M,simple medium red mat,駱嵐,1500,375,"['客廳', '設施']",無,False,,,,RugSquareSimpleM04,1.0.0
+7541,homeStyle,地毯,小型橘色簡約地墊,オレンジのシンプルマット・S,simple small orange mat,駱嵐,1000,250,"['客廳', '設施']",無,False,,,,RugSquareSimpleS05,1.0.0
+7542,homeStyle,地毯,小型紫色簡約地墊,むらさきのシンプルマット・S,simple small purple mat,駱嵐,1000,250,"['客廳', '設施']",無,False,,,,RugSquareSimpleS06,1.0.0
+7543,homeStyle,地毯,小型黑色簡約地墊,くろいシンプルマット・S,simple small black mat,駱嵐,1000,250,"['客廳', '設施']",無,False,,,,RugSquareSimpleS07,1.0.0
+7546,homeStyle,地毯,復活節地毯,イースターなラグ,Bunny Day rug,DIY,,2400,"['奇幻', '兒童房']",復活節,True,"[{'count': 1, 'itemName': '地面蛋'}, {'count': 1, 'itemName': '岩石蛋'}, {'count': 1, 'itemName': '葉子蛋'}, {'count': 1, 'itemName': '森林蛋'}, {'count': 1, 'itemName': '飛天蛋'}]","['蛋瓶中信', '復活蛋氣球']",僅在復活節季節期間獲得,RugOtherEasterM00,1.1.0
+7578,homeStyle,地毯,白色愛心地毯,ホワイトハートのラグ,white heart rug,駱嵐,1500,375,"['奇幻', '兒童房']",無,False,,,,RugOtherHeartM03,1.0.0
+7579,homeStyle,地毯,藍色愛心地毯,ブルーハートのラグ,turquoise heart rug,駱嵐,1500,375,"['奇幻', '兒童房']",無,False,,,,RugOtherHeartM01,1.0.0
+7580,homeStyle,地毯,紫色愛心地毯,パープルハートのラグ,purple heart rug,駱嵐,1500,375,"['奇幻', '兒童房']",無,False,,,,RugOtherHeartM02,1.0.0
+7594,homeStyle,地毯,黑色圖案廚房地墊,くろいパターンキッチンマット,black-design kitchen mat,駱嵐,1000,250,['廚房'],無,False,,,,RugRectNativeKitchenS03,1.0.0
+7595,homeStyle,地毯,藍色圖案廚房地墊,あおいパターンキッチンマット,blue-design kitchen mat,駱嵐,1000,250,['廚房'],無,False,,,,RugRectNativeKitchenS01,1.0.0
+7596,homeStyle,地毯,黃色圖案廚房地墊,きいろパターンキッチンマット,yellow-design kitchen mat,駱嵐,1000,250,['廚房'],無,False,,,,RugRectNativeKitchenS02,1.0.0
+8035,homeStyle,地毯,藍色波斯地毯,あおいペルシャじゅうたん,blue Persian rug,駱嵐,2000,500,"['富裕', '客廳']",無,False,,,,RugSquarePersianL01,1.0.0
+8036,homeStyle,地毯,黃色波斯地毯,きいろいペルシャじゅうたん,yellow Persian rug,駱嵐,2000,500,"['富裕', '客廳']",無,False,,,,RugSquarePersianL02,1.0.0
+8037,homeStyle,地毯,紫色波斯地毯,むらさきのペルシャじゅうたん,purple Persian rug,駱嵐,2000,500,"['富裕', '客廳']",無,False,,,,RugSquarePersianL03,1.0.0
+8393,homeStyle,地毯,綠色廚房地墊,みどりのキッチンマット,green kitchen mat,駱嵐,1000,250,['廚房'],無,False,,,,RugRectKitchenS03,1.0.0
+8394,homeStyle,地毯,藍色廚房地墊,あおいキッチンマット,blue kitchen mat,駱嵐,1000,250,['廚房'],無,False,,,,RugRectKitchenS02,1.0.0
+8395,homeStyle,地毯,黃色廚房地墊,きいろいキッチンマット,yellow kitchen mat,駱嵐,1000,250,['廚房'],無,False,,,,RugRectKitchenS01,1.0.0
+8466,homeStyle,地毯,紅色菱格紋地毯,あかいアーガイルのラグ,red argyle rug,駱嵐,2000,500,"['客廳', '富裕']",無,False,,,,RugRectArgyleL01,1.0.0
+8467,homeStyle,地毯,藍色菱格紋地毯,あおいアーガイルのラグ,blue argyle rug,駱嵐,2000,500,"['客廳', '富裕']",無,False,,,,RugRectArgyleL02,1.0.0
+8468,homeStyle,地毯,茶色菱格紋地毯,ちゃいろいアーガイルのラグ,brown argyle rug,駱嵐,2000,500,"['客廳', '富裕']",無,False,,,,RugRectArgyleL03,1.0.0
+8757,homeStyle,地毯,白色玫瑰地毯,ホワイトローズのラグ,white rose rug,駱嵐,1500,375,"['奇幻', '富裕']",花朵,False,,,,RugOtherRoseM03,1.0.0
+8758,homeStyle,地毯,紅色玫瑰地毯,レッドローズのラグ,red rose rug,駱嵐,1500,375,"['奇幻', '富裕']",花朵,False,,,,RugOtherRoseM01,1.0.0
+8759,homeStyle,地毯,黃色玫瑰地毯,イエローローズのラグ,yellow rose rug,駱嵐,1500,375,"['奇幻', '富裕']",花朵,False,,,,RugOtherRoseM02,1.0.0
+9310,homeStyle,地毯,藍色訊息地墊,あおいメッセージマット,blue message mat,駱嵐,1000,250,['兒童房'],無,False,,,,RugOtherMessageS01,1.0.0
+9311,homeStyle,地毯,黃色訊息地墊,きいろいメッセージマット,yellow message mat,駱嵐,1000,250,['兒童房'],無,False,,,,RugOtherMessageS02,1.0.0
+9312,homeStyle,地毯,紅色訊息地墊,あかいメッセージマット,red message mat,駱嵐,1000,250,['兒童房'],無,False,,,,RugOtherMessageS03,1.0.0
+9313,homeStyle,地毯,紅色基里姆地毯,あかいキリムのカーペット,red kilim-style carpet,駱嵐,2000,500,['客廳'],無,False,,,,RugSquareKirimL00,1.0.0
+9314,homeStyle,地毯,綠色基里姆地毯,みどりのキリムのカーペット,green kilim-style carpet,駱嵐,2000,500,['客廳'],無,False,,,,RugSquareKirimL02,1.0.0
+9315,homeStyle,地毯,黃色基里姆地毯,きいろいキリムのカーペット,yellow kilim-style carpet,駱嵐,2000,500,['客廳'],無,False,,,,RugSquareKirimL03,1.0.0
+9316,homeStyle,地毯,藍色基里姆地毯,あおいキリムのカーペット,blue kilim-style carpet,駱嵐,2000,500,['客廳'],無,False,,,,RugSquareKirimL01,1.0.0
+9541,homeStyle,地毯,可靠媽媽廚房地墊,たよれるははのキッチンマット,Mom's reliable kitchen mat,媽媽寄送,,88,"['奇幻', '廚房']",媽媽,False,,,,RugRectMomS03,1.0.0
+9542,homeStyle,地毯,調皮媽媽廚房地墊,オチャメなははのキッチンマット,Mom's playful kitchen mat,媽媽寄送,,88,"['奇幻', '廚房']",媽媽,False,,,,RugRectMomS01,1.0.0
+9543,homeStyle,地毯,活潑媽媽廚房地墊,げんきなははのキッチンマット,Mom's lively kitchen mat,媽媽寄送,,88,"['奇幻', '廚房']",媽媽,False,,,,RugRectMomS02,1.0.0
+9544,homeStyle,地毯,中型黃色圓地墊,きいろいラウンドマット・M,yellow medium round mat,駱嵐,1500,375,"['客廳', '兒童房']",無,False,,,,RugRoundSimpleM03,1.0.0
+9545,homeStyle,地毯,中型紅色圓地墊,あかいラウンドマット・M,red medium round mat,駱嵐,1500,375,"['客廳', '兒童房']",無,False,,,,RugRoundSimpleM01,1.0.0
+9546,homeStyle,地毯,中型藍色圓地墊,あおいラウンドマット・M,blue medium round mat,駱嵐,1500,375,"['客廳', '兒童房']",無,False,,,,RugRoundSimpleM02,1.0.0
+9547,homeStyle,地毯,小型黃色圓地墊,きいろいラウンドマット・S,yellow small round mat,駱嵐,1000,250,"['客廳', '兒童房']",無,False,,,,RugRoundSimpleS03,1.0.0
+9548,homeStyle,地毯,小型紅色圓地墊,あかいラウンドマット・S,red small round mat,駱嵐,1000,250,"['客廳', '兒童房']",無,False,,,,RugRoundSimpleS01,1.0.0
+9549,homeStyle,地毯,小型藍色圓地墊,あおいラウンドマット・S,blue small round mat,駱嵐,1000,250,"['客廳', '兒童房']",無,False,,,,RugRoundSimpleS02,1.0.0
+9562,homeStyle,地毯,紫色長毛地毯,むらさきのシャギーなラグ,purple shaggy rug,駱嵐,2000,500,['客廳'],無,False,,,,RugSquareShaggyL03,1.0.0
+9563,homeStyle,地毯,茶色長毛地毯,ちゃいろいシャギーなラグ,brown shaggy rug,駱嵐,2000,500,['客廳'],無,False,,,,RugSquareShaggyL01,1.0.0
+9564,homeStyle,地毯,藍色長毛地毯,あおいシャギーなラグ,blue shaggy rug,駱嵐,2000,500,['客廳'],無,False,,,,RugSquareShaggyL02,1.0.0
+11101,homeStyle,地毯,紅色磚塊地毯,あかブロックのラグ,red blocks rug,駱嵐,1500,375,['客廳'],無,False,,,,RugSquareBlockM00,1.0.0
+11102,homeStyle,地毯,藍色磚塊地毯,あおブロックのラグ,blue blocks rug,駱嵐,1500,375,['客廳'],無,False,,,,RugSquareBlockM01,1.0.0
+11103,homeStyle,地毯,黃色磚塊地毯,きいろブロックのラグ,yellow blocks rug,駱嵐,1500,375,['客廳'],無,False,,,,RugSquareBlockM02,1.0.0
+11104,homeStyle,地毯,灰階配色磚塊地毯,モノクロブロックのラグ,black blocks rug,駱嵐,1500,375,['客廳'],無,False,,,,RugSquareBlockM03,1.0.0
+11113,homeStyle,地毯,淺色竹地毯,ライトなバンブーラグ,light bamboo rug,DIY,,2400,['東洋風'],無,True,"[{'count': 6, 'itemName': '春筍'}]",['氣球'],僅在春季期間獲得,RugRectBambooM00,1.0.0
+11114,homeStyle,地毯,深色竹地毯,ダークなバンブーラグ,dark bamboo rug,DIY,,960,['東洋風'],無,True,"[{'count': 6, 'itemName': '竹子材料'}]",['暴躁型村民'],,RugRectBambooM01,1.0.0
+11176,homeStyle,壁紙,典雅茶室牆,シックなちゃしつのかべ,chic tearoom wall,Nook商店,1750,437,"['東洋風', '商店']",無,False,,,,RoomTexWallMud03,1.0.0
+11177,homeStyle,壁紙,穩重茶室牆,おちついたちゃしつのかべ,soothing tearoom wall,Nook商店,1750,437,"['東洋風', '商店']",無,False,,,,RoomTexWallMud01,1.0.0
+11178,homeStyle,壁紙,摩登茶室牆,モダンなちゃしつのかべ,modern tearoom wall,Nook商店,1750,437,"['東洋風', '商店']",無,False,,,,RoomTexWallMud02,1.0.0
+11180,homeStyle,壁紙,東方風牆壁,オリエンタルなかべ,harmonious wall,Nook商店,1780,445,"['東洋風', '商店']",無,False,,,,RoomTexWallOriental00,1.0.0
+11915,homeStyle,壁紙,毛毛細雨牆,こさめのふるかべ,misty-garden wall,駱嵐,3000,585,['庭園'],無,False,,,,RoomSpWallRain00,1.0.0
+12214,homeStyle,地毯,鈴錢袋地毯,ベルぶくろのラグ,Bell-bag rug,任天堂; 購物：哩數兌換,,6000,['富裕'],無,False,,,,RugOtherBellM00,1.2.0
+12325,homeStyle,地毯,Nook Inc.植物圖案地毯,たぬきかいはつのボタニカルラグ,Nook Inc. botanical rug,購物：哩數兌換,,5000,"['奇幻', '客廳']",無,False,,,,RugOtherTanukiM00,1.1.0
+12396,homeStyle,地毯,Nook Inc.正方形地毯,たぬきかいはつのスクエアラグ,Nook Inc. silk rug,購物：哩數兌換,,3000,"['設施', '商店']",無,False,,,,RugRectTanukiL00,1.1.0
+12423,homeStyle,地板,復活節地板,イースターなゆか,Bunny Day flooring,DIY,,4800,"['奇幻', '兒童房']",復活節,True,"[{'count': 2, 'itemName': '地面蛋'}, {'count': 2, 'itemName': '岩石蛋'}, {'count': 2, 'itemName': '葉子蛋'}, {'count': 2, 'itemName': '森林蛋'}, {'count': 2, 'itemName': '飛天蛋'}]","['蛋瓶中信', '復活蛋氣球']",僅在復活節季節期間獲得,RoomTexFloorEaster00,1.1.0
+12431,homeStyle,地板,婚禮白色磚地板,ウェディングなホワイトタイル,white wedding flooring,健兆,,750,"['派對', '富裕']",婚禮,False,,,,RoomTexFloorMarbleTile00,1.2.0
+12433,homeStyle,地板,婚禮棕色磚地板,ウェディングなブラウンタイル,brown wedding flooring,健兆,,750,"['派對', '富裕']",婚禮,False,,,,RoomTexFloorMarbleTile01,1.2.0
+12434,homeStyle,地板,婚禮綠色磚地板,ウェディングなグリーンタイル,green wedding flooring,健兆,,750,"['派對', '富裕']",婚禮,False,,,,RoomTexFloorMarbleTile02,1.2.0
+12461,homeStyle,壁紙,婚禮派對牆,ウェディングパーティーのかべ,wedding-party wall,健兆,,437,"['派對', '富裕']",婚禮,False,,,,RoomTexWallJuneBride00,1.2.0
+12462,homeStyle,地毯,藍色婚禮地毯,ウェディングなラグ・ブルー,blue wedding rug,健兆,,375,"['派對', '富裕']",婚禮,False,,,,RugRectJuneBrideM00,1.2.0
+12464,homeStyle,地毯,白色婚禮地毯,ウェディングなラグ・ホワイト,white wedding rug,健兆,,375,"['派對', '富裕']",婚禮,False,,,,RugRectJuneBrideM03,1.2.0
+12465,homeStyle,地毯,紅色婚禮地毯,ウェディングなラグ・レッド,red wedding rug,健兆,,375,"['派對', '富裕']",婚禮,False,,,,RugRectJuneBrideM02,1.2.0
+12466,homeStyle,壁紙,白色婚禮牆,ウェディングなかべ・ホワイト,white wedding wall,健兆,,750,"['派對', '富裕']",婚禮,False,,,,RoomSpWallChurch00,1.2.0
+12468,homeStyle,壁紙,棕色婚禮牆,ウェディングなかべ・ブラウン,brown wedding wall,健兆,,750,"['派對', '富裕']",婚禮,False,,,,RoomSpWallChurch01,1.2.0
+12469,homeStyle,壁紙,綠色婚禮牆,ウェディングなかべ・グリーン,green wedding wall,健兆,,750,"['派對', '富裕']",婚禮,False,,,,RoomSpWallChurch02,1.2.0
+12563,homeStyle,地毯,人魚地毯,マーメイドなラグ,mermaid rug,DIY,,10360,"['大海', '奇幻']",人魚,True,"[{'count': 1, 'itemName': '珍珠'}, {'count': 3, 'itemName': '沙錢'}]",['阿獺'],,RugOtherMermaidM00,1.3.0
+12564,homeStyle,地毯,海盜地毯,かいぞくのラグ,pirate rug,海盜,,375,['大海'],海盜,False,,,,RugRectPiratesM00,1.3.0
+12566,homeStyle,壁紙,人魚壁紙,マーメイドなかべがみ,mermaid wall,DIY,,23520,"['大海', '奇幻']",人魚,True,"[{'count': 2, 'itemName': '珍珠'}, {'count': 2, 'itemName': '鐘螺殼'}, {'count': 2, 'itemName': '沙錢'}, {'count': 2, 'itemName': '珊瑚'}, {'count': 2, 'itemName': '扇貝殼'}]",['阿獺'],,RoomSpWallMermaid00,1.3.0
+12567,homeStyle,壁紙,海盜壁紙,かいぞくのかべがみ,pirate wall,海盜,,750,['大海'],海盜,False,,,,RoomSpWallPirates00,1.3.0
+12568,homeStyle,地板,人魚地板,マーメイドなゆか,mermaid flooring,DIY,,20975,"['大海', '奇幻']",人魚,True,"[{'count': 2, 'itemName': '珍珠'}, {'count': 5, 'itemName': '沙錢'}, {'count': 5, 'itemName': '石頭'}]",['阿獺'],,RoomSpFloorMermaid00,1.3.0
+12569,homeStyle,地板,海盜地板,かいぞくのゆか,pirate flooring,海盜,,750,"['大海', '富裕']",海盜,False,,,,RoomTexFloorPirates00,1.3.0
+13230,homeStyle,壁紙,煙火大會牆,はなびたいかいのかべ,fireworks-show wall,任天堂,3000,750,"['戶外', '大海']",無,False,,,,RoomSpWallFireworks00,1.4.0
+13287,homeStyle,地毯,月之地毯,つきのラグ,moon rug,購物：季節,2000,500,"['宇宙', '東洋風']",無,False,,,,RugRoundMoonM00,1.4.0

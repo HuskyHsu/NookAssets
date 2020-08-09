@@ -67,6 +67,40 @@ def getLanguageMap(path, onlyId = False):
 
     return m
 
+def getSeries():
+    return {
+        "iron": "鑄鐵",
+        "ironwood": "鑄鐵木",
+        "diner": "餐館",
+        "antique": "古董",
+        "golden": "黃金",
+        "zen": "東方風",
+        "shell": "貝殼",
+        "mush": "蘑菇",
+        "cute": "可愛",
+        "bamboo": "竹子",
+        "wooden block": "積木",
+        "spooky": "萬聖節",
+        "fruits": "水果",
+        "log": "圓木",
+        "wooden": "木製",
+        "rattan": "藤編",
+        "throwback": "TOY",
+        "frozen": "冰塊",
+        "stars": "星星",
+        "flowers": "花朵",
+        "tree's bounty or leaves": "樹果‧落葉",
+        "cherry blossoms": "櫻花",
+        "cardboard": "紙箱",
+        "motherly": "媽媽",
+        "festive": "聖誕節",
+        "Bunny Day": "復活節",
+        "wedding": "婚禮",
+        "pirate": "海盜",
+        "mermaid": "人魚",
+        "None": "無"
+    }
+
 def getRecipe(version = '1.4.0'):
     translations = readExcel(f'./rawData/Translations - {version}.xlsx')
 

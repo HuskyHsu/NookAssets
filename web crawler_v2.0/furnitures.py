@@ -52,8 +52,7 @@ if __name__ == '__main__':
 
     rawData = parse.getRawData()
     recipeMap = parse.getRecipe()
-    
-    # "Image", "Variation", "Body Title", "Pattern", "Pattern Title", "DIY", "Body Customize", "Pattern Customize", "Kit Cost", "Buy", "Sell", "Color 1", "Color 2", "Size", "Surface", "Miles Price", "Source", "Source Notes", "HHA Base Points", "HHA Concept 1", "HHA Concept 2", "HHA Series", "HHA Set", "HHA Category", "Interact", "Tag", "Outdoor", "Speaker Type", "Lighting Type", "Catalog", "Version Added", "Version Unlocked", "Filename", "Variant ID", "Internal ID"
+    series = parse.getSeries()
 
     categoryNames = [
         ['Housewares', '家具'],
@@ -102,12 +101,14 @@ if __name__ == '__main__':
                 pickData['sell'] = row['Sell']
                 pickData['category'] = categoryName[1]
                 pickData['tag'] = nameMapCustom[row['Tag']]['zh-tw']
-
+                
                 pickData['themes'] = []
-                if row['HHA Concept 1'] != 'None':
+                if row['HHA Concept 1'] != 'None' and row['HHA Concept 1'] != 'none':
                     pickData['themes'].append(nameMapCustom[row['HHA Concept 1']]['zh-tw'])
-                if row['HHA Concept 2'] != 'None':
+                if row['HHA Concept 2'] != 'None' and row['HHA Concept 2'] != 'none':
                     pickData['themes'].append(nameMapCustom[row['HHA Concept 2']]['zh-tw'])
+            
+                pickData['series'] = series[row['HHA Series'].strip(' ')]
 
                 pickData['interact'] = True if row['Interact'] == 'Yes' else False
                 pickData['size'] = row['Size']
