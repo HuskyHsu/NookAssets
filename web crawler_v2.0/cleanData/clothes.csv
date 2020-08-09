@@ -1,0 +1,1170 @@
+id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability,villagerEquippable,styles,themes,DIY,diyInfoMaterials,diyInfoObtainedFrom,diyInfoSourceNotes,filename,version,variations
+6,clothes,上身,粗橫紋T恤,ボーダーＴシャツ,striped shirt,裁縫店,960,240,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLBorder1,1.0.0,6
+8,clothes,上身,登山連帽上衣,マウンテンパーカー,mountain parka,裁縫店,1400,350,全年,True,活潑,"['戶外活動', '運動']",False,,,,TopsTexTopYshirtsLMountain3,1.0.0,4
+9,clothes,套裝,針織連身裙,ニットワンピース,sweater dress,裁縫店,1470,367,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceRibLKnit0,1.0.0,3
+10,clothes,套裝,連帽連身裙,パーカーワンピ,parka dress,裁縫店,1600,400,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceRibLParka4,1.0.0,5
+11,clothes,套裝,背心裙,ジャンパースカート,overall dress,裁縫店,2000,500,全年,True,活潑,['日常生活'],False,,,,TopsTexOnepieceBoxHJumperskirt0,1.0.0,5
+12,clothes,套裝,兩件式細肩帶連身裙,レイヤーキャミワンピ,layered tank dress,裁縫店,1200,300,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceBoxHLayercamisoleRouge,1.0.0,4
+13,clothes,上身,羊毛混紡牛角釦大衣,ダッフルコート,peacoat,裁縫店,1960,490,冬季,True,簡單,['日常生活'],False,,,,TopsTexTopCoatLDuffleGray,1.0.0,4
+14,clothes,下身,卡其褲,チノパン,chino pants,裁縫店,700,175,全年,False,簡單,"['日常生活', '工作']",False,,,,BottomsTexPantsNormalChino4,1.0.0,8
+15,clothes,下身,撞色褲,ツートンなズボン,two-tone pants,裁縫店,880,220,全年,False,活潑,"['日常生活', '悠閒']",False,,,,BottomsTexPantsNormalTwotoneMonochrome,1.0.0,4
+16,clothes,下身,嘉頓格紋裙,ギンガムチェックのスカート,gingham picnic skirt,裁縫店,880,220,全年,False,簡單,['日常生活'],False,,,,BottomsTexSkirtAlineGingham3,1.0.0,8
+17,clothes,下身,牛仔褲,デニムパンツ,denim pants,裁縫店,1120,280,全年,False,簡單,['日常生活'],False,,,,BottomsTexPantsNormalDenim0,1.0.0,5
+18,clothes,上身,風衣,トレンチコート,trench coat,裁縫店,1680,420,全年,True,優雅,"['日常生活', '正式', '工作']",False,,,,TopsTexTopCoatLTrench2,1.0.0,5
+19,clothes,上身,功夫衣服,カンフーなふく,kung-fu tee,裁縫店,1800,450,全年,True,活潑,"['日常生活', '運動']",False,,,,TopsTexTopTshirtsHKungfu1,1.0.0,5
+20,clothes,套裝,啦啦隊制服,チアのコスチューム,cheerleading uniform,裁縫店,1920,480,全年,True,活潑,"['運動', '舞台']",False,,,,TopsTexOnepieceAlineNCheer0,1.0.0,8
+21,clothes,上身,棒球外套,スタジャン,letter jacket,裁縫店,1080,270,冬季,True,活潑,"['日常生活', '戶外活動', '運動']",False,,,,TopsTexTopOuterLStajan1,1.0.0,4
+22,clothes,上身,3號球衣服,３ばんだまのふく,three-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball3,1.0.0,1
+23,clothes,上身,2號球衣服,２ばんだまのふく,two-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball2,1.0.0,1
+24,clothes,套裝,緞面連身裙,サテンのワンピース,satin dress,裁縫店,1600,400,全年,True,華麗,"['正式', '派對', '舞台']",False,,,,TopsTexOnepieceBalloonNSatin2,1.0.0,5
+25,clothes,上身,簡約荷葉邊細肩帶背心,シンプルフリルキャミソール,layered tank,裁縫店,800,200,夏季,True,可愛,"['童話世界', '悠閒', '度假']",False,,,,TopsTexTopTshirtsNCamisole6,1.0.0,8
+26,clothes,上身,中華風衣服,チャイナふく,silk shirt,裁縫店,1500,375,全年,True,優雅,"['日常生活', '正式']",False,,,,TopsTexTopYshirtsLChina4,1.0.0,5
+27,clothes,上身,插肩T恤,ラグランＴシャツ,raglan shirt,裁縫店,800,200,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLRaglan4,1.0.0,5
+28,clothes,套裝,斜紋軟呢連身裙,ツイードワンピース,tweed dress,裁縫店,1600,400,全年,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexOnepieceAlineLTweed1,1.0.0,3
+29,clothes,套裝,春天圓點連身裙,はるのみずたまワンピース,gumdrop dress,裁縫店,1800,450,全年,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexOnepieceAlineHPolkadotSpring0,1.0.0,2
+30,clothes,套裝,鳳梨圖案夏威夷連身裙,パインがらムームー,tropical muumuu,裁縫店,1800,450,夏季,True,活潑,"['悠閒', '度假']",False,,,,TopsTexOnepieceAlineNMuumuu1,1.0.0,5
+31,clothes,套裝,端莊洋裝,よそいきなふく,academy uniform,裁縫店,2080,520,全年,True,優雅,"['正式', '派對']",False,,,,TopsTexOnepieceBoxLYosoiki1,1.0.0,3
+32,clothes,套裝,復古直筒連身裙,レトロボックスワンピース,retro dress,裁縫店,2550,637,全年,True,優雅,['派對'],False,,,,TopsTexOnepieceBoxNRetro1,1.0.0,6
+33,clothes,上身,籃球衣,バスケシャツ,basketball tank,裁縫店,1120,280,全年,True,活潑,"['運動', '工作']",False,,,,TopsTexTopTshirtsNBasketballshirts7,1.0.0,8
+35,clothes,上身,無袖針織衫,ノースリーブのニット,hand-knit tank,裁縫店,840,210,全年,True,優雅,"['日常生活', '正式', '悠閒']",False,,,,TopsTexTopOuterNKnit1,1.0.0,6
+37,clothes,上身,羽絨外套,ダウンジャケット,down jacket,裁縫店,1120,280,冬季,True,活潑,"['日常生活', '戶外活動']",False,,,,TopsTexTopOuterLDownjacket3,1.0.0,8
+38,clothes,套裝,夢幻色系格子連身裙,ゆめいろこうしワンピース,dazed dress,裁縫店,1600,400,夏季,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexOnepieceAlineNYumeiro0,1.0.0,3
+39,clothes,套裝,氣質套裝,せいそなアンサンブル,prim outfit,裁縫店,1920,480,全年,True,優雅,"['正式', '派對', '工作']",False,,,,TopsTexOnepieceBoxLEnsemble1,1.0.0,3
+40,clothes,上身,襯衫,ワイシャツ,dress shirt,裁縫店,560,140,全年,True,簡單,"['日常生活', '正式', '工作']",False,,,,TopsTexTopYshirtsLStandard0,1.0.0,5
+41,clothes,套裝,圓點腰帶連身裙,ベルトつきみずたまワンピース,belted dotted dress,裁縫店,2000,500,夏季,True,可愛,"['童話世界', '派對', '度假']",False,,,,TopsTexOnepieceBalloonHPolkadot1,1.0.0,4
+42,clothes,上身,短袖水手服,はんそでセーラーふく,sailor's tee,裁縫店,1050,262,夏季,True,簡單,"['日常生活', '正式']",False,,,,TopsTexTopTshirtsHSailor0,1.0.0,8
+43,clothes,上身,簡約連帽上衣,シンプルなパーカー,simple parka,裁縫店,1060,265,全年,True,簡單,"['日常生活', '悠閒', '運動']",False,,,,TopsTexTopOuterLParka0,1.0.0,8
+44,clothes,上身,兒童罩衣,スモック,kids' smock,裁縫店,1500,375,全年,True,可愛,['日常生活'],False,,,,TopsTexTopTshirtsLSmock0,1.0.0,4
+45,clothes,套裝,花紋連身裙,はながらワンピース,blossom dress,裁縫店,1500,375,全年,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexOnepieceAlineHFlower0,1.0.0,5
+46,clothes,套裝,蘿莉塔連身裙,ロリータなワンピース,lace-up dress,裁縫店,2500,625,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceBalloonLLolita0,1.0.0,3
+47,clothes,襪子,絲襪,ストッキング,stockings,裁縫店,480,120,全年,False,簡單,"['日常生活', '工作']",False,,,,SocksTexTights2,1.0.0,5
+48,clothes,襪子,網襪,あみタイツ,fishnet tights,裁縫店,480,120,全年,False,優雅,"['派對', '舞台']",False,,,,SocksTexAmitights1,1.0.0,3
+49,clothes,套裝,千鳥格紋連身裙,ちどりごうしワンピース,plover dress,裁縫店,1600,400,全年,True,優雅,"['日常生活', '工作']",False,,,,TopsTexOnepieceBoxLChidori1,1.0.0,3
+50,clothes,套裝,派對連身裙,パーティーワンピ,fancy party dress,裁縫店,2400,600,全年,True,優雅,"['正式', '派對']",False,,,,TopsTexOnepieceBoxHParty1,1.0.0,4
+51,clothes,套裝,奢華套裝,バブリーなセットアップ,rad power skirt suit,裁縫店,2240,560,全年,True,華麗,"['派對', '舞台', '工作']",False,,,,TopsTexOnepieceBoxLBubbly0,1.0.0,7
+52,clothes,套裝,聖誕洋裝,クリスマスなドレス,festive dress,裁縫店,2400,600,全年,True,可愛,"['童話世界', '派對']",False,,,,TopsTexOnepieceBalloonNXmasRed,1.0.0,1
+53,clothes,套裝,童話風洋裝,メルヘンなドレス,fairy-tale dress,裁縫店,2400,600,全年,True,可愛,"['童話世界', '舞台']",False,,,,TopsTexOnepieceBalloonHHood0,1.0.0,8
+54,clothes,套裝,女僕裝,メイドのふく,maid dress,裁縫店,2320,580,全年,True,可愛,"['童話世界', '正式', '舞台', '工作']",False,,,,TopsTexOnepieceBalloonHMaid0,1.0.0,8
+56,clothes,上身,學士服,がくしのふく,graduation gown,裁縫店,3360,840,全年,True,簡單,"['正式', '工作']",False,,,,TopsTexTopCoatLAcademicdress0,1.0.0,4
+58,clothes,套裝,餐館制服,ダイナーのユニフォーム,diner uniform,裁縫店,1800,450,全年,True,可愛,['工作'],False,,,,TopsTexOnepieceBalloonHWaitress6,1.0.0,7
+59,clothes,上身,短袖襯衫,はんそでワイシャツ,short-sleeve dress shirt,裁縫店,560,140,夏季,True,簡單,"['日常生活', '正式', '工作']",False,,,,TopsTexTopYshirtsHStandard0,1.0.0,5
+60,clothes,上身,無袖有領襯衫,ノースリーブえりつきシャツ,sleeveless dress shirt,裁縫店,960,240,夏季,True,簡單,"['日常生活', '度假']",False,,,,TopsTexTopYshirtsNStandard0,1.0.0,5
+61,clothes,套裝,兔子服,ウサギなふく,bunny dress,裁縫店,1800,450,全年,True,可愛,"['童話世界', '派對']",False,,,,TopsTexOnepieceAlineLRabbit2,1.0.0,3
+62,clothes,上身,海盜大衣,かいぞくのコート,sea captain's coat,海盜,,1200,全年,True,酷感,"['童話世界', '正式', '恐怖', '舞台']",False,,,,TopsTexTopCoatLPirate2,1.3.0,3
+63,clothes,套裝,女英雄裝,ヒロインスーツ,noble zap suit,裁縫店,2760,690,全年,True,活潑,"['童話世界', '舞台', '工作']",False,,,,TopsTexOnepieceAlineLHeroine0,1.0.0,8
+64,clothes,上身,日式棉襖外套,はんてん,hanten jacket,裁縫店,1120,280,冬季,True,簡單,['悠閒'],False,,,,TopsTexTopCoatLHanten1,1.0.0,4
+65,clothes,套裝,浴袍,バスローブ,bathrobe,裁縫店,720,180,全年,True,簡單,['悠閒'],False,,,,TopsTexOnepieceBoxLBathrobes0,1.0.0,7
+66,clothes,套裝,芭蕾舞衣,バレエのいしょう,ballet outfit,裁縫店,2880,720,全年,True,可愛,"['童話世界', '運動', '舞台', '工作']",False,,,,TopsTexOnepieceBalloonNBallet5,1.0.0,8
+67,clothes,套裝,貓咪服,ネコなふく,cat dress,裁縫店,1800,450,冬季,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceAlineLCat2,1.0.0,3
+68,clothes,套裝,提洛爾洋裝,チロリアンなドレス,alpinist dress,裁縫店,2520,630,全年,True,可愛,"['日常生活', '正式']",False,,,,TopsTexOnepieceBalloonHTyrolean2,1.0.0,3
+69,clothes,套裝,聖誕樹連身裙,もみのきワンピース,festive-tree dress,裁縫店,2240,560,全年,True,可愛,"['童話世界', '派對']",False,,,,TopsTexOnepieceAlineNXmastreeNormal0,1.0.0,6
+70,clothes,上身,雨衣,レインコート,raincoat,裁縫店,1280,320,全年,True,簡單,"['日常生活', '戶外活動']",False,,,,TopsTexTopCoatLRain7,1.0.0,8
+71,clothes,上身,貴族大衣,きぞくのコート,noble coat,裁縫店,4800,1200,全年,True,華麗,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexTopCoatLNoble2,1.0.0,8
+72,clothes,上身,Polo衫,ポロシャツ,polo shirt,裁縫店,720,180,夏季,True,簡單,"['日常生活', '度假', '工作']",False,,,,TopsTexTopYshirtsHPolo6,1.0.0,8
+73,clothes,上身,醫生袍,はくい,doctor's coat,裁縫店,2160,540,全年,True,簡單,['工作'],False,,,,TopsTexTopCoatLWhitecoat1,1.0.0,2
+74,clothes,上身,廚師衣服,コックさんのふく,chef's outfit,裁縫店,1680,420,全年,True,簡單,['工作'],False,,,,TopsTexTopCoatHCook6,1.0.0,7
+75,clothes,上身,咖啡店制服,カフェのせいふく,café uniform,裁縫店,1500,375,全年,True,優雅,"['正式', '工作']",False,,,,TopsTexTopCoatLCafe0,1.0.0,4
+76,clothes,上身,體操服,たいそうふく,gym tee,裁縫店,640,160,全年,True,活潑,"['悠閒', '運動']",False,,,,TopsTexTopTshirtsHGym3,1.0.0,4
+77,clothes,上身,坦克背心,タンクトップ,tank,裁縫店,350,87,夏季,True,簡單,"['日常生活', '戶外活動', '悠閒', '運動', '度假']",False,,,,TopsTexTopTshirtsNTanktop1,1.0.0,5
+78,clothes,上身,諧星衣服,コメディアンなふく,comedian's outfit,裁縫店,2500,625,全年,True,華麗,"['派對', '舞台']",False,,,,TopsTexTopYshirtsLComedian7,1.0.0,8
+79,clothes,上身,騎士皮外套,ライダースジャケット,biker jacket,裁縫店,1750,437,全年,True,酷感,"['日常生活', '戶外活動', '舞台']",False,,,,TopsTexTopYshirtsLRiders0,1.0.0,6
+80,clothes,上身,花紋圖案細肩帶背心,はながらのプリントキャミ,garden tank,裁縫店,1120,280,夏季,True,可愛,"['日常生活', '童話世界', '悠閒', '度假']",False,,,,TopsTexTopTshirtsNCamisoleprint0,1.0.0,4
+81,clothes,上身,牛仔外套,デニムジャケット,denim jacket,裁縫店,1400,350,全年,True,簡單,"['日常生活', '戶外活動']",False,,,,TopsTexTopYshirtsLDenim0,1.0.0,5
+82,clothes,上身,橡膠圍裙,ゴムエプロン,rubber apron,裁縫店,840,210,全年,True,活潑,['工作'],False,,,,TopsTexTopCoatHRubberapron1,1.0.0,2
+83,clothes,上身,釣魚背心,つりジャケット,fishing vest,裁縫店,1440,360,全年,True,活潑,"['戶外活動', '運動']",False,,,,TopsTexTopTshirtsHFishing4,1.0.0,8
+84,clothes,上身,麂皮大衣,ムートンコート,faux-shearling coat,裁縫店,1680,420,冬季,True,優雅,"['日常生活', '戶外活動']",False,,,,TopsTexTopCoatLMouton4,1.0.0,5
+85,clothes,上身,法蘭絨襯衫,ネルシャツ,flannel shirt,裁縫店,1200,300,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopYshirtsLFlannel0,1.0.0,5
+86,clothes,上身,牛仔背心,そでなしＧジャン,denim vest,裁縫店,1120,280,夏季,True,活潑,"['日常生活', '戶外活動', '度假']",False,,,,TopsTexTopYshirtsNDenim2,1.0.0,5
+87,clothes,上身,圍裙,エプロン,apron,裁縫店,840,210,全年,True,簡單,"['日常生活', '工作']",False,,,,TopsTexTopCoatHApron6,1.0.0,8
+88,clothes,上身,騎兵隊衣服,へいたいのふく,military uniform,裁縫店,3360,840,全年,True,優雅,"['童話世界', '正式', '工作']",False,,,,TopsTexTopCoatLInfantry3,1.0.0,4
+89,clothes,套裝,原始人服,げんしじんなふく,caveman tank,裁縫店,1050,262,全年,True,活潑,['戶外活動'],False,,,,TopsTexOnepieceBoxNPrimitive2,1.0.0,3
+90,clothes,上身,騎士衣服,じゅうきしのふく,cavalier shirt,裁縫店,2080,520,全年,True,優雅,"['童話世界', '舞台']",False,,,,TopsTexTopCoatLGunknight1,1.0.0,3
+91,clothes,上身,鳳梨圖案夏威夷襯衫,パインがらアロハシャツ,pineapple aloha shirt,裁縫店,960,240,夏季,True,活潑,"['悠閒', '度假']",False,,,,TopsTexTopYshirtsHAloha1,1.0.0,7
+92,clothes,上身,蕾絲細肩帶背心,レースのキャミソール,lacy tank,裁縫店,850,212,夏季,True,可愛,"['日常生活', '童話世界', '悠閒', '度假']",False,,,,TopsTexTopTshirtsNCamisolelace0,1.0.0,5
+93,clothes,上身,運動服,ジャージ,athletic jacket,裁縫店,960,240,全年,True,活潑,"['戶外活動', '悠閒', '運動']",False,,,,TopsTexTopOuterLJersey2,1.0.0,6
+94,clothes,上身,西部牛仔衣服,ウェスタンなふく,western shirt,裁縫店,2100,525,全年,True,活潑,"['戶外活動', '舞台', '工作']",False,,,,TopsTexTopYshirtsLWestern3,1.0.0,4
+95,clothes,上身,接力賽衣服,えきでんなふく,relay tank,裁縫店,960,240,全年,True,活潑,"['運動', '工作']",False,,,,TopsTexTopTshirtsNEkiden7,1.0.0,8
+96,clothes,上身,短袖中華風衣服,はんそでチャイナふく,silk floral-print shirt,裁縫店,1200,300,全年,True,可愛,['日常生活'],False,,,,TopsTexTopYshirtsHChina3,1.0.0,7
+97,clothes,上身,足球隊服,サッカーのユニフォーム,soccer-uniform top,裁縫店,1330,332,全年,True,活潑,"['運動', '工作']",False,,,,TopsTexTopTshirtsHSoccer7,1.0.0,8
+98,clothes,上身,虎紋飛行外套,トラのスカジャン,tiger jacket,裁縫店,1750,437,冬季,True,活潑,['戶外活動'],False,,,,TopsTexTopOuterLSukajantigerGreen,1.0.0,1
+99,clothes,上身,祭典和服,はっぴ,happi tee,裁縫店,960,240,夏季,True,活潑,"['派對', '舞台', '工作']",False,,,,TopsTexTopYshirtsHHappi2,1.0.0,5
+100,clothes,上身,龍紋飛行外套,ドラゴンのスカジャン,dragon jacket,裁縫店,2000,500,冬季,True,活潑,['戶外活動'],False,,,,TopsTexTopOuterLSukajandragonBlack,1.0.0,1
+101,clothes,上身,迷彩衣服,めいさいなふく,camo tee,裁縫店,960,240,夏季,True,酷感,"['日常生活', '戶外活動']",False,,,,TopsTexTopTshirtsHCamouflage0,1.0.0,7
+102,clothes,上身,單車運動服,サイクルジャージ,cycling shirt,裁縫店,1200,300,全年,True,活潑,"['戶外活動', '運動']",False,,,,TopsTexTopTshirtsHCycle0,1.0.0,8
+103,clothes,上身,小雞T恤,ひよこがらＴシャツ,chick tee,裁縫店,800,200,夏季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHChickBlue,1.0.0,1
+104,clothes,套裝,公主服,プリンセスなふく,princess dress,裁縫店,5500,1375,全年,True,優雅,"['童話世界', '正式', '派對']",False,,,,TopsTexOnepieceDressLPrincess7,1.0.0,8
+105,clothes,套裝,無袖針織連身裙,そでなしニットワンピ,sleeveless sweater dress,裁縫店,1600,400,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceRibNKnit2,1.0.0,6
+106,clothes,上身,菱格紋背心,アーガイルベスト,argyle vest,裁縫店,1440,360,全年,True,簡單,"['日常生活', '正式', '工作']",False,,,,TopsTexTopYshirtsLArgyle4,1.0.0,6
+107,clothes,上身,探險衣服,たんけんふく,explorer shirt,裁縫店,1120,280,全年,True,活潑,"['戶外活動', '工作']",False,,,,TopsTexTopYshirtsHExplorer2,1.0.0,4
+108,clothes,上身,鮮艷外套,ハデなジャケット,flashy jacket,裁縫店,1960,490,全年,True,華麗,"['正式', '派對', '舞台']",False,,,,TopsTexTopYshirtsLJacketgaudy0,1.0.0,6
+109,clothes,上身,領帶配襯衫,ネクタイつきワイシャツ,work shirt,裁縫店,1040,260,全年,True,酷感,"['日常生活', '正式', '工作']",False,,,,TopsTexTopYshirtsLNecktie4,1.0.0,5
+110,clothes,上身,日本料理廚師衣服,いたまえのふく,sushi chef's outfit,裁縫店,1800,450,全年,True,簡單,['工作'],False,,,,TopsTexTopCoatHItamae0,1.0.0,2
+111,clothes,上身,制服外套,ブレザー,emblem blazer,裁縫店,1960,490,全年,True,優雅,['正式'],False,,,,TopsTexTopYshirtsLBlazer3,1.0.0,4
+112,clothes,上身,國王衣服,おうさまのふく,royal shirt,裁縫店,6720,1680,全年,True,華麗,"['童話世界', '派對', '舞台']",False,,,,TopsTexTopCoatLKingRed,1.0.0,1
+113,clothes,套裝,草莓服,イチゴのふく,strawberry dress,裁縫店,1800,450,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceAlineNStrawberry,1.0.0,1
+114,clothes,套裝,西瓜服,スイカのふく,watermelon dress,裁縫店,1500,375,夏季,True,可愛,"['童話世界', '派對', '度假']",False,,,,TopsTexOnepieceAlineNWatermelon,1.0.0,1
+115,clothes,套裝,橘子服,オレンジのふく,orange dress,DIY,,1600,全年,True,可愛,"['童話世界', '派對', '舞台']",True,"[{'count': 8, 'itemName': '橘子'}]",['悠閒型村民'],,TopsTexOnepieceAlineNOrange,1.0.0,1
+116,clothes,套裝,奇異果服,キウイのふく,kiwi dress,裁縫店,1500,375,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceAlineNKiwi,1.0.0,1
+117,clothes,套裝,葡萄服,ぶどうのふく,grape dress,裁縫店,1500,375,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceAlineNGrape,1.0.0,1
+118,clothes,套裝,鳳梨服,パイナップルのふく,pineapple dress,裁縫店,1500,375,夏季,True,可愛,"['童話世界', '派對', '度假']",False,,,,TopsTexOnepieceAlineNPineapple,1.0.0,1
+119,clothes,下身,棉褲,スウェットパンツ,sweatpants,裁縫店,800,200,全年,False,活潑,"['日常生活', '悠閒']",False,,,,BottomsTexPantsNormalSweat0,1.0.0,8
+120,clothes,下身,斜紋軟呢裙,ツイードスカート,tweed skirt,裁縫店,1300,325,全年,False,簡單,['日常生活'],False,,,,BottomsTexSkirtAlineTweed1,1.0.0,3
+125,clothes,下身,皮褲,レザーパンツ,pleather pants,裁縫店,1300,325,全年,False,酷感,"['日常生活', '戶外活動', '舞台']",False,,,,BottomsTexPantsNormalLeather0,1.0.0,6
+126,clothes,下身,西裝褲,スラックス,slacks,裁縫店,1300,325,全年,False,簡單,"['正式', '派對', '工作']",False,,,,BottomsTexPantsNormalSlacks6,1.0.0,7
+127,clothes,下身,運動褲,ジャージズボン,athletic pants,裁縫店,880,220,全年,False,活潑,"['戶外活動', '悠閒', '運動']",False,,,,BottomsTexPantsNormalJersey2,1.0.0,6
+128,clothes,下身,粗橫紋褲,ボーダーパンツ,striped pants,裁縫店,1100,275,全年,False,簡單,"['日常生活', '悠閒', '度假']",False,,,,BottomsTexPantsNormalBoder4,1.0.0,5
+129,clothes,下身,破洞牛仔褲,あなあきデニム,worn-out jeans,裁縫店,1100,275,全年,False,酷感,"['日常生活', '戶外活動']",False,,,,BottomsTexPantsNormalDenimholes0,1.0.0,4
+130,clothes,上身,撞色有領襯衫,ツートンのエリつきシャツ,color-block dress shirt,裁縫店,960,240,全年,True,簡單,['日常生活'],False,,,,TopsTexTopYshirtsLTwotone5,1.0.0,6
+131,clothes,上身,1號球衣服,１ばんだまのふく,one-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball1,1.0.0,1
+132,clothes,上身,4號球衣服,４ばんだまのふく,four-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball4,1.0.0,1
+133,clothes,上身,5號球衣服,５ばんだまのふく,five-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball5,1.0.0,1
+134,clothes,上身,6號球衣服,６ばんだまのふく,six-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball6,1.0.0,1
+135,clothes,上身,7號球衣服,７ばんだまのふく,seven-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball7,1.0.0,1
+136,clothes,上身,8號球衣服,８ばんだまのふく,eight-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball8,1.0.0,1
+137,clothes,上身,9號球衣服,９ばんだまのふく,nine-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball9,1.0.0,1
+138,clothes,上身,時髦衣服,トレンディーなふく,sweater on shirt,裁縫店,960,240,全年,True,優雅,"['悠閒', '工作']",False,,,,TopsTexTopYshirtsLTiedsweater4,1.0.0,5
+139,clothes,上身,健身運動服,スポーツジャージ,track jacket,裁縫店,910,227,全年,True,活潑,"['戶外活動', '運動']",False,,,,TopsTexTopYshirtsLSportsjersey2,1.0.0,7
+140,clothes,下身,體育運動褲,スポーツジャージのズボン,track pants,裁縫店,770,192,全年,False,活潑,"['戶外活動', '運動']",False,,,,BottomsTexPantsNormalSportsjersey2,1.0.0,7
+141,clothes,套裝,純白洋裝,じゅんぱくのドレス,wedding dress,健兆,,5000,全年,True,優雅,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceDressNWedding,1.2.0,1
+142,clothes,下身,蘇格蘭裙,キルト,kilt,裁縫店,1000,250,全年,False,簡單,"['日常生活', '正式', '工作']",False,,,,BottomsTexSkirtAlineKilt1,1.0.0,4
+143,clothes,上身,西裝背心配襯衫,ベストつきワイシャツ,waistcoat,裁縫店,1750,437,全年,True,簡單,"['正式', '工作']",False,,,,TopsTexTopYshirtsLGilet3,1.0.0,5
+144,clothes,下身,水手服裙,セーラーふくのスカート,sailor skirt,裁縫店,980,245,全年,False,簡單,"['日常生活', '正式']",False,,,,BottomsTexSkirtAlineSailor0,1.0.0,8
+145,clothes,下身,迷彩褲,めいさいパンツ,camo pants,裁縫店,1300,325,全年,False,酷感,"['日常生活', '戶外活動']",False,,,,BottomsTexPantsNormalCamouflage0,1.0.0,7
+146,clothes,套裝,護士連身裙,かんごしのワンピース,nurse's dress uniform,裁縫店,2200,550,全年,True,簡單,['工作'],False,,,,TopsTexOnepieceBoxHNurse1,1.0.0,3
+147,clothes,上身,護士外套,かんごしのジャケット,nurse's jacket,裁縫店,1500,375,全年,True,簡單,['工作'],False,,,,TopsTexTopYshirtsHNurse1,1.0.0,3
+148,clothes,下身,工作褲,カーゴパンツ,cargo pants,裁縫店,770,192,全年,False,簡單,"['日常生活', '戶外活動']",False,,,,BottomsTexPantsWideCargo3,1.0.0,5
+149,clothes,下身,反摺褲,すそみせズボン,cuffed pants,裁縫店,1100,275,全年,False,簡單,['日常生活'],False,,,,BottomsTexPantsWideSusomise3,1.0.0,4
+150,clothes,套裝,睡衣,パジャマ,PJ outfit,裁縫店,1050,262,全年,True,簡單,['悠閒'],False,,,,TopsTexOnepieceOverallLPajama2,1.0.0,5
+151,clothes,上身,粗橫紋坦克背心,ボーダーのタンクトップ,striped tank,裁縫店,800,200,夏季,True,簡單,"['悠閒', '度假']",False,,,,TopsTexTopTshirtsNBorder5,1.0.0,8
+152,clothes,下身,蕾絲裙,レーススカート,lace skirt,裁縫店,920,230,夏季,False,可愛,"['日常生活', '童話世界', '度假']",False,,,,BottomsTexSkirtAlineLace0,1.0.0,4
+153,clothes,套裝,馬甲洋裝,コルセットドレス,ruffled dress,裁縫店,4240,1060,全年,True,可愛,"['童話世界', '正式', '恐怖', '派對']",False,,,,TopsTexOnepieceBalloonLCorset1,1.0.0,3
+154,clothes,套裝,襯衫連身裙,シャツワンピ,shirtdress,裁縫店,1600,400,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceBoxLShirt2,1.0.0,3
+155,clothes,套裝,無袖襯衫連身裙,そでなしシャツワンピ,sleeveless shirtdress,裁縫店,1600,400,夏季,True,簡單,"['日常生活', '度假']",False,,,,TopsTexOnepieceAlineNShirt1,1.0.0,4
+156,clothes,上身,晚禮服,タキシード,tuxedo jacket,裁縫店,2500,625,全年,True,酷感,"['正式', '派對', '舞台', '工作']",False,,,,TopsTexTopYshirtsLTuxedo2,1.0.0,3
+159,clothes,上身,晨禮服,モーニングコート,morning coat,裁縫店,2500,625,全年,True,優雅,"['正式', '派對', '舞台', '工作']",False,,,,TopsTexTopCoatLMorningcoatBlack,1.0.0,1
+160,clothes,下身,制服褲,せいふくのズボン,dress pants,裁縫店,1300,325,全年,False,簡單,"['日常生活', '正式']",False,,,,BottomsTexPantsWideSchool3,1.0.0,4
+161,clothes,下身,亮面西裝褲,ハデなスラックス,flashy slacks,裁縫店,1300,325,全年,False,華麗,"['正式', '派對', '舞台']",False,,,,BottomsTexPantsNormalSlacksgaudy0,1.0.0,6
+162,clothes,套裝,騎師服,ジョッキーのふく,jockey uniform,裁縫店,1920,480,全年,True,活潑,"['運動', '工作']",False,,,,TopsTexOnepieceOverallLJockey7,1.0.0,8
+163,clothes,套裝,熊熊裝,クマなふく,bear costume,裁縫店,1700,425,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceOverallLBear0,1.0.0,4
+164,clothes,套裝,消防隊服,しょうぼうしのふく,firefighter uniform,裁縫店,2240,560,全年,True,活潑,['工作'],False,,,,TopsTexOnepieceSalopetteLFirefighter0,1.0.0,5
+165,clothes,套裝,青蛙裝,カエルなふく,frog costume,裁縫店,1700,425,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceOverallLFrog0,1.0.0,4
+166,clothes,套裝,河童裝,カッパスーツ,kappa costume,裁縫店,1700,425,全年,True,可愛,"['童話世界', '派對']",False,,,,TopsTexOnepieceOverallLKappa0,1.0.0,2
+167,clothes,套裝,貴族風洋裝,アントワネットなドレス,fashionable royal dress,裁縫店,6000,1500,全年,True,華麗,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceDressLClassic3,1.0.0,5
+168,clothes,套裝,尼羅河服,ナイルなふく,palatial tank dress,裁縫店,2520,630,全年,True,華麗,['正式'],False,,,,TopsTexOnepieceAlongNNile,1.0.0,1
+169,clothes,套裝,工作服,さぎょうぎ,jumper work suit,裁縫店,1050,262,全年,True,活潑,"['戶外活動', '工作']",False,,,,TopsTexOnepieceOverallLWorkwear7,1.0.0,8
+170,clothes,套裝,小丑服,ピエロのふく,jester costume,裁縫店,2240,560,全年,True,活潑,"['童話世界', '恐怖', '派對', '舞台', '工作']",False,,,,TopsTexOnepieceOverallLClown1,1.0.0,4
+171,clothes,套裝,英雄裝,ヒーロースーツ,zap suit,裁縫店,2760,690,全年,True,活潑,"['童話世界', '舞台', '工作']",False,,,,TopsTexOnepieceOverallLHero3,1.0.0,8
+172,clothes,套裝,輕便浴衣,じんべい,jinbei,裁縫店,1820,455,全年,True,簡單,"['悠閒', '度假']",False,,,,TopsTexOnepieceOverallHJinbei2,1.0.0,3
+173,clothes,套裝,忍者服,しのびのふく,ninja costume,裁縫店,2240,560,全年,True,活潑,"['童話世界', '舞台', '工作']",False,,,,TopsTexOnepieceOverallLNinja0,1.0.0,8
+174,clothes,套裝,龍紋裝,ドラゴンスーツ,dragon suit,裁縫店,2500,625,全年,True,活潑,['運動'],False,,,,TopsTexOnepieceOverallLDragonYellow,1.0.0,1
+175,clothes,下身,西部牛仔褲,カウボーイパンツ,western pants,裁縫店,1540,385,全年,False,活潑,"['戶外活動', '工作']",False,,,,BottomsTexPantsWideCowboyBrown,1.0.0,1
+176,clothes,套裝,飯店服務生衣服,ホテルマンなふく,concierge uniform,裁縫店,1920,480,全年,True,簡單,"['正式', '工作']",False,,,,TopsTexOnepieceOverallLHotel2,1.0.0,5
+177,clothes,上身,休閒西裝外套,テーラードジャケット,tailored jacket,裁縫店,1400,350,全年,True,簡單,"['正式', '工作']",False,,,,TopsTexTopYshirtsLTailored0,1.0.0,5
+178,clothes,套裝,空姐服,フライトアテンダントのふく,flight-crew uniform,裁縫店,2800,700,全年,True,優雅,"['正式', '工作']",False,,,,TopsTexOnepieceBoxLAttendant4,1.0.0,5
+179,clothes,上身,毛衣背心配襯衫,チョッキつきワイシャツ,sweater-vest,裁縫店,1400,350,全年,True,簡單,"['日常生活', '正式', '工作']",False,,,,TopsTexTopYshirtsLVest3,1.0.0,4
+180,clothes,套裝,魔法師長袍,まほうつかいのローブ,mage's robe,裁縫店,4000,1000,全年,True,酷感,"['童話世界', '恐怖']",False,,,,TopsTexOnepieceAlongLWitch0,1.0.0,4
+181,clothes,套裝,越南傳統服裝,アオザイ,áo dài,裁縫店,2520,630,全年,True,優雅,"['日常生活', '正式']",False,,,,TopsTexOnepieceBlongLAodai0,1.0.0,5
+182,clothes,套裝,和風連袖圍裙,かっぽうぎ,pinafore,裁縫店,1600,400,全年,True,簡單,"['日常生活', '工作']",False,,,,TopsTexOnepieceBlongLKappogi1,1.0.0,3
+183,clothes,套裝,韓服裙,チマチョゴリ,chima jeogori,裁縫店,2520,630,全年,True,優雅,['正式'],False,,,,TopsTexOnepieceAlongLChimachogori4,1.0.0,5
+184,clothes,飾品,鴨嘴道具,くちばし,beak,裁縫店,490,122,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,AccessoryMouthBeakYellow,1.0.0,1
+185,clothes,飾品,八字翹鬍,カイゼルひげ,handlebar mustache,裁縫店,1120,280,全年,False,優雅,"['童話世界', '正式', '舞台']",False,,,,AccessoryMouthBeardBlack,1.0.0,1
+186,clothes,套裝,警官服,けいかんのふく,security uniform,裁縫店,2240,560,全年,True,活潑,"['正式', '工作']",False,,,,TopsTexOnepieceOverallLPoliceNavy,1.0.0,1
+187,clothes,套裝,羅馬服,ローマなふく,toga,裁縫店,2520,630,全年,True,優雅,"['正式', '舞台']",False,,,,TopsTexOnepieceBlongHToga0,1.0.0,2
+188,clothes,套裝,梅花和服,ウメがらのきもの,blossoming kimono,裁縫店,3220,805,全年,True,優雅,"['正式', '派對']",False,,,,TopsTexOnepieceKimonoLUme0,1.0.0,2
+189,clothes,套裝,哥德式衣服,ゴシックなふく,mysterious dress,裁縫店,3120,780,全年,True,酷感,"['恐怖', '派對']",False,,,,TopsTexOnepieceAlongLGothic1,1.0.0,3
+190,clothes,套裝,希臘服,ギリシャなふく,chiton,裁縫店,2520,630,全年,True,優雅,"['正式', '舞台']",False,,,,TopsTexOnepieceBoxNGreece,1.0.0,1
+191,clothes,上身,漢字T恤,かんじＴシャツ,kanji tee,裁縫店,640,160,夏季,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHKanji0,1.0.0,4
+192,clothes,套裝,發霉連身裙,かびたワンピース,moldy dress,回收箱,,10,全年,True,簡單,['恐怖'],False,,,,TopsTexOnepieceAlineLMold,1.0.0,1
+193,clothes,套裝,埃及服,エジプトのふく,pharaoh's outfit,裁縫店,2520,630,全年,True,華麗,['正式'],False,,,,TopsTexOnepieceBlongHEgypt,1.0.0,1
+194,clothes,上身,針織罩衫&襯衫,カーディガン&シャツ,cardigan-shirt combo,裁縫店,840,210,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopYshirtsLCardiganyshirt4,1.0.0,6
+195,clothes,上身,菱格紋毛衣,アーガイルのセーター,argyle sweater,裁縫店,1200,300,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLArgyle7,1.0.0,8
+196,clothes,上身,花紋針織衫,はながらのニット,flower sweater,裁縫店,1200,300,冬季,True,可愛,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLFlowerknit2,1.0.0,4
+197,clothes,上身,網球毛衣,テニスセーター,tennis sweater,裁縫店,1440,360,全年,True,簡單,"['運動', '工作']",False,,,,TopsTexTopOuterLTennis0,1.0.0,4
+198,clothes,套裝,阿拉伯服,アラビアなふく,desert outfit,裁縫店,2520,630,全年,True,優雅,"['童話世界', '派對']",False,,,,TopsTexOnepieceOverallNArabia2,1.0.0,4
+199,clothes,套裝,繃帶服,ほうたいのふく,mummy outfit,裁縫店,700,175,全年,True,酷感,"['童話世界', '恐怖']",False,,,,TopsTexOnepieceOverallLMummyWhite,1.0.0,1
+200,clothes,套裝,骨頭服,ボーンなふく,bone costume,裁縫店,1280,320,全年,True,酷感,"['童話世界', '恐怖']",False,,,,TopsTexOnepieceOverallLBoneWhite,1.0.0,1
+201,clothes,套裝,職業摔角裝,プロレススーツ,wrestler uniform,裁縫店,1600,400,全年,True,活潑,"['運動', '舞台', '工作']",False,,,,TopsTexOnepieceOverallNWrestling4,1.0.0,6
+202,clothes,套裝,棒球服,やきゅうのふく,baseball uniform,裁縫店,1760,440,全年,True,活潑,"['運動', '工作']",False,,,,TopsTexOnepieceOverallLBaseball3,1.0.0,5
+203,clothes,套裝,機長服,きちょうのふく,pilot's uniform,裁縫店,2240,560,全年,True,活潑,"['正式', '工作']",False,,,,TopsTexOnepieceOverallLPilot1,1.0.0,3
+204,clothes,套裝,鬥牛士服,マタドールなふく,suit of lights,裁縫店,2520,630,全年,True,活潑,"['運動', '舞台', '工作']",False,,,,TopsTexOnepieceOverallLBull0,1.0.0,5
+205,clothes,套裝,荷蘭洋裝,オランダなドレス,milkmaid dress,裁縫店,2520,630,全年,True,優雅,"['日常生活', '正式']",False,,,,TopsTexOnepieceDressHHolland0,1.0.0,3
+206,clothes,上身,北歐風毛衣,ノルディックなセーター,yodel sweater,裁縫店,1440,360,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLNordic4,1.0.0,5
+207,clothes,上身,下雪毛衣,スノーセーター,snowy sweater,裁縫店,1450,362,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLSnow0,1.0.0,3
+208,clothes,上身,北歐風針織罩衫,ノルディックなカーディガン,yodel cardigan,裁縫店,1440,360,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLNordiccardigan4,1.0.0,6
+209,clothes,上身,手編阿倫花樣毛衣,アランセーター,Aran-knit sweater,裁縫店,1200,300,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLAran1,1.0.0,7
+210,clothes,上身,夢幻可愛毛衣,ゆめかわなセーター,dreamy sweater,裁縫店,1440,360,冬季,True,可愛,"['童話世界', '悠閒']",False,,,,TopsTexTopOuterLYumekawa0,1.0.0,2
+211,clothes,套裝,太空服,うちゅうふく,space suit,裁縫店,5000,1250,全年,True,酷感,['工作'],False,,,,TopsTexOnepieceOverallLSpaceWhite,1.0.0,1
+212,clothes,上身,手編阿倫花樣針織罩衫,アランカーディガン,Aran-knit cardigan,裁縫店,1300,325,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLArancardigan2,1.0.0,4
+213,clothes,套裝,賽車服,レーサーなふく,racing outfit,裁縫店,2450,612,全年,True,活潑,"['運動', '工作']",False,,,,TopsTexOnepieceOverallLRacer3,1.0.0,4
+215,clothes,套裝,吊帶裙,つりスカート,skirt with suspenders,裁縫店,1600,400,全年,True,可愛,['日常生活'],False,,,,TopsTexOnepieceAlineHSuspendersskirt4,1.0.0,5
+216,clothes,套裝,制服背心裙,ジャンパースカートのせいふく,box-skirt uniform,裁縫店,2300,575,全年,True,簡單,"['日常生活', '正式']",False,,,,TopsTexOnepieceBoxLJumperskirtuniform4,1.0.0,7
+217,clothes,上身,無領大衣,ノーカラーコート,collarless coat,裁縫店,2000,500,全年,True,簡單,"['日常生活', '正式']",False,,,,TopsTexTopCoatLNocollar0,1.0.0,3
+218,clothes,上身,橄欖球衫,ラガーシャツ,thick-stripes shirt,裁縫店,1120,280,全年,True,活潑,['運動'],False,,,,TopsTexTopYshirtsLRugby6,1.0.0,8
+219,clothes,套裝,牛仔吊帶褲,デニムのサロペット,denim overalls,裁縫店,1600,400,全年,True,簡單,"['日常生活', '戶外活動', '度假']",False,,,,TopsTexOnepieceOverallLSaropetto4,1.0.0,8
+220,clothes,上身,簡約衛衣,シンプルなトレーナー,sweatshirt,裁縫店,700,175,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLSweat0,1.0.0,6
+221,clothes,套裝,海軍風連身裙,マリンルックワンピース,sailor-collar dress,裁縫店,1920,480,夏季,True,可愛,"['日常生活', '童話世界', '度假']",False,,,,TopsTexOnepieceBalloonHMarine0,1.0.0,4
+222,clothes,上身,亨利領T恤,ヘンリーネックＴシャツ,henley shirt,裁縫店,960,240,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLHenley1,1.0.0,4
+223,clothes,上身,背心搭配T恤,ジレコーデＴシャツ,gilet and shirt,裁縫店,1120,280,夏季,True,酷感,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsHGillet3,1.0.0,4
+224,clothes,上身,寬版條紋襯衫,オーバーストライプシャツ,vertical-stripes shirt,裁縫店,960,240,夏季,True,簡單,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopCoatHStripeshirts4,1.0.0,7
+225,clothes,上身,工作外套,カバーオール,coverall coat,裁縫店,1120,280,冬季,True,簡單,"['日常生活', '戶外活動']",False,,,,TopsTexTopCoatLCoverall3,1.0.0,4
+226,clothes,套裝,印度傳統服裝,サリー,sari,裁縫店,2520,630,全年,True,優雅,"['日常生活', '正式']",False,,,,TopsTexOnepieceBlongHSally0,1.0.0,4
+227,clothes,套裝,夢遊仙境連身裙,ふしぎなワンピース,adventure dress,裁縫店,2800,700,全年,True,可愛,['童話世界'],False,,,,TopsTexOnepieceBalloonHStrangeBlue,1.0.0,1
+228,clothes,上身,古巴襯衫,キューバシャツ,guayabera shirt,裁縫店,1120,280,夏季,True,酷感,"['日常生活', '戶外活動', '悠閒', '度假']",False,,,,TopsTexTopYshirtsHCuba1,1.0.0,4
+229,clothes,上身,海軍大衣,ピーコート,short peacoat,裁縫店,1680,420,冬季,True,簡單,"['日常生活', '正式']",False,,,,TopsTexTopCoatLPcoat5,1.0.0,7
+230,clothes,上身,無領襯衫,ノーカラーシャツ,collarless shirt,裁縫店,960,240,全年,True,簡單,['日常生活'],False,,,,TopsTexTopYshirtsLNocollar1,1.0.0,2
+231,clothes,上身,工作襯衫,ワークシャツ,heavy-duty shirt,裁縫店,1000,250,全年,True,活潑,"['日常生活', '戶外活動', '工作']",False,,,,TopsTexTopYshirtsLWork3,1.0.0,4
+232,clothes,套裝,馬甲連身裙,ビスチェワンピース,sweetheart dress,裁縫店,1600,400,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceAlongLBustier3,1.0.0,5
+233,clothes,上身,保齡球衫,ボウリングシャツ,bowling shirt,裁縫店,1260,315,夏季,True,酷感,"['悠閒', '運動']",False,,,,TopsTexTopYshirtsHBowling0,1.0.0,8
+234,clothes,上身,V領毛衣,Ｖネックセーター,V-neck sweater,裁縫店,840,210,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLVnecksweater2,1.0.0,3
+235,clothes,套裝,妖精服,ようせいのふく,fairy dress,裁縫店,3640,910,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceBalloonNFairy1,1.0.0,5
+236,clothes,鞋子,二齒木屐,げた,kimono sandals,薛革,1600,400,全年,False,簡單,"['日常生活', '悠閒', '舞台']",False,,,,ShoesSandalGeta4,1.0.0,8
+237,clothes,上身,刷毛外套,ボアフリース,boa fleece,裁縫店,1400,350,冬季,True,活潑,"['日常生活', '戶外活動', '悠閒']",False,,,,TopsTexTopYshirtsLFleece0,1.0.0,8
+238,clothes,上身,斜紋軟呢外套,ツイードジャケット,tweed jacket,裁縫店,1680,420,全年,True,優雅,"['日常生活', '正式']",False,,,,TopsTexTopYshirtsLTweed3,1.0.0,6
+239,clothes,套裝,吊帶服,サスペンダーなふく,suspender outfit,裁縫店,1900,475,全年,True,優雅,"['日常生活', '正式', '派對']",False,,,,TopsTexOnepieceOverallLSuspenders3,1.0.0,5
+240,clothes,下身,斜紋軟呢褲,ツイードパンツ,tweed pants,裁縫店,1300,325,全年,False,簡單,"['日常生活', '正式']",False,,,,BottomsTexPantsWideTweed3,1.0.0,6
+241,clothes,上身,兩件式T恤,かさねぎＴシャツ,layered shirt,裁縫店,800,200,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLLayeredtshirts1,1.0.0,4
+242,clothes,上身,蕾絲襯衫,レースのシャツ,lacy shirt,裁縫店,850,212,夏季,True,優雅,"['日常生活', '童話世界', '正式', '派對', '度假']",False,,,,TopsTexTopTshirtsHLace0,1.0.0,2
+243,clothes,上身,切斯特大衣,チェスターコート,chesterfield coat,裁縫店,2320,580,冬季,True,酷感,['日常生活'],False,,,,TopsTexTopCoatLChester3,1.0.0,4
+244,clothes,上身,格紋切斯特大衣,チェックのチェスターコート,checkered chesterfield coat,裁縫店,2380,595,冬季,True,優雅,['日常生活'],False,,,,TopsTexTopCoatLChestercheck3,1.0.0,4
+245,clothes,下身,工作短褲,ハーフカーゴパンツ,cargo shorts,裁縫店,1080,270,全年,False,簡單,"['日常生活', '戶外活動', '悠閒', '度假']",False,,,,BottomsTexPantsHalfCargo3,1.0.0,5
+246,clothes,上身,大圍巾T恤,おおばんストールＴシャツ,oversized shawl overshirt,裁縫店,1120,280,夏季,True,酷感,"['日常生活', '戶外活動', '悠閒']",False,,,,TopsTexTopYshirtsHBigstole2,1.0.0,3
+247,clothes,套裝,小矮人服,こびとのふく,sprite costume,裁縫店,2500,625,全年,True,可愛,['童話世界'],False,,,,TopsTexOnepieceOverallHDwarf1,1.0.0,7
+248,clothes,下身,跑步短褲,ランニングパンツ,jogging shorts,裁縫店,700,175,全年,False,活潑,"['戶外活動', '悠閒', '運動']",False,,,,BottomsTexPantsHotRunning5,1.0.0,8
+249,clothes,上身,王子襯衫,おうじさまシャツ,young-royal shirt,裁縫店,1440,360,全年,True,華麗,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexTopYshirtsLPrince0,1.0.0,5
+250,clothes,上身,運動坦克背心,フィットネスタンクトップ,fitness tank,裁縫店,800,200,全年,True,活潑,"['戶外活動', '運動']",False,,,,TopsTexTopTshirtsNFitness4,1.0.0,8
+251,clothes,上身,飛行外套,フライトジャケット,flight jacket,裁縫店,1680,420,冬季,True,酷感,"['戶外活動', '工作']",False,,,,TopsTexTopOuterLFlight1,1.0.0,3
+252,clothes,上身,紮染T恤,タイダイＴシャツ,tie-dye shirt,購物：特別購物,800,200,全年,True,活潑,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsHTiedyeRainbow,1.0.0,1
+253,clothes,上身,絨毛背心,ボアベスト,fuzzy vest,裁縫店,1300,325,全年,True,簡單,"['日常生活', '戶外活動']",False,,,,TopsTexTopYshirtsLBoavest4,1.0.0,5
+254,clothes,上身,菱格縫線羽絨外套,キルティングダウン,quilted down jacket,裁縫店,1400,350,冬季,True,簡單,['日常生活'],False,,,,TopsTexTopCoatLQuilting1,1.0.0,5
+255,clothes,下身,百褶長裙,ロングプリーツスカート,long pleated skirt,裁縫店,1560,390,全年,False,簡單,['日常生活'],False,,,,BottomsTexSkirtLongPleats1,1.0.0,5
+256,clothes,下身,網球裙,テニススカート,tennis skirt,裁縫店,1440,360,全年,False,活潑,"['戶外活動', '運動']",False,,,,BottomsTexSkirtAlineTennis0,1.0.0,4
+257,clothes,飾品,圓框眼鏡,まるめがね,rimmed glasses,裁縫店,630,157,全年,True,優雅,"['日常生活', '正式', '工作']",False,,,,AccessoryGlassCircle2,1.0.0,5
+258,clothes,飾品,方框眼鏡,スクエアめがね,square glasses,裁縫店,880,220,全年,True,簡單,"['日常生活', '正式', '工作']",False,,,,AccessoryGlassSquare2,1.0.0,4
+259,clothes,飾品,愛心墨鏡,ハートのサングラス,heart shades,裁縫店,1040,260,全年,True,可愛,"['派對', '度假']",False,,,,AccessoryGlassHeart0,1.0.0,5
+260,clothes,飾品,眉框眼鏡,サーモントめがね,browline glasses,裁縫店,1040,260,全年,True,簡單,"['日常生活', '正式']",False,,,,AccessoryGlassThurmont3,1.0.0,4
+261,clothes,飾品,八角形眼鏡,オクタゴンめがね,octagonal glasses,裁縫店,1100,275,全年,True,可愛,"['悠閒', '度假', '工作']",False,,,,AccessoryGlassOctagon0,1.0.0,5
+262,clothes,飾品,星形墨鏡,ほしのサングラス,star shades,裁縫店,880,220,全年,True,可愛,"['派對', '度假']",False,,,,AccessoryGlassStar1,1.0.0,5
+263,clothes,飾品,波士頓框眼鏡,ボストンめがね,round shades,裁縫店,1560,390,全年,True,酷感,"['日常生活', '派對', '度假']",False,,,,AccessoryGlassBoston6,1.0.0,8
+264,clothes,飾品,三角形墨鏡,さんかくサングラス,triangle shades,裁縫店,880,220,全年,True,可愛,"['派對', '度假']",False,,,,AccessoryGlassTriangle5,1.0.0,7
+265,clothes,下身,牛仔裙,デニムスカート,denim skirt,裁縫店,1120,280,全年,False,簡單,"['日常生活', '度假']",False,,,,BottomsTexSkirtBoxDenim0,1.0.0,5
+266,clothes,上身,民族風刺繡罩衫,ペザントブラウス,peasant blouse,裁縫店,1680,420,全年,True,優雅,"['日常生活', '度假']",False,,,,TopsTexTopTshirtsLPeasant0,1.0.0,5
+267,clothes,套裝,居家洋裝,ネグリジェ,nightgown,裁縫店,2100,525,全年,True,優雅,"['童話世界', '悠閒']",False,,,,TopsTexOnepieceAlongHNegligee4,1.0.0,5
+268,clothes,套裝,柔道服,じゅうどうぎ,judogi,裁縫店,1760,440,全年,True,活潑,"['運動', '工作']",False,,,,TopsTexOnepieceOverallLJudo0,1.0.0,2
+269,clothes,下身,破洞牛仔短褲,あなあきショートデニム,worn-out cutoffs,裁縫店,960,240,夏季,False,酷感,"['日常生活', '度假']",False,,,,BottomsTexPantsHotDenimholes0,1.0.0,4
+270,clothes,下身,圓點長裙,みずたまロングスカート,long polka skirt,裁縫店,1300,325,夏季,False,簡單,"['日常生活', '度假']",False,,,,BottomsTexSkirtLongDot0,1.0.0,8
+271,clothes,上身,無肩帶背心,チューブトップ,tube top,裁縫店,640,160,夏季,True,可愛,"['悠閒', '舞台', '度假']",False,,,,TopsTexTopTshirtsNTubetop3,1.0.0,7
+272,clothes,下身,條紋油漆工褲,ヒッコリーのペインターパンツ,hickory-stripe pants,裁縫店,1560,390,全年,False,簡單,"['日常生活', '戶外活動', '運動']",False,,,,BottomsTexPantsWideHickory1,1.0.0,2
+273,clothes,下身,鏈條褲,チェーンつきパンツ,chain pants,裁縫店,1300,325,全年,False,酷感,"['日常生活', '舞台']",False,,,,BottomsTexPantsNormalChain2,1.0.0,4
+274,clothes,下身,羽絨褲,ダウンパンツ,down pants,裁縫店,1120,280,冬季,False,活潑,"['日常生活', '戶外活動']",False,,,,BottomsTexPantsNormalDown3,1.0.0,8
+275,clothes,下身,卡其長裙,ロングチノスカート,long chino skirt,裁縫店,1560,390,全年,False,簡單,"['日常生活', '悠閒']",False,,,,BottomsTexSkirtLongChino4,1.0.0,5
+276,clothes,套裝,粗橫紋連身裙,ボーダーワンピース,striped dress,裁縫店,1600,400,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceAlineLBorder5,1.0.0,8
+277,clothes,飾品,雙樑眼鏡,ダブルブリッジめがね,double-bridge glasses,裁縫店,1100,275,全年,True,優雅,"['悠閒', '度假', '工作']",False,,,,AccessoryGlassDoublebridge2,1.0.0,4
+279,clothes,套裝,棉麻連身裙,リネンワンピース,linen dress,裁縫店,1600,400,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceAlineHLinen3,1.0.0,5
+280,clothes,下身,羽絨裙,ダウンスカート,down skirt,裁縫店,1040,260,冬季,False,活潑,"['日常生活', '戶外活動']",False,,,,BottomsTexSkirtBoxDown3,1.0.0,8
+281,clothes,上身,健身坦克背心,マッスルタンクトップ,muscle tank,裁縫店,640,160,全年,True,活潑,"['戶外活動', '運動']",False,,,,TopsTexTopTshirtsNMuscle0,1.0.0,8
+282,clothes,套裝,魔術師長袍,まじゅつしのローブ,wizard's robe,裁縫店,4000,1000,全年,True,華麗,"['童話世界', '派對']",False,,,,TopsTexOnepieceRobeLWizard0,1.0.0,2
+283,clothes,下身,牛仔短褲,デニムショートパンツ,denim cutoffs,裁縫店,1120,280,全年,False,簡單,"['日常生活', '度假']",False,,,,BottomsTexPantsHotDenim0,1.0.0,5
+284,clothes,上身,短袖粗橫紋T恤,はんそでボーダーＴシャツ,striped tee,裁縫店,800,200,夏季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHBorder5,1.0.0,6
+285,clothes,上身,羽絨背心,ダウンベスト,puffy vest,裁縫店,1250,312,冬季,True,簡單,"['日常生活', '戶外活動']",False,,,,TopsTexTopOuterLDownvest4,1.0.0,5
+286,clothes,飾品,瓶底眼鏡,ビンぞこめがね,glass-bottle glasses,裁縫店,1100,275,全年,True,簡單,"['悠閒', '工作']",False,,,,AccessoryGlassBottleBlack,1.0.0,1
+287,clothes,下身,棉裙,スウェットスカート,sporty skirt,裁縫店,800,200,全年,False,簡單,"['日常生活', '悠閒']",False,,,,BottomsTexSkirtBoxSweat0,1.0.0,4
+288,clothes,上身,教練外套,コーチジャケット,nylon jacket,裁縫店,1120,280,冬季,True,酷感,"['戶外活動', '運動']",False,,,,TopsTexTopYshirtsLCoach0,1.0.0,4
+289,clothes,上身,長袍大衣,ガウンコート,gown coat,裁縫店,2000,500,冬季,True,優雅,['日常生活'],False,,,,TopsTexTopCoatLGowncoat1,1.0.0,4
+290,clothes,上身,千鳥格紋針織罩衫,ちどりのカーディガン,plover cardigan,裁縫店,1440,360,冬季,True,可愛,"['日常生活', '正式', '派對', '工作']",False,,,,TopsTexTopTshirtsLChidori1,1.0.0,3
+291,clothes,套裝,繞頸連身裙,ホルターネックのワンピース,striped halter dress,裁縫店,1500,375,夏季,True,優雅,"['日常生活', '悠閒', '度假']",False,,,,TopsTexOnepieceAlineNHalterneckstripe0,1.0.0,4
+292,clothes,上身,口袋T恤,ポケットつきＴシャツ,pocket tee,裁縫店,560,140,夏季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHPocketshirts0,1.0.0,8
+293,clothes,套裝,巫女服,みこしょうぞく,miko attire,裁縫店,2240,560,全年,True,優雅,['工作'],False,,,,TopsTexOnepieceKimonoLMiko0,1.0.0,2
+294,clothes,套裝,海盜連身裙,かいぞくのワンピース,pirate dress,海盜,,630,全年,True,酷感,"['童話世界', '恐怖', '舞台']",False,,,,TopsTexOnepieceBalloonHPirate2,1.3.0,3
+295,clothes,下身,燈芯絨裙,コーデュロイスカート,corduroy skirt,裁縫店,1040,260,全年,False,簡單,['日常生活'],False,,,,BottomsTexSkirtBoxCorduroy4,1.0.0,6
+296,clothes,下身,闊腿褲,ガウチョパンツ,gaucho pants,裁縫店,880,220,全年,False,簡單,"['正式', '工作']",False,,,,BottomsTexPantsWideGaucho0,1.0.0,5
+297,clothes,套裝,摩登少女連身裙,モガなワンピース,retro sleeveless dress,裁縫店,1600,400,全年,True,優雅,['派對'],False,,,,TopsTexOnepieceBoxNModern2,1.0.0,5
+298,clothes,上身,緊身針織衫,スリムニット,tight-knit sweater,裁縫店,800,200,全年,True,簡單,['日常生活'],False,,,,TopsTexTopYshirtsLSlimknit2,1.0.0,3
+299,clothes,下身,皮裙,レザースカート,pleather skirt,裁縫店,1300,325,全年,False,酷感,"['日常生活', '戶外活動']",False,,,,BottomsTexSkirtBoxLeather0,1.0.0,6
+300,clothes,上身,學院風針織罩衫,カレッジカーディガン,college cardigan,裁縫店,1200,300,全年,True,簡單,['日常生活'],False,,,,TopsTexTopOuterLCollegecardigan4,1.0.0,5
+301,clothes,下身,流蘇裙,フリンジスカート,fringe skirt,裁縫店,1560,390,全年,False,簡單,"['日常生活', '度假']",False,,,,BottomsTexSkirtBoxFringe2,1.0.0,7
+302,clothes,套裝,和服褶裙,はかま,hakama,裁縫店,3180,795,全年,True,優雅,"['正式', '派對']",False,,,,TopsTexOnepieceKimonoLHakama1,1.0.0,3
+303,clothes,上身,前綁結T恤,まえむすびＴシャツ,front-tie tee,裁縫店,640,160,夏季,True,活潑,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsHKnot1,1.0.0,4
+304,clothes,套裝,全身緊身衣,ぜんしんタイツ,full-body tights,裁縫店,1120,280,全年,True,簡單,"['派對', '舞台']",False,,,,TopsTexOnepieceOverallLTights1,1.0.0,8
+305,clothes,下身,牛仔油漆工褲,デニムのペインターパンツ,denim painter's pants,裁縫店,1560,390,全年,False,簡單,"['日常生活', '戶外活動']",False,,,,BottomsTexPantsWideDenim0,1.0.0,5
+306,clothes,上身,燙金圖案T恤,ゴールドプリントＴシャツ,gold-print tee,裁縫店,1120,280,夏季,True,酷感,"['派對', '悠閒']",False,,,,TopsTexTopTshirtsHGoldprint1,1.0.0,2
+307,clothes,套裝,下水褲,ウェーダー,fishing waders,裁縫店,2000,500,全年,True,簡單,"['戶外活動', '運動']",False,,,,TopsTexOnepieceOverallLWaders3,1.0.0,4
+308,clothes,下身,中華風七分褲,チャイナなクロップドパンツ,silk floral-print pants,裁縫店,1440,360,全年,False,可愛,['日常生活'],False,,,,BottomsTexPantsNormalChinashort3,1.0.0,7
+309,clothes,下身,中華風褲子,チャイナなズボン,silk pants,裁縫店,1440,360,全年,False,優雅,"['日常生活', '正式']",False,,,,BottomsTexPantsNormalChina4,1.0.0,5
+310,clothes,下身,功夫褲,カンフーなズボン,kung-fu pants,裁縫店,1680,420,全年,False,簡單,"['日常生活', '運動']",False,,,,BottomsTexPantsWideKungfu1,1.0.0,5
+311,clothes,套裝,魔法洋裝,マジカルなドレス,magical dress,裁縫店,3180,795,全年,True,可愛,"['童話世界', '舞台']",False,,,,TopsTexOnepieceBalloonHMagical0,1.0.0,8
+312,clothes,下身,草裙,こしみの,grass skirt,DIY,,140,全年,False,活潑,"['戶外活動', '度假']",True,"[{'count': 7, 'itemName': '雜草'}]",['普通型村民'],,BottomsTexSkirtBoxGrass0,1.0.0,1
+313,clothes,套裝,禮服小外套,ボレロコート,bolero coat,裁縫店,2080,520,冬季,True,可愛,"['日常生活', '童話世界', '悠閒']",False,,,,TopsTexOnepieceAlineLBolerocoat0,1.0.0,4
+314,clothes,套裝,公司制服,オフィスなふく,office uniform,裁縫店,1600,400,全年,True,簡單,"['正式', '工作']",False,,,,TopsTexOnepieceBoxLOffice2,1.0.0,3
+315,clothes,飾品,有裂痕的眼鏡,ヒビわれめがね,shattered glasses,回收箱,,10,全年,True,簡單,['恐怖'],False,,,,AccessoryGlassCrackBlack,1.0.0,1
+316,clothes,上身,英文字母T恤,えいじＴシャツ,text shirt,裁縫店,800,200,全年,True,酷感,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLAlphabet1,1.0.0,3
+317,clothes,套裝,珍珠長洋裝,パールつきロングドレス,full-length dress with pearls,裁縫店,2600,650,全年,True,華麗,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceAlongNPearl0,1.0.0,4
+318,clothes,套裝,男性簡便和服,きながし,casual kimono,裁縫店,2000,500,全年,True,酷感,['日常生活'],False,,,,TopsTexOnepieceKimonoLKinagashi2,1.0.0,4
+319,clothes,上身,鷹紋飛行外套,タカのスカジャン,hawk jacket,裁縫店,1750,437,冬季,True,活潑,['戶外活動'],False,,,,TopsTexTopOuterLSukajanhawkRed,1.0.0,1
+320,clothes,套裝,簡樸洋裝,しっそなドレス,frugal dress,裁縫店,490,122,全年,True,簡單,"['童話世界', '恐怖']",False,,,,TopsTexOnepieceBalloonHSimple1,1.0.0,3
+321,clothes,套裝,簡樸衣服,しっそなふく,frugal outfit,裁縫店,450,112,全年,True,簡單,"['童話世界', '恐怖']",False,,,,TopsTexOnepieceOverallLSimple1,1.0.0,3
+322,clothes,套裝,晚禮服洋裝,タキシードドレス,chic tuxedo dress,裁縫店,2240,560,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceBalloonNBunny0,1.0.0,4
+323,clothes,套裝,刷毛睡衣,フリースパジャマ,fleece pj's,裁縫店,1800,450,冬季,True,可愛,"['童話世界', '悠閒']",False,,,,TopsTexOnepieceOverallLFleecepajama0,1.0.0,2
+324,clothes,套裝,皮大衣,レザーコート,long pleather coat,裁縫店,1840,460,冬季,True,酷感,"['日常生活', '正式', '恐怖']",False,,,,TopsTexOnepieceAlongLLeathercoat0,1.0.0,3
+325,clothes,套裝,浴巾,バスタオル,bath-towel wrap,裁縫店,630,157,全年,True,簡單,['悠閒'],False,,,,TopsTexOnepieceBoxNBathtowel1,1.0.0,7
+326,clothes,上身,西裝,スーツ,business suitcoat,裁縫店,1960,490,全年,True,酷感,"['正式', '派對', '舞台', '工作']",False,,,,TopsTexTopYshirtsLSuits1,1.0.0,5
+327,clothes,下身,喇叭褲,ベルボトムパンツ,bell-bottoms,裁縫店,1320,330,全年,False,華麗,['日常生活'],False,,,,BottomsTexPantsWideBellbottoms0,1.0.0,5
+328,clothes,上身,學生服,がくせいふく,school jacket,裁縫店,1400,350,全年,True,簡單,"['日常生活', '正式']",False,,,,TopsTexTopYshirtsLGakuran0,1.0.0,7
+329,clothes,上身,叛逆學生服,ヤンチャながくせいふく,after-school jacket,裁縫店,1050,262,全年,True,酷感,"['日常生活', '悠閒']",False,,,,TopsTexTopYshirtsLGakuranopen0,1.0.0,7
+330,clothes,上身,斗篷大衣,ポンチョコート,poncho coat,裁縫店,2320,580,冬季,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexTopCoatLPompom0,1.0.0,4
+331,clothes,下身,荷葉邊褲子,フリルつきパンツ,frilly pants,裁縫店,1200,300,全年,False,簡單,"['日常生活', '度假']",False,,,,BottomsTexPantsWideFrilled2,1.0.0,5
+332,clothes,下身,帆船短褲,ヨットのショートパンツ,yacht shorts,裁縫店,840,210,夏季,False,可愛,"['悠閒', '度假']",False,,,,BottomsTexPantsHotYacht1,1.0.0,4
+333,clothes,下身,多色五分褲,マルチカラーのハーフパンツ,multicolor shorts,裁縫店,1100,275,全年,False,活潑,"['日常生活', '戶外活動', '度假']",False,,,,BottomsTexPantsHalfMulticolor1,1.0.0,4
+334,clothes,下身,清爽五分褲,きれいめハーフパンツ,formal shorts,裁縫店,840,210,全年,False,簡單,"['日常生活', '正式', '戶外活動', '度假']",False,,,,BottomsTexPantsHalfFormal0,1.0.0,8
+335,clothes,下身,豹紋迷你裙,ヒョウがらミニスカート,leopard miniskirt,裁縫店,1820,455,全年,False,酷感,['日常生活'],False,,,,BottomsTexSkirtBoxLeopard1,1.0.0,6
+336,clothes,下身,格紋長裙,チェックのロングスカート,long plaid skirt,裁縫店,1450,362,全年,False,簡單,"['日常生活', '悠閒']",False,,,,BottomsTexSkirtLongCheck0,1.0.0,4
+337,clothes,上身,吸血鬼服,ヴァンパイアのふく,vampire costume,裁縫店,2600,650,全年,True,酷感,"['童話世界', '恐怖', '舞台']",False,,,,TopsTexTopCoatLVampire0,1.0.0,2
+338,clothes,套裝,秋色格紋連身裙,あきいろチェックワンピース,loose fall dress,裁縫店,1800,450,全年,True,優雅,"['日常生活', '童話世界', '正式', '派對']",False,,,,TopsTexOnepieceBoxLAutumncheck0,1.0.0,4
+339,clothes,下身,貴族褲子,きぞくのズボン,noble pants,裁縫店,4300,1075,全年,False,華麗,"['童話世界', '正式', '派對', '舞台']",False,,,,BottomsTexPantsNormalNoble2,1.0.0,8
+340,clothes,套裝,方塊格紋連身裙,ブロックチェックワンピ,plaid-print dress,裁縫店,2000,500,夏季,True,可愛,"['日常生活', '童話世界', '度假']",False,,,,TopsTexOnepieceBalloonNBlockcheck1,1.0.0,4
+341,clothes,上身,MA-1飛行外套,ＭＡ‐１,bomber-style jacket,裁縫店,1440,360,全年,True,酷感,"['日常生活', '戶外活動']",False,,,,TopsTexTopOuterLMaone1,1.0.0,4
+342,clothes,上身,迷彩MA-1飛行外套,めいさいのＭＡ‐１,camo bomber-style jacket,裁縫店,1400,350,全年,True,酷感,"['日常生活', '戶外活動']",False,,,,TopsTexTopOuterLCamo0,1.0.0,3
+343,clothes,套裝,蓬蓬蛋糕連身裙,フリフリワンピース,frilly dress,裁縫店,2000,500,全年,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexOnepieceAlongLFrilled0,1.0.0,4
+344,clothes,下身,鳳梨夏威夷褲,パインがらアロハパンツ,pineapple aloha shorts,裁縫店,840,210,夏季,False,活潑,"['悠閒', '度假']",False,,,,BottomsTexPantsHalfAloha1,1.0.0,7
+345,clothes,套裝,偶像服,アイドルなふく,dollhouse dress,裁縫店,2800,700,夏季,True,可愛,"['童話世界', '派對', '舞台', '度假', '工作']",False,,,,TopsTexOnepieceBalloonNIdleeightys6,1.0.0,7
+346,clothes,上身,海浪日式棉襖外套,うみのはんてん,sea hanten shirt,裁縫店,1450,362,夏季,True,活潑,"['度假', '工作']",False,,,,TopsTexTopYshirtsLHanten1,1.0.0,2
+347,clothes,下身,七分褲,クロップドパンツ,cropped pants,裁縫店,920,230,全年,False,簡單,"['日常生活', '正式', '工作']",False,,,,BottomsTexPantsNormalCropped1,1.0.0,8
+348,clothes,套裝,波希米亞連身裙,ボヘミアンワンピ,Bohemian tunic dress,裁縫店,1900,475,全年,True,優雅,"['日常生活', '悠閒', '度假']",False,,,,TopsTexOnepieceBoxLBohemian1,1.0.0,3
+349,clothes,下身,蓬蓬裙,フリルスカート,frilly skirt,裁縫店,1100,275,全年,False,可愛,"['日常生活', '童話世界', '派對', '悠閒', '舞台']",False,,,,BottomsTexSkirtAlineFrilled5,1.0.0,6
+350,clothes,上身,仿馬海毛針織衫,モヘアふうニット,faux-hair sweater,裁縫店,1200,300,冬季,True,酷感,['悠閒'],False,,,,TopsTexTopOuterLMohair1,1.0.0,2
+351,clothes,上身,太空連帽上衣,スペースパーカー,space parka,裁縫店,1680,420,全年,True,酷感,"['派對', '悠閒', '運動', '舞台']",False,,,,TopsTexTopOuterLSpaceparker0,1.0.0,2
+352,clothes,上身,棒球襯衫,ベースボールシャツ,baseball shirt,裁縫店,1120,280,全年,True,活潑,"['運動', '工作']",False,,,,TopsTexTopTshirtsHBaseball4,1.0.0,6
+353,clothes,上身,連帽上衣配外套,パーカーオンコート,parka undercoat,裁縫店,2320,580,冬季,True,酷感,['日常生活'],False,,,,TopsTexTopCoatLInparker4,1.0.0,6
+354,clothes,上身,運動上衣,ワークアウトトップス,workout top,裁縫店,560,140,全年,True,活潑,"['戶外活動', '運動', '工作']",False,,,,TopsTexTopTshirtsNTraining1,1.0.0,3
+355,clothes,上身,摩斯大衣,モッズコート,mod parka,裁縫店,1680,420,冬季,True,簡單,['日常生活'],False,,,,TopsTexTopCoatLMod0,1.0.0,2
+356,clothes,上身,連帽上衣配T恤,パーカーオンＴシャツ,tee-parka combo,裁縫店,1400,350,全年,True,簡單,"['日常生活', '悠閒', '運動']",False,,,,TopsTexTopOuterLParkertshirt3,1.0.0,5
+357,clothes,套裝,拼接寬版衛衣,きりかえビッグスウェット,oversized-sweats dress,裁縫店,1500,375,全年,True,活潑,"['日常生活', '悠閒', '運動']",False,,,,TopsTexOnepieceRibLSwitchsweat0,1.0.0,5
+358,clothes,飾品,眼罩,アイマスク,eye mask,裁縫店,560,140,全年,True,簡單,['悠閒'],False,,,,AccessoryGlassMask2,1.0.0,6
+359,clothes,下身,斜紋軟呢蓬蓬裙,ツイードフリルスカート,tweed frilly skirt,裁縫店,1560,390,全年,False,可愛,"['日常生活', '童話世界', '正式']",False,,,,BottomsTexSkirtAlineTweedfrill1,1.0.0,4
+360,clothes,上身,愛心圍裙,ハートのエプロン,heart apron,裁縫店,1000,250,全年,True,可愛,"['童話世界', '工作']",False,,,,TopsTexTopCoatLHeartapron2,1.0.0,5
+361,clothes,下身,休閒寬褲,ワイドイージーパンツ,casual pants,裁縫店,1100,275,全年,False,簡單,"['日常生活', '悠閒']",False,,,,BottomsTexPantsWideEasy1,1.0.0,6
+362,clothes,套裝,綿羊服,ひつじなふく,sheep costume,裁縫店,1700,425,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceRibNSheep0,1.0.0,4
+363,clothes,套裝,向日葵連身裙,ひまわりのワンピース,sunflower dress,裁縫店,1500,375,夏季,True,可愛,"['日常生活', '童話世界', '度假']",False,,,,TopsTexOnepieceBalloonNSunflower0,1.0.0,3
+364,clothes,上身,王子服,プリンスなふく,prince's tunic,裁縫店,4800,1200,全年,True,優雅,"['童話世界', '正式', '派對']",False,,,,TopsTexTopCoatLPrince3,1.0.0,5
+365,clothes,下身,迷彩裙,めいさいスカート,camo skirt,裁縫店,1300,325,全年,False,酷感,"['日常生活', '戶外活動']",False,,,,BottomsTexSkirtBoxCamo0,1.0.0,7
+366,clothes,上身,交通警察服,こうつうゆうどうのふく,safety vest,裁縫店,1200,300,全年,True,活潑,['工作'],False,,,,TopsTexTopYshirtsHTraffic0,1.0.0,2
+367,clothes,上身,燕尾服,えんびふく,tailcoat,裁縫店,2500,625,全年,True,優雅,"['正式', '派對', '舞台']",False,,,,TopsTexTopCoatLTailcoat1,1.0.0,2
+368,clothes,套裝,提洛爾吊帶褲,チロリアンなオーバーオール,alpinist overalls,裁縫店,2520,630,全年,True,優雅,"['日常生活', '正式']",False,,,,TopsTexOnepieceOverallHTyrolean2,1.0.0,3
+369,clothes,下身,褲裙,キュロット,culottes,裁縫店,700,175,全年,False,可愛,"['日常生活', '悠閒', '度假']",False,,,,BottomsTexPantsHotCulotte1,1.0.0,4
+370,clothes,上身,民族風針織衫,ネイティブニット,folk shirt,裁縫店,1300,325,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLNative0,1.0.0,3
+371,clothes,上身,美式足球襯衫,アメフトシャツ,football shirt,裁縫店,1120,280,全年,True,活潑,"['運動', '工作']",False,,,,TopsTexTopTshirtsHAmericanfootball1,1.0.0,8
+372,clothes,上身,滑雪外套,スキーウェア,skiwear,裁縫店,1680,420,冬季,True,活潑,"['戶外活動', '運動']",False,,,,TopsTexTopYshirtsLSki4,1.0.0,6
+373,clothes,套裝,復古歌星服,スタアのふく,star costume,裁縫店,2800,700,全年,True,華麗,"['派對', '舞台']",False,,,,TopsTexOnepieceOverallLStarsinger0,1.0.0,5
+374,clothes,下身,滑雪褲,スキーウェアのズボン,ski pants,裁縫店,1560,390,冬季,False,活潑,"['戶外活動', '運動']",False,,,,BottomsTexPantsWideSki2,1.0.0,6
+375,clothes,飾品,口罩,マスク,doctor's mask,裁縫店,140,35,全年,False,簡單,"['日常生活', '恐怖', '悠閒']",False,,,,AccessoryMouthMaskWhite,1.0.0,1
+376,clothes,飾品,醫療眼罩,がんたい,post-op patch,裁縫店,490,122,全年,True,簡單,['恐怖'],False,,,,AccessoryGlassEyepatchWhite,1.0.0,1
+377,clothes,飾品,滑雪風鏡,スキーゴーグル,ski goggles,裁縫店,980,245,冬季,True,活潑,"['戶外活動', '運動']",False,,,,AccessoryGlassGogglesski1,1.0.0,6
+378,clothes,飾品,泳鏡,すいえいゴーグル,goggles,裁縫店,560,140,夏季,True,活潑,"['戶外活動', '運動', '度假']",False,,,,AccessoryGlassGoggles0,1.0.0,6
+379,clothes,飾品,復古墨鏡,レトロなサングラス,retro shades,裁縫店,1560,390,全年,True,優雅,"['日常生活', '派對', '度假']",False,,,,AccessoryGlassRetro0,1.0.0,6
+380,clothes,飾品,單眼眼罩,アイパッチ,eye patch,裁縫店,140,35,全年,True,酷感,"['童話世界', '恐怖']",False,,,,AccessoryGlassPatchBlack,1.0.0,1
+381,clothes,飾品,運動墨鏡,スポーツサングラス,sporty shades,裁縫店,1300,325,全年,True,活潑,"['戶外活動', '運動']",False,,,,AccessoryGlassSports1,1.0.0,5
+382,clothes,飾品,飛行員墨鏡,パイロットサングラス,pilot shades,裁縫店,1300,325,全年,True,酷感,"['運動', '工作']",False,,,,AccessoryGlassPilot0,1.0.0,2
+383,clothes,飾品,琥珀眼鏡,べっこうめがね,tortoise specs,裁縫店,1040,260,全年,True,簡單,"['日常生活', '正式']",False,,,,AccessoryGlassTortoiseshell2,1.0.0,3
+384,clothes,飾品,迷你墨鏡,ちいさいサングラス,tiny shades,裁縫店,1100,275,全年,True,酷感,"['童話世界', '正式']",False,,,,AccessoryGlassMini1,1.0.0,3
+385,clothes,飾品,單片眼鏡,モノクル,monocle,裁縫店,1100,275,全年,True,優雅,"['童話世界', '正式', '工作']",False,,,,AccessoryGlassMonocle2,1.0.0,3
+386,clothes,飾品,3D眼鏡,3Dめがね,3D glasses,裁縫店,490,122,全年,True,活潑,['派對'],False,,,,AccessoryGlassThreed0,1.0.0,2
+387,clothes,飾品,百葉窗墨鏡,ブラインドサングラス,ladder shades,裁縫店,880,220,全年,True,活潑,"['派對', '舞台']",False,,,,AccessoryGlassBlind0,1.0.0,6
+388,clothes,上身,仿皮草大衣,フェイクアニマルコート,animal-print coat,裁縫店,2320,580,冬季,True,可愛,['日常生活'],False,,,,TopsTexTopCoatLAnimal3,1.0.0,4
+389,clothes,套裝,兩件式無袖連身裙,レイヤーノースリーブワンピ,layered sleeveless dress,裁縫店,1200,300,夏季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceBoxNLayered2,1.0.0,3
+390,clothes,套裝,老虎T恤連身裙,トラのＴシャツワンピ,tiger-face tee dress,裁縫店,1200,300,全年,True,華麗,"['日常生活', '恐怖', '悠閒']",False,,,,TopsTexOnepieceBoxHTiger1,1.0.0,5
+391,clothes,套裝,連帽上衣配襯衫連身裙,パーカーインシャツワンピ,parka and shirtdress,裁縫店,1600,400,全年,True,酷感,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceRibLParkershirt2,1.0.0,3
+392,clothes,上身,復古大衣,レトロなコート,retro coat,裁縫店,2380,595,冬季,True,優雅,"['日常生活', '正式', '派對']",False,,,,TopsTexTopCoatLRetro2,1.0.0,4
+393,clothes,套裝,嬰兒連身衣,ロンパース,baby romper,裁縫店,1920,480,全年,True,可愛,"['童話世界', '悠閒']",False,,,,TopsTexOnepieceOverallLRompers4,1.0.0,8
+394,clothes,套裝,緊身連身皮衣,ボンテージ,tight punk outfit,裁縫店,1920,480,全年,True,酷感,['舞台'],False,,,,TopsTexOnepieceOverallLBondage0,1.0.0,2
+395,clothes,下身,戶外活動褲,アウトドアパンツ,outdoor shorts,裁縫店,700,175,全年,False,活潑,"['戶外活動', '運動']",False,,,,BottomsTexPantsHalfOutdoor1,1.0.0,8
+396,clothes,套裝,超級英雄裝,スーパーヒーロースーツ,superhero uniform,裁縫店,3640,910,全年,True,活潑,"['舞台', '工作']",False,,,,TopsTexOnepieceOverallLSuper2,1.0.0,4
+397,clothes,飾品,貓鼻子道具,ネコのつけばな,cat nose,裁縫店,560,140,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,AccessoryMouthCat0,1.0.0,3
+398,clothes,套裝,墨西哥傳統服裝,チナポブラーナ,china poblana,裁縫店,2520,630,全年,True,優雅,"['日常生活', '正式']",False,,,,TopsTexOnepieceDressHChinapoblanaRed,1.0.0,1
+399,clothes,下身,龐克裙褲,ボンテージパンツ,punk pants,裁縫店,1820,455,全年,False,酷感,"['日常生活', '舞台']",False,,,,BottomsTexPantsNormalBondage0,1.0.0,4
+400,clothes,上身,草裙舞上衣,フラダンスなトップス,hula top,裁縫店,1200,300,夏季,True,活潑,"['悠閒', '度假']",False,,,,TopsTexTopTshirtsNHula0,1.0.0,5
+401,clothes,下身,民族風褲子,エスニックパンツ,vibrant shorts,裁縫店,980,245,全年,False,活潑,"['戶外活動', '度假']",False,,,,BottomsTexPantsHalfEthnic4,1.0.0,5
+402,clothes,上身,嘻皮風衣服,ヒッピーなふく,groovy tunic,裁縫店,1680,420,全年,True,活潑,"['日常生活', '舞台']",False,,,,TopsTexTopCoatLHippie0,1.0.0,3
+403,clothes,套裝,披肩配連身裙,ショールコーデワンピ,shawl-and-dress combo,裁縫店,2000,500,冬季,True,優雅,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceRibLShawl0,1.0.0,4
+404,clothes,下身,膝蓋補丁褲,ひざあてズボン,patched-knee pants,裁縫店,880,220,全年,False,簡單,"['日常生活', '運動', '度假', '工作']",False,,,,BottomsTexPantsWideKnee3,1.0.0,4
+405,clothes,飾品,小黃瓜面膜,きゅうりパック,cucumber pack,裁縫店,490,122,全年,False,簡單,['悠閒'],False,,,,AccessoryMouthCucumber,1.0.0,1
+407,clothes,飾品,鼻子道具,つけばな,fake nose,裁縫店,490,122,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,AccessoryGlassmouthNoseRed,1.0.0,1
+408,clothes,飾品,鬍子眼鏡,ヒゲメガネ,stache & glasses,裁縫店,770,192,全年,True,可愛,"['派對', '舞台']",False,,,,AccessoryGlassmouthBeard0,1.0.0,2
+409,clothes,下身,蛋糕裙,ティアードスカート,tiered skirt,裁縫店,1200,300,全年,False,簡單,"['日常生活', '童話世界', '悠閒', '度假']",False,,,,BottomsTexSkirtLongTiered0,1.0.0,5
+410,clothes,上身,西裝外套,キャリアなジャケット,career jacket,裁縫店,1680,420,全年,True,簡單,"['正式', '工作']",False,,,,TopsTexTopYshirtsLCareer0,1.0.0,8
+411,clothes,下身,西裝裙,キャリアなスカート,career skirt,裁縫店,1560,390,全年,False,簡單,"['正式', '工作']",False,,,,BottomsTexSkirtBoxCareer0,1.0.0,8
+412,clothes,下身,不規則摺邊裙,ドレープスカート,draped skirt,裁縫店,1820,455,夏季,False,簡單,"['日常生活', '悠閒', '度假']",False,,,,BottomsTexSkirtLongDrape3,1.0.0,8
+413,clothes,套裝,洋娃娃風連身裙,ドーリーワンピース,pintuck-pleated dress,裁縫店,1600,400,夏季,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexOnepieceBalloonHDolly0,1.0.0,6
+414,clothes,上身,奇馬約圖騰背心,チマヨベスト,Chimayo vest,裁縫店,1120,280,全年,True,優雅,"['日常生活', '戶外活動']",False,,,,TopsTexTopYshirtsLChimayo2,1.0.0,4
+415,clothes,飾品,生日墨鏡,バースデーサングラス,birthday shades,活動：玩家生日,,620,全年,True,華麗,['派對'],False,,,,AccessoryGlassBirthday2,1.0.0,4
+417,clothes,飾品,面膜,パック,facial mask,裁縫店,560,140,全年,False,簡單,"['恐怖', '悠閒']",False,,,,AccessoryGlassmouthPackWhite,1.0.0,1
+418,clothes,飾品,搞笑眼鏡,をかしなめがね,funny glasses,裁縫店,1100,275,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,AccessoryGlassEyes1,1.0.0,3
+419,clothes,下身,單車褲,サイクルボトム,cycling shorts,裁縫店,700,175,全年,False,活潑,"['戶外活動', '運動']",False,,,,BottomsTexPantsNormalCycle2,1.0.0,8
+420,clothes,下身,衝浪褲,サーフパンツ,surfing shorts,裁縫店,700,175,夏季,False,活潑,"['戶外活動', '運動', '度假']",False,,,,BottomsTexPantsHalfSurf4,1.0.0,5
+421,clothes,下身,蕾絲短褲,レースショートパンツ,lace shorts,裁縫店,840,210,夏季,False,可愛,"['日常生活', '童話世界', '度假']",False,,,,BottomsTexPantsHotLace0,1.0.0,5
+422,clothes,下身,運動短褲,ジャージショートパンツ,athletic shorts,裁縫店,560,140,全年,False,活潑,"['戶外活動', '悠閒', '運動']",False,,,,BottomsTexPantsHalfJersey2,1.0.0,6
+423,clothes,上身,印度傳統長版上衣,クルタ,kurta,裁縫店,1200,300,全年,True,簡單,"['日常生活', '正式']",False,,,,TopsTexTopCoatLKuruta1,1.0.0,4
+424,clothes,套裝,長版襯衫連身裙,ロングシャツワンピ,maxi shirtdress,裁縫店,2000,500,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceBlongLShirt1,1.0.0,6
+425,clothes,上身,防風上衣,プルオーバーアウター,pullover jacket,裁縫店,1680,420,全年,True,活潑,"['日常生活', '戶外活動']",False,,,,TopsTexTopOuterLPullover4,1.0.0,5
+426,clothes,下身,泰拳褲,ムエタイパンツ,muay-thai shorts,裁縫店,980,245,全年,False,活潑,"['悠閒', '運動']",False,,,,BottomsTexPantsHotThai1,1.0.0,4
+427,clothes,下身,金色點點褲,ゴールドドットパンツ,dotted shorts,裁縫店,980,245,全年,False,可愛,"['派對', '悠閒', '度假']",False,,,,BottomsTexPantsHotDotgold1,1.0.0,2
+428,clothes,上身,斜紋軟呢背心,ツイードベスト,tweed vest,裁縫店,1400,350,全年,True,簡單,['戶外活動'],False,,,,TopsTexTopYshirtsLTweedvest1,1.0.0,3
+429,clothes,下身,腰帶一片裙,ベルトのまきスカート,belted wraparound skirt,裁縫店,1040,260,全年,False,簡單,"['日常生活', '悠閒']",False,,,,BottomsTexSkirtLongWrap1,1.0.0,4
+430,clothes,下身,刺繡花紋裙,ししゅうのはながらスカート,embroidered floral skirt,裁縫店,1320,330,全年,False,優雅,"['日常生活', '悠閒', '度假']",False,,,,BottomsTexSkirtLongEmbroidery2,1.0.0,3
+431,clothes,下身,幾何刺繡裙,きかがくししゅうのスカート,embroidered-pattern skirt,裁縫店,1100,275,全年,False,簡單,"['日常生活', '度假']",False,,,,BottomsTexSkirtLongGeometric2,1.0.0,3
+432,clothes,飾品,潛水鏡附呼吸管,シュノーケル,snorkel mask,任天堂; 裁縫店,700,175,夏季,False,活潑,"['戶外活動', '運動', '度假', '工作']",False,,,,AccessoryGlassmouthDiver5,1.3.0,6
+433,clothes,飾品,太空墨鏡,サイバーサングラス,cyber shades,裁縫店,1300,325,全年,True,活潑,"['派對', '舞台']",False,,,,AccessoryGlassCyber2,1.0.0,6
+434,clothes,上身,格紋圍巾配毛衣,チェックマフラーつきセーター,checkered muffler,裁縫店,1440,360,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLMuffler0,1.0.0,4
+435,clothes,套裝,長版牛仔針織罩衫,ロングデニムカーディガン,long denim cardigan,裁縫店,2000,500,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceBoxLMuffler2,1.0.0,3
+436,clothes,套裝,滿版圖案連身裙,おおばんがらワンピ,oversized print dress,裁縫店,1800,450,夏季,True,可愛,"['派對', '度假']",False,,,,TopsTexOnepieceBoxNStandard0,1.0.0,6
+437,clothes,套裝,復古A字連身裙,レトロＡラインワンピース,retro A-line dress,裁縫店,2550,637,全年,True,可愛,['派對'],False,,,,TopsTexOnepieceAlineLRetro2,1.0.0,5
+438,clothes,上身,綁腰襯衫,こしまきシャツ,hip-wrap shirt,裁縫店,1200,300,夏季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopCoatHWaistshirt0,1.0.0,3
+439,clothes,套裝,T恤連身裙,Ｔシャツワンピ,tee dress,裁縫店,1500,375,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceBoxHTshirts3,1.0.0,6
+440,clothes,上身,亮片刺繡無袖上衣,ラメししゅうノースリーブ,sparkly embroidered tank,裁縫店,960,240,夏季,True,可愛,"['派對', '度假']",False,,,,TopsTexTopCoatNSequins0,1.0.0,3
+442,clothes,套裝,視覺系服裝,ヴィジュアルけいコスチューム,visual-punk outfit,裁縫店,2040,510,全年,True,酷感,"['派對', '舞台', '工作']",False,,,,TopsTexOnepieceOverallLVisualBlack,1.0.0,1
+443,clothes,上身,皮風衣,レザートレンチ,pleather trench coat,裁縫店,1680,420,冬季,True,優雅,"['日常生活', '正式']",False,,,,TopsTexTopCoatLLeathertrench0,1.0.0,3
+444,clothes,上身,馴鹿毛衣,トナカイセーター,reindeer sweater,裁縫店,1680,420,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLReindeer2,1.0.0,3
+445,clothes,上身,前綁結襯衫,まえむすびＹシャツ,front-tie button-down shirt,裁縫店,800,200,夏季,True,活潑,"['日常生活', '度假']",False,,,,TopsTexTopYshirtsHKnot3,1.0.0,4
+446,clothes,套裝,花紋蕾絲連身裙,はながらレースのワンピース,floral lace dress,裁縫店,1820,455,夏季,True,優雅,"['日常生活', '童話世界', '正式', '派對', '度假']",False,,,,TopsTexOnepieceBalloonHLace7,1.0.0,8
+447,clothes,上身,立領大衣,ステンカラーコート,top coat,裁縫店,2000,500,全年,True,簡單,"['日常生活', '度假']",False,,,,TopsTexTopCoatLSoutiencollar3,1.0.0,4
+448,clothes,上身,品味高尚毛衣,ハイセンスなセーター,retro sweater,裁縫店,1200,300,冬季,True,可愛,"['日常生活', '派對', '悠閒', '舞台']",False,,,,TopsTexTopOuterLHighsence2,1.0.0,4
+449,clothes,上身,西部牛仔襯衫,カウボーイシャツ,cowboy shirt,裁縫店,2100,525,全年,True,簡單,"['戶外活動', '工作']",False,,,,TopsTexTopYshirtsLCowboy1,1.0.0,5
+450,clothes,套裝,綠毛蟲服,あおむしのふく,caterpillar costume,裁縫店,1700,425,全年,True,可愛,"['童話世界', '派對']",False,,,,TopsTexOnepieceRibNCaterpillar0,1.0.0,3
+451,clothes,上身,馬甲細肩帶背心,ビスチェキャミ,sweetheart tank and shirt,裁縫店,1200,300,全年,True,優雅,"['日常生活', '悠閒']",False,,,,TopsTexTopYshirtsLBustier0,1.0.0,5
+452,clothes,套裝,小屋圖案連身裙,ハウスなプリントワンピ,house-print dress,裁縫店,1600,400,全年,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexOnepieceBoxLHouse1,1.0.0,2
+453,clothes,套裝,森林圖案連身裙,フォレストなワンピース,forest-print dress,裁縫店,1540,385,全年,True,優雅,['日常生活'],False,,,,TopsTexOnepieceBoxLForest3,1.0.0,5
+454,clothes,套裝,橄欖球制服,ラグビーのユニフォーム,rugby uniform,裁縫店,1760,440,全年,True,活潑,"['運動', '工作']",False,,,,TopsTexOnepieceOverallHRugby0,1.0.0,8
+456,clothes,套裝,鐵盔甲,アイアンアーマー,iron armor,DIY,,6000,全年,True,酷感,"['童話世界', '恐怖']",True,"[{'count': 8, 'itemName': '鐵礦石'}]",['暴躁型村民'],,TopsTexOnepieceOverallLPlatearmorIron,1.0.0,1
+457,clothes,套裝,長羽絨大衣,ロングダウンコート,long down coat,裁縫店,1900,475,冬季,True,簡單,"['日常生活', '戶外活動']",False,,,,TopsTexOnepieceAlongLDowncoat2,1.0.0,5
+458,clothes,套裝,金盔甲,ゴールデンアーマー,gold armor,DIY,,80000,全年,True,華麗,"['童話世界', '恐怖']",True,"[{'count': 8, 'itemName': '金礦石'}]",['自戀型村民'],,TopsTexOnepieceOverallLPlatearmorGold,1.0.0,1
+459,clothes,下身,緞面褲子,サテンのパンツ,satin pants,裁縫店,880,220,全年,False,簡單,"['日常生活', '正式', '派對']",False,,,,BottomsTexPantsWideSatin4,1.0.0,7
+460,clothes,套裝,海軍大衣連裙子,スカートつきピーコート,peacoat-and-skirt combo,裁縫店,2400,600,冬季,True,可愛,['日常生活'],False,,,,TopsTexOnepieceAlineLPcoat1,1.0.0,2
+461,clothes,上身,彩虹針織衫,レインボーなニット,rainbow sweater,裁縫店,1200,300,冬季,True,可愛,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLRainbow1,1.0.0,5
+462,clothes,套裝,交叉V領綁帶連身裙,カシュクールワンピース,casual chic dress,裁縫店,2400,600,夏季,True,優雅,"['日常生活', '悠閒', '度假']",False,,,,TopsTexOnepieceAlongHCachecoeur2,1.0.0,6
+463,clothes,飾品,下半框眼鏡,アンダーリムめがね,bottom-rimmed glasses,裁縫店,1100,275,全年,True,簡單,"['日常生活', '悠閒', '工作']",False,,,,AccessoryGlassLoose6,1.0.0,7
+464,clothes,上身,絨毛外套,ボアブルゾン,boa blouson,裁縫店,1680,420,冬季,True,可愛,"['日常生活', '童話世界', '悠閒']",False,,,,TopsTexTopOuterLBlouson3,1.0.0,4
+465,clothes,上身,長版襯衫,チュニックシャツ,sleeveless tunic,裁縫店,960,240,夏季,True,簡單,"['悠閒', '度假']",False,,,,TopsTexTopCoatNShirt4,1.0.0,6
+466,clothes,飾品,兔鼻子道具,ウサギのつけばな,bunny nose,裁縫店,560,140,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,AccessoryMouthRabbit2,1.0.0,3
+467,clothes,上身,長版針織罩衫,コーディガン,coatigan,裁縫店,2380,595,冬季,True,優雅,['日常生活'],False,,,,TopsTexTopCoatLCoadigan3,1.0.0,5
+468,clothes,下身,燈芯絨褲,コーデュロイボトム,corduroy pants,裁縫店,1040,260,全年,False,簡單,['日常生活'],False,,,,BottomsTexPantsWideCorduroy4,1.0.0,6
+469,clothes,套裝,荷蘭風格服裝,オランダなコスチューム,folk-dance outfit,裁縫店,2520,630,全年,True,優雅,"['日常生活', '正式']",False,,,,TopsTexOnepieceOverallLVolendam,1.0.0,1
+470,clothes,套裝,絨毛連帽上衣,ボアパーカー,boa parka,裁縫店,1800,450,冬季,True,簡單,"['日常生活', '戶外活動', '悠閒']",False,,,,TopsTexOnepieceRibLBore2,1.0.0,4
+471,clothes,上身,拼布大衣,パッチワークコート,patchwork coat,裁縫店,2380,595,冬季,True,可愛,['日常生活'],False,,,,TopsTexTopCoatLPatchwork2,1.0.0,3
+472,clothes,套裝,巴爾瑪肯大衣,バルマカーンコート,balmacaan coat,裁縫店,1540,385,冬季,True,簡單,['日常生活'],False,,,,TopsTexOnepieceBlongLBalmakarn0,1.0.0,3
+473,clothes,飾品,圓形墨鏡,ラウンドサングラス,round tinted shades,裁縫店,880,220,全年,True,簡單,"['日常生活', '正式']",False,,,,AccessoryGlassRound0,1.0.0,4
+474,clothes,飾品,蝴蝶框墨鏡,バタフライサングラス,butterfly shades,裁縫店,1040,260,全年,True,酷感,['戶外活動'],False,,,,AccessoryGlassButterfly0,1.0.0,3
+475,clothes,飾品,橢圓形眼鏡,オーバルめがね,oval glasses,裁縫店,880,220,全年,True,簡單,"['日常生活', '工作']",False,,,,AccessoryGlassOval6,1.0.0,7
+476,clothes,上身,耳機穿搭,イヤフォンコーデ,earbuds combo,裁縫店,1400,350,全年,True,酷感,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLEarphone3,1.0.0,4
+477,clothes,套裝,阿拉伯公主服,アラビアひめなふく,desert-princess outfit,裁縫店,2520,630,全年,True,優雅,"['童話世界', '派對']",False,,,,TopsTexOnepieceOverallHArabia2,1.0.0,4
+478,clothes,下身,花紋蕾絲裙,はながらレースのスカート,floral lace skirt,裁縫店,1320,330,全年,False,優雅,"['日常生活', '童話世界', '正式', '派對', '度假']",False,,,,BottomsTexSkirtBoxLace7,1.0.0,8
+479,clothes,上身,多色粗橫紋針織衫,マルチボーダーニット,colorful striped sweater,裁縫店,1200,300,全年,True,優雅,['日常生活'],False,,,,TopsTexTopTshirtsLMulti2,1.0.0,6
+480,clothes,下身,喇叭裙,フレアスカート,flare skirt,裁縫店,1140,285,全年,False,簡單,"['日常生活', '悠閒']",False,,,,BottomsTexSkirtAlineFlare1,1.0.0,5
+481,clothes,上身,馬德拉斯格紋襯衫,マドラスチェックシャツ,madras plaid shirt,裁縫店,1120,280,夏季,True,活潑,"['日常生活', '度假']",False,,,,TopsTexTopYshirtsHMadras5,1.0.0,6
+482,clothes,套裝,民族風連身裙,エスニックワンピ,zigzag-print dress,裁縫店,2000,500,夏季,True,優雅,['度假'],False,,,,TopsTexOnepieceAlongNEthnic3,1.0.0,6
+483,clothes,套裝,連身短褲,ショートコンビネゾン,shorts outfit,裁縫店,1680,420,夏季,True,優雅,"['日常生活', '度假']",False,,,,TopsTexOnepieceSalopetteNCombinaison4,1.0.0,5
+484,clothes,飾品,像素墨鏡,ドットサングラス,pixel shades,裁縫店,1320,330,全年,True,酷感,"['派對', '度假']",False,,,,AccessoryGlassDot3,1.0.0,4
+485,clothes,飾品,豬鼻子道具,ブタのつけばな,pig nose,裁縫店,560,140,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,AccessoryMouthPigPink,1.0.0,1
+486,clothes,套裝,冰之女王洋裝,こおりのじょおうなドレス,icy dress,裁縫店,5200,1300,冬季,True,華麗,"['童話世界', '派對']",False,,,,TopsTexOnepieceRobeLIcequeen0,1.0.0,1
+487,clothes,飾品,防毒面具,ガスマスク,gas mask,裁縫店,1100,275,全年,False,酷感,"['恐怖', '工作']",False,,,,AccessoryGlassmouthGasmask0,1.0.0,2
+488,clothes,套裝,雪國洋裝,さむいくにのドレス,cold-country dress,裁縫店,2520,630,冬季,True,優雅,"['正式', '派對']",False,,,,TopsTexOnepieceDressLNordic2,1.0.0,3
+489,clothes,飾品,飯粒,ごはんつぶ,sticky rice,裁縫店,490,122,全年,False,簡單,['悠閒'],False,,,,AccessoryMouthRice,1.0.0,1
+490,clothes,套裝,墨西哥街頭樂隊服裝,マリアッチのいしょう,mariachi clothing,裁縫店,2520,630,全年,True,優雅,"['正式', '派對', '舞台']",False,,,,TopsTexOnepieceOverallLMariachi3,1.0.0,6
+491,clothes,套裝,大理石紋連身裙,マーブルワンピース,marble-print dress,裁縫店,1500,375,全年,True,優雅,['派對'],False,,,,TopsTexOnepieceBoxLMarble1,1.0.0,5
+492,clothes,套裝,貝殼洋裝,かいがらのドレス,shell dress,裁縫店,3500,875,夏季,True,華麗,"['童話世界', '派對', '舞台', '度假']",False,,,,TopsTexOnepieceAlongNMermaid4,1.0.0,6
+493,clothes,上身,斗篷造型針織衫,ポンチョふうニット,poncho-style sweater,裁縫店,1500,375,全年,True,優雅,"['日常生活', '童話世界']",False,,,,TopsTexTopCoatLPoncho4,1.0.0,5
+494,clothes,飾品,威尼斯面具,ベネチアンマスク,masquerade mask,裁縫店,910,227,全年,True,華麗,"['童話世界', '派對', '舞台']",False,,,,AccessoryGlassVenetian1,1.0.0,6
+495,clothes,上身,長版坦克背心,タンクトップチュニック,tunic tank,裁縫店,800,200,夏季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopCoatNTanktunic0,1.0.0,4
+496,clothes,飾品,木框眼鏡,ウッドフレームめがね,wooden-frame glasses,裁縫店,1560,390,全年,True,簡單,"['日常生活', '正式', '工作']",False,,,,AccessoryGlassWood0,1.0.0,2
+497,clothes,飾品,黑色口罩,カラスマスク,privacy mask,裁縫店,560,140,全年,False,酷感,"['日常生活', '恐怖', '悠閒']",False,,,,AccessoryMouthCrowBlack,1.0.0,1
+498,clothes,飾品,翹鬍子,まきヒゲ,curly mustache,裁縫店,700,175,全年,False,簡單,"['童話世界', '正式', '派對']",False,,,,AccessoryMouthRollingmustacheBlack,1.0.0,1
+500,clothes,套裝,長版雪尼爾針織罩衫,モールロングカーディガン,long chenille cardigan,裁縫店,2000,500,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceRibLCardigan2,1.0.0,4
+501,clothes,上身,蝴蝶結細肩帶背心,リボンショルダーキャミ,ribbon-straps tank,裁縫店,960,240,夏季,True,可愛,"['日常生活', '童話世界', '悠閒', '度假']",False,,,,TopsTexTopYshirtsNRibnoncami0,1.0.0,3
+502,clothes,飾品,山羊鬍,アゴひげ,goatee,裁縫店,980,245,全年,False,酷感,"['日常生活', '悠閒', '舞台']",False,,,,AccessoryMouthBeardChinBlack,1.0.0,1
+503,clothes,飾品,絆創帶,ばんそうこう,bandage,裁縫店,140,35,全年,False,活潑,"['戶外活動', '悠閒', '運動']",False,,,,AccessoryMouthBandageSkin,1.0.0,1
+504,clothes,飾品,小丑面具,ピエロのかめん,jester's mask,裁縫店,1760,440,全年,False,酷感,"['童話世界', '恐怖', '派對', '舞台', '工作']",False,,,,AccessoryGlassmouthPierrot0,1.0.0,4
+505,clothes,飾品,絡腮鬍,ラウンドひげ,rounded beard,裁縫店,980,245,全年,False,酷感,"['日常生活', '悠閒', '舞台']",False,,,,AccessoryMouthBeardRoundBlack,1.0.0,1
+506,clothes,上身,圖紋刷毛上衣,がらものフリース,printed fleece sweater,裁縫店,1260,315,冬季,True,活潑,"['日常生活', '戶外活動']",False,,,,TopsTexTopOuterLFleece4,1.0.0,5
+507,clothes,上身,名偵探衣服,めいたんていのふく,detective's coat,裁縫店,2500,625,全年,True,優雅,['工作'],False,,,,TopsTexTopCoatLDetective1,1.0.0,3
+508,clothes,飾品,葉子,はっぱ,leaf,DIY,,100,全年,False,簡單,"['戶外活動', '悠閒', '度假']",True,"[{'count': 5, 'itemName': '雜草'}]",['運動型村民'],,AccessoryMouthLeafGreen,1.0.0,1
+509,clothes,飾品,水鑽眼鏡,ラインストーンめがね,rhinestone shades,裁縫店,1040,260,全年,True,華麗,"['派對', '舞台', '度假']",False,,,,AccessoryGlassRhinestone0,1.0.0,3
+510,clothes,飾品,英雄面具,ヒーローマスク,superhero mask,裁縫店,1040,260,全年,True,酷感,"['童話世界', '舞台', '工作']",False,,,,AccessoryGlassHeromaskBlack,1.0.0,1
+511,clothes,飾品,蒸汽龐克護目鏡,スチームパンクなゴーグル,steampunk glasses,裁縫店,1300,325,全年,True,華麗,"['童話世界', '舞台']",False,,,,AccessoryGlassSteampunk0,1.0.0,2
+512,clothes,套裝,天使連身裙,エンジェルなワンピース,sweet dress,裁縫店,2700,675,全年,True,簡單,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceBalloonHAngel0,1.0.0,2
+513,clothes,上身,皺襯衫,ヨレヨレなシャツ,baggy shirt,回收箱,,10,全年,True,簡單,"['恐怖', '悠閒']",False,,,,TopsTexTopTshirtsLLoose0,1.0.0,3
+514,clothes,套裝,惡魔服,デビルなふく,impish costume,裁縫店,2240,560,全年,True,酷感,"['童話世界', '恐怖', '舞台']",False,,,,TopsTexOnepieceOverallLDevil0,1.0.0,2
+515,clothes,鞋子,浴室拖鞋,シャワーサンダル,shower sandals,裁縫店,350,87,全年,False,活潑,"['日常生活', '戶外活動', '悠閒', '度假']",False,,,,ShoesSandalShower1,1.0.0,5
+516,clothes,上身,開襟襯衫,かいきんシャツ,open-collar shirt,裁縫店,960,240,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopYshirtsLOpencollar0,1.0.0,4
+517,clothes,鞋子,皮運動鞋,レザーのスニーカー,pleather sneakers,裁縫店,700,175,全年,False,簡單,"['日常生活', '戶外活動', '運動']",False,,,,ShoesLowcutLeathersneker0,1.0.0,8
+518,clothes,上身,迷幻貓咪衣服,ミームなふく,meme shirt,裁縫店,960,240,夏季,True,酷感,['悠閒'],False,,,,TopsTexTopTshirtsHMeme3,1.0.0,4
+519,clothes,襪子,蝴蝶結襪子,リボンソックス,back-bow socks,薛革,600,150,春季,False,可愛,"['日常生活', '童話世界', '派對', '度假']",False,,,,SocksTexRibbon3,1.0.0,6
+520,clothes,鞋子,麂皮雪靴,ムートンブーツ,faux-shearling boots,裁縫店,1600,400,冬季,False,可愛,"['日常生活', '戶外活動']",False,,,,ShoesHighcutMouton4,1.0.0,5
+521,clothes,鞋子,漆皮低跟鞋,エナメルのパンプス,vinyl round-toed pumps,裁縫店,1500,375,全年,False,簡單,"['日常生活', '童話世界', '正式', '派對', '舞台', '工作']",False,,,,ShoesLowcutEnamelpumps4,1.0.0,6
+522,clothes,鞋子,樂福鞋,ローファー,loafers,裁縫店,1300,325,全年,False,簡單,"['日常生活', '正式', '工作']",False,,,,ShoesLowcutLoafers2,1.0.0,7
+523,clothes,鞋子,交叉帶涼鞋,クロスベルトサンダル,cross-belt sandals,裁縫店,1040,260,夏季,False,優雅,"['日常生活', '度假']",False,,,,ShoesSandalCrossbelt2,1.0.0,6
+524,clothes,上身,菱格縫線外套,キルティングジャケット,quilted jacket,裁縫店,1400,350,冬季,True,活潑,"['日常生活', '戶外活動']",False,,,,TopsTexTopYshirtsLQuilting0,1.0.0,5
+525,clothes,套裝,條紋連身長裙,ストライプのマキシワンピ,striped maxi dress,裁縫店,1400,350,夏季,True,優雅,"['日常生活', '度假']",False,,,,TopsTexOnepieceAlongNStripe0,1.0.0,4
+526,clothes,鞋子,商務皮鞋,ビジネスシューズ,business shoes,裁縫店,1300,325,全年,False,簡單,"['正式', '工作']",False,,,,ShoesLowcutBusiness0,1.0.0,2
+527,clothes,套裝,格紋背心裙,チェックのジャンパースカート,checkered jumper dress,裁縫店,1840,460,全年,True,可愛,['日常生活'],False,,,,TopsTexOnepieceAlineLJumperskirt3,1.0.0,4
+528,clothes,鞋子,絨面靴,ベロアブーツ,velour boots,裁縫店,1920,480,冬季,False,優雅,"['日常生活', '派對']",False,,,,ShoesKneeVelour1,1.0.0,5
+529,clothes,鞋子,雨靴,レインブーツ,rain boots,裁縫店,490,122,全年,False,簡單,"['日常生活', '戶外活動']",False,,,,ShoesKneeRainboots7,1.0.0,8
+530,clothes,鞋子,草履拖鞋,ぞうり,zori,裁縫店,4300,1075,全年,False,優雅,"['日常生活', '正式', '派對']",False,,,,ShoesSandalZori6,1.0.0,8
+531,clothes,上身,滑雪羽絨外套,スキーダウンジャケット,down ski jacket,裁縫店,1680,420,冬季,True,活潑,"['戶外活動', '運動']",False,,,,TopsTexTopOuterLSkidown0,1.0.0,4
+532,clothes,套裝,蕾絲連身裙,レースのワンピース,lacy dress,裁縫店,1520,380,夏季,True,可愛,"['日常生活', '童話世界', '度假']",False,,,,TopsTexOnepieceAlineNLace0,1.0.0,3
+533,clothes,頭戴物,上學帽,つうがくぼう,school hat,裁縫店,560,140,全年,True,簡單,['日常生活'],False,,,,CapHatSchool0,1.0.0,2
+534,clothes,套裝,幸運草連身裙,クローバーなワンピース,clover dress,裁縫店,1800,450,夏季,True,可愛,"['日常生活', '童話世界', '派對', '度假']",False,,,,TopsTexOnepieceBalloonNClover1,1.0.0,2
+535,clothes,襪子,船型襪,スニーカーインソックス,no-show socks,裁縫店,480,120,全年,False,簡單,"['日常生活', '戶外活動', '悠閒', '運動']",False,,,,SocksTexSneakerin1,1.0.0,8
+536,clothes,襪子,手編阿倫花樣針織襪,アランニットのソックス,Aran-knit socks,裁縫店,720,180,冬季,False,簡單,"['日常生活', '悠閒']",False,,,,SocksTexAlan1,1.0.0,6
+537,clothes,襪子,亮片緊身褲,スパンコールレギンス,sequin leggings,薛革,940,235,全年,False,華麗,"['派對', '舞台']",False,,,,SocksTexSequins4,1.0.0,8
+538,clothes,襪子,彈性緊身褲,ストレッチレギンス,stretch leggings,裁縫店,450,112,全年,False,簡單,"['日常生活', '戶外活動', '運動']",False,,,,SocksTexLeggings3,1.0.0,7
+539,clothes,襪子,牛仔緊身褲,デニムレギンス,denim leggings,裁縫店,540,135,全年,False,簡單,"['日常生活', '戶外活動', '運動']",False,,,,SocksTexDenimleggings1,1.0.0,4
+540,clothes,襪子,條紋襪,ラインソックス,tube socks,裁縫店,480,120,全年,False,簡單,"['日常生活', '戶外活動', '運動']",False,,,,SocksTexLine3,1.0.0,8
+541,clothes,襪子,吊帶襪,ガーターつきストッキング,garter socks,薛革,980,245,全年,False,酷感,"['正式', '派對', '舞台']",False,,,,SocksTexGarter1,1.0.0,4
+542,clothes,襪子,北歐風襪子,ノルディックなソックス,nordic socks,裁縫店,840,210,冬季,False,優雅,"['日常生活', '戶外活動', '悠閒']",False,,,,SocksTexNordic4,1.0.0,7
+543,clothes,襪子,足袋,たび,tabi,裁縫店,1200,300,全年,False,簡單,"['日常生活', '正式', '派對']",False,,,,SocksTexTabi0,1.0.0,3
+544,clothes,上身,工作服,さぎょうふく,worker's jacket,裁縫店,800,200,全年,True,活潑,"['戶外活動', '工作']",False,,,,TopsTexTopYshirtsLFactory0,1.0.0,3
+545,clothes,上身,毛球毛衣,ポンポンセーター,pom-pom sweater,裁縫店,1440,360,冬季,True,可愛,"['日常生活', '童話世界', '悠閒']",False,,,,TopsTexTopOuterLBobble1,1.0.0,3
+546,clothes,套裝,淑女連身裙,しゅくじょなワンピース,elegant dress,裁縫店,2400,600,全年,True,優雅,"['童話世界', '正式', '派對']",False,,,,TopsTexOnepieceDressLLady3,1.0.0,5
+547,clothes,上身,樸素針織衫,つつましいニット,humble sweater,裁縫店,1150,287,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLQuiet2,1.0.0,4
+548,clothes,上身,派克大衣,アノラック,anorak jacket,裁縫店,1400,350,全年,True,簡單,"['日常生活', '戶外活動']",False,,,,TopsTexTopCoatLAnorak1,1.0.0,3
+549,clothes,上身,多功能背心,たきのうベスト,multipurpose vest,裁縫店,1680,420,全年,True,簡單,['戶外活動'],False,,,,TopsTexTopYshirtsLMultivest1,1.0.0,3
+550,clothes,頭戴物,新年帽,ニューイヤーハット,New Year's hat,活動：新年,500,125,全年,True,華麗,"['派對', '舞台']",False,,,,CapHatNewyearRed,1.0.0,8
+551,clothes,頭戴物,生日帽,バースデーハット,birthday hat,活動：玩家生日,,600,全年,True,華麗,['派對'],False,,,,CapHatBirthday2,1.0.0,3
+552,clothes,頭戴物,風信子花冠,ヒヤシンスのかんむり,hyacinth crown,DIY,,640,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 4, 'itemName': '紅色風信子'}, {'count': 2, 'itemName': '黃色風信子'}, {'count': 2, 'itemName': '白色風信子'}]",['所有村民'],,CapOrnamentHyacinth1,1.0.0,1
+553,clothes,頭戴物,清新風信子花冠,ヒヤシンスのかんむり・クール,cool hyacinth crown,DIY,,1280,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 4, 'itemName': '藍色風信子'}, {'count': 2, 'itemName': '粉紅風信子'}, {'count': 2, 'itemName': '橘色風信子'}]",['所有村民'],,CapOrnamentHyacinth2,1.0.0,1
+554,clothes,頭戴物,紫色風信子花冠,ヒヤシンスのかんむり・パープル,purple hyacinth crown,DIY,,2880,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 6, 'itemName': '紫色風信子'}]",['所有村民'],,CapOrnamentHyacinth3,1.0.0,1
+555,clothes,頭戴物,銀蓮花花冠,アネモネのかんむり,windflower crown,DIY,,480,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 2, 'itemName': '紅色銀蓮花'}, {'count': 2, 'itemName': '橘色銀蓮花'}, {'count': 2, 'itemName': '白色銀蓮花'}]",['所有村民'],,CapOrnamentAnemone1,1.0.0,1
+556,clothes,頭戴物,清新銀蓮花花冠,アネモネのかんむり・クール,cool windflower crown,DIY,,960,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 3, 'itemName': '藍色銀蓮花'}, {'count': 3, 'itemName': '粉紅銀蓮花'}]",['所有村民'],,CapOrnamentAnemone2,1.0.0,1
+557,clothes,頭戴物,紫色銀蓮花花冠,アネモネのかんむり・パープル,purple windflower crown,DIY,,2880,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 6, 'itemName': '紫色銀蓮花'}]",['所有村民'],,CapOrnamentAnemone3,1.0.0,1
+558,clothes,頭戴物,鬱金香花冠,チューリップのかんむり,tulip crown,DIY,,400,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 2, 'itemName': '紅色鬱金香'}, {'count': 2, 'itemName': '黃色鬱金香'}, {'count': 1, 'itemName': '白色鬱金香'}]",['所有村民'],,CapOrnamentTulip1,1.0.0,1
+559,clothes,頭戴物,典雅鬱金香花冠,チューリップのかんむり・シック,chic tulip crown,DIY,,1440,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 2, 'itemName': '紫色鬱金香'}, {'count': 2, 'itemName': '粉紅鬱金香'}, {'count': 1, 'itemName': '橘色鬱金香'}]",['所有村民'],,CapOrnamentTulip2,1.0.0,1
+560,clothes,頭戴物,深色鬱金香花冠,チューリップのかんむり・ダーク,dark tulip crown,DIY,,800,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 5, 'itemName': '黑色鬱金香'}]",['所有村民'],,CapOrnamentTulip3,1.0.0,1
+561,clothes,頭戴物,三色堇花冠,パンジーのかんむり,pansy crown,DIY,,480,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 2, 'itemName': '紅色三色堇'}, {'count': 2, 'itemName': '黃色三色堇'}, {'count': 2, 'itemName': '白色三色堇'}]",['所有村民'],,CapOrnamentPansy1,1.0.0,1
+562,clothes,頭戴物,清新三色堇花冠,パンジーのかんむり・クール,cool pansy crown,DIY,,960,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 3, 'itemName': '紅黃三色堇'}, {'count': 3, 'itemName': '藍色三色堇'}]",['所有村民'],,CapOrnamentPansy2,1.0.0,1
+563,clothes,頭戴物,紫色三色堇花冠,パンジーのかんむり・パープル,purple pansy crown,DIY,,2880,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 6, 'itemName': '紫色三色堇'}]",['所有村民'],,CapOrnamentPansy3,1.0.0,1
+564,clothes,頭戴物,波斯菊花冠,コスモスのかんむり,cosmos crown,DIY,,480,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 2, 'itemName': '紅色波斯菊'}, {'count': 2, 'itemName': '黃色波斯菊'}, {'count': 3, 'itemName': '白色波斯菊'}]",['所有村民'],,CapOrnamentCosmos1,1.0.0,1
+565,clothes,頭戴物,甜美波斯菊花冠,コスモスのかんむり・ラブリー,lovely cosmos crown,DIY,,1120,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 4, 'itemName': '粉紅波斯菊'}, {'count': 3, 'itemName': '橘色波斯菊'}]",['所有村民'],,CapOrnamentCosmos2,1.0.0,1
+566,clothes,頭戴物,深色波斯菊花冠,コスモスのかんむり・ダーク,dark cosmos crown,DIY,,3360,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 7, 'itemName': '黑色波斯菊'}]",['所有村民'],,CapOrnamentCosmos3,1.0.0,1
+567,clothes,頭戴物,玫瑰花冠,バラのかんむり,rose crown,DIY,,480,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 2, 'itemName': '紅色玫瑰'}, {'count': 2, 'itemName': '黃色玫瑰'}, {'count': 2, 'itemName': '白色玫瑰'}]",['所有村民'],,CapOrnamentRose1,1.0.0,1
+568,clothes,頭戴物,可愛玫瑰花冠,バラのかんむり・キュート,cute rose crown,DIY,,960,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 3, 'itemName': '粉紅玫瑰'}, {'count': 3, 'itemName': '橘色玫瑰'}]",['所有村民'],,CapOrnamentRose2,1.0.0,1
+569,clothes,頭戴物,典雅玫瑰花冠,バラのかんむり・シック,chic rose crown,DIY,,2880,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 3, 'itemName': '紫色玫瑰'}, {'count': 3, 'itemName': '黑色玫瑰'}]",['所有村民'],,CapOrnamentRose3,1.0.0,1
+570,clothes,頭戴物,百合花冠,ユリのかんむり,lily crown,DIY,,480,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 2, 'itemName': '紅色百合'}, {'count': 2, 'itemName': '黃色百合'}, {'count': 2, 'itemName': '白色百合'}]",['所有村民'],,CapOrnamentYuri1,1.0.0,1
+571,clothes,頭戴物,可愛百合花冠,ユリのかんむり・キュート,cute lily crown,DIY,,800,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 2, 'itemName': '粉紅百合'}, {'count': 2, 'itemName': '橘色百合'}, {'count': 2, 'itemName': '白色百合'}]",['所有村民'],,CapOrnamentYuri2,1.0.0,1
+572,clothes,頭戴物,深色百合花冠,ユリのかんむり・ダーク,dark lily crown,DIY,,960,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 6, 'itemName': '黑色百合'}]",['所有村民'],,CapOrnamentYuri3,1.0.0,1
+573,clothes,頭戴物,菊花花冠,キクのかんむり,mum crown,DIY,,480,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 2, 'itemName': '紅色菊花'}, {'count': 2, 'itemName': '黃色菊花'}, {'count': 2, 'itemName': '白色菊花'}]",['所有村民'],,CapOrnamentMum1,1.0.0,1
+574,clothes,頭戴物,典雅菊花花冠,キクのかんむり・シック,chic mum crown,DIY,,960,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 3, 'itemName': '紫色菊花'}, {'count': 3, 'itemName': '粉紅菊花'}]",['所有村民'],,CapOrnamentMum2,1.0.0,1
+575,clothes,頭戴物,簡約菊花花冠,キクのかんむり・シンプル,simple mum crown,DIY,,2880,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 6, 'itemName': '綠色菊花'}]",['所有村民'],,CapOrnamentMum3,1.0.0,1
+576,clothes,上身,雪花毛衣,けっしょうのセーター,snowflake sweater,裁縫店,960,240,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLSnowcrystal1,1.0.0,2
+577,clothes,上身,破洞針織衫,ダメージニット,thread-worn sweater,裁縫店,980,245,全年,True,酷感,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLDamage1,1.0.0,4
+578,clothes,套裝,摔角制服,レスリングのユニフォーム,wrestling singlet,裁縫店,1540,385,全年,True,活潑,"['運動', '工作']",False,,,,TopsTexOnepieceOverallNWrestler0,1.0.0,3
+579,clothes,頭戴物,網帽,メッシュキャップ,mesh cap,裁縫店,560,140,全年,True,活潑,"['正式', '派對', '舞台', '工作']",False,,,,CapHatMeshcap6,1.0.0,7
+580,clothes,頭戴物,絲質禮帽,シルクハット,top hat,裁縫店,2100,525,全年,True,優雅,"['日常生活', '戶外活動', '運動']",False,,,,CapHatSilkhat1,1.0.0,6
+581,clothes,上身,盔甲,かっちゅう,samurai shirt,裁縫店,6720,1680,全年,True,酷感,"['舞台', '工作']",False,,,,TopsTexTopCoatLSamurai3,1.0.0,5
+582,clothes,套裝,旗袍,チャイナドレス,sleeveless silk dress,裁縫店,2520,630,全年,True,優雅,"['日常生活', '正式', '派對']",False,,,,TopsTexOnepieceBlongLChina3,1.0.0,7
+583,clothes,上身,圍裙連袖套,うでカバーつきエプロン,sleeved apron,裁縫店,960,240,全年,True,活潑,"['戶外活動', '工作']",False,,,,TopsTexTopCoatLHandcover0,1.0.0,5
+585,clothes,上身,怪盜服,かいとうのふく,thief's costume,裁縫店,2600,650,全年,True,酷感,"['童話世界', '舞台']",False,,,,TopsTexTopCoatLThiefBlack,1.0.0,1
+586,clothes,套裝,太空連身裙,スペースワンピース,astro dress,裁縫店,2500,625,全年,True,酷感,"['童話世界', '舞台']",False,,,,TopsTexOnepieceAlineNSpace2,1.0.0,3
+587,clothes,頭戴物,探險帽,たんけんぼう,explorer's hat,裁縫店,1040,260,全年,True,活潑,"['戶外活動', '工作']",False,,,,CapHatExpedition2,1.0.0,4
+588,clothes,頭戴物,學士帽,がくしのぼうし,scholar's hat,裁縫店,3010,752,全年,True,簡單,"['正式', '工作']",False,,,,CapHatBachelor0,1.0.0,4
+589,clothes,頭戴物,墨西哥草帽,ソンブレロ,sombrero,呂遊,,500,全年,True,活潑,"['正式', '派對', '舞台']",False,,,,CapHatSombrero5,1.0.0,8
+590,clothes,頭戴物,安全帽,あんぜんヘルメット,safety helmet,裁縫店,770,192,全年,True,活潑,['工作'],False,,,,CapHatSafetyhat4,1.0.0,5
+591,clothes,頭戴物,廚師帽,コックさんのぼうし,chef's hat,裁縫店,840,210,全年,True,簡單,['工作'],False,,,,CapHatCockWhite,1.0.0,1
+592,clothes,頭戴物,警官帽,けいかんのぼうし,police cap,裁縫店,1680,420,全年,True,活潑,"['正式', '工作']",False,,,,CapHatPoliceNavy,1.0.0,1
+593,clothes,頭戴物,海盜帽子,かいぞくのぼうし,pirate's hat,海盜,,860,全年,True,酷感,"['童話世界', '正式', '恐怖', '舞台']",False,,,,CapHatPirate0,1.3.0,1
+594,clothes,頭戴物,斗笠,かさぼうし,bamboo hat,DIY,,200,全年,True,簡單,"['童話世界', '戶外活動']",True,"[{'count': 10, 'itemName': '雜草'}]",['暴躁型村民'],,CapHatAjiroBeige,1.0.0,1
+595,clothes,頭戴物,仿毛皮帽,フェイクファーハット,faux-fur hat,裁縫店,1300,325,冬季,True,優雅,"['日常生活', '正式', '派對']",False,,,,CapHatUshanka5,1.0.0,7
+596,clothes,頭戴物,三角巾,さんかくきん,do-rag,裁縫店,560,140,全年,True,簡單,['工作'],False,,,,CapHatTriangle4,1.0.0,8
+597,clothes,頭戴物,針織帽,ニットキャップ,knit hat,裁縫店,560,140,冬季,True,簡單,"['日常生活', '戶外活動', '悠閒']",False,,,,CapHatKnitcap1,1.0.0,8
+598,clothes,頭戴物,狩獵帽,ハンチング,paperboy cap,裁縫店,1470,367,全年,True,簡單,"['日常生活', '正式', '工作']",False,,,,CapHatHunting1,1.0.0,5
+599,clothes,頭戴物,軍帽,ワークキャップ,plain cap,裁縫店,560,140,全年,True,簡單,"['戶外活動', '工作']",False,,,,CapHatWorkcap0,1.0.0,5
+600,clothes,襪子,隱形襪,フットカバー,ultra no-show socks,裁縫店,480,120,全年,False,簡單,"['日常生活', '戶外活動', '運動']",False,,,,SocksTexFootcover7,1.0.0,8
+601,clothes,襪子,混色斜紋軟呢襪,ミックスツイードソックス,mixed-tweed socks,裁縫店,800,200,全年,False,簡單,"['日常生活', '悠閒']",False,,,,SocksTexMixtweed0,1.0.0,8
+602,clothes,襪子,保暖襪套,レッグウォーマー,leg warmers,裁縫店,440,110,冬季,False,活潑,"['戶外活動', '悠閒']",False,,,,SocksTexLegwarmer2,1.0.0,6
+603,clothes,襪子,壓力褲襪,コンプレッションタイツ,compression tights,薛革,600,150,全年,False,活潑,"['戶外活動', '運動', '工作']",False,,,,SocksTexCompression4,1.0.0,5
+604,clothes,襪子,三折襪,みつおりソックス,bobby socks,裁縫店,480,120,全年,False,優雅,"['正式', '工作']",False,,,,SocksTexFolded0,1.0.0,4
+605,clothes,襪子,蕾絲花邊膝上襪,フリルつきニーハイソックス,frilly knee-high socks,薛革,840,210,春季,False,可愛,"['日常生活', '童話世界', '派對', '舞台']",False,,,,SocksTexFrilledknee0,1.0.0,8
+606,clothes,襪子,蕾絲襪,レースのソックス,lace socks,裁縫店,720,180,全年,False,優雅,"['日常生活', '童話世界', '正式', '派對']",False,,,,SocksTexLace0,1.0.0,5
+607,clothes,襪子,蕾絲花邊襪,フリルソックス,frilly socks,裁縫店,720,180,全年,False,可愛,"['日常生活', '童話世界', '正式', '派對']",False,,,,SocksTexFrilled0,1.0.0,6
+608,clothes,襪子,破洞褲襪,あなあきタイツ,holey tights,裁縫店,350,87,全年,False,酷感,"['日常生活', '恐怖', '舞台']",False,,,,SocksTexHoletights0,1.0.0,8
+609,clothes,襪子,足球襪,サッカーソックス,soccer socks,薛革,800,200,全年,False,活潑,"['運動', '工作']",False,,,,SocksTexFootball6,1.0.0,7
+610,clothes,襪子,破洞襪,あなあきソックス,holey socks,回收箱,,10,全年,False,簡單,"['恐怖', '悠閒']",False,,,,SocksTexHole0,1.0.0,3
+611,clothes,襪子,毛球襪,ポンポンソックス,pom-pom socks,裁縫店,720,180,冬季,False,可愛,"['日常生活', '童話世界', '悠閒']",False,,,,SocksTexBobble0,1.0.0,5
+612,clothes,襪子,多色方塊襪,マルチブロックソックス,color-blocked socks,薛革,840,210,全年,False,可愛,['日常生活'],False,,,,SocksTexMultiblock5,1.0.0,8
+613,clothes,襪子,毛絨襪,もこもこソックス,terry-cloth socks,裁縫店,600,150,冬季,False,可愛,"['童話世界', '悠閒']",False,,,,SocksTexFluffy6,1.0.0,7
+614,clothes,飾品,虛擬實境頭戴式顯示器,HMD,HMD,裁縫店,2000,500,全年,True,酷感,['悠閒'],False,,,,AccessoryGlassHmdWhite,1.0.0,1
+615,clothes,飾品,夜視鏡,ナイトビジョン,night-vision goggles,裁縫店,1560,390,全年,True,活潑,['戶外活動'],False,,,,AccessoryGlassNightvisionBlack,1.0.0,1
+616,clothes,上身,活力毛衣,すこやかなセーター,energetic sweater,裁縫店,960,240,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopYshirtsLKids3,1.0.0,4
+617,clothes,頭戴物,水手帽,ふなのりのぼうし,sailor's hat,裁縫店,1680,420,全年,True,簡單,"['度假', '工作']",False,,,,CapHatSailor0,1.0.0,3
+618,clothes,頭戴物,維京人頭盔,バイキングのかぶと,viking helmet,裁縫店,2100,525,全年,True,活潑,['童話世界'],False,,,,CapHatViking0,1.0.0,3
+619,clothes,襪子,多層襪,かさねばきソックス,layered socks,裁縫店,720,180,冬季,False,簡單,"['日常生活', '悠閒']",False,,,,SockstTexOverlapping4,1.0.0,6
+620,clothes,襪子,手工編織襪,てあみのソックス,hand-knit socks,裁縫店,700,175,全年,False,簡單,"['戶外活動', '悠閒']",False,,,,SocksTexHandknit2,1.0.0,3
+621,clothes,襪子,有氧運動緊身褲,エアロビレギンス,aerobics leggings,薛革,700,175,全年,False,活潑,['運動'],False,,,,SocksTexAerobics0,1.0.0,5
+622,clothes,襪子,泡泡襪,くしゅくしゅソックス,puckered socks,裁縫店,600,150,全年,False,優雅,['日常生活'],False,,,,SocksTexPucker1,1.0.0,5
+623,clothes,襪子,粗橫紋襪,ボーダーソックス,striped socks,裁縫店,600,150,全年,False,簡單,"['日常生活', '悠閒']",False,,,,SocksTexBorder0,1.0.0,8
+624,clothes,襪子,小圖案襪,ワンポイントソックス,simple-accent socks,裁縫店,720,180,全年,False,簡單,"['日常生活', '正式']",False,,,,SocksTexOnepoint2,1.0.0,8
+625,clothes,襪子,兒童襪,キッズソックス,kiddie socks,薛革,600,150,全年,False,可愛,"['日常生活', '戶外活動', '悠閒', '運動']",False,,,,SocksTexKids7,1.0.0,8
+626,clothes,襪子,鉤針編織襪,かぎばりあみソックス,crocheted socks,裁縫店,600,150,全年,False,優雅,"['日常生活', '悠閒']",False,,,,SocksTexCrocheting1,1.0.0,4
+627,clothes,襪子,蜘蛛褲襪,スパイダーなタイツ,spider-web tights,薛革,720,180,秋季,False,酷感,"['恐怖', '派對', '舞台']",False,,,,SocksTexSpider1,1.0.0,4
+628,clothes,襪子,花紋刺繡褲襪,はながらししゅうのタイツ,embroidered-flower tights,裁縫店,1000,250,全年,False,可愛,"['日常生活', '童話世界', '派對']",False,,,,SocksTexEmbroidery1,1.0.0,6
+629,clothes,襪子,跑步緊身褲,ランニングタイツ,running tights,裁縫店,550,137,全年,False,活潑,"['戶外活動', '運動', '工作']",False,,,,SocksTexRun0,1.0.0,4
+630,clothes,飾品,小狗鼻子道具,イヌのつけばな,dog nose,裁縫店,560,140,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,AccessoryMouthDog0,1.0.0,3
+631,clothes,頭戴物,魔女帽,まじょのぼうし,mage's hat,裁縫店,3440,860,全年,True,酷感,"['童話世界', '恐怖']",False,,,,CapHatWitch0,1.0.0,4
+632,clothes,頭戴物,牛仔布帽,デニムキャップ,denim cap,裁縫店,770,192,全年,True,簡單,"['日常生活', '戶外活動', '運動']",False,,,,CapHatDenim0,1.0.0,4
+633,clothes,頭戴物,單車帽,サイクルキャップ,cycling cap,裁縫店,1100,275,全年,True,活潑,"['戶外活動', '運動']",False,,,,CapHatCycle0,1.0.0,8
+634,clothes,頭戴物,戶外登山帽,アウトドアハット,outdoor hat,裁縫店,1100,275,全年,True,活潑,"['戶外活動', '運動']",False,,,,CapHatOutdoor3,1.0.0,8
+635,clothes,頭戴物,平頂草帽,カンカンぼう,straw boater,裁縫店,700,175,夏季,True,簡單,"['日常生活', '童話世界', '度假']",False,,,,CapHatKankanbo5,1.0.0,8
+636,clothes,頭戴物,貝雷帽,ベレーぼう,beret,裁縫店,880,220,全年,True,優雅,"['日常生活', '正式', '派對']",False,,,,CapHatBeret5,1.0.0,6
+637,clothes,頭戴物,橘子帽子,オレンジのぼうし,orange hat,DIY,,1000,全年,True,可愛,"['童話世界', '派對', '舞台']",True,"[{'count': 5, 'itemName': '橘子'}]",['悠閒型村民'],,CapHatOrange,1.0.0,1
+638,clothes,頭戴物,奇異果帽子,キウイのぼうし,kiwi hat,裁縫店,770,192,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,CapHatKiwi,1.0.0,1
+639,clothes,頭戴物,草莓帽子,いちごのぼうし,strawberry hat,裁縫店,700,175,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,CapHatStrawberry,1.0.0,1
+640,clothes,頭戴物,葡萄帽子,ぶどうのぼうし,grape hat,裁縫店,700,175,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,CapHatGrape,1.0.0,1
+641,clothes,頭戴物,鳳梨帽子,パイナップルのぼうし,pineapple cap,裁縫店,700,175,夏季,True,可愛,"['童話世界', '派對', '舞台', '度假']",False,,,,CapHatPineapple,1.0.0,1
+642,clothes,頭戴物,西瓜帽子,スイカのぼうし,watermelon hat,裁縫店,980,245,夏季,True,可愛,"['童話世界', '派對', '舞台', '度假']",False,,,,CapHatWatermelon,1.0.0,1
+644,clothes,頭戴物,日本料理廚師帽,わぼうし,sushi chef hat,裁縫店,880,220,全年,True,簡單,['工作'],False,,,,CapHatItamae0,1.0.0,2
+645,clothes,頭戴物,單車安全帽,サイクルヘルメット,bicycle helmet,裁縫店,1100,275,全年,True,活潑,['運動'],False,,,,CapHatCyclemet2,1.0.0,8
+646,clothes,頭戴物,泳帽,すいえいキャップ,swimming cap,裁縫店,560,140,夏季,True,活潑,"['戶外活動', '運動', '度假']",False,,,,CapHatSwim3,1.0.0,8
+647,clothes,頭戴物,唐裝帽,チャイナハット,silk hat,呂遊,,500,全年,True,優雅,"['日常生活', '正式']",False,,,,CapHatChina3,1.0.0,4
+648,clothes,下身,卡其寬褲,ワイドチノ,wide chino pants,裁縫店,1100,275,全年,False,簡單,"['日常生活', '戶外活動']",False,,,,BottomsTexPantsWideChino4,1.0.0,5
+649,clothes,下身,化學洗牛仔褲,ケミカルウォッシュデニム,acid-washed jeans,裁縫店,1320,330,全年,False,簡單,"['日常生活', '戶外活動']",False,,,,BottomsTexPantsNormalChemical1,1.0.0,2
+650,clothes,套裝,熱狗服,ホットドッグなふく,hot-dog costume,裁縫店,1280,320,全年,True,活潑,"['派對', '舞台']",False,,,,TopsTexOnepieceRibNHotdogMustard,1.0.0,1
+651,clothes,套裝,連身工作服搭袖套,うでカバーつきつなぎ,coveralls with arm covers,裁縫店,1600,400,全年,True,活潑,"['戶外活動', '工作']",False,,,,TopsTexOnepieceOverallLFarmer3,1.0.0,5
+652,clothes,上身,刷白牛仔外套,ケミカルデニムジャケット,acid-washed jacket,裁縫店,1680,420,全年,True,簡單,"['日常生活', '戶外活動']",False,,,,TopsTexTopOuterLChemical1,1.0.0,2
+653,clothes,上身,音樂節衣服,ミュージックフェスなふく,music-fest shirt,裁縫店,1200,300,全年,True,活潑,"['戶外活動', '舞台']",False,,,,TopsTexTopTshirtsLLive0,1.0.0,4
+654,clothes,上身,蓑衣,みの,traditional straw coat,DIY,,160,全年,True,簡單,"['童話世界', '戶外活動']",True,"[{'count': 8, 'itemName': '雜草'}]",['普通型村民'],,TopsTexTopCoatLStrawBeige,1.0.0,1
+655,clothes,上身,嘻哈風衣服,レペゼンなふく,old-school jacket,裁縫店,1800,450,全年,True,華麗,['舞台'],False,,,,TopsTexTopOuterLRepresent0,1.0.0,3
+656,clothes,頭戴物,花瓣帽,チューリップハット,tulip hat,裁縫店,630,157,全年,True,簡單,"['戶外活動', '悠閒']",False,,,,CapHatTulip0,1.0.0,3
+657,clothes,頭戴物,變形蟲圖騰頭巾,ペイズリーのバンダナ,paisley bandanna,裁縫店,700,175,全年,True,活潑,['戶外活動'],False,,,,CapHatBandana3,1.0.0,8
+658,clothes,頭戴物,提洛爾帽子,チロリアンハット,alpinist hat,呂遊,,500,全年,True,簡單,"['日常生活', '正式']",False,,,,CapHatTyrolean2,1.0.0,3
+659,clothes,頭戴物,蝴蝶結圓頂硬禮帽,リボンボーラーハット,bowler hat with ribbon,裁縫店,1100,275,全年,True,優雅,"['童話世界', '正式', '派對']",False,,,,CapHatBowler3,1.0.0,5
+660,clothes,頭戴物,寬邊草帽,つばひろストローハット,wide-brim straw hat,裁縫店,1320,330,全年,True,優雅,"['派對', '度假']",False,,,,CapHatStraw2,1.0.0,3
+661,clothes,頭戴物,圓點浴帽,みずたまシャワーキャップ,dotted shower cap,裁縫店,560,140,全年,True,簡單,['悠閒'],False,,,,CapHatShowercap0,1.0.0,2
+662,clothes,頭戴物,紳士帽,なかおれハット,fedora,裁縫店,1100,275,全年,True,酷感,"['日常生活', '正式', '工作']",False,,,,CapHatFelt4,1.0.0,6
+663,clothes,頭戴物,簡樸帽子,しっそなぼうし,frugal hat,裁縫店,350,87,全年,True,簡單,"['童話世界', '恐怖']",False,,,,CapHatSimple1,1.0.0,3
+664,clothes,頭戴物,運動帽,うんどうぼう,sports cap,裁縫店,560,140,全年,True,簡單,['運動'],False,,,,CapHatSports1,1.0.0,4
+665,clothes,頭戴物,毛絨睡帽,もこもこナイトキャップ,terry-cloth nightcap,裁縫店,840,210,全年,True,可愛,"['童話世界', '悠閒']",False,,,,CapHatNightcap4,1.0.0,8
+667,clothes,頭戴物,王冠,おうかん,royal crown,裁縫店,1200000,300000,全年,True,華麗,"['童話世界', '派對', '舞台']",False,,,,CapHatCrownRed,1.0.0,1
+669,clothes,頭戴物,毛巾帽,タオル,terry-cloth do-rag,裁縫店,490,122,全年,True,簡單,"['戶外活動', '悠閒', '運動', '工作']",False,,,,CapHatTowel0,1.0.0,6
+670,clothes,頭戴物,尖頂針織帽,どんぐりニット,acorn knit cap,裁縫店,880,220,全年,True,可愛,"['日常生活', '悠閒']",False,,,,CapHatAcorn3,1.0.0,6
+671,clothes,頭戴物,鋼盔,コンバットヘルメット,combat helmet,裁縫店,1120,280,全年,True,活潑,['戶外活動'],False,,,,CapHatCombat1,1.0.0,2
+673,clothes,上身,跳舞運動服,ダンスジャージ,dance-team jacket,裁縫店,1680,420,全年,True,活潑,"['運動', '舞台']",False,,,,TopsTexTopYshirtsLCool1,1.0.0,4
+674,clothes,頭戴物,小偷頭巾,ほっかむり,headkerchief,裁縫店,490,122,全年,False,酷感,"['恐怖', '戶外活動']",False,,,,CapFullfaceHokkamuriGreen,1.0.0,1
+675,clothes,頭戴物,童話風頭巾,メルヘンなずきん,fairy-tale hood,裁縫店,1560,390,全年,False,可愛,"['童話世界', '舞台']",False,,,,CapBangsCowl0,1.0.0,8
+676,clothes,頭戴物,木乃伊頭套,ミイラのかぶりもの,mummy mask,裁縫店,980,245,全年,False,酷感,"['童話世界', '恐怖', '舞台']",False,,,,CapFullfaceMummyWhite,1.0.0,1
+677,clothes,頭戴物,兔子頭套,ウサギのかぶりもの,bunny hood,裁縫店,1120,280,全年,False,可愛,"['童話世界', '派對']",False,,,,CapBangsRabbit2,1.0.0,3
+678,clothes,頭戴物,貓頭套,ネコのかぶりもの,cat cap,裁縫店,980,245,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,CapBangsCat2,1.0.0,3
+679,clothes,頭戴物,全罩式頭套,めだしぼう,ski mask,裁縫店,560,140,全年,False,酷感,['恐怖'],False,,,,CapFullfaceFaceknit1,1.0.0,5
+680,clothes,頭戴物,骸骨頭套,ガイコツのかぶりもの,skeleton hood,裁縫店,1400,350,全年,False,酷感,"['童話世界', '恐怖', '舞台']",False,,,,CapCostumeSkullWhite,1.0.0,1
+681,clothes,頭戴物,短版針織帽,あさいニットぼう,shallow knit cap,裁縫店,560,140,全年,True,簡單,"['日常生活', '戶外活動']",False,,,,CapHatShallow5,1.0.0,7
+682,clothes,頭戴物,熊頭套,クマのかぶりもの,bear cap,裁縫店,1120,280,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,CapBangsBear0,1.0.0,4
+683,clothes,頭戴物,河童頭頂,カッパのおさら,kappa cap,裁縫店,980,245,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,CapCostumeKappa0,1.0.0,2
+684,clothes,頭戴物,船長帽子,キャプテンのぼうし,captain's hat,裁縫店,1680,420,全年,True,酷感,"['正式', '工作']",False,,,,CapHatCaptainWhite,1.0.0,1
+685,clothes,頭戴物,報童帽,キャスケット,dandy hat,裁縫店,1100,275,全年,True,優雅,['日常生活'],False,,,,CapHatCasquette5,1.0.0,6
+686,clothes,頭戴物,鐵甲面罩,アイアンアーマーヘルメット,knight's helmet,DIY,,3750,全年,False,酷感,"['童話世界', '恐怖']",True,"[{'count': 5, 'itemName': '鐵礦石'}]",['暴躁型村民'],,CapFullfaceKnightIron,1.0.0,1
+687,clothes,頭戴物,青蛙頭套,カエルのかぶりもの,frog cap,裁縫店,1120,280,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,CapCostumeFrog0,1.0.0,4
+688,clothes,頭戴物,尖頭帽,とんがりぼうし,wizard's cap,裁縫店,880,220,全年,True,活潑,"['童話世界', '派對']",False,,,,CapHatWizard0,1.0.0,2
+689,clothes,頭戴物,氣球帽,バルーンハット,balloon hat,裁縫店,1120,280,全年,True,活潑,"['派對', '舞台']",False,,,,CapHatBalloon1,1.0.0,4
+690,clothes,下身,跳舞運動褲,ダンスジャージズボン,dance warm-up pants,裁縫店,1560,390,全年,False,活潑,"['運動', '舞台']",False,,,,BottomsTexPantsWideCool1,1.0.0,4
+692,clothes,頭戴物,金頭盔,ゴールデンアーマーヘルメット,gold helmet,DIY,,50000,全年,False,華麗,"['童話世界', '恐怖']",True,"[{'count': 5, 'itemName': '金礦石'}]",['自戀型村民'],,CapFullfaceKnightGold,1.0.0,1
+694,clothes,上身,蓬蓬袖罩衫,フリルパフブラウス,puffy-sleeve blouse,裁縫店,800,200,夏季,True,簡單,"['日常生活', '童話世界', '度假']",False,,,,TopsTexTopPuffHFrill2,1.0.0,4
+695,clothes,套裝,連身褲,オールインワン,stylish jumpsuit,裁縫店,2100,525,全年,True,優雅,"['日常生活', '工作']",False,,,,TopsTexOnepieceSalopetteLAllinone1,1.0.0,5
+696,clothes,頭戴物,優雅帽子,エレガントなぼうし,elegant hat,裁縫店,2100,525,全年,True,優雅,"['童話世界', '正式', '派對', '舞台']",False,,,,CapHatElegant3,1.0.0,5
+697,clothes,頭戴物,美式足球安全帽,アメフトヘルメット,football helmet,裁縫店,1440,360,全年,False,活潑,"['運動', '工作']",False,,,,CapFullfaceFootball1,1.0.0,8
+698,clothes,頭戴物,消防員帽子,しょうぼうしのぼうし,firefighter's hat,裁縫店,1680,420,全年,False,活潑,['工作'],False,,,,CapBangsFirefighter0,1.0.0,5
+699,clothes,頭戴物,焊接面罩,ようせつマスク,welding mask,裁縫店,1040,260,全年,False,活潑,"['恐怖', '工作']",False,,,,CapMaskWelderRed,1.0.0,1
+700,clothes,上身,聖誕毛衣,クリスマスセーター,holiday sweater,裁縫店,1800,450,全年,True,可愛,"['派對', '悠閒']",False,,,,TopsTexTopOuterLChristmas1,1.0.0,3
+701,clothes,頭戴物,小丑帽子,ピエロのぼうし,jester's cap,裁縫店,1900,475,全年,True,活潑,"['童話世界', '恐怖', '派對', '舞台', '工作']",False,,,,CapHatClown1,1.0.0,4
+702,clothes,頭戴物,頭盔,かぶと,samurai helmet,裁縫店,5880,1470,全年,False,活潑,"['舞台', '工作']",False,,,,CapCostumeSamurai3,1.0.0,5
+703,clothes,套裝,肌肉裝,マッスルスーツ,instant-muscles suit,裁縫店,2280,570,全年,True,活潑,"['派對', '運動', '舞台']",False,,,,TopsTexOnepieceOverallLMuscle5,1.0.0,8
+704,clothes,頭戴物,荷蘭帽子,オランダのぼうし,milkmaid hat,呂遊,,800,全年,False,優雅,"['日常生活', '正式']",False,,,,CapBangsVolendamWhite,1.0.0,1
+705,clothes,鞋子,登山鞋,トレッキングシューズ,trekking shoes,裁縫店,1500,375,全年,False,活潑,"['戶外活動', '運動']",False,,,,ShoesHighcutTrekking6,1.0.0,8
+706,clothes,頭戴物,飛行帽,ひこうぼう,pilot's cap,裁縫店,1120,280,全年,False,酷感,"['戶外活動', '工作']",False,,,,CapHelmetPilot1,1.0.0,3
+707,clothes,頭戴物,嬰兒帽子,あかちゃんのぼうし,baby's hat,裁縫店,560,140,全年,False,可愛,['悠閒'],False,,,,CapBangsBonnet4,1.0.0,8
+708,clothes,頭戴物,忍者頭巾,にんじゃずきん,ninja hood,裁縫店,1400,350,全年,False,酷感,"['童話世界', '工作']",False,,,,CapCostumeNinja0,1.0.0,8
+709,clothes,頭戴物,棒球安全帽,やきゅうのヘルメット,batter's helmet,裁縫店,1040,260,全年,False,活潑,"['運動', '工作']",False,,,,CapHelmetBaseball3,1.0.0,5
+710,clothes,頭戴物,馬術安全帽,ジョッキーヘルメット,jockey's helmet,裁縫店,1120,280,全年,True,活潑,"['運動', '工作']",False,,,,CapHatJockey7,1.0.0,8
+711,clothes,頭戴物,職業摔角面具,プロレスのマスク,wrestling mask,裁縫店,1120,280,全年,False,活潑,"['運動', '舞台', '工作']",False,,,,CapCostumeWrestling4,1.0.0,6
+712,clothes,頭戴物,熱狗頭套,ホットドッグマスク,hot-dog hood,裁縫店,560,140,全年,False,活潑,"['派對', '舞台']",False,,,,CapBangsSausage,1.0.0,1
+713,clothes,頭戴物,耳罩針織帽,みみあてつきニット,knit cap with earflaps,裁縫店,1000,250,冬季,False,可愛,"['日常生活', '悠閒']",False,,,,CapBangsEarknit6,1.0.0,7
+714,clothes,頭戴物,名偵探帽,めいたんていのぼうし,detective hat,裁縫店,2100,525,全年,True,優雅,['工作'],False,,,,CapHatDetective1,1.0.0,3
+715,clothes,套裝,科技裝,サイバースーツ,cyber suit,裁縫店,3500,875,全年,True,酷感,"['派對', '舞台']",False,,,,TopsTexOnepieceOverallLCyber2,1.0.0,3
+716,clothes,套裝,花式溜冰洋裝,フィギュアのドレス,figure-skating dress,裁縫店,2880,720,全年,True,活潑,"['運動', '舞台', '工作']",False,,,,TopsTexOnepieceBalloonNFigure6,1.0.0,7
+717,clothes,頭戴物,太空人安全帽,アストロヘルメット,space helmet,裁縫店,4300,1075,全年,False,活潑,['工作'],False,,,,CapFullfaceAstronautWhite,1.0.0,1
+718,clothes,頭戴物,漆彈面罩,ペイントボールマスク,paintball mask,裁縫店,1040,260,全年,False,酷感,"['戶外活動', '運動']",False,,,,CapMaskPaint1,1.0.0,4
+719,clothes,頭戴物,草帽,むぎわらぼうし,straw hat,裁縫店,490,122,夏季,True,簡單,"['日常生活', '悠閒', '度假']",False,,,,CapHatStrawhat2,1.0.0,3
+720,clothes,頭戴物,牛仔帽,テンガロンハット,outback hat,裁縫店,1560,390,全年,True,優雅,"['日常生活', '戶外活動', '工作']",False,,,,CapHatTengallon4,1.0.0,5
+721,clothes,套裝,花式溜冰服裝,フィギュアないしょう,figure-skating costume,裁縫店,2880,720,全年,True,活潑,"['運動', '舞台', '工作']",False,,,,TopsTexOnepieceOverallLFigure6,1.0.0,7
+723,clothes,襪子,卡通圖案襪,キャラクターソックス,funny-face socks,薛革,600,150,夏季,False,活潑,"['日常生活', '悠閒']",False,,,,SocksTexCharacter4,1.0.0,5
+724,clothes,頭戴物,下雪針織帽,スノーニットぼう,snowy knit cap,裁縫店,700,175,冬季,True,簡單,"['日常生活', '戶外活動']",False,,,,CapHatSnowknit7,1.0.0,8
+725,clothes,頭戴物,彩色粗橫紋針織帽,カラフルボーダーニットぼう,colorful striped knit cap,裁縫店,880,220,冬季,True,可愛,"['日常生活', '戶外活動']",False,,,,CapHatColorful0,1.0.0,6
+726,clothes,下身,對話框短褲,アメコミがらハーフパンツ,comic shorts,裁縫店,1140,285,全年,False,酷感,"['悠閒', '度假']",False,,,,BottomsTexPantsHalfComic0,1.0.0,1
+727,clothes,下身,束口燈籠褲,もんぺ,traditional monpe pants,裁縫店,1040,260,全年,False,簡單,"['戶外活動', '工作']",False,,,,BottomsTexPantsNormalMonpe3,1.0.0,4
+728,clothes,下身,防雨褲,レインパンツ,rain pants,裁縫店,700,175,全年,False,簡單,['戶外活動'],False,,,,BottomsTexPantsWideRain7,1.0.0,8
+729,clothes,下身,針織裙,ニットスカート,knit skirt,裁縫店,910,227,冬季,False,簡單,"['日常生活', '悠閒']",False,,,,BottomsTexSkirtBoxAran2,1.0.0,4
+730,clothes,下身,毛毛裙,ファースカート,faux-fur skirt,裁縫店,1440,360,冬季,False,可愛,"['日常生活', '童話世界', '派對']",False,,,,BottomsTexSkirtAlineFur2,1.0.0,5
+731,clothes,下身,荷葉邊棉褲,スウェットフリルズボン,frilly sweatpants,裁縫店,880,220,全年,False,可愛,['日常生活'],False,,,,BottomsTexPantsNormalSweatfrill5,1.0.0,6
+732,clothes,下身,棉質長裙,スウェットロングスカート,long sweatskirt,裁縫店,1000,250,全年,False,活潑,"['日常生活', '悠閒']",False,,,,BottomsTexSkirtLongSweat1,1.0.0,4
+733,clothes,下身,絨毛裙,ボアスカート,boa skirt,裁縫店,1300,325,冬季,False,活潑,"['日常生活', '戶外活動']",False,,,,BottomsTexSkirtBoxBoa3,1.0.0,8
+734,clothes,下身,絨毛短褲,ボアハーフパンツ,boa shorts,裁縫店,1200,300,冬季,False,活潑,"['日常生活', '戶外活動']",False,,,,BottomsTexPantsHalfBoa7,1.0.0,8
+735,clothes,下身,喇叭皮裙,レザーのフレアスカート,pleather flare skirt,裁縫店,1560,390,全年,False,活潑,"['日常生活', '正式']",False,,,,BottomsTexSkirtAlineLeather7,1.0.0,8
+736,clothes,下身,前排釦蕾絲裙,まえボタンレースのスカート,buttoned lace skirt,裁縫店,1200,300,夏季,False,簡單,"['日常生活', '童話世界', '悠閒', '度假']",False,,,,BottomsTexSkirtLongLace1,1.0.0,5
+737,clothes,下身,芭蕾舞紗裙,チュチュスカート,petal skirt,裁縫店,1540,385,全年,False,華麗,"['派對', '舞台']",False,,,,BottomsTexSkirtAlineTutu0,1.0.0,3
+738,clothes,頭戴物,英雄安全帽,ヒーローヘルメット,zap helmet,裁縫店,1600,400,全年,False,活潑,"['童話世界', '舞台', '工作']",False,,,,CapFullfaceHero3,1.0.0,8
+739,clothes,套裝,動力裝,パワードスーツ,power suit,裁縫店,3780,945,全年,True,活潑,"['童話世界', '舞台', '工作']",False,,,,TopsTexOnepieceOverallLPowered3,1.0.0,4
+740,clothes,套裝,文藝復興洋裝,ルネッサンスなドレス,Renaissance dress,裁縫店,6000,1500,全年,True,華麗,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceAlongLRenaissance0,1.0.0,6
+741,clothes,頭戴物,特本頭巾,ターバン,turban,呂遊,,800,全年,False,優雅,"['日常生活', '正式']",False,,,,CapHelmetTurban2,1.0.0,4
+742,clothes,頭戴物,護目鏡安全帽,ゴーグルつきヘルメット,helmet with goggles,裁縫店,1100,275,全年,False,活潑,"['運動', '工作']",False,,,,CapCostumeGogglehelmet6,1.0.0,8
+743,clothes,上身,背心連望遠鏡,そうがんきょうつきベスト,vest with binoculars,購物：特別購物,1440,360,全年,True,簡單,"['戶外活動', '工作']",False,,,,TopsTexTopYshirtsLGlassBeige,1.0.0,1
+745,clothes,上身,襯衫連照相機,カメラつきワイシャツ,shirt with camera,裁縫店,1440,360,全年,True,簡單,"['戶外活動', '工作']",False,,,,TopsTexTopYshirtsLCamera1,1.0.0,2
+746,clothes,上身,刺繡細肩帶背心,ししゅうのキャミソール,embroidered tank,裁縫店,960,240,夏季,True,可愛,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsNEmbroidery0,1.0.0,7
+747,clothes,套裝,雪國服,さむいくにのふく,cold-country bunad,裁縫店,2520,630,冬季,True,優雅,"['正式', '派對']",False,,,,TopsTexOnepieceOverallLNordic2,1.0.0,3
+748,clothes,頭戴物,全罩式安全帽,フルフェイスメット,racing helmet,裁縫店,1040,260,全年,False,酷感,"['戶外活動', '運動', '工作']",False,,,,CapFullfaceRacing1,1.0.0,8
+749,clothes,襪子,奇馬約圖騰襪,チマヨがらソックス,geometric-print socks,裁縫店,950,237,全年,False,活潑,['戶外活動'],False,,,,SocksTexChimayo4,1.0.0,6
+751,clothes,頭戴物,牛骨帽,うしのほね,imitation cow skull,裁縫店,1120,280,全年,True,酷感,"['恐怖', '舞台']",False,,,,CapHatCowWhite,1.0.0,1
+752,clothes,下身,千鳥格紋裙,ちどりのスカート,plover skirt,裁縫店,1200,300,冬季,False,可愛,"['日常生活', '正式', '派對', '工作']",False,,,,BottomsTexSkirtBoxChidori1,1.0.0,3
+754,clothes,下身,拼接裙,シャビーなスカート,upcycled skirt,裁縫店,1320,330,全年,False,簡單,"['日常生活', '童話世界', '派對']",False,,,,BottomsTexSkirtAlineShabby1,1.0.0,3
+755,clothes,下身,印花牛仔褲,プリントデニム,embellished denim pants,裁縫店,1300,325,全年,False,酷感,"['日常生活', '戶外活動']",False,,,,BottomsTexPantsWidePrintdenim0,1.0.0,3
+756,clothes,下身,格子褲,ステテコ,traditional suteteko pants,裁縫店,560,140,全年,False,簡單,"['悠閒', '度假']",False,,,,BottomsTexPantsWideSuteteko0,1.0.0,6
+757,clothes,套裝,盛裝和服,はれぎ,fancy kimono,裁縫店,5200,1300,冬季,True,華麗,"['正式', '派對']",False,,,,TopsTexOnepieceKimonoLHaregi0,1.0.0,8
+758,clothes,頭戴物,魔鬼頭套,デビルなかぶりもの,imp hood,裁縫店,1760,440,全年,False,酷感,"['童話世界', '恐怖', '舞台']",False,,,,CapCostumeDevil0,1.0.0,2
+759,clothes,頭戴物,綿羊頭套,ひつじのかぶりもの,sheep hood,裁縫店,980,245,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,CapBangsSheep0,1.0.0,4
+760,clothes,鞋子,動物拖鞋,アニマルスリッパ,paw slippers,薛革,1260,315,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,ShoesLowcutAnimal2,1.0.0,5
+761,clothes,鞋子,沙灘拖鞋,ビーチサンダル,flip-flops,裁縫店,350,87,夏季,False,活潑,"['戶外活動', '悠閒', '運動', '度假']",False,,,,ShoesSandalBeachborder3,1.0.0,8
+762,clothes,鞋子,扣帶鞋,ストラップシューズ,mary janes,裁縫店,1800,450,全年,False,可愛,"['日常生活', '童話世界', '正式', '派對', '工作']",False,,,,ShoesLowcutStrap2,1.0.0,8
+763,clothes,鞋子,鐵甲鞋,アイアンアーマーシューズ,armor shoes,DIY,,3000,全年,False,酷感,"['童話世界', '恐怖']",True,"[{'count': 4, 'itemName': '鐵礦石'}]",['暴躁型村民'],,ShoesKneeKnightIron,1.0.0,1
+764,clothes,鞋子,室內便鞋,うわばき,slip-on school shoes,薛革,350,87,全年,False,簡單,['日常生活'],False,,,,ShoesLowcutSchool0,1.0.0,5
+765,clothes,鞋子,皮短靴,レザーのショートブーツ,pleather ankle booties,裁縫店,1280,320,全年,False,優雅,"['日常生活', '正式', '派對']",False,,,,ShoesHighcutShortboots1,1.0.0,4
+766,clothes,鞋子,花朵拖鞋,フラワーなサンダル,flower sandals,裁縫店,1200,300,夏季,False,可愛,"['童話世界', '戶外活動', '度假']",False,,,,ShoesSandalFlower6,1.0.0,7
+767,clothes,鞋子,毛毛靴,ファーブーツ,faux-fur ankle booties,裁縫店,1450,362,冬季,False,優雅,"['日常生活', '童話世界', '正式', '派對', '舞台']",False,,,,ShoesHighcutFurboots2,1.0.0,4
+768,clothes,鞋子,豹紋低跟鞋,アニマルパンプス,leopard pumps,裁縫店,1560,390,全年,False,優雅,"['日常生活', '派對', '舞台']",False,,,,ShoesLowcutLeopard1,1.0.0,6
+769,clothes,鞋子,珠珠拖鞋,ビーズししゅうのサンダル,beaded sandals,裁縫店,1800,450,夏季,False,華麗,"['日常生活', '悠閒', '度假']",False,,,,ShoesSandalBeads3,1.0.0,6
+772,clothes,鞋子,長靴,ながぐつ,boots,裁縫店,560,140,全年,False,簡單,"['戶外活動', '工作']",False,,,,ShoesKneeRubberboots1,1.0.0,5
+773,clothes,套裝,軍師服,ぐんしのふく,ancient belted robe,裁縫店,3640,910,全年,True,優雅,['正式'],False,,,,TopsTexOnepieceKimonoLKanpukumen3,1.0.0,5
+774,clothes,套裝,漢服,かんぷく,ancient sashed robe,裁縫店,2520,630,全年,True,優雅,['正式'],False,,,,TopsTexOnepieceKimonoLKanpukuwomen2,1.0.0,5
+776,clothes,鞋子,古老靴子,アンティークなブーツ,antique boots,裁縫店,2640,660,全年,False,簡單,"['日常生活', '童話世界']",False,,,,ShoesKneeAntique1,1.0.0,3
+777,clothes,鞋子,金甲鞋,ゴールデンアーマーシューズ,gold-armor shoes,DIY,,40000,全年,False,華麗,"['童話世界', '恐怖']",True,"[{'count': 4, 'itemName': '金礦石'}]",['自戀型村民'],,ShoesKneeKnightGold,1.0.0,1
+778,clothes,鞋子,拖鞋,スリッパ,slippers,薛革,350,87,全年,False,簡單,"['日常生活', '悠閒', '度假']",False,,,,ShoesLowcutSlipper2,1.0.0,8
+779,clothes,鞋子,馬丁靴,ワークブーツ,work boots,裁縫店,1920,480,全年,False,酷感,"['戶外活動', '舞台', '工作']",False,,,,ShoesHighcutWorkboots4,1.0.0,8
+780,clothes,鞋子,莫卡辛靴,モカシンブーツ,moccasin boots,裁縫店,1120,280,冬季,False,簡單,"['日常生活', '悠閒', '度假']",False,,,,ShoesHighcutMoccasin4,1.0.0,7
+781,clothes,下身,拼布裙,パッチワークスカート,patchwork skirt,裁縫店,2100,525,全年,False,可愛,"['日常生活', '悠閒', '度假']",False,,,,BottomsTexSkirtLongPatch1,1.0.0,4
+782,clothes,鞋子,毛球靴,ポンポンつきブーツ,pom-pom boots,裁縫店,1600,400,冬季,False,可愛,"['童話世界', '派對']",False,,,,ShoesHighcutBobbles6,1.0.0,7
+783,clothes,鞋子,盔甲護腿鞋,かっちゅうのすねあて,samurai greaves,薛革,4300,1075,全年,False,酷感,"['舞台', '工作']",False,,,,ShoesKneeLegguard3,1.0.0,5
+784,clothes,鞋子,扣帶低跟鞋,ストラップつきパンプス,strappy heels,裁縫店,1560,390,全年,False,華麗,"['正式', '派對', '舞台']",False,,,,ShoesLowcutGlitter3,1.0.0,8
+785,clothes,鞋子,室內拖鞋,ルームシューズ,house slippers,裁縫店,490,122,全年,False,簡單,"['悠閒', '度假']",False,,,,ShoesSandalRoomborder0,1.0.0,8
+786,clothes,鞋子,布希鞋,スリッポンサンダル,slip-on sandals,裁縫店,560,140,全年,False,活潑,"['悠閒', '度假']",False,,,,ShoesSandalResin2,1.0.0,8
+787,clothes,鞋子,懶人鞋,スリッポン,slip-on loafers,裁縫店,490,122,全年,False,簡單,"['日常生活', '悠閒']",False,,,,ShoesLowcutSlipon6,1.0.0,8
+788,clothes,套裝,學校罩衣,スクールスモック,school smock,裁縫店,2000,500,全年,True,簡單,['正式'],False,,,,TopsTexOnepieceBoxLSchoolsmockNavy,1.0.0,1
+789,clothes,鞋子,蘿莉塔鞋,ロリータシューズ,shiny bow platform shoes,薛革,2400,600,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,ShoesLowcutLolita5,1.0.0,7
+790,clothes,頭戴物,圖坦卡門面具,ツタンカーメン,King Tut mask,DIY,,50000,全年,False,華麗,"['正式', '恐怖', '派對', '舞台']",True,"[{'count': 5, 'itemName': '金礦石'}]",['敲石頭'],撿起從岩石中敲出的金塊,CapFullfaceKingtut0,1.4.0,1
+791,clothes,鞋子,芭蕾舞鞋,バレエシューズ,ballet slippers,薛革,2200,550,全年,False,優雅,"['童話世界', '運動', '舞台', '工作']",False,,,,ShoesLowcutBallet4,1.0.0,8
+792,clothes,鞋子,視覺系靴,ヴィジュアルけいブーツ,visual-punk boots,薛革,2200,550,全年,False,酷感,"['派對', '舞台', '工作']",False,,,,ShoesKneeVisualBlack,1.0.0,1
+793,clothes,套裝,倫巴服裝,ルンバないしょう,rumba costume,裁縫店,2600,650,全年,True,優雅,"['派對', '舞台']",False,,,,TopsTexOnepieceSalopetteLRumba0,1.0.0,3
+794,clothes,鞋子,高筒帆布鞋,ラバートゥハイカットスニーカー,rubber-toe high tops,裁縫店,1260,315,全年,False,簡單,"['日常生活', '運動']",False,,,,ShoesHighcutRubbertoe6,1.0.0,8
+795,clothes,鞋子,木鞋,きぐつ,wooden clogs,薛革,1300,325,全年,False,優雅,['日常生活'],False,,,,ShoesLowcutClog2,1.0.0,5
+796,clothes,鞋子,雙帶拖鞋,コンフォートサンダル,comfy sandals,裁縫店,1040,260,夏季,False,簡單,"['日常生活', '悠閒', '度假']",False,,,,ShoesSandalComfort1,1.0.0,8
+797,clothes,鞋子,羅馬涼鞋,グラディエーターサンダル,gladiator sandals,裁縫店,1800,450,夏季,False,優雅,"['日常生活', '童話世界', '悠閒', '度假']",False,,,,ShoesSandalGladiator1,1.0.0,3
+799,clothes,鞋子,英雄靴,ヒーローブーツ,zap boots,薛革,2640,660,全年,False,活潑,"['童話世界', '舞台', '工作']",False,,,,ShoesKneeHeroWhite,1.0.0,1
+800,clothes,鞋子,籃球鞋,バスケットシューズ,basketball shoes,裁縫店,1500,375,全年,False,活潑,"['運動', '工作']",False,,,,ShoesHighcutBasket0,1.0.0,8
+801,clothes,鞋子,小丑鞋,ピエロのくつ,jester's shoes,薛革,1900,475,全年,False,活潑,"['童話世界', '恐怖', '派對', '舞台', '工作']",False,,,,ShoesKneeClown1,1.0.0,4
+802,clothes,鞋子,戶外涼鞋,アウトドアサンダル,outdoor sandals,裁縫店,630,157,夏季,False,活潑,"['戶外活動', '悠閒', '度假']",False,,,,ShoesSandalOutdoor6,1.0.0,8
+803,clothes,頭戴物,蛋殼,たまごのから,eggshell,裁縫店,560,140,全年,True,簡單,"['童話世界', '派對', '舞台']",False,,,,CapHatEggWhite,1.0.0,1
+804,clothes,鞋子,西部牛仔靴,ウェスタンブーツ,cowboy boots,裁縫店,2380,595,全年,False,優雅,"['戶外活動', '舞台', '工作']",False,,,,ShoesKneeWestern2,1.0.0,5
+805,clothes,套裝,小雞服,ひよこなふく,baby-chick costume,裁縫店,1700,425,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceRibNChick0,1.0.0,3
+806,clothes,套裝,倫巴洋裝,ルンバなドレス,rumba dress,裁縫店,2600,650,全年,True,優雅,"['派對', '舞台']",False,,,,TopsTexOnepieceAlongHRumba0,1.0.0,3
+807,clothes,上身,水手襯衫,セーラーシャツ,sailor-style shirt,裁縫店,1050,262,全年,True,簡單,"['日常生活', '正式', '工作']",False,,,,TopsTexTopTshirtsLSailor2,1.0.0,3
+808,clothes,鞋子,繡花鞋,コッシン,traditional flower shoes,薛革,1800,450,全年,False,優雅,"['正式', '派對']",False,,,,ShoesLowcutGgotshin0,1.0.0,5
+809,clothes,鞋子,水涼鞋,アクアサンダル,water sandals,裁縫店,1040,260,夏季,False,可愛,"['戶外活動', '悠閒', '度假']",False,,,,ShoesSandalAqua2,1.0.0,8
+810,clothes,套裝,中山裝,つめえりスーツ,suit with stand-up collar,裁縫店,1800,450,全年,True,酷感,"['日常生活', '正式', '工作']",False,,,,TopsTexOnepieceOverallLHighcollar2,1.0.0,4
+811,clothes,鞋子,釘鞋,スパイク,cleats,薛革,1200,300,全年,False,活潑,"['運動', '工作']",False,,,,ShoesLowcutSpike4,1.0.0,8
+812,clothes,鞋子,尖頭鞋,トンがったクツ,winklepickers,裁縫店,910,227,全年,False,酷感,"['派對', '舞台', '工作']",False,,,,ShoesLowcutPointedtoe1,1.0.0,4
+813,clothes,上身,漁夫襯衫,フィッシャーヘムト,fischerhemd,裁縫店,1800,450,全年,True,簡單,"['戶外活動', '度假', '工作']",False,,,,TopsTexTopYshirtsLFischerhemdBlue,1.0.0,1
+814,clothes,鞋子,氣墊鞋,ハイテクシューズ,hi-tech sneakers,裁縫店,1260,315,全年,False,酷感,"['戶外活動', '運動']",False,,,,ShoesHighcutHightech1,1.0.0,5
+815,clothes,鞋子,滑雪靴,スキーブーツ,ski boots,薛革,1800,450,冬季,False,活潑,"['戶外活動', '運動']",False,,,,ShoesKneeSki0,1.0.0,6
+816,clothes,頭戴物,騎士帽,じゅうきしのぼうし,cavalier hat,裁縫店,1600,400,全年,True,優雅,"['童話世界', '舞台']",False,,,,CapHatCavalier1,1.0.0,3
+817,clothes,下身,法蘭絨格紋熱褲,シャギーチェックのホットパンツ,plaid shorts,裁縫店,980,245,全年,False,簡單,"['日常生活', '度假']",False,,,,BottomsTexPantsHotShaggycheck3,1.0.0,4
+818,clothes,下身,墨西哥傳統裙子,エナグワス,colorful skirt,裁縫店,1100,275,全年,False,簡單,"['悠閒', '度假']",False,,,,BottomsTexSkirtLongEnaguas0,1.0.0,5
+819,clothes,飾品,骷髏糖面具,スカルキャンディマスク,candy-skull mask,呂遊,,800,全年,False,華麗,"['正式', '派對', '舞台']",False,,,,AccessoryGlassmouthCatrina1,1.0.0,3
+820,clothes,鞋子,綁帶靴,あみあげブーツ,lace-up boots,裁縫店,1920,480,全年,False,酷感,"['日常生活', '舞台']",False,,,,ShoesKneeLaceup1,1.0.0,4
+821,clothes,鞋子,摔角鞋,リングシューズ,wrestling shoes,薛革,1080,270,全年,False,活潑,"['運動', '工作']",False,,,,ShoesKneeRing4,1.0.0,6
+822,clothes,頭戴物,農作遮陽帽,のうぎょうぼう,veiled gardening hat,裁縫店,560,140,全年,False,活潑,"['戶外活動', '工作']",False,,,,CapCostumeFarm0,1.0.0,5
+823,clothes,上身,鮮艷針織罩衫,ハデなカーディガン,flashy cardigan,裁縫店,1200,300,全年,True,華麗,['日常生活'],False,,,,TopsTexTopOuterLPsychedelic0,1.0.0,2
+825,clothes,頭戴物,拳擊頭套,ヘッドギア,headgear,裁縫店,910,227,全年,False,活潑,"['運動', '工作']",False,,,,CapCostumeHeadgear0,1.0.0,3
+826,clothes,頭戴物,龐克頭,モヒカン,mohawk wig,裁縫店,1280,320,全年,False,酷感,['舞台'],False,,,,CapWigMohican,1.0.0,1
+827,clothes,頭戴物,飛機頭,リーゼント,pompadour wig,裁縫店,1280,320,全年,False,酷感,['舞台'],False,,,,CapWigRegent,1.0.0,1
+828,clothes,頭戴物,武士頭,ちょんまげ,samurai wig,呂遊,,800,全年,False,優雅,['舞台'],False,,,,CapWigSamurai,1.0.0,1
+829,clothes,頭戴物,洋蔥頭,たまねぎヘアー,matronly bun,裁縫店,1280,320,全年,False,優雅,['舞台'],False,,,,CapWigOnionhair,1.0.0,1
+830,clothes,頭戴物,純白頭紗,じゅんぱくのヴェール,bridal veil,健兆,,1150,全年,False,優雅,"['童話世界', '正式', '派對', '舞台']",False,,,,CapWigWedding,1.2.0,1
+831,clothes,頭戴物,丸子頭,おだんごあたま,bun wig,裁縫店,1440,360,全年,False,可愛,['舞台'],False,,,,CapWigDoublebun3,1.0.0,7
+832,clothes,頭戴物,頭戴式耳機,ヘッドホン,DJ cap,裁縫店,770,192,全年,False,簡單,"['日常生活', '悠閒', '運動']",False,,,,CapBangsHeadphone3,1.0.0,4
+833,clothes,頭戴物,頭飾,ヘッドドレス,gothic headdress,裁縫店,1120,280,全年,False,優雅,"['童話世界', '派對', '舞台']",False,,,,CapHelmetHeaddress1,1.0.0,6
+834,clothes,頭戴物,面紗,ベール,veil,呂遊,,800,全年,False,優雅,"['正式', '派對', '舞台']",False,,,,CapFullfaceVeil2,1.0.0,4
+836,clothes,頭戴物,藝妓假髮,ゲイシャさん,geisha wig,呂遊,,1350,全年,False,可愛,"['舞台', '工作']",False,,,,CapWigGeisya6,1.0.0,7
+837,clothes,頭戴物,音樂家假髮,おんがくかのかつら,composer's wig,裁縫店,1680,420,全年,False,優雅,"['童話世界', '正式', '派對', '舞台', '工作']",False,,,,CapHelmetMusicBlack,1.0.0,1
+838,clothes,頭戴物,動力頭盔,パワードメット,power helmet,裁縫店,3220,805,全年,False,活潑,"['童話世界', '舞台', '工作']",False,,,,CapFullfacePowered3,1.0.0,4
+839,clothes,鞋子,動力靴,パワードブーツ,power boots,薛革,3150,787,全年,False,活潑,"['童話世界', '舞台', '工作']",False,,,,ShoesKneePowered3,1.0.0,4
+840,clothes,下身,破爛褲子,やぶれたズボン,torn pants,回收箱,,10,全年,False,簡單,['恐怖'],False,,,,BottomsTexPantsWideTeared2,1.0.0,3
+841,clothes,下身,運動棉褲,フィットネススウェットパンツ,three-quarter sweatpants,裁縫店,1100,275,全年,False,活潑,"['悠閒', '運動']",False,,,,BottomsTexPantsNormalCroppedsweat4,1.0.0,8
+842,clothes,下身,直筒前褶裙,ボックスプリーツスカート,box-pleated skirt,裁縫店,1320,330,全年,False,簡單,"['日常生活', '度假']",False,,,,BottomsTexSkirtBoxBoxpleats2,1.0.0,4
+843,clothes,下身,麂皮裙,ムートンスカート,faux-shearling skirt,裁縫店,1560,390,冬季,False,簡單,"['日常生活', '戶外活動']",False,,,,BottomsTexSkirtBoxMouton4,1.0.0,5
+844,clothes,下身,混色條紋熱褲,マルチストライプのホットパンツ,striped shorts,裁縫店,1320,330,全年,False,可愛,"['派對', '舞台', '度假']",False,,,,BottomsTexPantsHotMultistripe2,1.0.0,4
+845,clothes,下身,針織褲,ニットパンツ,knit pants,裁縫店,910,227,冬季,False,簡單,"['日常生活', '悠閒']",False,,,,BottomsTexPantsNormalKnit0,1.0.0,4
+846,clothes,下身,牛仔長裙,ロングデニムスカート,long denim skirt,裁縫店,1560,390,全年,False,簡單,['日常生活'],False,,,,BottomsTexSkirtLongDenim0,1.0.0,5
+847,clothes,下身,圍裙連裙子,エプロンつきスカート,apron skirt,裁縫店,700,175,全年,False,簡單,['工作'],False,,,,BottomsTexSkirtBoxApron1,1.0.0,3
+848,clothes,下身,毛絨熱褲,もこもこホットパンツ,terry-cloth shorts,裁縫店,1260,315,冬季,False,可愛,"['童話世界', '悠閒', '度假']",False,,,,BottomsTexPantsHotFluffy0,1.0.0,4
+849,clothes,下身,籃球褲,バスケットパンツ,basketball shorts,裁縫店,980,245,全年,False,活潑,"['運動', '工作']",False,,,,BottomsTexPantsHalfBasketball7,1.0.0,8
+850,clothes,下身,健身褲,ワークアウトパンツ,workout pants,裁縫店,880,220,全年,False,活潑,"['戶外活動', '運動', '工作']",False,,,,BottomsTexPantsNormalTraining1,1.0.0,3
+851,clothes,下身,MA-1防風裙,ＭＡ‐１スカート,bomber-style skirt,裁縫店,1320,330,全年,False,酷感,"['日常生活', '戶外活動']",False,,,,BottomsTexSkirtLongMaone1,1.0.0,4
+852,clothes,下身,亮片熱褲,スパンコールのホットパンツ,spangle shorts,裁縫店,980,245,全年,False,華麗,"['派對', '舞台']",False,,,,BottomsTexPantsHotSequins3,1.0.0,8
+853,clothes,下身,混色條紋寬褲,マルチストライプワイドパンツ,striped bell-bottoms,裁縫店,1320,330,全年,False,優雅,"['派對', '舞台']",False,,,,BottomsTexPantsWideMultistripe1,1.0.0,4
+854,clothes,下身,搞笑藝人亮片褲,コメディアンのパンツ,comedian's pants,裁縫店,2100,525,全年,False,華麗,"['派對', '舞台']",False,,,,BottomsTexPantsNormalComedian7,1.0.0,8
+855,clothes,下身,珍珠裙子,パールつきスカート,pearl skirt,裁縫店,1680,420,全年,False,可愛,"['童話世界', '正式', '派對', '舞台']",False,,,,BottomsTexSkirtAlinePearlNavy,1.0.0,1
+856,clothes,飾品,泡泡口香糖,ふうせんガム,bubblegum,裁縫店,140,35,全年,False,簡單,['悠閒'],False,,,,AccessoryMouthBubblegum4,1.0.0,5
+857,clothes,飾品,花朵墨鏡,フラワーサングラス,flower sunglasses,裁縫店,770,192,全年,True,可愛,"['派對', '度假']",False,,,,AccessoryGlassFlower0,1.0.0,5
+860,clothes,下身,皮短褲,レザーのショートパンツ,pleather shorts,裁縫店,1040,260,全年,False,酷感,"['日常生活', '舞台']",False,,,,BottomsTexPantsHotLeather2,1.0.0,4
+861,clothes,下身,戈布蘭刺繡短褲,ゴブランハーフパンツ,gobelin shorts,裁縫店,840,210,全年,False,優雅,"['日常生活', '度假']",False,,,,BottomsTexPantsHalfGobelins1,1.0.0,2
+862,clothes,下身,泰國大象褲,タイパンツ,elephant-print pants,裁縫店,1100,275,夏季,False,簡單,"['悠閒', '度假']",False,,,,BottomsTexPantsWideThail5,1.0.0,6
+863,clothes,鞋子,太空靴,スペースブーツ,space boots,薛革,4300,1075,全年,False,活潑,"['童話世界', '工作']",False,,,,ShoesKneeSpaceWhite,1.0.0,1
+864,clothes,鞋子,兒童運動鞋,キッズなスニーカー,kiddie sneakers,薛革,700,175,全年,False,活潑,"['日常生活', '戶外活動', '運動']",False,,,,ShoesHighcutSports4,1.0.0,6
+865,clothes,飾品,吸管眼鏡,ストローメガネ,drinking-straw glasses,裁縫店,560,140,全年,False,活潑,"['悠閒', '度假', '工作']",False,,,,AccessoryGlassmouthStraw3,1.0.0,4
+866,clothes,上身,無袖連帽上衣,ノースリーブパーカー,sleeveless parka,裁縫店,1200,300,夏季,True,活潑,"['戶外活動', '悠閒', '運動', '度假']",False,,,,TopsTexTopOuterNNosleeve1,1.0.0,5
+868,clothes,鞋子,步行鞋,ウォーキングシューズ,walking shoes,裁縫店,560,140,全年,False,簡單,"['日常生活', '戶外活動', '運動']",False,,,,ShoesLowcutHealth2,1.0.0,3
+870,clothes,下身,瓜地馬拉傳統裙子,コルテ,corte skirt,裁縫店,880,220,全年,False,簡單,"['悠閒', '度假']",False,,,,BottomsTexSkirtLongCorte1,1.0.0,3
+871,clothes,下身,奇馬約圖騰刷毛褲,チマヨがらフリースパンツ,geometric-print pants,裁縫店,1040,260,冬季,False,簡單,"['日常生活', '悠閒', '度假']",False,,,,BottomsTexPantsNormalChimayo3,1.0.0,5
+872,clothes,套裝,夢幻可愛洋裝,ゆめかわなドレス,dreamy dress,裁縫店,2080,520,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceBalloonHYumekawa0,1.0.0,4
+873,clothes,套裝,華麗和服,ゴージャスなきもの,flashy kimono,裁縫店,4800,1200,全年,True,華麗,"['派對', '舞台']",False,,,,TopsTexOnepieceKimonoLGaudy4,1.0.0,6
+874,clothes,套裝,貴族洋裝,きぞくのドレス,noble dress,裁縫店,5200,1300,全年,True,華麗,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceDressLNoble2,1.0.0,8
+875,clothes,套裝,迷幻連身工作服,サイケなつなぎ,stellar jumpsuit,裁縫店,1600,400,全年,True,活潑,"['派對', '舞台']",False,,,,TopsTexOnepieceSalopetteLPsychedelic2,1.0.0,5
+876,clothes,鞋子,廁所拖鞋,トイレスリッパ,restroom slippers,薛革,350,87,全年,False,簡單,['悠閒'],False,,,,ShoesLowcutToilet1,1.0.0,5
+877,clothes,套裝,鄰家女孩和服,まちむすめのきもの,old commoner's kimono,裁縫店,1920,480,全年,True,簡單,['日常生活'],False,,,,TopsTexOnepieceKimonoLShitamachi3,1.0.0,4
+878,clothes,鞋子,可愛運動鞋,キュートなスニーカー,cute sneakers,裁縫店,1260,315,全年,False,可愛,"['日常生活', '童話世界']",False,,,,ShoesHighcutCute2,1.0.0,6
+879,clothes,襪子,花朵點點褲襪,フラワードットタイツ,flowery-dot tights,裁縫店,720,180,全年,False,優雅,"['童話世界', '正式', '派對', '舞台']",False,,,,SocksTexFlowerdot0,1.0.0,5
+880,clothes,襪子,菱格紋襪,アーガイルソックス,argyle crew socks,裁縫店,720,180,全年,False,優雅,"['日常生活', '正式', '工作']",False,,,,SocksTexArgyle5,1.0.0,8
+881,clothes,鞋子,莫卡辛鞋,モカシン,moccasins,裁縫店,1080,270,全年,False,優雅,"['日常生活', '悠閒']",False,,,,ShoesLowcutMoccasin3,1.0.0,7
+882,clothes,鞋子,水上運動鞋,マリンシューズ,water shoes,裁縫店,900,225,全年,False,活潑,"['戶外活動', '運動', '度假']",False,,,,ShoesLowcutMarine7,1.0.0,8
+883,clothes,鞋子,翼紋紳士鞋,ウイングチップのシューズ,wingtip shoes,裁縫店,900,225,全年,False,優雅,"['日常生活', '正式', '派對', '舞台', '工作']",False,,,,ShoesLowcutWing2,1.0.0,7
+884,clothes,下身,鏤空皮裙,カットレザースカート,cut-pleather skirt,裁縫店,1100,275,全年,False,簡單,"['日常生活', '正式']",False,,,,BottomsTexSkirtLongCutleather3,1.0.0,4
+885,clothes,下身,拼布皮裙,レザーパッチスカート,pleather patch skirt,裁縫店,1680,420,全年,False,簡單,"['日常生活', '正式']",False,,,,BottomsTexSkirtAlinePatch0,1.0.0,4
+886,clothes,襪子,透膚襪,シースルーソックス,sheer socks,薛革,600,150,秋季,False,優雅,"['日常生活', '正式', '派對']",False,,,,SocksTexSeethrough5,1.0.0,6
+887,clothes,襪子,青海波襪子,せいがいはソックス,wave-print socks,薛革,600,150,全年,False,酷感,['日常生活'],False,,,,SocksTexWave4,1.0.0,5
+888,clothes,鞋子,蝴蝶結拖鞋,リボンサンダル,ribbon sandals,裁縫店,1300,325,夏季,False,可愛,"['日常生活', '童話世界', '度假']",False,,,,ShoesSandalRibbon1,1.0.0,8
+889,clothes,套裝,探戈洋裝,タンゴなドレス,tango dress,裁縫店,2600,650,全年,True,華麗,"['派對', '舞台']",False,,,,TopsTexOnepieceBoxNTango1,1.0.0,6
+890,clothes,下身,鈕扣一片裙,ボタンのまきスカート,buttoned wraparound skirt,裁縫店,1820,455,全年,False,優雅,"['日常生活', '正式']",False,,,,BottomsTexSkirtLongWrapbicolor0,1.0.0,6
+891,clothes,套裝,復古亮片洋裝,フラッパードレス,flapper dress,裁縫店,2600,650,全年,True,華麗,"['派對', '舞台']",False,,,,TopsTexOnepieceBoxNFlapper0,1.0.0,5
+892,clothes,套裝,韓服褲,パジチョゴリ,baji jeogori,裁縫店,2520,630,全年,True,優雅,['正式'],False,,,,TopsTexOnepieceKimonoLKorea3,1.0.0,4
+893,clothes,套裝,牽牛花浴衣,あさがおのゆかた,morning-glory yukata,裁縫店,2280,570,夏季,True,優雅,"['童話世界', '悠閒', '度假']",False,,,,TopsTexOnepieceKimonoLAsagao1,1.0.0,4
+894,clothes,鞋子,運動涼鞋,スポーツサンダル,sporty sandals,裁縫店,1300,325,全年,False,活潑,"['戶外活動', '悠閒', '運動', '度假']",False,,,,ShoesSandalSports0,1.0.0,8
+895,clothes,套裝,蒸汽龐克服,スチームパンクなふく,steampunk costume,裁縫店,2240,560,全年,True,酷感,"['童話世界', '舞台']",False,,,,TopsTexOnepieceOverallLSteampunk0,1.0.0,2
+896,clothes,下身,紮染裙子,タイダイスカート,tie-dye skirt,裁縫店,1260,315,夏季,False,活潑,"['悠閒', '度假']",False,,,,BottomsTexSkirtLongTiedye0,1.0.0,5
+897,clothes,套裝,農場吊帶褲,ファームなオーバーオール,farmer overalls,裁縫店,1600,400,全年,True,活潑,"['日常生活', '戶外活動', '工作']",False,,,,TopsTexOnepieceOverallLFarm4,1.0.0,5
+898,clothes,套裝,冰球制服,アイスホッケーのユニフォーム,ice-hockey uniform,裁縫店,2640,660,冬季,True,活潑,"['運動', '工作']",False,,,,TopsTexOnepieceSalopetteLHockey0,1.0.0,8
+899,clothes,飾品,鼻水,はなみず,nose drip,裁縫店,490,122,全年,False,簡單,['悠閒'],False,,,,AccessoryMouthJokeDripCyan,1.0.0,1
+900,clothes,頭戴物,紙袋,かみぶくろ,paper bag,裁縫店,140,35,全年,False,酷感,['恐怖'],False,,,,CapFullfacePaperbagBeige,1.0.0,1
+901,clothes,上身,工作人員衣服,スタッフのふく,staff uniform,裁縫店,800,200,全年,True,簡單,['工作'],False,,,,TopsTexTopTshirtsHStaff2,1.0.0,3
+902,clothes,下身,植物圖案短褲,ボタニカルハーフパンツ,botanical shorts,裁縫店,700,175,夏季,False,酷感,"['悠閒', '度假']",False,,,,BottomsTexPantsHalfBotanical1,1.0.0,2
+903,clothes,上身,油布外套,オイルスキンのジャケット,oilskin coat,裁縫店,1400,350,冬季,True,活潑,"['戶外活動', '工作']",False,,,,TopsTexTopCoatLOilskin2,1.0.0,3
+904,clothes,飾品,沾到嘴邊的東西,たべこぼし,food mess,裁縫店,490,122,全年,False,簡單,['悠閒'],False,,,,AccessoryMouthPasta,1.0.0,1
+905,clothes,下身,學校制服褲,がくせいふくのズボン,school pants,裁縫店,880,220,全年,False,簡單,"['日常生活', '正式']",False,,,,BottomsTexPantsWideGakuran0,1.0.0,7
+906,clothes,下身,檸檬裙子,レモンのスカート,lemon skirt,裁縫店,880,220,夏季,False,優雅,"['日常生活', '悠閒', '度假']",False,,,,BottomsTexSkirtLongLemon1,1.0.0,3
+907,clothes,下身,夢幻可愛褲子,ゆめかわなズボン,dreamy pants,裁縫店,1440,360,冬季,False,可愛,"['童話世界', '悠閒']",False,,,,BottomsTexPantsWideYumekawa0,1.0.0,4
+908,clothes,下身,花紋裙子,はながらスカート,floral skirt,裁縫店,1100,275,全年,False,優雅,"['日常生活', '童話世界', '悠閒', '度假']",False,,,,BottomsTexSkirtLongFlower2,1.0.0,3
+909,clothes,上身,服務人員衣服,あんないがかりのふく,guide shirt,裁縫店,800,200,全年,True,簡單,['工作'],False,,,,TopsTexTopYshirtsLGuide1,1.0.0,3
+910,clothes,頭戴物,新年絲質禮帽,ニューイヤーシルクハット,New Year's silk hat,活動：新年,500,125,全年,True,華麗,"['派對', '舞台']",False,,,,CapHatNewyearsilkRed,1.0.0,8
+911,clothes,上身,鬥牛犬運動服,ブルドッグジャージ,bulldog jacket,裁縫店,1440,360,全年,True,酷感,"['戶外活動', '運動']",False,,,,TopsTexTopOuterLBulldog1,1.0.0,3
+912,clothes,下身,水手服長裙,ロングセーラースカート,long sailor skirt,裁縫店,1560,390,全年,False,簡單,"['日常生活', '正式']",False,,,,BottomsTexSkirtLongSailor0,1.0.0,8
+913,clothes,套裝,素色社交和服,むじのほうもんぎ,simple visiting kimono,裁縫店,2480,620,全年,True,優雅,"['正式', '派對']",False,,,,TopsTexOnepieceKimonoLHomongi7,1.0.0,8
+914,clothes,套裝,蝴蝶結社交和服,ちょうがらのほうもんぎ,butterfly visiting kimono,裁縫店,2660,665,全年,True,優雅,"['正式', '派對']",False,,,,TopsTexOnepieceKimonoLButterfly0,1.0.0,3
+915,clothes,套裝,歌舞伎浴衣,かぶきなゆかた,kabuki-actor yukata,裁縫店,2400,600,夏季,True,優雅,"['悠閒', '舞台', '度假']",False,,,,TopsTexOnepieceKimonoLYukatamen2,1.0.0,3
+916,clothes,上身,蘇格蘭道布萊特外套,ダブレット,doublet,裁縫店,1520,380,全年,True,簡單,"['正式', '舞台', '工作']",False,,,,TopsTexTopYshirtsLDoublet0,1.0.0,4
+917,clothes,頭戴物,狐狸面具,キツネのおめん,fox mask,裁縫店,1400,350,全年,True,酷感,"['恐怖', '舞台']",False,,,,CapMaskFox0,1.0.0,2
+918,clothes,頭戴物,老翁能面具,おきなののうめん,elder mask,呂遊,,1500,全年,True,優雅,"['恐怖', '舞台']",False,,,,CapMaskOkinaWhite,1.0.0,1
+919,clothes,頭戴物,能面具,のうめん,Noh mask,裁縫店,2400,600,全年,True,優雅,"['恐怖', '舞台']",False,,,,CapMaskNomenWhite,1.0.0,1
+921,clothes,飾品,反射鏡,はんしゃきょう,reflector,裁縫店,560,140,全年,True,酷感,['工作'],False,,,,AccessoryGlassMirrorGray,1.0.0,1
+922,clothes,飾品,皮面具,レザーマスク,pleather mask,裁縫店,770,192,全年,False,酷感,['恐怖'],False,,,,AccessoryMouthLeatherBlack,1.0.0,1
+923,clothes,頭戴物,曲棍球面罩,ホッケーのマスク,hockey mask,裁縫店,1440,360,全年,False,酷感,"['恐怖', '運動', '工作']",False,,,,AccessoryGlassmouthHockeyWhite,1.0.0,1
+924,clothes,鞋子,雕花紳士鞋,ギリー・ブローグズ,ghillie brogues,薛革,2340,585,全年,False,華麗,"['正式', '工作']",False,,,,ShoesLowcutBrogues2,1.0.0,3
+925,clothes,鞋子,摩洛哥拖鞋,バブーシュ,babouches,薛革,560,140,全年,False,可愛,"['悠閒', '度假']",False,,,,ShoesSandalBaboush4,1.0.0,8
+926,clothes,襪子,英國傳統服裝襪子,カントリーソックス,country socks,裁縫店,720,180,全年,False,優雅,"['正式', '工作']",False,,,,SocksTexCountry3,1.0.0,4
+927,clothes,襪子,條紋襪子,ストライプソックス,striped tights,裁縫店,720,180,全年,False,華麗,"['派對', '舞台']",False,,,,SocksTexStripe1,1.0.0,8
+928,clothes,襪子,花紋絲襪,デザインストッキング,patterned stockings,裁縫店,940,235,全年,False,優雅,"['日常生活', '正式', '派對', '舞台']",False,,,,SocksTexStripedot1,1.0.0,2
+929,clothes,頭戴物,官帽,かんぼう,ancient administrator hat,呂遊,,800,全年,True,優雅,"['正式', '工作']",False,,,,CapHatKanboBlack,1.0.0,1
+930,clothes,頭戴物,黑衛士兵團帽,グレンガリーぼう,glengarry,裁縫店,1320,330,全年,True,優雅,"['正式', '工作']",False,,,,CapHatGreeneryRed,1.0.0,1
+931,clothes,頭戴物,捕手面罩,キャッチャーマスク,catcher's mask,裁縫店,1560,390,全年,False,活潑,"['運動', '工作']",False,,,,CapFullfaceCatcher3,1.0.0,5
+933,clothes,頭戴物,阿拉伯帽子,アラビアのぼうし,kaffiyeh,呂遊,,800,全年,False,優雅,"['日常生活', '正式']",False,,,,CapHelmetKandula0,1.0.0,3
+934,clothes,頭戴物,黑子頭巾,くろこ,stagehand hat,裁縫店,980,245,全年,False,酷感,"['舞台', '工作']",False,,,,CapFullfaceKurokoBlack,1.0.0,1
+935,clothes,頭戴物,毛球報童帽,ボンボンつきキャスケット,pom casquette,裁縫店,880,220,冬季,True,可愛,"['日常生活', '悠閒']",False,,,,CapHatKnitcasquette1,1.0.0,6
+936,clothes,頭戴物,蘇格蘭帽,スコットランドぼうし,tam-o'-shanter,呂遊,,500,全年,True,優雅,"['正式', '工作']",False,,,,CapHatScotland1,1.0.0,4
+938,clothes,鞋子,高筒運動鞋,ハイカットスニーカー,high-tops,裁縫店,1080,270,全年,False,簡單,"['日常生活', '戶外活動', '運動']",False,,,,ShoesHighcutSneaker7,1.0.0,8
+939,clothes,上身,嘉頓格紋襯衫,ギンガムチェックのシャツ,gingham picnic shirt,裁縫店,960,240,全年,True,簡單,['日常生活'],False,,,,TopsTexTopYshirtsLGingham3,1.0.0,8
+941,clothes,鞋子,工程師靴,エンジニアブーツ,steel-toed boots,裁縫店,2640,660,全年,False,酷感,"['日常生活', '工作']",False,,,,ShoesKneeEngineerboots5,1.0.0,6
+942,clothes,頭戴物,蝴蝶結,リボン,ribbon,裁縫店,490,122,全年,True,可愛,"['日常生活', '童話世界', '派對', '舞台']",False,,,,CapOrnamentLRibbon6,1.0.0,8
+943,clothes,套裝,蛋壽司裝,たまごずし,egg-sushi costume,裁縫店,1600,400,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceRibNEgg,1.0.0,1
+944,clothes,套裝,鮪魚壽司裝,まぐろずし,tuna-sushi costume,裁縫店,1920,480,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceRibNTuna,1.0.0,1
+945,clothes,套裝,海鯽壽司裝,こはだずし,gizzard-shad-sushi costume,裁縫店,1440,360,全年,True,可愛,"['派對', '舞台']",False,,,,TopsTexOnepieceRibNKohada,1.0.0,1
+946,clothes,鞋子,帆布鞋,ラバートゥスニーカー,rubber-toe sneakers,裁縫店,1080,270,全年,False,簡單,"['日常生活', '運動']",False,,,,ShoesLowcutRubbertoe7,1.0.0,8
+947,clothes,鞋子,尖頭靴,とんがりブーツ,mage's booties,薛革,1550,387,全年,False,酷感,"['童話世界', '恐怖', '舞台']",False,,,,ShoesKneeWitch2,1.0.0,4
+948,clothes,上身,號碼衣,ビブス,sports tank,裁縫店,640,160,全年,True,簡單,"['運動', '工作']",False,,,,TopsTexTopTshirtsNBibs0,1.0.0,8
+949,clothes,頭戴物,天使光環,てんしのわ,halo,裁縫店,2220,555,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,CapOrnamentAAngel0,1.0.0,1
+950,clothes,頭戴物,護士帽,ナースキャップ,nurse's cap,裁縫店,1680,420,全年,True,簡單,['工作'],False,,,,CapOrnamentTNurse1,1.0.0,3
+951,clothes,頭戴物,霜淇淋帽,ソフトクリームなぼうし,soft-serve hat,裁縫店,630,157,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,CapHatIcecream0,1.0.0,8
+952,clothes,頭戴物,兔子耳朵,バニーのみみ,bunny ears,裁縫店,1120,280,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,CapOrnamentFBunny0,1.0.0,4
+953,clothes,頭戴物,三度笠,さんどがさ,straw umbrella hat,DIY,,200,全年,True,酷感,"['童話世界', '戶外活動']",True,"[{'count': 10, 'itemName': '雜草'}]",['自戀型村民'],,CapHatSandogasa0,1.0.0,1
+954,clothes,頭戴物,小帽子,ちいさめなぼうし,ribboned straw hat,裁縫店,490,122,全年,True,可愛,"['日常生活', '悠閒', '度假']",False,,,,CapOrnamentLMinistrawhat2,1.0.0,3
+955,clothes,頭戴物,絲質小禮帽,ちいさめシルクハット,small silk hat,裁縫店,1820,455,全年,True,可愛,"['正式', '派對', '舞台']",False,,,,CapOrnamentLMinisilkhat1,1.0.0,3
+956,clothes,頭戴物,葉子面具,はっぱのおめん,leaf mask,DIY,,200,全年,True,可愛,"['恐怖', '戶外活動']",True,"[{'count': 10, 'itemName': '雜草'}]",['活力型村民'],,CapMaskLeaf0,1.0.0,1
+957,clothes,包包,都市後背包,タウンリュック,town backpack,薛革,1040,260,全年,False,活潑,"['日常生活', '戶外活動']",False,,,,BagBackpackTown3,1.0.0,4
+958,clothes,包包,旅行收納袋,トラベルポーチ,travel pouch,薛革,840,210,全年,False,活潑,"['日常生活', '戶外活動']",False,,,,BagShoulderTravel0,1.0.0,4
+959,clothes,頭戴物,藍色玫瑰花冠,バラのかんむり・ブルー,blue rose crown,DIY,,12000,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 6, 'itemName': '藍色玫瑰'}]",['所有村民'],,CapOrnamentRose4,1.0.0,1
+960,clothes,頭戴物,金色玫瑰花冠,バラのかんむり・ゴールド,gold rose crown,DIY,,12000,全年,True,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 6, 'itemName': '金色玫瑰'}]",['所有村民'],,CapOrnamentRose5,1.0.0,1
+961,clothes,頭戴物,頭冠,ティアラ,tiara,裁縫店,4300,1075,全年,True,優雅,"['童話世界', '正式', '派對', '舞台']",False,,,,CapOrnamentCTiara0,1.0.0,3
+962,clothes,包包,郵差包,メッセンジャーバッグ,messenger bag,薛革,840,210,全年,False,簡單,"['日常生活', '戶外活動', '運動']",False,,,,BagShoulderMessenger2,1.0.0,3
+963,clothes,包包,防水背包,ドライサック,dry bag,薛革,1040,260,全年,False,活潑,"['戶外活動', '運動']",False,,,,BagBackpackDry0,1.0.0,2
+964,clothes,包包,皮革肩背包,レザーショルダー,pleather shoulder bag,薛革,2400,600,全年,False,優雅,"['日常生活', '正式']",False,,,,BagShoulderLeather1,1.0.0,2
+965,clothes,包包,魚兒斜背包,おさかなポシェット,fish pochette,活動：釣魚大賽,,210,全年,False,可愛,"['正式', '派對']",False,,,,BagShoulderFish0,1.0.0,1
+966,clothes,包包,釣魚包,フィッシングバッグ,tackle bag,活動：釣魚大賽,,175,全年,False,活潑,"['戶外活動', '運動', '工作']",False,,,,BagShoulderFishing0,1.0.0,1
+967,clothes,包包,蟲子觀察箱,ムシかご,bug cage,活動：抓蟲大會,,122,全年,False,活潑,"['戶外活動', '度假']",False,,,,BagShoulderCage0,1.0.0,1
+968,clothes,包包,仿毛皮包,フェイクファーバッグ,faux-fur bag,薛革,1400,350,全年,False,可愛,"['正式', '派對']",False,,,,BagShoulderFakefur0,1.0.0,2
+969,clothes,包包,皮革流蘇包,フリンジレザーバッグ,pleather fringe bag,薛革,2400,600,全年,False,優雅,"['日常生活', '正式', '派對']",False,,,,BagShoulderFringe1,1.0.0,2
+970,clothes,包包,手編側背包,てあみポーチ,hand-knit pouch,薛革,1250,312,全年,False,優雅,['度假'],False,,,,BagShoulderRace0,1.0.0,2
+971,clothes,包包,腰包,ボディバッグ,crossbody bag,薛革,700,175,全年,False,活潑,"['日常生活', '戶外活動', '運動']",False,,,,BagBackpackBody3,1.0.0,4
+972,clothes,包包,皮革腰包,レザーボディバッグ,pleather crossbody bag,薛革,1120,280,全年,False,酷感,"['日常生活', '工作']",False,,,,BagBackpackBodybag1,1.0.0,2
+973,clothes,包包,斜背圓筒運動包,ななめかけボストン,crossbody boston bag,薛革,1680,420,全年,False,簡單,"['日常生活', '戶外活動', '運動']",False,,,,BagShoulderDrum0,1.0.0,2
+974,clothes,包包,春天圓點肩背包,はるのみずたまショルダー,gumdrop shoulder bag,薛革,2000,500,全年,False,簡單,"['日常生活', '悠閒']",False,,,,BagShoulderPattern0,1.0.0,2
+975,clothes,包包,帆布肩背包,はんぷショルダー,cloth shoulder bag,薛革,1400,350,全年,False,簡單,['日常生活'],False,,,,BagShoulderCanvas2,1.0.0,3
+976,clothes,包包,藤編側背包,ラタンポシェット,straw pochette,薛革,980,245,全年,False,簡單,"['悠閒', '度假']",False,,,,BagShoulderRattan0,1.0.0,1
+977,clothes,包包,星星側背包,スターなポシェット,star pochette,DIY,,3000,全年,False,可愛,"['童話世界', '派對', '度假']",True,"[{'count': 6, 'itemName': '星星碎片'}]",['傅珂'],,BagShoulderStar0,1.0.0,1
+978,clothes,包包,櫻花側背包,さくらのポシェット,cherry-blossom pochette,DIY,,2400,全年,False,可愛,['童話世界'],True,"[{'count': 6, 'itemName': '櫻花花瓣'}]",['氣球'],僅在櫻花季節期間獲得,BagShoulderCherryblossoms0,1.0.0,1
+979,clothes,包包,楓葉側背包,もみじのポシェット,maple-leaf pochette,DIY,,2400,全年,False,簡單,['童話世界'],True,"[{'count': 6, 'itemName': '楓葉'}]",['氣球'],僅在楓葉季節期間獲得,BagShoulderMaple0,1.0.0,1
+980,clothes,包包,橡栗側背包,どんぐりポシェット,acorn pochette,DIY,,2400,全年,False,可愛,['童話世界'],True,"[{'count': 6, 'itemName': '橡栗'}]",['氣球'],僅在秋季期間獲得,BagShoulderAcorn0,1.0.0,1
+981,clothes,包包,雪花側背包,スノーフレークポシェット,snowflake pochette,DIY,,2400,全年,False,優雅,"['童話世界', '派對', '度假']",True,"[{'count': 6, 'itemName': '雪花'}]",['氣球'],僅在冬季期間獲得,BagShoulderSnow0,1.0.0,1
+982,clothes,包包,貝殼側背包,かいがらポシェット,shellfish pochette,DIY,,10800,全年,False,可愛,"['童話世界', '度假']",True,"[{'count': 2, 'itemName': '扇貝殼'}, {'count': 6, 'itemName': '夏天貝殼'}]",['氣球'],僅在夏季期間獲得,BagShoulderShell0,1.0.0,1
+983,clothes,包包,工具包,ツールバッグ,tool bag,薛革,910,227,全年,False,活潑,"['戶外活動', '工作']",False,,,,BagShoulderTool0,1.0.0,1
+984,clothes,包包,運動包,スポーツバッグ,retro sports bag,薛革,1400,350,全年,False,活潑,"['戶外活動', '運動']",False,,,,BagShoulderSports1,1.0.0,3
+985,clothes,包包,旅行隨身小包,サコッシュ,sacoche bag,薛革,980,245,全年,False,活潑,"['戶外活動', '運動']",False,,,,BagShoulderSacosh2,1.0.0,3
+986,clothes,包包,晚宴包,パーティーバッグ,evening bag,薛革,1250,312,全年,False,可愛,"['正式', '派對']",False,,,,BagShoulderParty2,1.0.0,3
+987,clothes,包包,背薪架,せおいばしご,log pack,DIY,,960,全年,False,簡單,"['童話世界', '戶外活動']",True,"[{'count': 3, 'itemName': '木材'}, {'count': 5, 'itemName': '硬木材'}]",['運動型村民'],,BagBackpackWood0,1.0.0,1
+988,clothes,包包,旅人後背包,たびびとのリュック,traveler's backpack,薛革,2940,735,全年,False,簡單,"['童話世界', '戶外活動', '工作']",False,,,,BagBackpackJourney0,1.0.0,3
+989,clothes,包包,四角型後背包,しかくいリュック,square backpack,薛革,1300,325,全年,False,活潑,"['日常生活', '戶外活動', '運動']",False,,,,BagBackpackSquare1,1.0.0,3
+990,clothes,包包,戶外後背包,アウトドアリュック,outdoor backpack,薛革,1560,390,全年,False,活潑,"['戶外活動', '運動']",False,,,,BagBackpackOutdoor1,1.0.0,3
+991,clothes,包包,蝴蝶後背包,ちょうちょのバッグ,butterfly backpack,活動：抓蟲大會,,210,全年,False,可愛,"['日常生活', '正式', '派對']",False,,,,BagBackpackButterfly0,1.0.0,1
+992,clothes,包包,鉚釘後背包,スタッズリュック,studded backpack,薛革,1560,390,全年,False,酷感,"['日常生活', '恐怖']",False,,,,BagBackpackStuds1,1.0.0,2
+993,clothes,包包,迷你皮革後背包,ミニレザーバッグ,mini pleather bag,薛革,1600,400,全年,False,優雅,"['日常生活', '正式', '派對']",False,,,,BagBackpackSmall0,1.0.0,2
+994,clothes,包包,登山大背包,おおきめザック,extra-large backpack,薛革,2100,525,全年,False,活潑,"['戶外活動', '運動']",False,,,,BagBackpackMountain2,1.0.0,4
+995,clothes,包包,後背架,しょいこ,basket pack,DIY,,2400,全年,False,簡單,"['戶外活動', '工作']",True,"[{'count': 6, 'itemName': '春筍'}]",['氣球'],僅在春季期間獲得,BagBackpackBasket0,1.0.0,1
+996,clothes,包包,掀蓋後背包,ふたつきリュック,foldover-top backpack,薛革,1300,325,全年,False,活潑,"['戶外活動', '運動']",False,,,,BagBackpackLid2,1.0.0,4
+997,clothes,包包,束口後背包,ナップサック,knapsack,薛革,630,157,全年,False,活潑,"['日常生活', '戶外活動', '運動']",False,,,,BagBackpackKnapsack1,1.0.0,2
+998,clothes,包包,帆布後背包,はんぷリュック,canvas backpack,薛革,1300,325,全年,False,簡單,['日常生活'],False,,,,BagBackpackTote0,1.0.0,1
+999,clothes,包包,媽媽手作束口後背包,ははのナップサック,Mom's knapsack,媽媽寄送,,175,全年,False,可愛,['悠閒'],False,,,,BagBackpackQuilt6,1.0.0,8
+1000,clothes,包包,草編後背包,くさあみリュック,knitted-grass backpack,DIY,,400,全年,False,優雅,"['戶外活動', '悠閒', '度假']",True,"[{'count': 20, 'itemName': '雜草'}]",['普通型村民'],,BagBackpackGrass0,1.0.0,1
+1001,clothes,包包,硬殼後背包,ハードシェルリュック,hard-shell backpack,薛革,1680,420,全年,False,酷感,"['戶外活動', '工作']",False,,,,BagBackpackHardshell2,1.0.0,3
+1002,clothes,襪子,鮮豔襪子,ビビッドなソックス,vivid socks,裁縫店,480,120,全年,False,簡單,"['日常生活', '派對', '舞台']",False,,,,SocksTexVividsocks0,1.0.0,8
+1003,clothes,鞋子,麂皮運動鞋,スエードスニーカー,faux-suede sneakers,裁縫店,1080,270,全年,False,簡單,"['日常生活', '戶外活動', '運動']",False,,,,ShoesLowcutSuede7,1.0.0,8
+1004,clothes,套裝,花朵連身裙,フラワーなワンピース,flower-print dress,裁縫店,1200,300,全年,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexOnepieceAlineHOneflower0,1.0.0,2
+1005,clothes,上身,MVP T恤,ＭＶＰなＴシャツ,MVP tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHMvp0,1.0.0,1
+1006,clothes,上身,No.1衣服,No.1のふく,No. 1 shirt,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHOne0,1.0.0,1
+1008,clothes,頭戴物,公主假髮,おひめさま,tiara hair,裁縫店,2940,735,全年,False,華麗,"['童話世界', '正式', '派對', '舞台']",False,,,,CapWigPrincess0,1.0.0,3
+1009,clothes,頭戴物,髮帶,ヘアターバン,headband,裁縫店,1400,350,全年,False,可愛,['悠閒'],False,,,,CapWigTurban0,1.0.0,4
+1010,clothes,頭戴物,金幣頭飾,コインヘッドピース,coin headpiece,呂遊,,1350,全年,False,華麗,['舞台'],False,,,,CapHelmetCoinGold,1.0.0,1
+1011,clothes,頭戴物,小辮子,べんぱつ,pigtail,呂遊,,800,全年,False,酷感,['日常生活'],False,,,,CapWigPigtail,1.0.0,1
+1012,clothes,頭戴物,視覺系假髮,ヴィジュアルけいウィッグ,visual-punk wig,裁縫店,1400,350,全年,False,酷感,"['派對', '舞台', '工作']",False,,,,CapWigVisual,1.0.0,1
+1014,clothes,頭戴物,后冠,クイーンのかんむり,crown,裁縫店,1000000,250000,全年,True,華麗,"['童話世界', '正式', '派對', '舞台']",False,,,,CapOrnamentAQueen0,1.0.0,1
+1016,clothes,套裝,圓點點連身裙,マーブルドットのワンピース,marble-dots dress,裁縫店,1500,375,夏季,True,活潑,"['日常生活', '童話世界', '度假']",False,,,,TopsTexOnepieceAlineNMarbledot1,1.0.0,2
+1017,clothes,套裝,簡約點點連身裙,シンプルドットワンピース,simple-dots dress,裁縫店,1200,300,夏季,True,簡單,"['日常生活', '度假']",False,,,,TopsTexOnepieceAlineNSimpledot4,1.0.0,5
+1018,clothes,套裝,扶桑花夏威夷連身裙,ハイビスカスのムームー,hibiscus muumuu,裁縫店,1800,450,夏季,True,可愛,"['悠閒', '度假']",False,,,,TopsTexOnepieceAlineNHibiscus0,1.0.0,3
+1019,clothes,套裝,玻里尼西亞風夏威夷連身裙,ポリネシアンなムームー,bold muumuu,裁縫店,1600,400,夏季,True,活潑,"['悠閒', '度假']",False,,,,TopsTexOnepieceAlineNPolynesia1,1.0.0,2
+1021,clothes,上身,警示坦克背心,デンジャラスなタンクトップ,danger tank,購物：特別購物,640,160,夏季,True,活潑,"['恐怖', '悠閒', '度假']",False,,,,TopsTexTopTshirtsNDanger0,1.0.0,1
+1022,clothes,上身,愛心毛衣,ハートのセーター,heart sweater,裁縫店,1000,250,冬季,True,可愛,"['日常生活', '童話世界', '悠閒']",False,,,,TopsTexTopOuterLHeart1,1.0.0,2
+1023,clothes,上身,樹木毛衣,きのセーター,tree sweater,購物：特別購物,880,220,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLTree0,1.0.0,1
+1024,clothes,上身,青蛙T恤,かえるのＴシャツ,frog tee,購物：特別購物,640,160,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHFrog0,1.0.0,1
+1025,clothes,上身,熊熊T恤,くまのＴシャツ,bear tee,購物：特別購物,800,200,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHBear0,1.0.0,1
+1026,clothes,上身,兔子T恤,うさぎのＴシャツ,rabbit tee,購物：特別購物,800,200,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHRabbit0,1.0.0,1
+1027,clothes,上身,橫條紋T恤,しましまＴシャツ,animal-stripes tee,裁縫店,960,240,夏季,True,酷感,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHStripe1,1.0.0,2
+1028,clothes,上身,豹紋T恤,ヒョウがらＴシャツ,leopard tee,裁縫店,800,200,夏季,True,酷感,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHLeopard3,1.0.0,4
+1029,clothes,上身,骨頭T恤,ボーンなＴシャツ,bone tee,裁縫店,640,160,夏季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHMeat0,1.0.0,1
+1030,clothes,上身,雲霧衣服,かすみのふく,misty tee,購物：特別購物,640,160,全年,True,優雅,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHaze0,1.0.0,1
+1031,clothes,上身,圓點點T恤,マーブルドットのＴシャツ,marble-dots tee,裁縫店,640,160,夏季,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHMarbledot1,1.0.0,2
+1032,clothes,上身,簡約點點T恤,シンプルドットのＴシャツ,simple-dots tee,裁縫店,640,160,夏季,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHSimpledot4,1.0.0,5
+1033,clothes,上身,鋸齒紋T恤,ギザギザのＴシャツ,zigzag shirt,購物：特別購物,960,240,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLJagged0,1.0.0,1
+1034,clothes,上身,花紋T恤,はながらのＴシャツ,blossom tee,裁縫店,800,200,夏季,True,可愛,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHFlower0,1.0.0,5
+1035,clothes,上身,玻里尼西亞夏威夷襯衫,ポリネシアンなアロハ,bold aloha shirt,裁縫店,960,240,夏季,True,活潑,"['悠閒', '度假']",False,,,,TopsTexTopYshirtsHPolynesia1,1.0.0,2
+1036,clothes,上身,蜘蛛T恤,スパイダーなＴシャツ,spider-web tee,裁縫店,960,240,夏季,True,酷感,"['恐怖', '悠閒']",False,,,,TopsTexTopTshirtsHSpider0,1.0.0,1
+1037,clothes,上身,骷髏T恤,ドクロＴシャツ,skull tee,裁縫店,960,240,夏季,True,酷感,"['日常生活', '恐怖', '悠閒']",False,,,,TopsTexTopTshirtsHSkull0,1.0.0,3
+1038,clothes,上身,A字T恤,エースのＴシャツ,A tee,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHAce0,1.0.0,1
+1039,clothes,套裝,簡約格紋連身裙,シンプルチェックのワンピ,simple checkered dress,裁縫店,1200,300,夏季,True,簡單,"['日常生活', '童話世界', '度假']",False,,,,TopsTexOnepieceAlineNPlaid0,1.0.0,3
+1040,clothes,頭戴物,雪人帽子,ゆきだるまのぼうし,snowperson head,DIY,,7000,冬季,False,可愛,"['日常生活', '戶外活動']",True,"[{'count': 1, 'itemName': '大雪花'}, {'count': 5, 'itemName': '雪花'}]",['雪人'],製作完美的雪人；僅在冬季期間獲得,CapCostumeSnowball0,1.0.0,1
+1041,clothes,頭戴物,稻草圈裝飾,わかざり,zen hair clip,裁縫店,4300,1075,全年,True,可愛,"['正式', '派對']",False,,,,CapOrnamentLTsumamizaiku0,1.0.0,8
+1042,clothes,頭戴物,鮮艷髮飾,はでなかみかざり,flashy hairpin,裁縫店,2340,585,全年,True,華麗,"['日常生活', '派對', '舞台']",False,,,,CapOrnamentLGaudy6,1.0.0,7
+1043,clothes,頭戴物,機長帽子,きちょうのぼうし,pilot's hat,裁縫店,1680,420,全年,True,活潑,"['正式', '工作']",False,,,,CapHatCaptainsky1,1.0.0,3
+1044,clothes,頭戴物,學生帽,がくせいぼう,student cap,裁縫店,1040,260,全年,True,簡單,"['日常生活', '正式']",False,,,,CapHatStudent0,1.0.0,7
+1045,clothes,頭戴物,扶桑花髮飾,ハイビスカスのかみかざり,hibiscus hairpin,裁縫店,560,140,夏季,True,優雅,"['童話世界', '度假']",False,,,,CapOrnamentLHibiscus2,1.0.0,4
+1046,clothes,上身,星星坦克背心,ほしがらタンクトップ,starry tank,購物：特別購物,800,200,夏季,True,活潑,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsNStar0,1.0.0,1
+1047,clothes,上身,火焰T恤,ファイアーなＴシャツ,flame tee,裁縫店,800,200,夏季,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHFire0,1.0.0,1
+1048,clothes,套裝,活潑格紋連身裙,げんきなチェックのワンピ,lively plaid dress,裁縫店,1800,450,全年,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexOnepieceAlineHPlaid0,1.0.0,1
+1049,clothes,襪子,同色系褲襪,ニュアンスタイツ,semi-opaque tights,裁縫店,720,180,全年,False,優雅,['日常生活'],False,,,,SocksTexNuancetights6,1.0.0,8
+1050,clothes,襪子,通勤褲襪,デイリータイツ,everyday tights,裁縫店,720,180,全年,False,簡單,"['日常生活', '工作']",False,,,,SocksTexDailytights3,1.0.0,6
+1051,clothes,襪子,鮮豔褲襪,ビビッドなタイツ,vivid tights,裁縫店,720,180,全年,False,簡單,"['派對', '舞台']",False,,,,SocksTexVividtights2,1.0.0,8
+1052,clothes,襪子,螢光色褲襪,ネオンタイツ,neon tights,裁縫店,720,180,全年,False,活潑,"['派對', '舞台']",False,,,,SocksTexNeontights1,1.0.0,5
+1053,clothes,襪子,鮮豔緊身褲,ビビッドなレギンス,vivid leggings,裁縫店,450,112,全年,False,簡單,"['戶外活動', '派對', '舞台']",False,,,,SocksTexVividleggings2,1.0.0,8
+1054,clothes,襪子,螢光色緊身褲,ネオンレギンス,neon leggings,裁縫店,540,135,全年,False,活潑,"['戶外活動', '派對', '舞台']",False,,,,SocksTexNeonleggings1,1.0.0,5
+1055,clothes,飾品,奶嘴,おしゃぶり,pacifier,裁縫店,560,140,全年,False,可愛,['悠閒'],False,,,,AccessoryMouthPacifier5,1.0.0,8
+1056,clothes,上身,媽媽手編毛衣,ははのてあみセーター,Mom's hand-knit sweater,媽媽寄送,,88,全年,True,可愛,['悠閒'],False,,,,TopsTexTopOuterLMother6,1.0.0,8
+1057,clothes,上身,媽媽手作圍裙,ははのてづくりエプロン,Mom's handmade apron,媽媽寄送,,88,全年,True,可愛,['悠閒'],False,,,,TopsTexTopCoatLMother1,1.0.0,8
+1058,clothes,上身,簡約針織衫,シンプルなニット,simple knit sweater,裁縫店,960,240,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLKnit0,1.0.0,3
+1059,clothes,襪子,通勤襪子,デイリーソックス,everyday socks,裁縫店,600,150,全年,False,簡單,"['日常生活', '工作']",False,,,,SocksTexDailysocks5,1.0.0,6
+1060,clothes,襪子,同色系襪子,ニュアンスソックス,semi-opaque socks,裁縫店,480,120,全年,False,優雅,['日常生活'],False,,,,SocksTexNuancesocks1,1.0.0,8
+1061,clothes,頭戴物,棒球帽,ベースボールキャップ,baseball cap,裁縫店,840,210,全年,True,活潑,"['戶外活動', '運動', '工作']",False,,,,CapHatBaseball3,1.0.0,5
+1062,clothes,上身,維京人衣服,バイキングのふく,viking top,裁縫店,2500,625,全年,True,酷感,['童話世界'],False,,,,TopsTexTopCoatLViking1,1.0.0,3
+1063,clothes,上身,圓點雨衣,みずたまレインコート,dotted raincoat,裁縫店,1600,400,全年,True,可愛,['戶外活動'],False,,,,TopsTexTopCoatLRaindot5,1.0.0,6
+1064,clothes,套裝,阿拉伯傳統服裝,カンデューラ,kandoora,裁縫店,2520,630,全年,True,簡單,"['日常生活', '正式']",False,,,,TopsTexOnepieceBlongLCandula0,1.0.0,3
+1065,clothes,頭戴物,斜紋軟呢帽,ツイードキャップ,tweed cap,裁縫店,1100,275,全年,True,優雅,"['日常生活', '戶外活動']",False,,,,CapHatTweed2,1.0.0,3
+1066,clothes,上身,餐館圍裙,ダイナーのエプロン,diner apron,裁縫店,840,210,全年,True,活潑,['工作'],False,,,,TopsTexTopCoatLDiner6,1.0.0,7
+1072,clothes,上身,兩件式印花T恤,かさねぎプリントＴシャツ,printed layered shirt,裁縫店,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLLayeredlogoa2,1.0.0,3
+1074,clothes,上身,袖子印花T恤,アームプリントＴシャツ,printed-sleeve sweater,裁縫店,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLLogoa1,1.0.0,3
+1078,clothes,上身,方塊格紋蓬蓬袖上衣,ブロックチェックのパフスリーブ,plaid puffed-sleeve shirt,裁縫店,1200,300,夏季,True,可愛,"['日常生活', '童話世界', '度假']",False,,,,TopsTexTopPuffHPlaid1,1.0.0,4
+1079,clothes,上身,洋娃娃風襯衫,ドーリーシャツ,dolly shirt,裁縫店,960,240,夏季,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexTopPuffHDolly0,1.0.0,4
+1081,clothes,上身,工作圍裙,ワークエプロン,work apron,裁縫店,1100,275,全年,True,活潑,"['戶外活動', '工作']",False,,,,TopsTexTopCoatLWorkapron1,1.0.0,2
+1082,clothes,上身,植物圖案T恤,ボタニカルＴシャツ,botanical tee,裁縫店,800,200,夏季,True,酷感,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsHBotanical1,1.0.0,2
+1083,clothes,上身,迷幻T恤,サイケデリックシャツ,groovy shirt,裁縫店,1440,360,全年,True,酷感,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopYshirtsLPsychedelic2,1.0.0,3
+1084,clothes,套裝,十二單和服,じゅうにひとえ,junihitoe kimono,裁縫店,7000,1750,全年,True,華麗,"['正式', '派對', '舞台']",False,,,,TopsTexOnepieceKimonoLTwelve0,1.0.0,1
+1085,clothes,套裝,墨西哥少女洋裝,セニョリータなドレス,Victorian dress,裁縫店,2520,630,全年,True,華麗,"['正式', '派對', '舞台']",False,,,,TopsTexOnepieceDressLMexico3,1.0.0,6
+1086,clothes,套裝,羽織和服褶裙,もんつきはかま,hakama with crest,裁縫店,4800,1200,全年,True,酷感,"['正式', '派對']",False,,,,TopsTexOnepieceKimonoLCrested0,1.0.0,1
+1087,clothes,套裝,蘋果服,リンゴのふく,apple dress,DIY,,1600,全年,True,可愛,"['童話世界', '派對', '舞台']",True,"[{'count': 8, 'itemName': '蘋果'}]",['大姐姐型村民'],,TopsTexOnepieceAlineNApple0,1.0.0,1
+1088,clothes,套裝,梨子服,ナシのふく,pear dress,DIY,,1600,全年,True,可愛,"['童話世界', '派對', '舞台']",True,"[{'count': 8, 'itemName': '梨子'}]",['運動型村民'],,TopsTexOnepieceAlineNPear0,1.0.0,1
+1089,clothes,套裝,櫻桃服,さくらんぼのふく,cherry dress,DIY,,1600,全年,True,可愛,"['童話世界', '派對', '舞台']",True,"[{'count': 8, 'itemName': '櫻桃'}]",['活力型村民'],,TopsTexOnepieceAlineNCherry0,1.0.0,1
+1090,clothes,套裝,桃子服,モモのふく,peach dress,DIY,,1600,全年,True,可愛,"['童話世界', '派對', '舞台']",True,"[{'count': 8, 'itemName': '桃子'}]",['普通型村民'],,TopsTexOnepieceAlineNPeach0,1.0.0,1
+1091,clothes,下身,足球褲,サッカーのズボン,soccer shorts,裁縫店,980,245,全年,False,活潑,"['運動', '工作']",False,,,,BottomsTexPantsHalfSoccer5,1.0.0,8
+1092,clothes,下身,探險服褲子,たんけんふくのズボン,explorer shorts,裁縫店,1040,260,全年,False,活潑,"['戶外活動', '工作']",False,,,,BottomsTexPantsHalfExplorer2,1.0.0,4
+1093,clothes,下身,動物花紋裙,アニマルがらスカート,animal-stripes skirt,裁縫店,1100,275,全年,False,酷感,['日常生活'],False,,,,BottomsTexSkirtBoxStripe1,1.0.0,2
+1095,clothes,下身,美式足球褲,アメフトズボン,football pants,裁縫店,980,245,全年,False,活潑,"['運動', '工作']",False,,,,BottomsTexPantsNormalAmericanfootball1,1.0.0,8
+1097,clothes,鞋子,功夫鞋,カンフーシューズ,kung-fu shoes,薛革,1260,315,全年,False,活潑,"['日常生活', '運動']",False,,,,ShoesLowcutKungfu0,1.0.0,1
+1098,clothes,鞋子,刺繡鞋,ししゅうのくつ,embroidered shoes,薛革,2100,525,全年,False,優雅,"['日常生活', '正式']",False,,,,ShoesLowcutEmbroidery1,1.0.0,4
+1105,clothes,頭戴物,花朵髮夾,おはなのヘアピン,floral hairpin,裁縫店,490,122,全年,True,可愛,"['日常生活', '童話世界']",False,,,,CapOrnamentLFlowerhairpin0,1.0.0,5
+1106,clothes,頭戴物,愛心髮飾,ハートのかみかざり,heart hairpin,裁縫店,700,175,全年,True,可愛,"['日常生活', '童話世界']",False,,,,CapOrnamentLHearthairpin4,1.0.0,5
+1107,clothes,頭戴物,星星髮飾,ほしのかみかざり,star hairpin,裁縫店,350,87,全年,True,可愛,"['日常生活', '童話世界']",False,,,,CapOrnamentLStarhairpin4,1.0.0,5
+1108,clothes,頭戴物,發光球頭飾,ひかるボールアクセサリー,bulb bopper,西施惠,,245,全年,True,可愛,"['童話世界', '派對', '運動']",False,,,,CapOrnamentFBallband0,1.4.0,1
+1109,clothes,頭戴物,發光花朵頭飾,ひかるはなのアクセサリー,flower bopper,西施惠,,245,全年,True,可愛,"['童話世界', '派對', '運動']",False,,,,CapOrnamentFFlowerband0,1.4.0,1
+1110,clothes,頭戴物,發光愛心頭飾,ひかるハートアクセサリー,heart bopper,西施惠,,245,全年,True,可愛,"['童話世界', '派對', '運動']",False,,,,CapOrnamentFHeartband0,1.4.0,1
+1111,clothes,頭戴物,髮夾,バレッタ,barrette,裁縫店,490,122,全年,True,優雅,"['日常生活', '童話世界', '派對']",False,,,,CapOrnamentTBarrette0,1.0.0,1
+1112,clothes,頭戴物,大蝴蝶結,おおきなリボン,giant ribbon,裁縫店,1470,367,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,CapOrnamentTRibbon6,1.0.0,8
+1113,clothes,頭戴物,星星頭套,おほしさまのあたま,star head,DIY,,2500,全年,False,可愛,"['童話世界', '派對', '舞台']",True,"[{'count': 5, 'itemName': '星星碎片'}]",['傅珂'],,CapCostumeStar0,1.0.0,1
+1114,clothes,頭戴物,滑板安全帽,スケボーヘルメット,skateboarding helmet,裁縫店,880,220,全年,True,活潑,['運動'],False,,,,CapHatSkate3,1.0.0,5
+1115,clothes,頭戴物,手編阿倫花樣針織帽,アランニットぼう,Aran-knit cap,裁縫店,880,220,冬季,True,簡單,"['日常生活', '戶外活動', '悠閒']",False,,,,CapHatAlan0,1.0.0,4
+1117,clothes,頭戴物,文字帽,もじキャップ,lettered cap,裁縫店,560,140,全年,True,活潑,"['日常生活', '戶外活動', '運動']",False,,,,CapHatLogocap0,1.0.0,3
+1119,clothes,頭戴物,蝴蝶結草帽,リボンつきむぎわらぼうし,ribboned garden hat,裁縫店,700,175,夏季,True,可愛,"['日常生活', '童話世界', '度假']",False,,,,CapHatGarlystrawhat1,1.0.0,4
+1121,clothes,頭戴物,拼布鬱金香帽,パッチワークのチューリップぼう,patchwork tulip hat,裁縫店,1680,420,全年,True,可愛,"['戶外活動', '悠閒', '度假']",False,,,,CapHatTulippatch0,1.0.0,3
+1122,clothes,頭戴物,蘋果帽子,リンゴのぼうし,apple hat,DIY,,1000,全年,True,可愛,"['童話世界', '派對', '舞台']",True,"[{'count': 5, 'itemName': '蘋果'}]",['大姐姐型村民'],,CapHatApple0,1.0.0,1
+1123,clothes,頭戴物,梨子帽子,ナシのぼうし,pear hat,DIY,,1000,全年,True,可愛,"['童話世界', '派對', '舞台']",True,"[{'count': 5, 'itemName': '梨子'}]",['運動型村民'],,CapHatPear0,1.0.0,1
+1124,clothes,頭戴物,櫻桃帽子,さくらんぼのぼうし,cherry hat,DIY,,1000,全年,True,可愛,"['童話世界', '派對', '舞台']",True,"[{'count': 5, 'itemName': '櫻桃'}]",['活力型村民'],,CapHatCherry0,1.0.0,1
+1125,clothes,頭戴物,桃子帽子,モモのぼうし,peach hat,DIY,,1000,全年,True,可愛,"['童話世界', '派對', '舞台']",True,"[{'count': 5, 'itemName': '桃子'}]",['普通型村民'],,CapHatPeach0,1.0.0,1
+1126,clothes,上身,凱絲針織衫,ケイトのカットソー,Labelle knit shirt,綿兒,2270,567,全年,True,酷感,"['派對', '悠閒', '舞台']",False,,,,TopsTexTopTshirtsHKate1,1.0.0,6
+1127,clothes,上身,凱絲大衣,ケイトのコート,Labelle coat,綿兒,3900,975,全年,True,華麗,"['正式', '派對', '舞台']",False,,,,TopsTexTopCoatLKate1,1.0.0,6
+1128,clothes,套裝,凱絲連身裙,ケイトのワンピース,Labelle dress,綿兒,3400,850,全年,True,優雅,"['正式', '派對', '舞台']",False,,,,TopsTexOnepieceAlineNKate1,1.0.0,6
+1129,clothes,下身,凱絲五分褲,ケイトのハーフパンツ,Labelle shorts,綿兒,2540,635,全年,False,酷感,"['正式', '派對', '舞台']",False,,,,BottomsTexPantsHalfKate1,1.0.0,6
+1130,clothes,下身,凱絲裙,ケイトのスカート,Labelle skirt,綿兒,3100,775,全年,False,優雅,"['正式', '派對', '舞台']",False,,,,BottomsTexSkirtLongKate1,1.0.0,6
+1131,clothes,頭戴物,凱絲鴨舌帽,ケイトのキャップ,Labelle cap,綿兒,2400,600,全年,True,酷感,"['日常生活', '運動', '舞台']",False,,,,CapHatKatecap1,1.0.0,6
+1132,clothes,頭戴物,凱絲帽子,ケイトのぼうし,Labelle hat,綿兒,2500,625,全年,True,華麗,"['日常生活', '正式', '派對', '舞台']",False,,,,CapHatKatehat1,1.0.0,6
+1133,clothes,襪子,凱絲褲襪,ケイトのタイツ,Labelle tights,綿兒,1240,310,全年,False,優雅,"['日常生活', '正式', '派對', '舞台']",False,,,,SocksTexKatetights1,1.0.0,6
+1134,clothes,襪子,凱絲襪子,ケイトのソックス,Labelle socks,綿兒,940,235,全年,False,酷感,"['日常生活', '正式', '運動', '舞台']",False,,,,SocksTexKatesocks1,1.0.0,6
+1135,clothes,鞋子,凱絲低跟鞋,ケイトのパンプス,Labelle pumps,綿兒,3500,875,全年,False,優雅,"['日常生活', '正式', '派對', '舞台', '工作']",False,,,,ShoesLowcutKateheel1,1.0.0,6
+1136,clothes,鞋子,凱絲運動鞋,ケイトのスニーカー,Labelle sneakers,綿兒,3300,825,全年,False,酷感,"['日常生活', '運動', '舞台']",False,,,,ShoesHighcutKatesneaker1,1.0.0,6
+1137,clothes,飾品,凱絲墨鏡,ケイトのサングラス,Labelle sunglasses,綿兒,2000,500,全年,True,華麗,"['日常生活', '正式', '派對', '舞台', '度假']",False,,,,AccessoryGlassKate1,1.0.0,6
+1139,clothes,頭戴物,發光星星頭飾,ひかるスターアクセサリー,star bopper,西施惠,,245,全年,True,可愛,"['童話世界', '派對', '運動']",False,,,,CapOrnamentFStarband0,1.4.0,1
+1140,clothes,上身,Nook Inc.外套,たぬきかいはつブルゾン,Nook Inc. blouson,購物：哩數兌換,,4000,全年,True,簡單,"['戶外活動', '工作']",False,,,,TopsTexTopOuterLRco,1.0.0,1
+1141,clothes,上身,Nook Inc.夏威夷襯衫,たぬきかいはつアロハ,Nook Inc. aloha shirt,購物：哩數兌換,,3000,全年,True,簡單,"['悠閒', '度假']",False,,,,TopsTexTopTshirtsHRco,1.0.0,1
+1142,clothes,頭戴物,Nook Inc.帽,たぬきかいはつキャップ,Nook Inc. cap,購物：哩數兌換,,2500,全年,True,簡單,"['戶外活動', '運動']",False,,,,CapHatMeshcapRco,1.0.0,1
+1143,clothes,頭戴物,Nook Inc.頭巾,たぬきかいはつバンダナ,Nook Inc. bandanna,購物：哩數兌換,,2500,全年,True,簡單,"['戶外活動', '工作']",False,,,,CapHatBandanaRco,1.0.0,1
+1144,clothes,襪子,Nook Inc.襪子,たぬきかいはつソックス,Nook Inc. socks,購物：哩數兌換,,2000,全年,False,活潑,"['日常生活', '戶外活動', '悠閒']",False,,,,SocksTexBorderRco,1.0.0,1
+1145,clothes,鞋子,Nook Inc.拖鞋,たぬきかいはつスリッパ,Nook Inc. slippers,購物：哩數兌換,,2000,全年,False,簡單,['悠閒'],False,,,,ShoesSandalRco,1.0.0,1
+1146,clothes,上身,最閃耀星星衣服,いちばんぼしのふく,big-star tee,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHStar0,1.0.0,1
+1147,clothes,頭戴物,雨衣帽,レインハット,rain hat,裁縫店,880,220,全年,True,簡單,"['日常生活', '戶外活動']",False,,,,CapHatRain5,1.0.0,8
+1148,clothes,飾品,Nook Inc.眼罩,たぬきかいはつアイマスク,Nook Inc. eye mask,購物：哩數兌換,,2000,全年,True,簡單,['悠閒'],False,,,,AccessoryGlassNook0,1.0.0,1
+1149,clothes,上身,Nook Inc.T恤,たぬきかいはつＴシャツ,Nook Inc. tee,購物：哩數兌換,,3000,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNook0,1.0.0,1
+1150,clothes,包包,Nook Inc.束口後背包,たぬきかいはつナップサック,Nook Inc. knapsack,購物：哩數兌換,,4000,全年,False,華麗,['日常生活'],False,,,,BagBackpackNook0,1.0.0,1
+1151,clothes,上身,昆蟲夏威夷襯衫,インセクトアロハ,bug aloha shirt,活動：抓蟲大會,,240,全年,True,酷感,"['悠閒', '度假']",False,,,,TopsTexTopYshirtsHInsect0,1.0.0,1
+1152,clothes,上身,魚兒T恤,さかなＴシャツ,fish-print tee,活動：釣魚大賽,,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHFish0,1.0.0,1
+1153,clothes,頭戴物,鳳梨圖案戶外帽,パインがらアウトドアハット,tropical hat,裁縫店,700,175,夏季,True,活潑,"['戶外活動', '悠閒', '度假']",False,,,,CapHatOutdoorpine1,1.0.0,5
+1154,clothes,上身,毛絨睡袍,もこもこナイトガウン,terry-cloth nightgown,裁縫店,1440,360,冬季,True,可愛,"['童話世界', '悠閒']",False,,,,TopsTexTopCoatLPajamas4,1.0.0,8
+1155,clothes,套裝,睡衣連身裙,パジャマワンピ,pajama dress,裁縫店,1200,300,全年,True,簡單,['悠閒'],False,,,,TopsTexOnepieceBoxLPajamas2,1.0.0,5
+1156,clothes,套裝,視覺系洋裝,ヴィジュアルけいドレス,visual-punk dress,裁縫店,2040,510,全年,True,酷感,"['派對', '舞台', '工作']",False,,,,TopsTexOnepieceBalloonHVisual0,1.0.0,1
+1157,clothes,套裝,烏茲別克服,ウズベクなふく,bekasab robe,裁縫店,2520,630,全年,True,華麗,"['日常生活', '正式']",False,,,,TopsTexOnepieceAlongLUzbek0,1.0.0,4
+1158,clothes,套裝,阿伊努族傳統服裝,アットゥシ,attus robe,裁縫店,2520,630,全年,True,酷感,"['日常生活', '正式']",False,,,,TopsTexOnepieceBlongLAttoushi2,1.0.0,3
+1159,clothes,套裝,沖繩傳統服裝,びんがたいしょう,bingata dress,裁縫店,2520,630,全年,True,優雅,['舞台'],False,,,,TopsTexOnepieceKimonoLBingata0,1.0.0,1
+1160,clothes,上身,玩偶圍巾大衣,ぬいぐるみマフラーつきコート,plushie-muffler coat,裁縫店,1960,490,冬季,True,可愛,['日常生活'],False,,,,TopsTexTopCoatLDoll1,1.0.0,3
+1161,clothes,套裝,油漆連身工作服,ペイントつなぎ,painter's coverall,裁縫店,1600,400,全年,True,活潑,"['戶外活動', '工作']",False,,,,TopsTexOnepieceOverallLPaint2,1.0.0,3
+1163,clothes,頭戴物,烏茲別克帽子,ウズベクなぼうし,tubeteika,呂遊,,500,全年,True,華麗,"['日常生活', '正式']",False,,,,CapHatUzbek0,1.0.0,4
+1164,clothes,頭戴物,阿伊努族頭巾,マタンプシ,matanpushi,裁縫店,880,220,全年,True,酷感,"['日常生活', '正式']",False,,,,CapHatMatampushi2,1.0.0,3
+1165,clothes,上身,2號衣服,No.2のふく,No. 2 shirt,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHTwo0,1.0.0,1
+1166,clothes,上身,3號衣服,No.3のふく,No. 3 shirt,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHThree0,1.0.0,1
+1167,clothes,上身,4號衣服,No.4のふく,No. 4 shirt,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHFour0,1.0.0,1
+1168,clothes,上身,konnichiwa T恤,こんにちはＴシャツ,konnichiwa tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellojp0,1.0.0,1
+1169,clothes,上身,bonjour T恤,ボンジュールＴシャツ,bonjour tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellofr0,1.0.0,1
+1170,clothes,上身,hello T恤,ハローＴシャツ,hello tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloen0,1.0.0,1
+1171,clothes,上身,annyeong T恤,アンニョンＴシャツ,annyeong tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellokr0,1.0.0,1
+1172,clothes,上身,你好T恤,ニーハオＴシャツ,ni hao tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloch0,1.0.0,1
+1173,clothes,上身,hallo T恤,ハーローＴシャツ,hallo tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloge0,1.0.0,1
+1174,clothes,上身,ciao T恤,チャオＴシャツ,ciao tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloit0,1.0.0,1
+1175,clothes,上身,hola T恤,オラＴシャツ,hola tee,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellosp0,1.0.0,1
+1176,clothes,上身,privét T恤,プリヴェＴシャツ,privét tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellors0,1.0.0,1
+1177,clothes,上身,嗨T恤,ハイＴシャツ,hi tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellotw0,1.0.0,1
+1178,clothes,上身,hoi T恤,ホーイＴシャツ,hoi tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloNr0,1.0.0,1
+1179,clothes,上身,DAL T恤,ＤＡＬのＴシャツ,DAL tee,Dodo公司,,1010,全年,True,簡單,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsHDal0,1.0.0,1
+1180,clothes,上身,DAL圍裙,ＤＡＬエプロン,DAL apron,Dodo公司,,1010,全年,True,簡單,"['度假', '工作']",False,,,,TopsTexTopCoatHDal0,1.0.0,1
+1181,clothes,上身,DAL MA-1飛行外套,ＤＡＬのＭＡ‐１,DAL pilot jacket,Dodo公司,,1010,全年,True,酷感,"['戶外活動', '度假', '工作']",False,,,,TopsTexTopOuterLDal0,1.0.0,1
+1182,clothes,飾品,DAL眼罩,ＤＡＬアイマスク,DAL eye mask,Dodo公司,,1010,全年,True,簡單,"['悠閒', '度假']",False,,,,AccessoryGlassDalmask0,1.0.0,1
+1183,clothes,飾品,DAL墨鏡,ＤＡＬサングラス,DAL sunglasses,Dodo公司,,1010,全年,True,華麗,"['悠閒', '度假']",False,,,,AccessoryGlassDalglass0,1.0.0,1
+1184,clothes,鞋子,DAL拖鞋,ＤＡＬスリッパ,DAL slippers,Dodo公司,,1010,全年,False,簡單,"['悠閒', '度假']",False,,,,AccessoryGlassSlippers0,1.0.0,1
+1185,clothes,包包,DAL包包,ＤＡＬのバッグ,DAL backpack,Dodo公司,,1010,全年,False,酷感,"['戶外活動', '度假']",False,,,,BagBackpackDal0,1.0.0,1
+1186,clothes,頭戴物,DAL帽,ＤＡＬキャップ,DAL cap,Dodo公司,,1010,全年,True,簡單,"['戶外活動', '運動', '度假']",False,,,,CapHatDal0,1.0.0,1
+1187,clothes,下身,點點迷你裙,ドットミニスカート,polka-dot miniskirt,裁縫店,1100,275,全年,False,簡單,"['日常生活', '度假']",False,,,,BottomsTexSkirtAlineDot3,1.0.0,4
+1188,clothes,襪子,點點膝上襪,ドットのニーハイソックス,dotted knee-high socks,裁縫店,720,180,全年,False,可愛,['日常生活'],False,,,,SocksTexDotknee3,1.0.0,4
+1189,clothes,襪子,簡約膝上襪,シンプルなニーハイソックス,simple knee-high socks,薛革,600,150,全年,False,可愛,['日常生活'],False,,,,SocksTexSimpleknee1,1.0.0,4
+1190,clothes,下身,綠色草裙,みどりのこしみの,green grass skirt,DIY,,140,全年,False,活潑,"['戶外活動', '度假']",True,"[{'count': 7, 'itemName': '雜草'}]",['活力型村民'],,BottomsTexSkirtBoxGrass1,1.0.0,1
+1191,clothes,鞋子,舊長靴,リサイクルながぐつ,recycled boots,DIY,,40,全年,False,簡單,['戶外活動'],True,"[{'count': 2, 'itemName': '長靴'}]",['釣魚'],釣到一個舊靴子,ShoesKneeRecyclingboots0,1.0.0,1
+1192,clothes,頭戴物,OK車業帽,OKモータースのキャップ,OK Motors cap,購物：手遊連動,770,192,全年,True,簡單,['工作'],False,,,,CapHatOkmotors0,1.1.0,1
+1193,clothes,上身,OK車業外套,OKモータースジャケット,OK Motors jacket,購物：手遊連動,1500,375,全年,True,簡單,['工作'],False,,,,TopsTexTopYshirtsHOkmotors0,1.1.0,1
+1194,clothes,上身,露營者T恤,キャンパーのTシャツ,camper tee,購物：手遊連動,840,210,全年,True,簡單,"['戶外活動', '悠閒']",False,,,,TopsTexTopTshirtsHOkmotors0,1.1.0,1
+1195,clothes,頭戴物,地面蛋殼,じめんのたまごのから,earth-egg shell,DIY,,800,全年,True,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '地面蛋'}]",['收集地面蛋'],僅在復活節季節期間獲得,CapHatEggground0,1.1.0,1
+1196,clothes,頭戴物,岩石蛋殼,いわのたまごのから,stone-egg shell,DIY,,800,全年,True,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '岩石蛋'}]",['收集石頭蛋'],僅在復活節季節期間獲得,CapHatEggrock0,1.1.0,1
+1197,clothes,頭戴物,葉子蛋殼,はっぱのたまごのから,leaf-egg shell,DIY,,800,全年,True,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '葉子蛋'}]",['收集葉子蛋'],僅在復活節季節期間獲得,CapHatEggleaf0,1.1.0,1
+1198,clothes,頭戴物,森林蛋殼,ウッディなたまごのから,wood-egg shell,DIY,,800,全年,True,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '森林蛋'}]",['收集森林蛋'],僅在復活節季節期間獲得,CapHatEggforest0,1.1.0,1
+1199,clothes,頭戴物,飛天蛋殼,そらとぶたまごのから,sky-egg shell,DIY,,800,全年,True,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '飛天蛋'}]",['收集飛天蛋'],僅在復活節季節期間獲得,CapHatEggsky0,1.1.0,1
+1200,clothes,頭戴物,魚兒蛋殼,サカナのたまごのから,water-egg shell,DIY,,800,全年,True,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '魚兒蛋'}]",['收集魚兒蛋'],僅在復活節季節期間獲得,CapHatEggfish0,1.1.0,1
+1201,clothes,頭戴物,復活節花冠,イースターなかんむり,Bunny Day crown,DIY,,2400,全年,True,優雅,"['童話世界', '派對', '舞台']",True,"[{'count': 1, 'itemName': '地面蛋'}, {'count': 1, 'itemName': '岩石蛋'}, {'count': 1, 'itemName': '葉子蛋'}, {'count': 1, 'itemName': '森林蛋'}, {'count': 1, 'itemName': '飛天蛋'}]",['所有村民'],僅在復活節季節期間獲得,CapOrnamentCEgg0,1.1.0,1
+1202,clothes,頭戴物,蛋派對帽,たまごのパーティーハット,egg party hat,DIY,,4800,全年,True,華麗,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '地面蛋'}, {'count': 2, 'itemName': '岩石蛋'}, {'count': 2, 'itemName': '葉子蛋'}, {'count': 2, 'itemName': '森林蛋'}, {'count': 2, 'itemName': '飛天蛋'}]",['學會所有復活節DIY'],僅在復活節季節期間獲得,CapHatEggparty0,1.1.0,1
+1203,clothes,包包,復活節包包,イースターなバッグ,Bunny Day bag,DIY,,2400,全年,False,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 1, 'itemName': '地面蛋'}, {'count': 1, 'itemName': '岩石蛋'}, {'count': 1, 'itemName': '葉子蛋'}, {'count': 1, 'itemName': '森林蛋'}, {'count': 1, 'itemName': '飛天蛋'}]",['所有村民'],僅在復活節季節期間獲得,BagBackpackEgg0,1.1.0,1
+1204,clothes,套裝,蛋派對連身裙,たまごのパーティーワンピ,egg party dress,DIY,,7200,全年,True,華麗,"['童話世界', '派對', '舞台']",True,"[{'count': 3, 'itemName': '地面蛋'}, {'count': 3, 'itemName': '岩石蛋'}, {'count': 3, 'itemName': '葉子蛋'}, {'count': 3, 'itemName': '森林蛋'}, {'count': 3, 'itemName': '飛天蛋'}]",['學會所有復活節DIY'],僅在復活節季節期間獲得,TopsTexOnepieceBalloonLEgg0,1.1.0,1
+1205,clothes,套裝,地面蛋衣服,じめんのたまごのふく,earth-egg outfit,DIY,,1200,全年,True,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 3, 'itemName': '地面蛋'}]",['收集地面蛋'],僅在復活節季節期間獲得,TopsTexOnepieceRibNEggground0,1.1.0,1
+1206,clothes,套裝,岩石蛋衣服,いわのたまごのふく,stone-egg outfit,DIY,,1200,全年,True,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 3, 'itemName': '岩石蛋'}]",['收集石頭蛋'],僅在復活節季節期間獲得,TopsTexOnepieceRibNEggrock0,1.1.0,1
+1207,clothes,套裝,葉子蛋衣服,はっぱのたまごのふく,leaf-egg outfit,DIY,,1200,全年,True,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 3, 'itemName': '葉子蛋'}]",['收集葉子蛋'],僅在復活節季節期間獲得,TopsTexOnepieceRibNEggleaf0,1.1.0,1
+1208,clothes,套裝,森林蛋衣服,ウッディなたまごのふく,wood-egg outfit,DIY,,1200,全年,True,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 3, 'itemName': '森林蛋'}]",['收集森林蛋'],僅在復活節季節期間獲得,TopsTexOnepieceRibNEggforest0,1.1.0,1
+1209,clothes,套裝,飛天蛋衣服,そらとぶたまごのふく,sky-egg outfit,DIY,,1200,全年,True,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 3, 'itemName': '飛天蛋'}]",['收集飛天蛋'],僅在復活節季節期間獲得,TopsTexOnepieceRibNEggsky0,1.1.0,1
+1210,clothes,套裝,魚兒蛋衣服,サカナのたまごのふく,water-egg outfit,DIY,,1200,全年,True,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 3, 'itemName': '魚兒蛋'}]",['收集魚兒蛋'],僅在復活節季節期間獲得,TopsTexOnepieceRibNEggfish0,1.1.0,1
+1211,clothes,鞋子,地面蛋鞋子,じめんのたまごのくつ,earth-egg shoes,DIY,,800,全年,False,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '地面蛋'}]",['收集地面蛋'],僅在復活節季節期間獲得,ShoesLowcutEggground0,1.1.0,1
+1212,clothes,鞋子,岩石蛋鞋子,いわのたまごのくつ,stone-egg shoes,DIY,,800,全年,False,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '岩石蛋'}]",['收集石頭蛋'],僅在復活節季節期間獲得,ShoesLowcutEggrock0,1.1.0,1
+1213,clothes,鞋子,葉子蛋鞋子,はっぱのたまごのくつ,leaf-egg shoes,DIY,,800,全年,False,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '葉子蛋'}]",['收集葉子蛋'],僅在復活節季節期間獲得,ShoesLowcutEggleaf0,1.1.0,1
+1214,clothes,鞋子,森林蛋鞋子,ウッディなたまごのくつ,wood-egg shoes,DIY,,800,全年,False,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '森林蛋'}]",['收集森林蛋'],僅在復活節季節期間獲得,ShoesLowcutEggforest0,1.1.0,1
+1215,clothes,鞋子,飛天蛋鞋子,そらとぶたまごのくつ,sky-egg shoes,DIY,,800,全年,False,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '飛天蛋'}]",['收集飛天蛋'],僅在復活節季節期間獲得,ShoesLowcutEggsky0,1.1.0,1
+1216,clothes,鞋子,魚兒蛋鞋子,サカナのたまごのくつ,water-egg shoes,DIY,,800,全年,False,活潑,"['童話世界', '派對', '舞台']",True,"[{'count': 2, 'itemName': '魚兒蛋'}]",['收集魚兒蛋'],僅在復活節季節期間獲得,ShoesLowcutEggfish0,1.1.0,1
+1217,clothes,鞋子,純白低跟鞋,じゅんぱくのパンプス,wedding pumps,健兆,,750,全年,False,優雅,"['童話世界', '正式', '舞台']",False,,,,ShoesLowcutJunepumps0,1.2.0,1
+1218,clothes,鞋子,純白鞋,じゅんぱくのシューズ,wedding shoes,健兆,,750,全年,False,優雅,"['童話世界', '正式', '舞台']",False,,,,ShoesLowcutJuneshoes0,1.2.0,1
+1219,clothes,套裝,純白晚禮服,じゅんぱくのタキシード,wedding tuxedo,健兆,,3000,全年,True,優雅,"['童話世界', '正式', '舞台']",False,,,,TopsTexOnepieceOverallLJune0,1.2.0,1
+1220,clothes,上身,手作斗篷,てづくりのマント,handmade cape,購物：季節,500,125,全年,True,活潑,"['童話世界', '舞台']",False,,,,TopsTexTopCoatHChildren0,1.2.0,1
+1221,clothes,頭戴物,手作王冠,てづくりのおうかん,handmade crown,購物：季節,300,75,全年,True,活潑,"['童話世界', '舞台']",False,,,,CapOrnamentCChildren0,1.2.0,1
+1222,clothes,頭戴物,夏至花冠,げしさいのはなかんむり,summer-solstice crown,購物：季節,1560,390,全年,True,活潑,"['童話世界', '派對', '度假']",False,,,,CapHatSummer0,1.2.0,1
+1223,clothes,鞋子,人魚鞋,マーメイドなくつ,mermaid shoes,阿獺,,450,全年,False,可愛,"['童話世界', '正式', '派對', '舞台']",False,,,,ShoesLowcutMermaid0,1.3.0,2
+1224,clothes,頭戴物,人魚頭冠,マーメイドなティアラ,mermaid tiara,阿獺,,1250,全年,True,可愛,"['童話世界', '正式', '派對', '舞台']",False,,,,CapOrnamentCMermaid0,1.3.0,1
+1225,clothes,飾品,海盜眼罩,かいぞくのアイパッチ,pirate eye patch,海盜,,70,全年,True,酷感,"['童話世界', '恐怖', '舞台']",False,,,,AccessoryGlassPiratespatch0,1.3.0,1
+1226,clothes,飾品,海盜鬍子,かいぞくのひげ,pirate beard,海盜,,245,全年,False,酷感,"['童話世界', '恐怖', '舞台']",False,,,,AccessoryMouthPirates0,1.3.0,1
+1227,clothes,下身,海盜褲,かいぞくのズボン,pirate pants,海盜,,800,全年,False,酷感,"['童話世界', '正式', '恐怖', '舞台']",False,,,,BottomsTexPantsNormalPirates0,1.3.0,1
+1228,clothes,鞋子,海盜靴,かいぞくのブーツ,pirate boots,海盜,,660,全年,False,酷感,"['童話世界', '恐怖', '舞台']",False,,,,ShoesKneePirates0,1.3.0,1
+1229,clothes,頭戴物,海盜頭巾,かいぞくのバンダナ,pirate bandanna,海盜,,200,全年,True,酷感,"['童話世界', '恐怖', '舞台']",False,,,,CapHatPiratesbandana2,1.3.0,3
+1230,clothes,套裝,海盜寶物長袍,かいぞくのおたからローブ,pirate-treasure robe,海盜,,3000,全年,True,華麗,"['童話世界', '正式', '恐怖', '舞台']",False,,,,TopsTexOnepieceAlongLPirates0,1.3.0,1
+1231,clothes,套裝,海盜服,かいぞくのふく,pirate outfit,海盜,,750,全年,True,酷感,"['童話世界', '恐怖', '舞台']",False,,,,TopsTexOnepieceOverallHPirates2,1.3.0,3
+1233,clothes,包包,葡萄採收桶,ぶどうのしゅうかくおけ,grape-harvest basket,購物：季節,800,200,全年,False,簡單,"['日常生活', '童話世界', '戶外活動', '派對']",False,,,,BagBackpackHarvest0,1.4.0,1
+1244,clothes,套裝,人魚魚兒洋裝,マーメイドなおさかなドレス,mermaid fishy dress,阿獺,,1000,全年,True,可愛,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceAlongNMermaiddress0,1.3.0,2
+1245,clothes,套裝,人魚公主洋裝,マーメイドなプリンセスドレス,mermaid princess dress,阿獺,,1500,全年,True,可愛,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceDressNMermaid0,1.3.0,2
+1246,clothes,上身,冬至毛衣,とうじのセーター,winter-solstice sweater,購物：季節,1200,300,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLWintersolstice0,1.2.0,1
+1255,clothes,頭戴物,海盜寶物王冠,かいぞくのおたからおうかん,pirate-treasure crown,海盜,,2500,全年,True,華麗,"['童話世界', '正式', '恐怖', '舞台']",False,,,,CapOrnamentCPirate0,1.3.0,1
+1256,clothes,上身,Nook Inc.珊瑚紅夏威夷襯衫,たぬきかいはつアロハ・コーラル,Coral Nook Inc. aloha shirt,購物：哩數兌換,,3000,全年,True,簡單,"['悠閒', '度假']",False,,,,TopsTexTopYshirtsHNookpink0,1.2.0,1
+1257,clothes,上身,Nook Inc.綠色夏威夷襯衫,たぬきかいはつアロハ・グリーン,Green Nook Inc. aloha shirt,購物：哩數兌換,,3000,全年,True,簡單,"['悠閒', '度假']",False,,,,TopsTexTopYshirtsHNookgreen0,1.2.0,1
+1258,clothes,其他服飾,Nook Inc.潛水衣,たぬきかいはつマリンスーツ,Nook Inc. wet suit,購物：哩數兌換,,4000,全年,False,活潑,"['戶外活動', '運動', '度假', '工作']",False,,,,TopsTexMarinesuitNormalLNook0,1.3.0,1
+1259,clothes,其他服飾,葉子圖案潛水衣,はっぱがらマリンスーツ,leaf-print wet suit,購物：特別購物,3000,750,全年,False,活潑,"['戶外活動', '運動', '度假']",False,,,,TopsTexMarinesuitNormalLRashguard2,1.3.0,4
+1260,clothes,其他服飾,粗橫紋潛水衣,ボーダーのマリンスーツ,horizontal-striped wet suit,Nook商店,3000,750,全年,False,活潑,"['戶外活動', '運動', '度假']",False,,,,TopsTexMarinesuitNormalNGreco3,1.3.0,4
+1300,clothes,飾品,Nook Inc.潛水鏡附呼吸管,たぬきかいはつシュノーケル,Nook Inc. snorkel,購物：哩數兌換,,2500,全年,False,活潑,"['戶外活動', '運動', '度假', '工作']",False,,,,AccessoryGlassmouthNook0,1.3.0,1
+1301,clothes,套裝,織女服,おりひめのふく,Orihime outfit,購物：季節,2500,625,全年,False,優雅,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceKimonoLWeaverwomen0,1.4.0,1
+1302,clothes,套裝,牛郎服,ひこぼしのふく,Hikoboshi outfit,購物：季節,2500,625,全年,False,優雅,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceKimonoLWeavermen0,1.4.0,1
