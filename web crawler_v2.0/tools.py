@@ -43,7 +43,8 @@ if __name__ == '__main__':
 
     categoryNames = [
         ['Tools', '工具'],
-        ['Umbrellas', '雨傘']
+        ['Umbrellas', '雨傘'],
+        ['Other', '其他']
     ]
 
     output = {}
@@ -51,9 +52,13 @@ if __name__ == '__main__':
         category = rawData[categoryName[0]]
 
         for index, row in category.iterrows():
+            if categoryName[0] == 'Other' and row['Source'] != "Redd's Raffle":
+                continue
+
             idName = str(row['Internal ID']).zfill(5)
 
             name = getName(idName)
+            # print(name['zh-tw'])
 
             if 'Variant ID' in row and '_' in str(row['Variant ID']):
                 variantId = row['Variant ID'].split('_')
