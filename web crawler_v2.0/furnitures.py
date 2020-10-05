@@ -18,7 +18,7 @@ if __name__ == '__main__':
     houseDoorDecoName_TWzh = parse.getLanguageMap('String_TWzh/Item/STR_ItemName_61_HouseDoorDeco')
     houseDoorDecoName_JPja = parse.getLanguageMap('String_JPja/Item/STR_ItemName_61_HouseDoorDeco')
 
-    nameMapCustom = parse.getCustomLanguageMap()    
+    nameMapCustom = parse.getCustomLanguageMap()
 
     def getName(idName):
         if idName in furnitureName_TWzh:
@@ -63,7 +63,7 @@ if __name__ == '__main__':
     output = {}
     for categoryName in categoryNames:
         category = rawData[categoryName[0]]
-    
+
         # column = [i for i in category]
         # print(column)
         for index, row in category.iterrows():
@@ -90,29 +90,29 @@ if __name__ == '__main__':
                 pickData = output[row['Internal ID']]
             else:
                 pickData = {}
-            
+
                 pickData['id'] = row['Internal ID']
                 pickData['type'] = 'furnitures'
                 pickData['name_c'] = name['zh-tw']
                 pickData['name_j'] = name['ja-jp']
                 pickData['name_e'] = row['Name']
-                
+
                 pickData['buy'] = None if type(row['Buy']) == str else row['Buy']
                 pickData['sell'] = row['Sell']
                 pickData['category'] = categoryName[1]
                 pickData['tag'] = nameMapCustom[row['Tag']]['zh-tw']
-                
+
                 pickData['themes'] = []
                 if row['HHA Concept 1'] != 'None' and row['HHA Concept 1'] != 'none':
                     pickData['themes'].append(nameMapCustom[row['HHA Concept 1']]['zh-tw'])
                 if row['HHA Concept 2'] != 'None' and row['HHA Concept 2'] != 'none':
                     pickData['themes'].append(nameMapCustom[row['HHA Concept 2']]['zh-tw'])
-            
+
                 pickData['series'] = series[row['HHA Series'].strip(' ')]
 
                 pickData['interact'] = True if row['Interact'] == 'Yes' else False
                 pickData['size'] = row['Size']
-                pickData['obtainedFrom'] = nameMapCustom[row['Source']]['zh-tw']
+                pickData['obtainedFrom'] = '; '.join([nameMapCustom[s]['zh-tw'] for s in row['Source'].replace('\n', '').split('; ')])
 
                 pickData['DIY'] = True if row['DIY'] == 'Yes' else False
                 if row['DIY'] == 'Yes':

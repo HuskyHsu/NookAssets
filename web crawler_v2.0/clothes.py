@@ -86,7 +86,7 @@ if __name__ == '__main__':
     output = {}
     for categoryName in categoryNames:
         category = rawData[categoryName[0]]
-    
+
         # column = [i for i in category]
         # print(column)
         for index, row in category.iterrows():
@@ -99,22 +99,22 @@ if __name__ == '__main__':
                 pickData['variations'] += 1
             else:
                 pickData = {}
-            
+
                 pickData['id'] = row['ClothGroup ID']
                 pickData['type'] = outputName
                 pickData['category'] = categoryName[1]
                 pickData['name_c'] = name['zh-tw']
                 pickData['name_j'] = name['ja-jp']
                 pickData['name_e'] = row['Name']
-                
+
                 pickData['obtainedFrom'] = '; '.join([nameMapCustom[s]['zh-tw'] for s in row['Source'].replace('\n', '').split('; ')])
                 pickData['buy'] = None if type(row['Buy']) == str else row['Buy']
                 pickData['sell'] = row['Sell']
-                
+
                 pickData['seasonalAvailability'] = seasonal[row['Seasonal Availability']]
                 pickData['villagerEquippable'] = row['Villager Equippable'] == 'Yes'
 
-                pickData['styles'] = styles[row['Style']]
+                pickData['styles'] = styles[row['Style 1']]
                 pickData['themes'] = [themes[t] for t in row['Label Themes'].replace('\n', '').split('; ')]
 
                 pickData['DIY'] = True if row['DIY'] == 'Yes' else False

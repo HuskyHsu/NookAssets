@@ -14,8 +14,8 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 19,clothes,上身,功夫衣服,カンフーなふく,kung-fu tee,裁縫店,1800,450,全年,True,活潑,"['日常生活', '運動']",False,,,,TopsTexTopTshirtsHKungfu1,1.0.0,5
 20,clothes,套裝,啦啦隊制服,チアのコスチューム,cheerleading uniform,裁縫店,1920,480,全年,True,活潑,"['運動', '舞台']",False,,,,TopsTexOnepieceAlineNCheer0,1.0.0,8
 21,clothes,上身,棒球外套,スタジャン,letter jacket,裁縫店,1080,270,冬季,True,活潑,"['日常生活', '戶外活動', '運動']",False,,,,TopsTexTopOuterLStajan1,1.0.0,4
-22,clothes,上身,3號球衣服,３ばんだまのふく,three-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball3,1.0.0,1
-23,clothes,上身,2號球衣服,２ばんだまのふく,two-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball2,1.0.0,1
+22,clothes,上身,3號球衣服,３ばんだまのふく,three-ball tee,每日購物精選,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball3,1.0.0,1
+23,clothes,上身,2號球衣服,２ばんだまのふく,two-ball tee,每日購物精選,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball2,1.0.0,1
 24,clothes,套裝,緞面連身裙,サテンのワンピース,satin dress,裁縫店,1600,400,全年,True,華麗,"['正式', '派對', '舞台']",False,,,,TopsTexOnepieceBalloonNSatin2,1.0.0,5
 25,clothes,上身,簡約荷葉邊細肩帶背心,シンプルフリルキャミソール,layered tank,裁縫店,800,200,夏季,True,可愛,"['童話世界', '悠閒', '度假']",False,,,,TopsTexTopTshirtsNCamisole6,1.0.0,8
 26,clothes,上身,中華風衣服,チャイナふく,silk shirt,裁縫店,1500,375,全年,True,優雅,"['日常生活', '正式']",False,,,,TopsTexTopYshirtsLChina4,1.0.0,5
@@ -115,13 +115,13 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 128,clothes,下身,粗橫紋褲,ボーダーパンツ,striped pants,裁縫店,1100,275,全年,False,簡單,"['日常生活', '悠閒', '度假']",False,,,,BottomsTexPantsNormalBoder4,1.0.0,5
 129,clothes,下身,破洞牛仔褲,あなあきデニム,worn-out jeans,裁縫店,1100,275,全年,False,酷感,"['日常生活', '戶外活動']",False,,,,BottomsTexPantsNormalDenimholes0,1.0.0,4
 130,clothes,上身,撞色有領襯衫,ツートンのエリつきシャツ,color-block dress shirt,裁縫店,960,240,全年,True,簡單,['日常生活'],False,,,,TopsTexTopYshirtsLTwotone5,1.0.0,6
-131,clothes,上身,1號球衣服,１ばんだまのふく,one-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball1,1.0.0,1
-132,clothes,上身,4號球衣服,４ばんだまのふく,four-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball4,1.0.0,1
-133,clothes,上身,5號球衣服,５ばんだまのふく,five-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball5,1.0.0,1
-134,clothes,上身,6號球衣服,６ばんだまのふく,six-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball6,1.0.0,1
-135,clothes,上身,7號球衣服,７ばんだまのふく,seven-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball7,1.0.0,1
-136,clothes,上身,8號球衣服,８ばんだまのふく,eight-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball8,1.0.0,1
-137,clothes,上身,9號球衣服,９ばんだまのふく,nine-ball tee,購物：特別購物,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball9,1.0.0,1
+131,clothes,上身,1號球衣服,１ばんだまのふく,one-ball tee,每日購物精選,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball1,1.0.0,1
+132,clothes,上身,4號球衣服,４ばんだまのふく,four-ball tee,每日購物精選,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball4,1.0.0,1
+133,clothes,上身,5號球衣服,５ばんだまのふく,five-ball tee,每日購物精選,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball5,1.0.0,1
+134,clothes,上身,6號球衣服,６ばんだまのふく,six-ball tee,每日購物精選,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball6,1.0.0,1
+135,clothes,上身,7號球衣服,７ばんだまのふく,seven-ball tee,每日購物精選,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball7,1.0.0,1
+136,clothes,上身,8號球衣服,８ばんだまのふく,eight-ball tee,每日購物精選,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball8,1.0.0,1
+137,clothes,上身,9號球衣服,９ばんだまのふく,nine-ball tee,每日購物精選,560,140,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNumberball9,1.0.0,1
 138,clothes,上身,時髦衣服,トレンディーなふく,sweater on shirt,裁縫店,960,240,全年,True,優雅,"['悠閒', '工作']",False,,,,TopsTexTopYshirtsLTiedsweater4,1.0.0,5
 139,clothes,上身,健身運動服,スポーツジャージ,track jacket,裁縫店,910,227,全年,True,活潑,"['戶外活動', '運動']",False,,,,TopsTexTopYshirtsLSportsjersey2,1.0.0,7
 140,clothes,下身,體育運動褲,スポーツジャージのズボン,track pants,裁縫店,770,192,全年,False,活潑,"['戶外活動', '運動']",False,,,,BottomsTexPantsNormalSportsjersey2,1.0.0,7
@@ -217,7 +217,7 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 233,clothes,上身,保齡球衫,ボウリングシャツ,bowling shirt,裁縫店,1260,315,夏季,True,酷感,"['悠閒', '運動']",False,,,,TopsTexTopYshirtsHBowling0,1.0.0,8
 234,clothes,上身,V領毛衣,Ｖネックセーター,V-neck sweater,裁縫店,840,210,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLVnecksweater2,1.0.0,3
 235,clothes,套裝,妖精服,ようせいのふく,fairy dress,裁縫店,3640,910,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceBalloonNFairy1,1.0.0,5
-236,clothes,鞋子,二齒木屐,げた,kimono sandals,薛革,1600,400,全年,False,簡單,"['日常生活', '悠閒', '舞台']",False,,,,ShoesSandalGeta4,1.0.0,8
+236,clothes,鞋子,二齒木屐,げた,kimono sandals,薛革; 裁縫店,1600,400,全年,False,簡單,"['日常生活', '悠閒', '舞台']",False,,,,ShoesSandalGeta4,1.0.0,8
 237,clothes,上身,刷毛外套,ボアフリース,boa fleece,裁縫店,1400,350,冬季,True,活潑,"['日常生活', '戶外活動', '悠閒']",False,,,,TopsTexTopYshirtsLFleece0,1.0.0,8
 238,clothes,上身,斜紋軟呢外套,ツイードジャケット,tweed jacket,裁縫店,1680,420,全年,True,優雅,"['日常生活', '正式']",False,,,,TopsTexTopYshirtsLTweed3,1.0.0,6
 239,clothes,套裝,吊帶服,サスペンダーなふく,suspender outfit,裁縫店,1900,475,全年,True,優雅,"['日常生活', '正式', '派對']",False,,,,TopsTexOnepieceOverallLSuspenders3,1.0.0,5
@@ -233,7 +233,7 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 249,clothes,上身,王子襯衫,おうじさまシャツ,young-royal shirt,裁縫店,1440,360,全年,True,華麗,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexTopYshirtsLPrince0,1.0.0,5
 250,clothes,上身,運動坦克背心,フィットネスタンクトップ,fitness tank,裁縫店,800,200,全年,True,活潑,"['戶外活動', '運動']",False,,,,TopsTexTopTshirtsNFitness4,1.0.0,8
 251,clothes,上身,飛行外套,フライトジャケット,flight jacket,裁縫店,1680,420,冬季,True,酷感,"['戶外活動', '工作']",False,,,,TopsTexTopOuterLFlight1,1.0.0,3
-252,clothes,上身,紮染T恤,タイダイＴシャツ,tie-dye shirt,購物：特別購物,800,200,全年,True,活潑,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsHTiedyeRainbow,1.0.0,1
+252,clothes,上身,紮染T恤,タイダイＴシャツ,tie-dye shirt,每日購物精選,800,200,全年,True,活潑,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsHTiedyeRainbow,1.0.0,1
 253,clothes,上身,絨毛背心,ボアベスト,fuzzy vest,裁縫店,1300,325,全年,True,簡單,"['日常生活', '戶外活動']",False,,,,TopsTexTopYshirtsLBoavest4,1.0.0,5
 254,clothes,上身,菱格縫線羽絨外套,キルティングダウン,quilted down jacket,裁縫店,1400,350,冬季,True,簡單,['日常生活'],False,,,,TopsTexTopCoatLQuilting1,1.0.0,5
 255,clothes,下身,百褶長裙,ロングプリーツスカート,long pleated skirt,裁縫店,1560,390,全年,False,簡單,['日常生活'],False,,,,BottomsTexSkirtLongPleats1,1.0.0,5
@@ -710,7 +710,7 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 740,clothes,套裝,文藝復興洋裝,ルネッサンスなドレス,Renaissance dress,裁縫店,6000,1500,全年,True,華麗,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceAlongLRenaissance0,1.0.0,6
 741,clothes,頭戴物,特本頭巾,ターバン,turban,呂遊,,800,全年,False,優雅,"['日常生活', '正式']",False,,,,CapHelmetTurban2,1.0.0,4
 742,clothes,頭戴物,護目鏡安全帽,ゴーグルつきヘルメット,helmet with goggles,裁縫店,1100,275,全年,False,活潑,"['運動', '工作']",False,,,,CapCostumeGogglehelmet6,1.0.0,8
-743,clothes,上身,背心連望遠鏡,そうがんきょうつきベスト,vest with binoculars,購物：特別購物,1440,360,全年,True,簡單,"['戶外活動', '工作']",False,,,,TopsTexTopYshirtsLGlassBeige,1.0.0,1
+743,clothes,上身,背心連望遠鏡,そうがんきょうつきベスト,vest with binoculars,每日購物精選,1440,360,全年,True,簡單,"['戶外活動', '工作']",False,,,,TopsTexTopYshirtsLGlassBeige,1.0.0,1
 745,clothes,上身,襯衫連照相機,カメラつきワイシャツ,shirt with camera,裁縫店,1440,360,全年,True,簡單,"['戶外活動', '工作']",False,,,,TopsTexTopYshirtsLCamera1,1.0.0,2
 746,clothes,上身,刺繡細肩帶背心,ししゅうのキャミソール,embroidered tank,裁縫店,960,240,夏季,True,可愛,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsNEmbroidery0,1.0.0,7
 747,clothes,套裝,雪國服,さむいくにのふく,cold-country bunad,裁縫店,2520,630,冬季,True,優雅,"['正式', '派對']",False,,,,TopsTexOnepieceOverallLNordic2,1.0.0,3
@@ -955,8 +955,8 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 1002,clothes,襪子,鮮豔襪子,ビビッドなソックス,vivid socks,裁縫店,480,120,全年,False,簡單,"['日常生活', '派對', '舞台']",False,,,,SocksTexVividsocks0,1.0.0,8
 1003,clothes,鞋子,麂皮運動鞋,スエードスニーカー,faux-suede sneakers,裁縫店,1080,270,全年,False,簡單,"['日常生活', '戶外活動', '運動']",False,,,,ShoesLowcutSuede7,1.0.0,8
 1004,clothes,套裝,花朵連身裙,フラワーなワンピース,flower-print dress,裁縫店,1200,300,全年,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexOnepieceAlineHOneflower0,1.0.0,2
-1005,clothes,上身,MVP T恤,ＭＶＰなＴシャツ,MVP tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHMvp0,1.0.0,1
-1006,clothes,上身,No.1衣服,No.1のふく,No. 1 shirt,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHOne0,1.0.0,1
+1005,clothes,上身,MVP T恤,ＭＶＰなＴシャツ,MVP tee,每日購物精選,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHMvp0,1.0.0,1
+1006,clothes,上身,No.1衣服,No.1のふく,No. 1 shirt,每日購物精選,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHOne0,1.0.0,1
 1008,clothes,頭戴物,公主假髮,おひめさま,tiara hair,裁縫店,2940,735,全年,False,華麗,"['童話世界', '正式', '派對', '舞台']",False,,,,CapWigPrincess0,1.0.0,3
 1009,clothes,頭戴物,髮帶,ヘアターバン,headband,裁縫店,1400,350,全年,False,可愛,['悠閒'],False,,,,CapWigTurban0,1.0.0,4
 1010,clothes,頭戴物,金幣頭飾,コインヘッドピース,coin headpiece,呂遊,,1350,全年,False,華麗,['舞台'],False,,,,CapHelmetCoinGold,1.0.0,1
@@ -967,24 +967,24 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 1017,clothes,套裝,簡約點點連身裙,シンプルドットワンピース,simple-dots dress,裁縫店,1200,300,夏季,True,簡單,"['日常生活', '度假']",False,,,,TopsTexOnepieceAlineNSimpledot4,1.0.0,5
 1018,clothes,套裝,扶桑花夏威夷連身裙,ハイビスカスのムームー,hibiscus muumuu,裁縫店,1800,450,夏季,True,可愛,"['悠閒', '度假']",False,,,,TopsTexOnepieceAlineNHibiscus0,1.0.0,3
 1019,clothes,套裝,玻里尼西亞風夏威夷連身裙,ポリネシアンなムームー,bold muumuu,裁縫店,1600,400,夏季,True,活潑,"['悠閒', '度假']",False,,,,TopsTexOnepieceAlineNPolynesia1,1.0.0,2
-1021,clothes,上身,警示坦克背心,デンジャラスなタンクトップ,danger tank,購物：特別購物,640,160,夏季,True,活潑,"['恐怖', '悠閒', '度假']",False,,,,TopsTexTopTshirtsNDanger0,1.0.0,1
+1021,clothes,上身,警示坦克背心,デンジャラスなタンクトップ,danger tank,每日購物精選,640,160,夏季,True,活潑,"['恐怖', '悠閒', '度假']",False,,,,TopsTexTopTshirtsNDanger0,1.0.0,1
 1022,clothes,上身,愛心毛衣,ハートのセーター,heart sweater,裁縫店,1000,250,冬季,True,可愛,"['日常生活', '童話世界', '悠閒']",False,,,,TopsTexTopOuterLHeart1,1.0.0,2
-1023,clothes,上身,樹木毛衣,きのセーター,tree sweater,購物：特別購物,880,220,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLTree0,1.0.0,1
-1024,clothes,上身,青蛙T恤,かえるのＴシャツ,frog tee,購物：特別購物,640,160,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHFrog0,1.0.0,1
-1025,clothes,上身,熊熊T恤,くまのＴシャツ,bear tee,購物：特別購物,800,200,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHBear0,1.0.0,1
-1026,clothes,上身,兔子T恤,うさぎのＴシャツ,rabbit tee,購物：特別購物,800,200,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHRabbit0,1.0.0,1
+1023,clothes,上身,樹木毛衣,きのセーター,tree sweater,每日購物精選,880,220,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLTree0,1.0.0,1
+1024,clothes,上身,青蛙T恤,かえるのＴシャツ,frog tee,每日購物精選,640,160,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHFrog0,1.0.0,1
+1025,clothes,上身,熊熊T恤,くまのＴシャツ,bear tee,每日購物精選,800,200,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHBear0,1.0.0,1
+1026,clothes,上身,兔子T恤,うさぎのＴシャツ,rabbit tee,每日購物精選,800,200,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHRabbit0,1.0.0,1
 1027,clothes,上身,橫條紋T恤,しましまＴシャツ,animal-stripes tee,裁縫店,960,240,夏季,True,酷感,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHStripe1,1.0.0,2
 1028,clothes,上身,豹紋T恤,ヒョウがらＴシャツ,leopard tee,裁縫店,800,200,夏季,True,酷感,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHLeopard3,1.0.0,4
 1029,clothes,上身,骨頭T恤,ボーンなＴシャツ,bone tee,裁縫店,640,160,夏季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHMeat0,1.0.0,1
-1030,clothes,上身,雲霧衣服,かすみのふく,misty tee,購物：特別購物,640,160,全年,True,優雅,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHaze0,1.0.0,1
+1030,clothes,上身,雲霧衣服,かすみのふく,misty tee,每日購物精選,640,160,全年,True,優雅,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHaze0,1.0.0,1
 1031,clothes,上身,圓點點T恤,マーブルドットのＴシャツ,marble-dots tee,裁縫店,640,160,夏季,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHMarbledot1,1.0.0,2
 1032,clothes,上身,簡約點點T恤,シンプルドットのＴシャツ,simple-dots tee,裁縫店,640,160,夏季,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHSimpledot4,1.0.0,5
-1033,clothes,上身,鋸齒紋T恤,ギザギザのＴシャツ,zigzag shirt,購物：特別購物,960,240,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLJagged0,1.0.0,1
+1033,clothes,上身,鋸齒紋T恤,ギザギザのＴシャツ,zigzag shirt,每日購物精選,960,240,全年,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsLJagged0,1.0.0,1
 1034,clothes,上身,花紋T恤,はながらのＴシャツ,blossom tee,裁縫店,800,200,夏季,True,可愛,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHFlower0,1.0.0,5
 1035,clothes,上身,玻里尼西亞夏威夷襯衫,ポリネシアンなアロハ,bold aloha shirt,裁縫店,960,240,夏季,True,活潑,"['悠閒', '度假']",False,,,,TopsTexTopYshirtsHPolynesia1,1.0.0,2
 1036,clothes,上身,蜘蛛T恤,スパイダーなＴシャツ,spider-web tee,裁縫店,960,240,夏季,True,酷感,"['恐怖', '悠閒']",False,,,,TopsTexTopTshirtsHSpider0,1.0.0,1
 1037,clothes,上身,骷髏T恤,ドクロＴシャツ,skull tee,裁縫店,960,240,夏季,True,酷感,"['日常生活', '恐怖', '悠閒']",False,,,,TopsTexTopTshirtsHSkull0,1.0.0,3
-1038,clothes,上身,A字T恤,エースのＴシャツ,A tee,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHAce0,1.0.0,1
+1038,clothes,上身,A字T恤,エースのＴシャツ,A tee,每日購物精選,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHAce0,1.0.0,1
 1039,clothes,套裝,簡約格紋連身裙,シンプルチェックのワンピ,simple checkered dress,裁縫店,1200,300,夏季,True,簡單,"['日常生活', '童話世界', '度假']",False,,,,TopsTexOnepieceAlineNPlaid0,1.0.0,3
 1040,clothes,頭戴物,雪人帽子,ゆきだるまのぼうし,snowperson head,DIY,,7000,冬季,False,可愛,"['日常生活', '戶外活動']",True,"[{'count': 1, 'itemName': '大雪花'}, {'count': 5, 'itemName': '雪花'}]",['雪人'],製作完美的雪人；僅在冬季期間獲得,CapCostumeSnowball0,1.0.0,1
 1041,clothes,頭戴物,稻草圈裝飾,わかざり,zen hair clip,裁縫店,4300,1075,全年,True,可愛,"['正式', '派對']",False,,,,CapOrnamentLTsumamizaiku0,1.0.0,8
@@ -992,7 +992,7 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 1043,clothes,頭戴物,機長帽子,きちょうのぼうし,pilot's hat,裁縫店,1680,420,全年,True,活潑,"['正式', '工作']",False,,,,CapHatCaptainsky1,1.0.0,3
 1044,clothes,頭戴物,學生帽,がくせいぼう,student cap,裁縫店,1040,260,全年,True,簡單,"['日常生活', '正式']",False,,,,CapHatStudent0,1.0.0,7
 1045,clothes,頭戴物,扶桑花髮飾,ハイビスカスのかみかざり,hibiscus hairpin,裁縫店,560,140,夏季,True,優雅,"['童話世界', '度假']",False,,,,CapOrnamentLHibiscus2,1.0.0,4
-1046,clothes,上身,星星坦克背心,ほしがらタンクトップ,starry tank,購物：特別購物,800,200,夏季,True,活潑,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsNStar0,1.0.0,1
+1046,clothes,上身,星星坦克背心,ほしがらタンクトップ,starry tank,每日購物精選,800,200,夏季,True,活潑,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsNStar0,1.0.0,1
 1047,clothes,上身,火焰T恤,ファイアーなＴシャツ,flame tee,裁縫店,800,200,夏季,True,活潑,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHFire0,1.0.0,1
 1048,clothes,套裝,活潑格紋連身裙,げんきなチェックのワンピ,lively plaid dress,裁縫店,1800,450,全年,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexOnepieceAlineHPlaid0,1.0.0,1
 1049,clothes,襪子,同色系褲襪,ニュアンスタイツ,semi-opaque tights,裁縫店,720,180,全年,False,優雅,['日常生活'],False,,,,SocksTexNuancetights6,1.0.0,8
@@ -1070,7 +1070,7 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 1143,clothes,頭戴物,Nook Inc.頭巾,たぬきかいはつバンダナ,Nook Inc. bandanna,購物：哩數兌換,,2500,全年,True,簡單,"['戶外活動', '工作']",False,,,,CapHatBandanaRco,1.0.0,1
 1144,clothes,襪子,Nook Inc.襪子,たぬきかいはつソックス,Nook Inc. socks,購物：哩數兌換,,2000,全年,False,活潑,"['日常生活', '戶外活動', '悠閒']",False,,,,SocksTexBorderRco,1.0.0,1
 1145,clothes,鞋子,Nook Inc.拖鞋,たぬきかいはつスリッパ,Nook Inc. slippers,購物：哩數兌換,,2000,全年,False,簡單,['悠閒'],False,,,,ShoesSandalRco,1.0.0,1
-1146,clothes,上身,最閃耀星星衣服,いちばんぼしのふく,big-star tee,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHStar0,1.0.0,1
+1146,clothes,上身,最閃耀星星衣服,いちばんぼしのふく,big-star tee,每日購物精選,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHStar0,1.0.0,1
 1147,clothes,頭戴物,雨衣帽,レインハット,rain hat,裁縫店,880,220,全年,True,簡單,"['日常生活', '戶外活動']",False,,,,CapHatRain5,1.0.0,8
 1148,clothes,飾品,Nook Inc.眼罩,たぬきかいはつアイマスク,Nook Inc. eye mask,購物：哩數兌換,,2000,全年,True,簡單,['悠閒'],False,,,,AccessoryGlassNook0,1.0.0,1
 1149,clothes,上身,Nook Inc.T恤,たぬきかいはつＴシャツ,Nook Inc. tee,購物：哩數兌換,,3000,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHNook0,1.0.0,1
@@ -1088,20 +1088,20 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 1161,clothes,套裝,油漆連身工作服,ペイントつなぎ,painter's coverall,裁縫店,1600,400,全年,True,活潑,"['戶外活動', '工作']",False,,,,TopsTexOnepieceOverallLPaint2,1.0.0,3
 1163,clothes,頭戴物,烏茲別克帽子,ウズベクなぼうし,tubeteika,呂遊,,500,全年,True,華麗,"['日常生活', '正式']",False,,,,CapHatUzbek0,1.0.0,4
 1164,clothes,頭戴物,阿伊努族頭巾,マタンプシ,matanpushi,裁縫店,880,220,全年,True,酷感,"['日常生活', '正式']",False,,,,CapHatMatampushi2,1.0.0,3
-1165,clothes,上身,2號衣服,No.2のふく,No. 2 shirt,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHTwo0,1.0.0,1
-1166,clothes,上身,3號衣服,No.3のふく,No. 3 shirt,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHThree0,1.0.0,1
-1167,clothes,上身,4號衣服,No.4のふく,No. 4 shirt,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHFour0,1.0.0,1
-1168,clothes,上身,konnichiwa T恤,こんにちはＴシャツ,konnichiwa tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellojp0,1.0.0,1
-1169,clothes,上身,bonjour T恤,ボンジュールＴシャツ,bonjour tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellofr0,1.0.0,1
-1170,clothes,上身,hello T恤,ハローＴシャツ,hello tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloen0,1.0.0,1
-1171,clothes,上身,annyeong T恤,アンニョンＴシャツ,annyeong tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellokr0,1.0.0,1
-1172,clothes,上身,你好T恤,ニーハオＴシャツ,ni hao tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloch0,1.0.0,1
-1173,clothes,上身,hallo T恤,ハーローＴシャツ,hallo tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloge0,1.0.0,1
-1174,clothes,上身,ciao T恤,チャオＴシャツ,ciao tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloit0,1.0.0,1
-1175,clothes,上身,hola T恤,オラＴシャツ,hola tee,購物：特別購物,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellosp0,1.0.0,1
-1176,clothes,上身,privét T恤,プリヴェＴシャツ,privét tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellors0,1.0.0,1
-1177,clothes,上身,嗨T恤,ハイＴシャツ,hi tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellotw0,1.0.0,1
-1178,clothes,上身,hoi T恤,ホーイＴシャツ,hoi tee,購物：特別購物,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloNr0,1.0.0,1
+1165,clothes,上身,2號衣服,No.2のふく,No. 2 shirt,每日購物精選,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHTwo0,1.0.0,1
+1166,clothes,上身,3號衣服,No.3のふく,No. 3 shirt,每日購物精選,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHThree0,1.0.0,1
+1167,clothes,上身,4號衣服,No.4のふく,No. 4 shirt,每日購物精選,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHFour0,1.0.0,1
+1168,clothes,上身,konnichiwa T恤,こんにちはＴシャツ,konnichiwa tee,每日購物精選,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellojp0,1.0.0,1
+1169,clothes,上身,bonjour T恤,ボンジュールＴシャツ,bonjour tee,每日購物精選,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellofr0,1.0.0,1
+1170,clothes,上身,hello T恤,ハローＴシャツ,hello tee,每日購物精選,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloen0,1.0.0,1
+1171,clothes,上身,annyeong T恤,アンニョンＴシャツ,annyeong tee,每日購物精選,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellokr0,1.0.0,1
+1172,clothes,上身,你好T恤,ニーハオＴシャツ,ni hao tee,每日購物精選,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloch0,1.0.0,1
+1173,clothes,上身,hallo T恤,ハーローＴシャツ,hallo tee,每日購物精選,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloge0,1.0.0,1
+1174,clothes,上身,ciao T恤,チャオＴシャツ,ciao tee,每日購物精選,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloit0,1.0.0,1
+1175,clothes,上身,hola T恤,オラＴシャツ,hola tee,每日購物精選,560,140,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellosp0,1.0.0,1
+1176,clothes,上身,privét T恤,プリヴェＴシャツ,privét tee,每日購物精選,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellors0,1.0.0,1
+1177,clothes,上身,嗨T恤,ハイＴシャツ,hi tee,每日購物精選,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHellotw0,1.0.0,1
+1178,clothes,上身,hoi T恤,ホーイＴシャツ,hoi tee,每日購物精選,640,160,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopTshirtsHHelloNr0,1.0.0,1
 1179,clothes,上身,DAL T恤,ＤＡＬのＴシャツ,DAL tee,Dodo公司,,1010,全年,True,簡單,"['日常生活', '悠閒', '度假']",False,,,,TopsTexTopTshirtsHDal0,1.0.0,1
 1180,clothes,上身,DAL圍裙,ＤＡＬエプロン,DAL apron,Dodo公司,,1010,全年,True,簡單,"['度假', '工作']",False,,,,TopsTexTopCoatHDal0,1.0.0,1
 1181,clothes,上身,DAL MA-1飛行外套,ＤＡＬのＭＡ‐１,DAL pilot jacket,Dodo公司,,1010,全年,True,酷感,"['戶外活動', '度假', '工作']",False,,,,TopsTexTopOuterLDal0,1.0.0,1
@@ -1163,8 +1163,24 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 1256,clothes,上身,Nook Inc.珊瑚紅夏威夷襯衫,たぬきかいはつアロハ・コーラル,Coral Nook Inc. aloha shirt,購物：哩數兌換,,3000,全年,True,簡單,"['悠閒', '度假']",False,,,,TopsTexTopYshirtsHNookpink0,1.2.0,1
 1257,clothes,上身,Nook Inc.綠色夏威夷襯衫,たぬきかいはつアロハ・グリーン,Green Nook Inc. aloha shirt,購物：哩數兌換,,3000,全年,True,簡單,"['悠閒', '度假']",False,,,,TopsTexTopYshirtsHNookgreen0,1.2.0,1
 1258,clothes,其他服飾,Nook Inc.潛水衣,たぬきかいはつマリンスーツ,Nook Inc. wet suit,購物：哩數兌換,,4000,全年,False,活潑,"['戶外活動', '運動', '度假', '工作']",False,,,,TopsTexMarinesuitNormalLNook0,1.3.0,1
-1259,clothes,其他服飾,葉子圖案潛水衣,はっぱがらマリンスーツ,leaf-print wet suit,購物：特別購物,3000,750,全年,False,活潑,"['戶外活動', '運動', '度假']",False,,,,TopsTexMarinesuitNormalLRashguard2,1.3.0,4
+1259,clothes,其他服飾,葉子圖案潛水衣,はっぱがらマリンスーツ,leaf-print wet suit,每日購物精選,3000,750,全年,False,活潑,"['戶外活動', '運動', '度假']",False,,,,TopsTexMarinesuitNormalLRashguard2,1.3.0,4
 1260,clothes,其他服飾,粗橫紋潛水衣,ボーダーのマリンスーツ,horizontal-striped wet suit,Nook商店,3000,750,全年,False,活潑,"['戶外活動', '運動', '度假']",False,,,,TopsTexMarinesuitNormalNGreco3,1.3.0,4
+1261,clothes,套裝,南瓜王長袍,パンプキングローブ,Jack's robe,南瓜王,,2000,全年,False,酷感,"['童話世界', '恐怖', '派對']",False,,,,TopsTexOnepieceAlongLHalloween0,1.5.0,1
+1262,clothes,套裝,破舊服,ボロボロなふく,raggedy outfit,裁縫店,1500,375,全年,False,酷感,"['童話世界', '恐怖', '派對']",False,,,,TopsTexOnepieceSalopetteLHalloween2,1.5.0,6
+1263,clothes,套裝,魔法師洋裝,まほうつかいのドレス,mage's dress,裁縫店,2040,510,全年,False,可愛,"['童話世界', '恐怖', '派對']",False,,,,TopsTexOnepieceBalloonLHalloween2,1.5.0,6
+1264,clothes,套裝,鮮豔動物玩偶裝,ハデなアニマルきぐるみ,flashy animal costume,裁縫店,1700,425,全年,False,活潑,"['童話世界', '恐怖', '派對']",False,,,,TopsTexOnepieceOverallLHalloween2,1.5.0,6
+1265,clothes,頭戴物,魔法學校兜帽,まほうスクールのフード,magic-academy hood,裁縫店,1040,260,全年,False,酷感,"['童話世界', '恐怖', '派對']",False,,,,CapFullfaceHalloweenhood2,1.5.0,6
+1266,clothes,頭戴物,南瓜王面孔,パンプキングフェイス,Jack's face,南瓜王,,1000,全年,False,酷感,"['童話世界', '恐怖', '派對']",False,,,,CapFullfaceHalloween0,1.5.0,1
+1267,clothes,頭戴物,魔法師條紋帽,まほうつかいのストライプぼう,mage's striped hat,裁縫店,3440,860,全年,True,可愛,"['童話世界', '恐怖', '派對']",False,,,,CapHatHalloween2,1.5.0,6
+1268,clothes,包包,小惡魔翅膀包包,こあくまなつばさバッグ,impish wings,薛革,1000,250,全年,False,酷感,"['童話世界', '恐怖', '派對']",False,,,,BagBackpackHalloween2,1.5.0,6
+1269,clothes,鞋子,鮮豔動物玩偶裝靴子,ハデなアニマルきぐるみブーツ,flashy animal boots,裁縫店,1260,315,全年,False,可愛,"['童話世界', '恐怖', '派對']",False,,,,ShoesLowcutHalloween2,1.5.0,6
+1270,clothes,鞋子,魔法師靴子,まほうつかいのブーツ,mage's boots,裁縫店,1800,450,全年,False,簡單,"['童話世界', '恐怖', '派對']",False,,,,ShoesHighcutHalloween2,1.5.0,6
+1271,clothes,飾品,動物鼻子道具,アニマルなつけばな,animal nose,裁縫店,560,140,全年,False,可愛,"['童話世界', '恐怖', '派對']",False,,,,AccessoryMouthHalloween0,1.5.0,1
+1272,clothes,頭戴物,小惡魔角,こあくまなツノ,impish horns,裁縫店,800,200,全年,True,酷感,"['童話世界', '恐怖', '派對']",False,,,,CapOrnamentFHalloween2,1.5.0,6
+1273,clothes,頭戴物,鮮豔動物三角耳朵帽,ハデなアニマルさんかくみみぼう,flashy pointy-ear animal hat,裁縫店,1120,280,全年,True,可愛,"['童話世界', '恐怖', '派對']",False,,,,CapHatHalloweentriangle2,1.5.0,6
+1274,clothes,頭戴物,鮮豔動物圓耳朵帽,ハデなアニマルまるみみぼう,flashy round-ear animal hat,裁縫店,1120,280,全年,True,可愛,"['童話世界', '恐怖', '派對']",False,,,,CapHatHalloweenround2,1.5.0,6
+1275,clothes,襪子,粗橫紋褲襪,ボーダータイツ,horizontal-striped tights,裁縫店,720,180,全年,False,簡單,"['日常生活', '恐怖', '派對']",False,,,,SocksTexHalloween2,1.5.0,6
 1300,clothes,飾品,Nook Inc.潛水鏡附呼吸管,たぬきかいはつシュノーケル,Nook Inc. snorkel,購物：哩數兌換,,2500,全年,False,活潑,"['戶外活動', '運動', '度假', '工作']",False,,,,AccessoryGlassmouthNook0,1.3.0,1
 1301,clothes,套裝,織女服,おりひめのふく,Orihime outfit,購物：季節,2500,625,全年,False,優雅,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceKimonoLWeaverwomen0,1.4.0,1
 1302,clothes,套裝,牛郎服,ひこぼしのふく,Hikoboshi outfit,購物：季節,2500,625,全年,False,優雅,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceKimonoLWeavermen0,1.4.0,1
+1315,clothes,套裝,魔法學校長袍,まほうスクールのローブ,magic-academy robe,裁縫店,2040,510,全年,False,酷感,"['童話世界', '恐怖', '派對']",False,,,,TopsTexOnepieceRobeLHalloween2,1.5.0,6

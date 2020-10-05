@@ -7,7 +7,7 @@ def readExcel(filePath, index = None):
         df = pd.read_excel(filePath, sheetname=index)
     except:
         df = pd.read_excel(filePath, sheet_name=index)
-    
+
     print('read {} over'.format(filePath.split('/')[-1]))
     return df
 
@@ -38,7 +38,7 @@ def getCustomLanguageMap():
             }
 
     print('Custom {} i18n data'.format(len(nameMapCustom.keys())))
-    
+
     return nameMapCustom
 
 def getLanguage(sheet, idField = 'id', lower = ''):
@@ -50,7 +50,7 @@ def getLanguage(sheet, idField = 'id', lower = ''):
         if lower != '':
             row = row.lower()
         idMap[row] = {'zh-tw': data[1][index], 'en-us': data[2][index], 'ja-jp': data[3][index]}
-    
+
     return idMap
 
 def getLanguageMap(path, onlyId = False):
@@ -101,7 +101,7 @@ def getSeries():
         "None": "無"
     }
 
-def getRecipe(version = '1.4.0'):
+def getRecipe(version = '1.5.0'):
     translations = readExcel(f'./rawData/Translations - {version}.xlsx')
 
     nameSource = ['Craft', 'Plants', 'Tools', 'ETC', 'Event Items', 'Furniture', 'Shells', 'Floors', 'Walls', 'Dresses']
@@ -136,7 +136,7 @@ def getRecipe(version = '1.4.0'):
 
             pickData['diyInfoMaterials'].append(
                 {
-                    'count': int(recipe['#{}'.format(i)]), 
+                    'count': int(recipe['#{}'.format(i)]),
                     'itemName': name['zh-tw']
                 }
             )
@@ -148,7 +148,7 @@ def getRecipe(version = '1.4.0'):
         except:
             print(recipe['Source Notes'])
             pickData['diyInfoSourceNotes'] = recipe['Source Notes']
-        
+
         recipeMap[recipe['Crafted Item Internal ID']] = pickData
 
     return recipeMap
@@ -166,7 +166,7 @@ def saveFile(category, output):
             row_ = [row[name] for name in dictName]
             output_csv.append(row_)
         csvout.writerows(output_csv)
-    
+
     df1 = pd.read_json(json.dumps(output))
     with pd.ExcelWriter('./cleanData/output.xlsx', mode='a', engine="openpyxl") as writer:
         workBook = writer.book
