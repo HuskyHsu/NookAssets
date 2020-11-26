@@ -73,13 +73,15 @@ if __name__ == '__main__':
                 idName = idName.replace('Ftr', 'InsectToy')
             elif row['Tag'] == 'Fish':
                 idName = idName.replace('Ftr', 'FishToy')
-            elif row['Tag'] == 'House Door Decor':
+            elif row['Tag'] == 'House Door Decor' or idName == 'Ftr_13357':
                 idName = idName.replace('Ftr', 'DoorDeco')
 
             name = getName(idName)
             if name is None:
                 idName = idName.replace('FishToy', 'Ftr').replace('InsectToy', 'Ftr')
                 name = getName(idName)
+            if name is None:
+                print('name is None: ' + idName)
 
             if '_' in str(row['Variant ID']):
                 variantId = row['Variant ID'].split('_')

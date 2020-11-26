@@ -98,10 +98,11 @@ def getSeries():
         "wedding": "婚禮",
         "pirate": "海盜",
         "mermaid": "人魚",
-        "None": "無"
+        "None": "無",
+        "Turkey Day": "感恩節"
     }
 
-def getRecipe(version = '1.5.0'):
+def getRecipe(version = '1.6.0'):
     translations = readExcel(f'./rawData/Translations - {version}.xlsx')
 
     nameSource = ['Craft', 'Plants', 'Tools', 'ETC', 'Event Items', 'Furniture', 'Shells', 'Floors', 'Walls', 'Dresses']
