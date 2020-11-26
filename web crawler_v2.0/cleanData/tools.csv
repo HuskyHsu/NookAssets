@@ -142,4 +142,6 @@ id,type,category,name_c,name_j,name_e,uses,buy,sell,obtainedFrom,sourceNotes,DIY
 13125,tools,工具,綠色氣球,みどりのふうせん,green balloon,,600,150,"['九尾抽獎活動', 'Nook商店']",僅在煙火季節中可使用，8月後可於商店櫥櫃中購買,False,,,,ToolBalloonNormal3,1.4.0,"{'bodys': {}, 'pattrens': {}}"
 13126,tools,工具,粉紅色氣球,ピンクのふうせん,pink balloon,,600,150,"['九尾抽獎活動', 'Nook商店']",僅在煙火季節中可使用，8月後可於商店櫥櫃中購買,False,,,,ToolBalloonNormal4,1.4.0,"{'bodys': {}, 'pattrens': {}}"
 13128,tools,工具,Nook Inc.手持三角旗,たぬきかいはつのてもちペナント,Nook Inc. handheld pennant,,,2500,['購物：哩數兌換'],,False,,,,ToolPennantRcm,1.4.0,"{'bodys': {}, 'pattrens': {}}"
-13237,tools,工具,萬聖節棒,ハロウィンなステッキ,spooky wand,,,4300,['DIY'],,True,"[{'count': 1, 'itemName': '萬聖節燈籠'}, {'count': 3, 'itemName': '星星碎片'}]","['所有村民', '南瓜王']",10月份由居民DIY獲得,ToolStickHalloween,1.5.0,"{'bodys': {}, 'pattrens': {}}"
+13237,tools,工具,萬聖節棒,ハロウィンなステッキ,spooky wand,,,4300,['DIY'],,True,"[{'count': 1, 'itemName': '萬聖節燈籠'}, {'count': 3, 'itemName': '星星碎片'}]",['南瓜王'],Reward for gifting lollipop on Halloween,ToolStickHalloween,1.5.0,"{'bodys': {}, 'pattrens': {}}"
+13835,tools,工具,氣泡飲料,スパークリングサイダー,sparkling cider,,1000,250,['購物：季節'],,False,,,,ToolJuiceFuzzyapple,1.6.0,"{'bodys': {}, 'pattrens': {}}"
+13836,tools,工具,禮物袋,プレゼントぶくろ,magic bag,,888,222,['鈴鈴鹿'],,False,,,,ToolBigbagPresent,1.6.0,"{'bodys': {}, 'pattrens': {}}"

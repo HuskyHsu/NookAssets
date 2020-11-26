@@ -141,6 +141,8 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 154,clothes,套裝,襯衫連身裙,シャツワンピ,shirtdress,裁縫店,1600,400,全年,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceBoxLShirt2,1.0.0,3
 155,clothes,套裝,無袖襯衫連身裙,そでなしシャツワンピ,sleeveless shirtdress,裁縫店,1600,400,夏季,True,簡單,"['日常生活', '度假']",False,,,,TopsTexOnepieceAlineNShirt1,1.0.0,4
 156,clothes,上身,晚禮服,タキシード,tuxedo jacket,裁縫店,2500,625,全年,True,酷感,"['正式', '派對', '舞台', '工作']",False,,,,TopsTexTopYshirtsLTuxedo2,1.0.0,3
+157,clothes,上身,聖誕老人外套,サンタのジャケット,Santa coat,裁縫店,2600,650,全年,False,簡單,"['童話世界', '派對', '工作']",False,,,,TopsTexTopCoatLSantaRed,1.6.0,1
+158,clothes,下身,聖誕褲,サンタのズボン,Santa pants,裁縫店,2150,537,全年,False,簡單,"['童話世界', '派對', '工作']",False,,,,BottomsTexPantsNormalSantaRed,1.6.0,1
 159,clothes,上身,晨禮服,モーニングコート,morning coat,裁縫店,2500,625,全年,True,優雅,"['正式', '派對', '舞台', '工作']",False,,,,TopsTexTopCoatLMorningcoatBlack,1.0.0,1
 160,clothes,下身,制服褲,せいふくのズボン,dress pants,裁縫店,1300,325,全年,False,簡單,"['日常生活', '正式']",False,,,,BottomsTexPantsWideSchool3,1.0.0,4
 161,clothes,下身,亮面西裝褲,ハデなスラックス,flashy slacks,裁縫店,1300,325,全年,False,華麗,"['正式', '派對', '舞台']",False,,,,BottomsTexPantsNormalSlacksgaudy0,1.0.0,6
@@ -386,6 +388,7 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 403,clothes,套裝,披肩配連身裙,ショールコーデワンピ,shawl-and-dress combo,裁縫店,2000,500,冬季,True,優雅,"['日常生活', '悠閒']",False,,,,TopsTexOnepieceRibLShawl0,1.0.0,4
 404,clothes,下身,膝蓋補丁褲,ひざあてズボン,patched-knee pants,裁縫店,880,220,全年,False,簡單,"['日常生活', '運動', '度假', '工作']",False,,,,BottomsTexPantsWideKnee3,1.0.0,4
 405,clothes,飾品,小黃瓜面膜,きゅうりパック,cucumber pack,裁縫店,490,122,全年,False,簡單,['悠閒'],False,,,,AccessoryMouthCucumber,1.0.0,1
+406,clothes,飾品,聖誕老人鬍子,サンタのヒゲ,Santa beard,裁縫店,1480,370,全年,False,簡單,"['童話世界', '派對', '工作']",False,,,,AccessoryMouthSanta,1.6.0,1
 407,clothes,飾品,鼻子道具,つけばな,fake nose,裁縫店,490,122,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,AccessoryGlassmouthNoseRed,1.0.0,1
 408,clothes,飾品,鬍子眼鏡,ヒゲメガネ,stache & glasses,裁縫店,770,192,全年,True,可愛,"['派對', '舞台']",False,,,,AccessoryGlassmouthBeard0,1.0.0,2
 409,clothes,下身,蛋糕裙,ティアードスカート,tiered skirt,裁縫店,1200,300,全年,False,簡單,"['日常生活', '童話世界', '悠閒', '度假']",False,,,,BottomsTexSkirtLongTiered0,1.0.0,5
@@ -395,6 +398,7 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 413,clothes,套裝,洋娃娃風連身裙,ドーリーワンピース,pintuck-pleated dress,裁縫店,1600,400,夏季,True,可愛,"['日常生活', '童話世界']",False,,,,TopsTexOnepieceBalloonHDolly0,1.0.0,6
 414,clothes,上身,奇馬約圖騰背心,チマヨベスト,Chimayo vest,裁縫店,1120,280,全年,True,優雅,"['日常生活', '戶外活動']",False,,,,TopsTexTopYshirtsLChimayo2,1.0.0,4
 415,clothes,飾品,生日墨鏡,バースデーサングラス,birthday shades,活動：玩家生日,,620,全年,True,華麗,['派對'],False,,,,AccessoryGlassBirthday2,1.0.0,4
+416,clothes,套裝,馴鹿服,トナカイなふく,reindeer costume,裁縫店,1700,425,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,TopsTexOnepieceOverallLReindeerBrown,1.6.0,1
 417,clothes,飾品,面膜,パック,facial mask,裁縫店,560,140,全年,False,簡單,"['恐怖', '悠閒']",False,,,,AccessoryGlassmouthPackWhite,1.0.0,1
 418,clothes,飾品,搞笑眼鏡,をかしなめがね,funny glasses,裁縫店,1100,275,全年,True,可愛,"['童話世界', '派對', '舞台']",False,,,,AccessoryGlassEyes1,1.0.0,3
 419,clothes,下身,單車褲,サイクルボトム,cycling shorts,裁縫店,700,175,全年,False,活潑,"['戶外活動', '運動']",False,,,,BottomsTexPantsNormalCycle2,1.0.0,8
@@ -639,6 +643,7 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 663,clothes,頭戴物,簡樸帽子,しっそなぼうし,frugal hat,裁縫店,350,87,全年,True,簡單,"['童話世界', '恐怖']",False,,,,CapHatSimple1,1.0.0,3
 664,clothes,頭戴物,運動帽,うんどうぼう,sports cap,裁縫店,560,140,全年,True,簡單,['運動'],False,,,,CapHatSports1,1.0.0,4
 665,clothes,頭戴物,毛絨睡帽,もこもこナイトキャップ,terry-cloth nightcap,裁縫店,840,210,全年,True,可愛,"['童話世界', '悠閒']",False,,,,CapHatNightcap4,1.0.0,8
+666,clothes,頭戴物,聖誕帽,サンタのぼうし,Santa hat,裁縫店,2000,500,全年,True,可愛,"['童話世界', '派對', '工作']",False,,,,CapHatSantaRed,1.6.0,1
 667,clothes,頭戴物,王冠,おうかん,royal crown,裁縫店,1200000,300000,全年,True,華麗,"['童話世界', '派對', '舞台']",False,,,,CapHatCrownRed,1.0.0,1
 669,clothes,頭戴物,毛巾帽,タオル,terry-cloth do-rag,裁縫店,490,122,全年,True,簡單,"['戶外活動', '悠閒', '運動', '工作']",False,,,,CapHatTowel0,1.0.0,6
 670,clothes,頭戴物,尖頂針織帽,どんぐりニット,acorn knit cap,裁縫店,880,220,全年,True,可愛,"['日常生活', '悠閒']",False,,,,CapHatAcorn3,1.0.0,6
@@ -716,13 +721,14 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 747,clothes,套裝,雪國服,さむいくにのふく,cold-country bunad,裁縫店,2520,630,冬季,True,優雅,"['正式', '派對']",False,,,,TopsTexOnepieceOverallLNordic2,1.0.0,3
 748,clothes,頭戴物,全罩式安全帽,フルフェイスメット,racing helmet,裁縫店,1040,260,全年,False,酷感,"['戶外活動', '運動', '工作']",False,,,,CapFullfaceRacing1,1.0.0,8
 749,clothes,襪子,奇馬約圖騰襪,チマヨがらソックス,geometric-print socks,裁縫店,950,237,全年,False,活潑,['戶外活動'],False,,,,SocksTexChimayo4,1.0.0,6
+750,clothes,頭戴物,馴鹿帽子,トナカイのぼうし,reindeer hat,裁縫店,1120,280,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,CapBangsReindeerBrown,1.6.0,1
 751,clothes,頭戴物,牛骨帽,うしのほね,imitation cow skull,裁縫店,1120,280,全年,True,酷感,"['恐怖', '舞台']",False,,,,CapHatCowWhite,1.0.0,1
 752,clothes,下身,千鳥格紋裙,ちどりのスカート,plover skirt,裁縫店,1200,300,冬季,False,可愛,"['日常生活', '正式', '派對', '工作']",False,,,,BottomsTexSkirtBoxChidori1,1.0.0,3
 754,clothes,下身,拼接裙,シャビーなスカート,upcycled skirt,裁縫店,1320,330,全年,False,簡單,"['日常生活', '童話世界', '派對']",False,,,,BottomsTexSkirtAlineShabby1,1.0.0,3
 755,clothes,下身,印花牛仔褲,プリントデニム,embellished denim pants,裁縫店,1300,325,全年,False,酷感,"['日常生活', '戶外活動']",False,,,,BottomsTexPantsWidePrintdenim0,1.0.0,3
 756,clothes,下身,格子褲,ステテコ,traditional suteteko pants,裁縫店,560,140,全年,False,簡單,"['悠閒', '度假']",False,,,,BottomsTexPantsWideSuteteko0,1.0.0,6
 757,clothes,套裝,盛裝和服,はれぎ,fancy kimono,裁縫店,5200,1300,冬季,True,華麗,"['正式', '派對']",False,,,,TopsTexOnepieceKimonoLHaregi0,1.0.0,8
-758,clothes,頭戴物,魔鬼頭套,デビルなかぶりもの,imp hood,裁縫店,1760,440,全年,False,酷感,"['童話世界', '恐怖', '舞台']",False,,,,CapCostumeDevil0,1.0.0,2
+758,clothes,頭戴物,惡魔頭套,デビルなかぶりもの,imp hood,裁縫店,1760,440,全年,False,酷感,"['童話世界', '恐怖', '舞台']",False,,,,CapCostumeDevil0,1.0.0,2
 759,clothes,頭戴物,綿羊頭套,ひつじのかぶりもの,sheep hood,裁縫店,980,245,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,CapBangsSheep0,1.0.0,4
 760,clothes,鞋子,動物拖鞋,アニマルスリッパ,paw slippers,薛革,1260,315,全年,False,可愛,"['童話世界', '派對', '舞台']",False,,,,ShoesLowcutAnimal2,1.0.0,5
 761,clothes,鞋子,沙灘拖鞋,ビーチサンダル,flip-flops,裁縫店,350,87,夏季,False,活潑,"['戶外活動', '悠閒', '運動', '度假']",False,,,,ShoesSandalBeachborder3,1.0.0,8
@@ -1145,7 +1151,7 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 1219,clothes,套裝,純白晚禮服,じゅんぱくのタキシード,wedding tuxedo,健兆,,3000,全年,True,優雅,"['童話世界', '正式', '舞台']",False,,,,TopsTexOnepieceOverallLJune0,1.2.0,1
 1220,clothes,上身,手作斗篷,てづくりのマント,handmade cape,購物：季節,500,125,全年,True,活潑,"['童話世界', '舞台']",False,,,,TopsTexTopCoatHChildren0,1.2.0,1
 1221,clothes,頭戴物,手作王冠,てづくりのおうかん,handmade crown,購物：季節,300,75,全年,True,活潑,"['童話世界', '舞台']",False,,,,CapOrnamentCChildren0,1.2.0,1
-1222,clothes,頭戴物,夏至花冠,げしさいのはなかんむり,summer-solstice crown,購物：季節,1560,390,全年,True,活潑,"['童話世界', '派對', '度假']",False,,,,CapHatSummer0,1.2.0,1
+1222,clothes,頭戴物,向日葵花冠,ひまわりのはなかんむり,sunflower crown,購物：季節,1560,390,全年,True,活潑,"['童話世界', '派對', '度假']",False,,,,CapHatSummer0,1.2.0,1
 1223,clothes,鞋子,人魚鞋,マーメイドなくつ,mermaid shoes,阿獺,,450,全年,False,可愛,"['童話世界', '正式', '派對', '舞台']",False,,,,ShoesLowcutMermaid0,1.3.0,2
 1224,clothes,頭戴物,人魚頭冠,マーメイドなティアラ,mermaid tiara,阿獺,,1250,全年,True,可愛,"['童話世界', '正式', '派對', '舞台']",False,,,,CapOrnamentCMermaid0,1.3.0,1
 1225,clothes,飾品,海盜眼罩,かいぞくのアイパッチ,pirate eye patch,海盜,,70,全年,True,酷感,"['童話世界', '恐怖', '舞台']",False,,,,AccessoryGlassPiratespatch0,1.3.0,1
@@ -1158,7 +1164,7 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,seasonalAvailability
 1233,clothes,包包,葡萄採收桶,ぶどうのしゅうかくおけ,grape-harvest basket,購物：季節,800,200,全年,False,簡單,"['日常生活', '童話世界', '戶外活動', '派對']",False,,,,BagBackpackHarvest0,1.4.0,1
 1244,clothes,套裝,人魚魚兒洋裝,マーメイドなおさかなドレス,mermaid fishy dress,阿獺,,1000,全年,True,可愛,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceAlongNMermaiddress0,1.3.0,2
 1245,clothes,套裝,人魚公主洋裝,マーメイドなプリンセスドレス,mermaid princess dress,阿獺,,1500,全年,True,可愛,"['童話世界', '正式', '派對', '舞台']",False,,,,TopsTexOnepieceDressNMermaid0,1.3.0,2
-1246,clothes,上身,冬至毛衣,とうじのセーター,winter-solstice sweater,購物：季節,1200,300,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLWintersolstice0,1.2.0,1
+1246,clothes,上身,寒冬毛衣,まふゆのセーター,midwinter sweater,購物：季節,1200,300,冬季,True,簡單,"['日常生活', '悠閒']",False,,,,TopsTexTopOuterLWintersolstice0,1.2.0,1
 1255,clothes,頭戴物,海盜寶物王冠,かいぞくのおたからおうかん,pirate-treasure crown,海盜,,2500,全年,True,華麗,"['童話世界', '正式', '恐怖', '舞台']",False,,,,CapOrnamentCPirate0,1.3.0,1
 1256,clothes,上身,Nook Inc.珊瑚紅夏威夷襯衫,たぬきかいはつアロハ・コーラル,Coral Nook Inc. aloha shirt,購物：哩數兌換,,3000,全年,True,簡單,"['悠閒', '度假']",False,,,,TopsTexTopYshirtsHNookpink0,1.2.0,1
 1257,clothes,上身,Nook Inc.綠色夏威夷襯衫,たぬきかいはつアロハ・グリーン,Green Nook Inc. aloha shirt,購物：哩數兌換,,3000,全年,True,簡單,"['悠閒', '度假']",False,,,,TopsTexTopYshirtsHNookgreen0,1.2.0,1

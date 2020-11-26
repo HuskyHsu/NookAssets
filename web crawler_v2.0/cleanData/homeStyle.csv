@@ -378,7 +378,7 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,themes,series,DIY,di
 6872,homeStyle,壁紙,黃色花紋壁紙,きいろいはながらかべがみ,yellow flower-print wall,Nook商店,1780,445,"['奇幻', '客廳']",無,False,,,,RoomTexWallFlower02,1.0.0
 6873,homeStyle,壁紙,藍色花紋壁紙,ブルーのはながらかべがみ,blue flower-print wall,Nook商店,1780,445,"['奇幻', '客廳']",無,False,,,,RoomTexWallFlower03,1.0.0
 6874,homeStyle,壁紙,深褐色巧拼壁紙,セピアパズルかべがみ,sepia puzzle wall,Nook商店,1540,385,"['奇幻', '兒童房']",無,False,,,,RoomTexWallPuzzle02,1.0.0
-6875,homeStyle,壁紙,紫色巧拼壁紙,パープルパズルかべがみ,purple puzzle wall,Nook商店,1540,385,[],無,False,,,,RoomTexWallPuzzle03,1.0.0
+6875,homeStyle,壁紙,紫色巧拼壁紙,パープルパズルかべがみ,purple puzzle wall,Nook商店,1540,385,"['奇幻', '兒童房']",無,False,,,,RoomTexWallPuzzle03,1.0.0
 6876,homeStyle,壁紙,植物圖案磚牆,ボタニカルタイルのかべ,botanical-tile wall,Nook商店,1240,310,"['設施', '富裕']",無,False,,,,RoomTexWallWoodTile02,1.0.0
 6877,homeStyle,壁紙,黑色植物圖案磚牆,くろいボタニカルタイルのかべ,black botanical-tile wall,Nook商店,1240,310,"['設施', '富裕']",無,False,,,,RoomTexWallWoodTile03,1.0.0
 6878,homeStyle,壁紙,綠色布牆,みどりのテキスタイルのかべ,green intricate wall,Nook商店,1570,392,"['客廳', '商店']",無,False,,,,RoomTexWallFlowerPop02,1.0.0
@@ -491,6 +491,8 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,themes,series,DIY,di
 7541,homeStyle,地毯,小型橘色簡約地墊,オレンジのシンプルマット・S,simple small orange mat,駱嵐,1000,250,"['客廳', '設施']",無,False,,,,RugSquareSimpleS05,1.0.0
 7542,homeStyle,地毯,小型紫色簡約地墊,むらさきのシンプルマット・S,simple small purple mat,駱嵐,1000,250,"['客廳', '設施']",無,False,,,,RugSquareSimpleS06,1.0.0
 7543,homeStyle,地毯,小型黑色簡約地墊,くろいシンプルマット・S,simple small black mat,駱嵐,1000,250,"['客廳', '設施']",無,False,,,,RugSquareSimpleS07,1.0.0
+7544,homeStyle,地毯,聖誕節地毯,クリスマスなラグ,festive rug,鈴鈴鹿,,1500,"['派對', '奇幻']",聖誕節,True,"[{'count': 5, 'itemName': '紅色裝飾品'}, {'count': 5, 'itemName': '藍色裝飾品'}, {'count': 5, 'itemName': '金色裝飾品'}]",['氣球'],僅在聖誕季節期間獲得,RugSquareChristmasL00,1.6.0
+7545,homeStyle,地毯,萬聖節地毯,ハロウィンなラグ,spooky rug,村民,8000,2000,['恐怖'],萬聖節,False,,,,RugSquareHalloweenL00,1.5.0
 7546,homeStyle,地毯,復活節地毯,イースターなラグ,Bunny Day rug,DIY,,2400,"['奇幻', '兒童房']",復活節,True,"[{'count': 1, 'itemName': '地面蛋'}, {'count': 1, 'itemName': '岩石蛋'}, {'count': 1, 'itemName': '葉子蛋'}, {'count': 1, 'itemName': '森林蛋'}, {'count': 1, 'itemName': '飛天蛋'}]","['蛋瓶中信', '復活蛋氣球']",僅在復活節季節期間獲得,RugOtherEasterM00,1.1.0
 7578,homeStyle,地毯,白色愛心地毯,ホワイトハートのラグ,white heart rug,駱嵐,1500,375,"['奇幻', '兒童房']",無,False,,,,RugOtherHeartM03,1.0.0
 7579,homeStyle,地毯,藍色愛心地毯,ブルーハートのラグ,turquoise heart rug,駱嵐,1500,375,"['奇幻', '兒童房']",無,False,,,,RugOtherHeartM01,1.0.0
@@ -541,6 +543,7 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,themes,series,DIY,di
 11180,homeStyle,壁紙,東方風牆壁,オリエンタルなかべ,harmonious wall,Nook商店,1780,445,"['東洋風', '商店']",無,False,,,,RoomTexWallOriental00,1.0.0
 11915,homeStyle,壁紙,毛毛細雨牆,こさめのふるかべ,misty-garden wall,駱嵐,3000,585,['庭園'],無,False,,,,RoomSpWallRain00,1.0.0
 12214,homeStyle,地毯,鈴錢袋地毯,ベルぶくろのラグ,Bell-bag rug,任天堂; 購物：哩數兌換,,6000,['富裕'],無,False,,,,RugOtherBellM00,1.2.0
+12217,homeStyle,地毯,夏天貝殼地毯,なつのかいがらのラグ,summer-shell rug,DIY,,7200,"['大海', '奇幻']",無,True,"[{'count': 6, 'itemName': '夏天貝殼'}]",['氣球'],僅在夏季期間獲得,RugOtherShellSnailM00,1.6.0
 12325,homeStyle,地毯,Nook Inc.植物圖案地毯,たぬきかいはつのボタニカルラグ,Nook Inc. botanical rug,購物：哩數兌換,,5000,"['奇幻', '客廳']",無,False,,,,RugOtherTanukiM00,1.1.0
 12396,homeStyle,地毯,Nook Inc.正方形地毯,たぬきかいはつのスクエアラグ,Nook Inc. silk rug,購物：哩數兌換,,3000,"['設施', '商店']",無,False,,,,RugRectTanukiL00,1.1.0
 12423,homeStyle,地板,復活節地板,イースターなゆか,Bunny Day flooring,DIY,,4800,"['奇幻', '兒童房']",復活節,True,"[{'count': 2, 'itemName': '地面蛋'}, {'count': 2, 'itemName': '岩石蛋'}, {'count': 2, 'itemName': '葉子蛋'}, {'count': 2, 'itemName': '森林蛋'}, {'count': 2, 'itemName': '飛天蛋'}]","['蛋瓶中信', '復活蛋氣球']",僅在復活節季節期間獲得,RoomTexFloorEaster00,1.1.0
@@ -560,5 +563,13 @@ id,type,category,name_c,name_j,name_e,obtainedFrom,buy,sell,themes,series,DIY,di
 12567,homeStyle,壁紙,海盜壁紙,かいぞくのかべがみ,pirate wall,海盜,,750,['大海'],海盜,False,,,,RoomSpWallPirates00,1.3.0
 12568,homeStyle,地板,人魚地板,マーメイドなゆか,mermaid flooring,DIY,,20975,"['大海', '奇幻']",人魚,True,"[{'count': 2, 'itemName': '珍珠'}, {'count': 5, 'itemName': '沙錢'}, {'count': 5, 'itemName': '石頭'}]",['阿獺'],,RoomSpFloorMermaid00,1.3.0
 12569,homeStyle,地板,海盜地板,かいぞくのゆか,pirate flooring,海盜,,750,"['大海', '富裕']",海盜,False,,,,RoomTexFloorPirates00,1.3.0
-13230,homeStyle,壁紙,煙火大會牆,はなびたいかいのかべ,fireworks-show wall,任天堂,3000,750,"['戶外', '大海']",無,False,,,,RoomSpWallFireworks00,1.4.0
+13224,homeStyle,壁紙,萬聖節牆,ハロウィンなかべ,spooky wall,所有村民,12000,3000,['恐怖'],萬聖節,False,,,,RoomTexWallHalloween00,1.5.0
+13225,homeStyle,地板,萬聖節地板,ハロウィンなゆか,spooky flooring,村民,12000,3000,['恐怖'],萬聖節,False,,,,RoomTexFloorHalloween00,1.5.0
+13230,homeStyle,壁紙,煙火大會牆,はなびたいかいのかべ,fireworks-show wall,駱嵐; 任天堂,3000,750,"['戶外', '大海']",無,False,,,,RoomSpWallFireworks00,1.4.0
 13287,homeStyle,地毯,月之地毯,つきのラグ,moon rug,購物：季節,2000,500,"['宇宙', '東洋風']",無,False,,,,RugRoundMoonM00,1.4.0
+13318,homeStyle,壁紙,感恩節牆,サンクスギビングなかべ,Turkey Day wall,富藍,3000,750,['派對'],無,False,,,,RoomTexWallHarvest00,1.6.0
+13319,homeStyle,地板,感恩節地板,サンクスギビングなゆか,Turkey Day flooring,富藍,3000,750,['派對'],無,False,,,,RoomTexFloorHarvest00,1.6.0
+13525,homeStyle,地毯,感恩節地毯,サンクスギビングなラグ,Turkey Day rug,富藍,2000,500,['派對'],無,False,,,,RugSquareHarvestL00,1.6.0
+13596,homeStyle,地毯,向日葵地毯,ひまわりのラグ,sunflower rug,購物：季節,1500,375,"['奇幻', '兒童房']",花朵,False,,,,RugOtherSunflowerM00,1.6.0
+13603,homeStyle,壁紙,下雪牆,ゆきのふるかべ,falling-snow wall,DIY,,2700,['嚴寒'],無,True,"[{'count': 3, 'itemName': '雪花'}, {'count': 10, 'itemName': '石頭'}]",['氣球'],僅在冬季期間獲得,RoomSpWallSnowy00,1.6.0
+13609,homeStyle,壁紙,極光牆,オーロラのかべ,aurora wall,購物：季節,7000,1750,"['嚴寒', '奇幻']",無,False,,,,RoomSpWallAurora00,1.6.0
